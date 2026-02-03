@@ -1,0 +1,897 @@
+[
+  {
+    "title": "创意加速器：AI 绘画创作",
+    "url": "https://www.aliyun.com/solution/tech-solution/tongyi-wanxiang",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "在聊天系统中增加一个 AI 助手",
+    "url": "https://www.aliyun.com/solution/tech-solution/build-a-chatbot-for-your-website-or-chat-system",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "主动式智能导购 AI 助手构建",
+    "url": "https://www.aliyun.com/solution/tech-solution/build-an-ai-shopping-assistant",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "构建 AI 总结助手，实现智能文档摘要",
+    "url": "https://www.aliyun.com/solution/tech-solution/bailian-ai-summary",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "AI 大模型助力客户对话分析",
+    "url": "https://www.aliyun.com/solution/tech-solution/conversation-analysis",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "精准识别，轻松集成人脸比对服务",
+    "url": "https://www.aliyun.com/solution/tech-solution/viapi-for-face-detection",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "AI 提效，轻松制作商品图",
+    "url": "https://www.aliyun.com/solution/tech-solution/ai-goods-image-generate",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "多模态数据信息提取",
+    "url": "https://www.aliyun.com/solution/tech-solution/information-extraction",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "智能理解 PPT，快速生成讲解视频",
+    "url": "https://www.aliyun.com/solution/tech-solution/ai-for-ppt-to-video",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "AI 剧本生成与动画创作",
+    "url": "https://www.aliyun.com/solution/tech-solution/animation-creation",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "一键创作 AI 有声绘本",
+    "url": "https://www.aliyun.com/solution/tech-solution/ai-audiobook-flow",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "无需邀请码，OpenManus 搞定复杂任务",
+    "url": "https://www.aliyun.com/solution/tech-solution/open-manus",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "高效搭建 AI 智能体与工作流应用",
+    "url": "https://www.aliyun.com/solution/tech-solution/build-ai-applications-based-on-alibaba-cloud-model-studio",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "AI建站：用Bolt.diy一句话生成网站",
+    "url": "https://www.aliyun.com/solution/tech-solution/bolt-diy",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "Qwen-Image，生图告别文字乱码",
+    "url": "https://www.aliyun.com/solution/tech-solution/qwen-image",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "零代码搭建企业级图像与视频创作平台",
+    "url": "https://www.aliyun.com/solution/tech-solution/ai-image-video-creation-platform",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "在网站上增加一个 AI 助手",
+    "url": "https://www.aliyun.com/solution/tech-solution/add-an-ai-assistant-to-your-website-in-10-minutes",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "触手可及，函数计算玩转 AI 大模型",
+    "url": "https://www.aliyun.com/solution/tech-solution/fc-for-ai-server",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "挖掘及触达高价值用户",
+    "url": "https://www.aliyun.com/solution/tech-solution/pai-ugs",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "一键训练模型及部署GPU共享推理服务",
+    "url": "https://www.aliyun.com/solution/tech-solution/one-gpu",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "快速部署DeepSeek-OCR",
+    "url": "https://www.aliyun.com/solution/tech-solution/deepseek-ocr",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "AI 打造专属企业风格海报",
+    "url": "https://www.aliyun.com/solution/tech-solution/pai-artlab-for-image-design",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "Qwen3 升级版，0元即刻上手",
+    "url": "https://www.aliyun.com/solution/tech-solution/use-qwen3-ranging-from-0-6b-to-235b",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "即刻拥有 DeepSeek-R1 满血版或蒸馏版",
+    "url": "https://www.aliyun.com/solution/tech-solution/deepseek-r1-for-platforms",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "阿里云百炼专属版 AI Stack 一体机",
+    "url": "https://www.aliyun.com/solution/tech-solution/bailian-aistack",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "快速上手 DeepSeek-V3.2",
+    "url": "https://www.aliyun.com/solution/tech-solution/efficient-deployment-of-the-deepseek-v3-latest-model",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "部署Qwen2.5-Omni，畅享多模态交互",
+    "url": "https://www.aliyun.com/solution/tech-solution/deploy-the-qwen2-5-omni-7b-model-rapidly",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "Kimi K2，开源万亿参数大模型",
+    "url": "https://www.aliyun.com/solution/tech-solution/kimi-k2-instruct",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "OpenAI 重磅开源，快速部署GPT-OSS模型",
+    "url": "https://www.aliyun.com/solution/tech-solution/gpt-oss",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "模型蒸馏：让0.6B模型媲美235B模型",
+    "url": "https://www.aliyun.com/solution/tech-solution/qwen3-distill",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "零代码微调，打造领域专属大模型",
+    "url": "https://www.aliyun.com/solution/tech-solution/fine-tuning",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "即享 QwQ-32B，性能比肩最强开源",
+    "url": "https://www.aliyun.com/solution/tech-solution/qwq-for-platforms",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "轻松部署，即刻触达 Qwen2.5",
+    "url": "https://www.aliyun.com/solution/tech-solution/qwen2-5-for-platforms",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "快速拥有专属 Clawdbot，7x24 小时持续工作",
+    "url": "https://www.aliyun.com/solution/tech-solution/clawdbot",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "从单帧到叙事，开启 AI 视觉创作",
+    "url": "https://www.aliyun.com/solution/tech-solution/tongyi-wan-two-point-six",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "通义千问与 LangChain 搭建对话服务",
+    "url": "https://www.aliyun.com/solution/tech-solution/tongyi-langchain",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "向量检索与通义千问搭建专属问答服务",
+    "url": "https://www.aliyun.com/solution/tech-solution/dashvector",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "AnalyticDB 与通义千问搭建 AI 客服",
+    "url": "https://www.aliyun.com/solution/tech-solution/analyticdb-rag",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "n8n+百炼：自动获取AI热点资讯",
+    "url": "https://www.aliyun.com/solution/tech-solution/n8n-workflow",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "PAI部署Stable Diffusion WebUI服务",
+    "url": "https://www.aliyun.com/solution/tech-solution/pai-eas",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "文档智能与 RAG 构建 LLM 知识库",
+    "url": "https://www.aliyun.com/solution/tech-solution/document-mind-rag-for-llm",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "与 AI 智能体进行实时音视频通话",
+    "url": "https://www.aliyun.com/solution/tech-solution/real-time-interaction",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "码力全开，实现企业级 AI 编码",
+    "url": "https://www.aliyun.com/solution/tech-solution/intelligent-coding",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "在 App 上搭建开箱即用的 AI 助手",
+    "url": "https://www.aliyun.com/solution/tech-solution/add-copilot-by-miniappdev",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "AI 智能陪练，学习与培训的新体验",
+    "url": "https://www.aliyun.com/solution/tech-solution/ai-training-companion",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "快速部署 Dify，高效搭建 AI 应用",
+    "url": "https://www.aliyun.com/solution/tech-solution/rapidly-deploy-dify-to-accelerate-ai-application-development",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "零代码搭建 DeepSeek 版个人知识库",
+    "url": "https://www.aliyun.com/solution/tech-solution/deepseek-and-mobi-build-personal-space",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "低成本搭建 DeepSeek 专属 AI 网站",
+    "url": "https://www.aliyun.com/solution/tech-solution/ecs-and-deepseek-build-personal-website",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "通义千问3 + MCP：一切皆有可能",
+    "url": "https://www.aliyun.com/solution/tech-solution/mcp-agent",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "MetaGPT 构建多智能体协作系统",
+    "url": "https://www.aliyun.com/solution/tech-solution/meta-gpt",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "告别低效沟通，使用大模型发起语音通话",
+    "url": "https://www.aliyun.com/solution/tech-solution/ai-voice-assistant",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "基于 RAGFlow 构建私有知识问答应用",
+    "url": "https://www.aliyun.com/solution/tech-solution/build-rag-qa-assistant-based-on-ragflow",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "JManus解锁AI Agent高效开发",
+    "url": "https://www.aliyun.com/solution/tech-solution/sae-deploy-jmanus",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "AI 视频翻译：打破语言壁垒，连接全球观众",
+    "url": "https://www.aliyun.com/solution/tech-solution/one-stop-ai-video-translation-services",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "支付宝MCP，让您的AI应用自动收款",
+    "url": "https://www.aliyun.com/solution/tech-solution/alipay-mcp",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "告别手动操作，让AI知识库自动更新",
+    "url": "https://www.aliyun.com/solution/tech-solution/auto-updated-knowledge-base",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "跨应用和平台，AI记忆不再丢失",
+    "url": "https://www.aliyun.com/solution/tech-solution/cross-platform-ai-memory",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "LightRAG：轻量级知识图谱RAG系统",
+    "url": "https://www.aliyun.com/solution/tech-solution/lightrag",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "使用kubectl-ai助力ACK集群运维提效",
+    "url": "https://www.aliyun.com/solution/tech-solution/optimize-ack-om-with-kubectl-ai",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "ETL For AI Data：一站式构建AI数据处理平台",
+    "url": "https://www.aliyun.com/solution/tech-solution/etl-for-ai-data-a-one-stop-platform-for-ai-data-processing",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "通义灵码一站式定制专属MCP服务",
+    "url": "https://www.aliyun.com/solution/tech-solution/customize-mcp-server",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "通义听悟：全场景语音对话分析，自动化提炼业务洞察",
+    "url": "https://www.aliyun.com/solution/tech-solution/tingwu",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "通义千问+Vanna：让数据库听懂人话",
+    "url": "https://www.aliyun.com/solution/tech-solution/qwen-and-vanna-nl2sql",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "RocketMQ for AI：企业级 AI 应用集成的异步通信方案",
+    "url": "https://www.aliyun.com/solution/tech-solution/rocketmq-for-multi-agent-communication",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "企业私有 MCP 市场：实现 AI 工具的统一治理与安全分发",
+    "url": "https://www.aliyun.com/solution/tech-solution/mcp-market",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "Vibe Coding体验，DeepSite一键生成专属网站",
+    "url": "https://www.aliyun.com/solution/tech-solution/deepsite",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "告别昂贵摄制，一图生成高清数字人",
+    "url": "https://www.aliyun.com/solution/tech-solution/avatar",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "低代码高效构建企业门户网站",
+    "url": "https://www.aliyun.com/solution/tech-solution/build-a-website",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "高效构建移动 App",
+    "url": "https://www.aliyun.com/solution/tech-solution/develop-apps",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "一键部署幻兽帕鲁游戏服务器",
+    "url": "https://www.aliyun.com/solution/tech-solution/palworld",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "搭建微信、支付宝小程序",
+    "url": "https://www.aliyun.com/solution/tech-solution/develop-your-wechat-mini-program-in-10-minutes",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "极速构建持续集成与部署流程",
+    "url": "https://www.aliyun.com/solution/tech-solution/swiftly-building-an-effective-ci-cd-pipeline",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "函数和Pages+MCP：一键实现全球部署",
+    "url": "https://www.aliyun.com/solution/tech-solution/edge-function-mcp-one-click-global-deployment",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "高效编排与管理容器化应用",
+    "url": "https://www.aliyun.com/solution/tech-solution/ack-services",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "网站静态资源访问加速",
+    "url": "https://www.aliyun.com/solution/tech-solution/oss-x-cdn",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "文件下载加速及成本优化",
+    "url": "https://www.aliyun.com/solution/tech-solution/fdaaco",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "利用 Redis 缓存实现极速响应",
+    "url": "https://www.aliyun.com/solution/tech-solution/redis-cache-speedup",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "RDS 到 Redis 实时同步方案",
+    "url": "https://www.aliyun.com/solution/tech-solution/rtsorarctebcc",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "通过 ESA 加速和保护互联网流量",
+    "url": "https://www.aliyun.com/solution/tech-solution/esa-helps-e-commerce-sites-improve-access-experience",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "通过 RDS 读写分离提升数据库性能",
+    "url": "https://www.aliyun.com/solution/tech-solution/read-write-splitting-through-rds-proxy",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "Redis 通过 Proxy 组件实现读写分离",
+    "url": "https://www.aliyun.com/solution/tech-solution/read-write-splitting-through-tair-proxy",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "网站静态资源加速与安全优化",
+    "url": "https://www.aliyun.com/solution/tech-solution/website-static-resource-acceleration-and-security-optimization",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "高效存储和处理多媒体数据",
+    "url": "https://www.aliyun.com/solution/tech-solution/efficient-storage-and-processing-of-multimedia-data",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "视频网站的存储与媒体处理方案",
+    "url": "https://www.aliyun.com/solution/tech-solution/vsaps",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "构建视频直播系统",
+    "url": "https://www.aliyun.com/solution/tech-solution/building-a-live-video-streaming-system",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "一站式搭建短剧平台",
+    "url": "https://www.aliyun.com/solution/tech-solution/build-a-vod-short-play-platform",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "自动弹性，稳定交付",
+    "url": "https://www.aliyun.com/solution/tech-solution/improve-app-availability",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "Serverless 事件驱动架构实践",
+    "url": "https://www.aliyun.com/solution/tech-solution/fc-drive-file",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "极简运维，Serverless 高可用架构",
+    "url": "https://www.aliyun.com/solution/tech-solution/serverless-ha",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "云上高可用架构",
+    "url": "https://www.aliyun.com/solution/tech-solution/hablog",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "快速集成分布式任务调度",
+    "url": "https://www.aliyun.com/solution/tech-solution/mse-schedulerx",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "服务迁移时保持公网 IP 不变",
+    "url": "https://www.aliyun.com/solution/tech-solution/eip-service",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "ALB 实现跨地域负载均衡",
+    "url": "https://www.aliyun.com/solution/tech-solution/alb-acrlb",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "高可用及共享存储 Web 服务",
+    "url": "https://www.aliyun.com/solution/tech-solution/ha-web",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "云消息队列 RabbitMQ 实践",
+    "url": "https://www.aliyun.com/solution/tech-solution/rabbitmq-serverless",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "MSE 实现全链路灰度",
+    "url": "https://www.aliyun.com/solution/tech-solution/iflgbomse",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "通过 RocketMQ 实现分布式事务",
+    "url": "https://www.aliyun.com/solution/tech-solution/rocketmq-data-consistency",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "构建高性能秒杀系统",
+    "url": "https://www.aliyun.com/solution/tech-solution/build-a-high-performance-flash-sales-system",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "高效实现前后端分离架构升级",
+    "url": "https://www.aliyun.com/solution/tech-solution/the-headless-architecture-solution-of-alibaba-cloud",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "MSE 助力实现全方位流量防护",
+    "url": "https://www.aliyun.com/solution/tech-solution/use-mse-to-implement-comprehensive-traffic-protection",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "Tair 实现即时通信场景中的消息多端同步",
+    "url": "https://www.aliyun.com/solution/tech-solution/tair-im",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "基于数据闪回，快速恢复数据",
+    "url": "https://www.aliyun.com/solution/tech-solution/tair-flashback",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "容器化应用的弹性伸缩攻略",
+    "url": "https://www.aliyun.com/solution/tech-solution/ack-hpa",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "部署 Nginx 并通过 Ingress 暴露服务",
+    "url": "https://www.aliyun.com/solution/tech-solution/nginx-ingress",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "容器化应用的持续集成与部署",
+    "url": "https://www.aliyun.com/solution/tech-solution/ack-cicd",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "基于 Supabase 高效构建轻量级应用",
+    "url": "https://www.aliyun.com/solution/tech-solution/rds-supabase",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "通过 MSE Ingress实现容器应用的流量管理",
+    "url": "https://www.aliyun.com/solution/tech-solution/mse-ingress",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "精准分析检索，打造商品推荐体验",
+    "url": "https://www.aliyun.com/solution/tech-solution/elasticsearch-server",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "PolarDB 列存索引加速复杂查询",
+    "url": "https://www.aliyun.com/solution/tech-solution/accelerating-complex-e-commerce-queries-with-the-imci-feature-of-polardb-for-mysql",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "极速构建实时全文检索系统",
+    "url": "https://www.aliyun.com/solution/tech-solution/rapid-construction-of-a-real-time-full-text-search-system",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "快捷搭建企业经营数据大屏",
+    "url": "https://www.aliyun.com/solution/tech-solution/datav-for-digitalization",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "AI 时代的分布式多模态数据处理实践",
+    "url": "https://www.aliyun.com/solution/tech-solution/maxframe-for-multimodal-data-processing",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "快速构建企业级数据分析 Agent",
+    "url": "https://www.aliyun.com/solution/tech-solution/hologres-mcp",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "一站式时空决策，释放空间数据价值",
+    "url": "https://www.aliyun.com/solution/tech-solution/datav-for-atlas",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "原生 SQL 轻松实现多模态智能检索",
+    "url": "https://www.aliyun.com/solution/tech-solution/polardb-ai-search",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "MCP 赋能可视化 OLAP 智能体应用",
+    "url": "https://www.aliyun.com/solution/tech-solution/polardb-mysql-mcp",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "Elasticsearch 智能运维 AI 助手",
+    "url": "https://www.aliyun.com/solution/tech-solution/elasticsearch-ai-assistant",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "阿里云 Milvus 轻松实现文搜图&图搜图",
+    "url": "https://www.aliyun.com/solution/tech-solution/milvus-ai",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "轻松打造一站式图像智能检索引擎",
+    "url": "https://www.aliyun.com/solution/tech-solution/gallery-ai",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "分析 Agent 实现一键 AI 数据洞察",
+    "url": "https://www.aliyun.com/solution/tech-solution/quick-bi",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "MCP 助力打造数据库管理分析 AI 助手",
+    "url": "https://www.aliyun.com/solution/tech-solution/dms-mcp-ai",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "轻松实现客服数据智能分析与高效存储",
+    "url": "https://www.aliyun.com/solution/tech-solution/dify-on-dms",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "构建复杂关系网络的智能洞察分析",
+    "url": "https://www.aliyun.com/solution/tech-solution/polardb-age",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "ES Serverless 构建多模态图像检索",
+    "url": "https://www.aliyun.com/solution/tech-solution/elasticsearch-serverless-ai",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "DMS Data Agent 开启智能分析之旅",
+    "url": "https://www.aliyun.com/solution/tech-solution/data-agent-for-analytics",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "Agent 赋能，一键生成智能分析报告",
+    "url": "https://www.aliyun.com/solution/tech-solution/quick-bi-report",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "多源数据下的企业 AI 助手实践",
+    "url": "https://www.aliyun.com/solution/tech-solution/dts-ragflow",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "Agent 赋能企业数据治理",
+    "url": "https://www.aliyun.com/solution/tech-solution/agent-for-dataphin",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "Flink 与 Hologres 搭建实时数仓",
+    "url": "https://www.aliyun.com/solution/tech-solution/flink-hologres",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "云原生企业级数据湖",
+    "url": "https://www.aliyun.com/solution/tech-solution/datalake",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "OpenLake 与 AI 一体化解决方案",
+    "url": "https://www.aliyun.com/solution/tech-solution/openlake-ai-solution",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "实现 MySQL 到 ADB 秒级分析性能",
+    "url": "https://www.aliyun.com/solution/tech-solution/analyticdb-analysis-service",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "构建实时/离线一体化数据分析平台",
+    "url": "https://www.aliyun.com/solution/tech-solution/analyticdb-real-time-data-synchronization",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "低成本、高性能的湖仓一体化架构",
+    "url": "https://www.aliyun.com/solution/tech-solution/selectdb-lakehouse",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "流批一体 LakeHouse 架构实践",
+    "url": "https://www.aliyun.com/solution/tech-solution/streaming-lakehouse",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "泛时序数据一站式分析与洞察",
+    "url": "https://www.aliyun.com/solution/tech-solution/lindorm-data-process",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "极致性能，搭建轻量 OLAP 分析平台",
+    "url": "https://www.aliyun.com/solution/tech-solution/hologres-olap",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "RDS 与 ClickHouse 构建一站式 HTAP",
+    "url": "https://www.aliyun.com/solution/tech-solution/rdsclickhouse-htap",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "Flink CDC 实现企业级实时数据同步",
+    "url": "https://www.aliyun.com/solution/tech-solution/flink-cdc-realize-data-synchronization",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "SelectDB实现日志高效存储与实时分析",
+    "url": "https://www.aliyun.com/solution/tech-solution/real-time-log-analysis-with-selectdb",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "海量异构数据预处理破局之道",
+    "url": "https://www.aliyun.com/solution/tech-solution/process-big-data-with-maxcompute",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "全面安全保障：等保 2.0 解决方案",
+    "url": "https://www.aliyun.com/solution/tech-solution/mlps-compliance-solution",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "高效构建安全合规的企业新账号",
+    "url": "https://www.aliyun.com/solution/tech-solution/ecosacna",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "企业多账号配置统一合规审计",
+    "url": "https://www.aliyun.com/solution/tech-solution/ucafmac",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "日志安全审计与合规性评估",
+    "url": "https://www.aliyun.com/solution/tech-solution/log-security-audit",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "高效防护 Web 应用",
+    "url": "https://www.aliyun.com/solution/tech-solution/web-protection",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "构建大模型应用的安全防护体系",
+    "url": "https://www.aliyun.com/solution/tech-solution/build-large-model-application-security-system",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "网站文本内容安全检测",
+    "url": "https://www.aliyun.com/solution/tech-solution/lvwang",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "部署SSL证书，实现Web服务加密访问",
+    "url": "https://www.aliyun.com/solution/tech-solution/ssl",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "ECS 数据备份与保护",
+    "url": "https://www.aliyun.com/solution/tech-solution/data-backup",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "无代理 ECS 备份与高效环境搭建",
+    "url": "https://www.aliyun.com/solution/tech-solution/ecs-backup",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "企业级云灾备与数据管理",
+    "url": "https://www.aliyun.com/solution/tech-solution/elcdradm",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "数据护航：数据库敏感数据防护",
+    "url": "https://www.aliyun.com/solution/tech-solution/database-sensitive-data-protection",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "数据守护：防勒索攻击数据保障",
+    "url": "https://www.aliyun.com/solution/tech-solution/use-the-anti-ransomware-feature-of-security-center-to-protect-your-data",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "企业多账号身份权限集中管理",
+    "url": "https://www.aliyun.com/solution/tech-solution/cmomaip",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "云防火墙企业多账号统一管理",
+    "url": "https://www.aliyun.com/solution/tech-solution/umomaicf",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "限制企业仅使用已批准的云服务",
+    "url": "https://www.aliyun.com/solution/tech-solution/retouacs",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "快速实现办公环境安全访问云资源",
+    "url": "https://www.aliyun.com/solution/tech-solution/quickly-realize-secure-access-to-cloud-resources-in-office-environment",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "企业云上网络架构规划",
+    "url": "https://www.aliyun.com/solution/tech-solution/ecnap",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "实现跨地域跨账号网络互通",
+    "url": "https://www.aliyun.com/solution/tech-solution/cracani",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "互联网应用全球加速",
+    "url": "https://www.aliyun.com/solution/tech-solution/gaoia",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "两地三中心异地多活网络",
+    "url": "https://www.aliyun.com/solution/tech-solution/tltcamanidl",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "高效安全：企业统一公网出口",
+    "url": "https://www.aliyun.com/solution/tech-solution/nat-service",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "通过私网安全高效访问 AI 模型服务",
+    "url": "https://www.aliyun.com/solution/tech-solution/access-model-services-over-private-networks",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "应用日志数据归档",
+    "url": "https://www.aliyun.com/solution/tech-solution/oss-nginx",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "跨阿里云账号采集日志",
+    "url": "https://www.aliyun.com/solution/tech-solution/cacac-logs",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "开源ELK上云：构建低成本日志平台",
+    "url": "https://www.aliyun.com/solution/tech-solution/build-large-scale-low-cost-real-time-log-management-platform",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "构建面向应用日志的实时监控",
+    "url": "https://www.aliyun.com/solution/tech-solution/log-monitoring-alarming",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "端到端全链路追踪诊断",
+    "url": "https://www.aliyun.com/solution/tech-solution/end-to-end-tracing-and-diagnostics",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "低成本搭建 AI 应用全链路可观测体系",
+    "url": "https://www.aliyun.com/solution/tech-solution/build-an-obsearvability-system-for-ai-applications-at-low-costs",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "高效构建全球网络服务性能观测体系",
+    "url": "https://www.aliyun.com/solution/tech-solution/monitoring-and-analysis-of-network-quality-through-dial-testing",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "通过 Prometheus 构建云产品实时监控",
+    "url": "https://www.aliyun.com/solution/tech-solution/comprehensive-real-time-monitoring-of-cloud-services-through-managed-service-for-prometheus",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "企业上云框架 Landing Zone",
+    "url": "https://www.aliyun.com/solution/tech-solution/ecflz",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "CentOS 到 Alinux 操作系统迁移",
+    "url": "https://www.aliyun.com/solution/tech-solution/centos-alinux",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "自建 MongoDB 迁移到云数据库",
+    "url": "https://www.aliyun.com/solution/tech-solution/migrate-self-managed-mongodb-to-cloud",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "自建 MySQL 迁移至 PolarDB-X",
+    "url": "https://www.aliyun.com/solution/tech-solution/mysql-migration-polardb-x",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "自建 Redis 迁移到云数据库",
+    "url": "https://www.aliyun.com/solution/tech-solution/migrate-self-managed-redis-to-cloud",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "自建数据库迁移到云数据库",
+    "url": "https://www.aliyun.com/solution/tech-solution/mysql-rds",
+    "type": "SOLUTION_DETAIL"
+  },
+  {
+    "title": "RDS MySQL 迁移至 PolarDB MySQL 版",
+    "url": "https://www.aliyun.com/solution/tech-solution/rds-polardb",
+    "type": "SOLUTION_DETAIL"
+  }
+]

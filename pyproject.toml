@@ -1,0 +1,16 @@
+[project]
+name = "agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aliyun-python-sdk-core>=2.16.0",
+    "aliyun-python-sdk-ecs>=4.24.82",
+    "aliyunsdkcore>=1.0.3",
+    "langchain>=1.2.8",
+    "langchain-ollama>=1.0.1",
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "markdownify>=0.11.0",
+]
