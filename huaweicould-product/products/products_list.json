@@ -1,0 +1,1941 @@
+{
+  "products": [
+    {
+      "code": "ecs",
+      "title": "弹性云服务器 ECS",
+      "uri": "https://support.huaweicloud.com/ecs/index.html",
+      "description": "可随时自动获取、弹性伸缩的云服务器",
+      "category": "计算",
+      "category_code": "compute"
+    },
+    {
+      "code": "flexus",
+      "title": "Flexus云服务",
+      "uri": "https://support.huaweicloud.com/flexus/index.html",
+      "description": "新一代开箱即用、体验跃级的云服务系列",
+      "category": "计算",
+      "category_code": "compute"
+    },
+    {
+      "code": "bms",
+      "title": "裸金属服务器 BMS",
+      "uri": "https://support.huaweicloud.com/bms/index.html",
+      "description": "高性能、高安全的云上物理服务器",
+      "category": "计算",
+      "category_code": "compute"
+    },
+    {
+      "code": "cph",
+      "title": "云手机服务器 CPH",
+      "uri": "https://support.huaweicloud.com/cph/index.html",
+      "description": "具有虚拟手机功能的云服务器",
+      "category": "计算",
+      "category_code": "compute"
+    },
+    {
+      "code": "deh",
+      "title": "专属主机 DeH",
+      "uri": "https://support.huaweicloud.com/deh/index.html",
+      "description": "专属物理主机创建的云服务器",
+      "category": "计算",
+      "category_code": "compute"
+    },
+    {
+      "code": "as",
+      "title": "弹性伸缩 AS",
+      "uri": "https://support.huaweicloud.com/as/index.html",
+      "description": "根据预设策略自动调整计算资源的服务",
+      "category": "计算",
+      "category_code": "compute"
+    },
+    {
+      "code": "ims",
+      "title": "镜像服务 IMS",
+      "uri": "https://support.huaweicloud.com/ims/index.html",
+      "description": "提供完善的镜像管理能力",
+      "category": "计算",
+      "category_code": "compute"
+    },
+    {
+      "code": "functiongraph",
+      "title": "函数工作流 FunctionGraph",
+      "uri": "https://support.huaweicloud.com/functiongraph/index.html",
+      "description": "自动运行代码，无需配置或管理服务器",
+      "category": "计算",
+      "category_code": "compute"
+    },
+    {
+      "code": "hecs",
+      "title": "云耀云服务器（旧版）",
+      "uri": "https://support.huaweicloud.com/hecs/index.html",
+      "description": "新一代开箱即用、体验跃级的云服务系列",
+      "category": "计算",
+      "category_code": "compute"
+    },
+    {
+      "code": "hce",
+      "title": "Huawei Cloud EulerOS",
+      "uri": "https://support.huaweicloud.com/wtsnew-hce/index.html",
+      "description": "充分发挥华为云优势的操作系统",
+      "category": "计算",
+      "category_code": "compute"
+    },
+    {
+      "code": "clouddc",
+      "title": "云化数据中心 CloudDC",
+      "uri": "https://support.huaweicloud.com/clouddc/index.html",
+      "description": "像使用云服务一样管理您的自有资产",
+      "category": "计算",
+      "category_code": "compute"
+    },
+    {
+      "code": "obs",
+      "title": "对象存储服务 OBS",
+      "uri": "https://support.huaweicloud.com/obs/index.html",
+      "description": "稳定、安全、高效、易用的云存储服务",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "evs",
+      "title": "云硬盘 EVS",
+      "uri": "https://support.huaweicloud.com/evs/index.html",
+      "description": "为计算服务提供持久性块存储的服务",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "cbr",
+      "title": "云备份 CBR",
+      "uri": "https://support.huaweicloud.com/cbr/index.html",
+      "description": "为云服务器、云硬盘等提供备份服务",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "sfsturbo",
+      "title": "高性能弹性文件服务 SFS Turbo",
+      "uri": "https://support.huaweicloud.com/sfsturbo/index.html",
+      "description": "为计算实例提供完全托管的高性能文件存储",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "sfs",
+      "title": "弹性文件服务 SFS",
+      "uri": "https://support.huaweicloud.com/sfs/index.html",
+      "description": "为计算实例提供完全托管的NAS文件存储",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "sdrs",
+      "title": "业务恢复服务 BRS",
+      "uri": "https://support.huaweicloud.com/sdrs/index.html",
+      "description": "为ECS提供跨可用区RPO=0的容灾保护服务",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "ems",
+      "title": "弹性内存存储 EMS",
+      "uri": "https://support.huaweicloud.com/productdesc-ems/ems_01_0100.html",
+      "description": "高带宽、低时延的内存存储服务",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "vbs",
+      "title": "云硬盘备份 VBS",
+      "uri": "https://support.huaweicloud.com/vbs/index.html",
+      "description": "为云硬盘创建在线备份，无需关机/重启",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "csbs",
+      "title": "云服务器备份 CSBS",
+      "uri": "https://support.huaweicloud.com/csbs/index.html",
+      "description": "为所有云硬盘创建一致性在线备份",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "des",
+      "title": "数据快递服务 DES",
+      "uri": "https://support.huaweicloud.com/des/index.html",
+      "description": "为数据上云提供安全、快速的传输服务",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "csg",
+      "title": "云存储网关 CSG",
+      "uri": "https://support.huaweicloud.com/csg/index.html",
+      "description": "为企业应用提供标准的文件存储访问入口",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "dss",
+      "title": "专属分布式存储服务 DSS",
+      "uri": "https://support.huaweicloud.com/dss/index.html",
+      "description": "提供独享的物理存储资源",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "dwr",
+      "title": "数据工坊 DWR",
+      "uri": "https://support.huaweicloud.com/dwr/index.html",
+      "description": "开放的近数据处理服务",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "mapds",
+      "title": "地图数据 MapDS",
+      "uri": "https://support.huaweicloud.com/mapds/index.html",
+      "description": "云上一站式获取高质量多源卫星遥感数据",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "kvs",
+      "title": "键值存储服务 KVS",
+      "uri": "https://support.huaweicloud.com/productdesc-kvs/kvs_01_0003.html",
+      "description": "Serverless KV存储服务",
+      "category": "存储",
+      "category_code": "storage"
+    },
+    {
+      "code": "vpc",
+      "title": "虚拟私有云 VPC",
+      "uri": "https://support.huaweicloud.com/vpc/index.html",
+      "description": "隔离的、私密的虚拟网络环境",
+      "category": "网络",
+      "category_code": "network"
+    },
+    {
+      "code": "eip",
+      "title": "弹性公网IP EIP",
+      "uri": "https://support.huaweicloud.com/eip/index.html",
+      "description": "提供独立的公网IP资源服务",
+      "category": "网络",
+      "category_code": "network"
+    },
+    {
+      "code": "elb",
+      "title": "弹性负载均衡 ELB",
+      "uri": "https://support.huaweicloud.com/elb/index.html",
+      "description": "将流量自动分发到多台云服务器",
+      "category": "网络",
+      "category_code": "network"
+    },
+    {
+      "code": "natgateway",
+      "title": "NAT网关 NAT",
+      "uri": "https://support.huaweicloud.com/natgateway/index.html",
+      "description": "提供网络地址转换服务",
+      "category": "网络",
+      "category_code": "network"
+    },
+    {
+      "code": "dc",
+      "title": "云专线 DC",
+      "uri": "https://support.huaweicloud.com/dc/index.html",
+      "description": "搭建本地数据中心与VPC间的专属连接通道",
+      "category": "网络",
+      "category_code": "network"
+    },
+    {
+      "code": "vpn",
+      "title": "虚拟专用网络 VPN",
+      "uri": "https://support.huaweicloud.com/vpn/index.html",
+      "description": "数据中心与华为云的IPsec加密连接通道",
+      "category": "网络",
+      "category_code": "network"
+    },
+    {
+      "code": "cc",
+      "title": "云连接 CC",
+      "uri": "https://support.huaweicloud.com/cc/index.html",
+      "description": "提供多Region VPC互通的混合云组网服务",
+      "category": "网络",
+      "category_code": "network"
+    },
+    {
+      "code": "vpcep",
+      "title": "VPC终端节点 VPCEP",
+      "uri": "https://support.huaweicloud.com/vpcep/index.html",
+      "description": "提供VPC之间的私密连接通道",
+      "category": "网络",
+      "category_code": "network"
+    },
+    {
+      "code": "er",
+      "title": "企业路由器 ER",
+      "uri": "https://support.huaweicloud.com/er/index.html",
+      "description": "提供高可靠的集中路由管理能力",
+      "category": "网络",
+      "category_code": "network"
+    },
+    {
+      "code": "esw",
+      "title": "企业交换机 ESW",
+      "uri": "https://support.huaweicloud.com/esw/index.html",
+      "description": "云上与云下的大二层连接通道",
+      "category": "网络",
+      "category_code": "network"
+    },
+    {
+      "code": "ga",
+      "title": "全球加速 GA",
+      "uri": "https://support.huaweicloud.com/ga/index.html",
+      "description": "提供SLA稳定的加速传输",
+      "category": "网络",
+      "category_code": "network"
+    },
+    {
+      "code": "anc",
+      "title": "云原生应用网络 ANC",
+      "uri": "https://support.huaweicloud.com/productdesc-anc/anc_01_0002.html",
+      "description": "连通任意VPC和服务的逻辑网络",
+      "category": "网络",
+      "category_code": "network"
+    },
+    {
+      "code": "dns",
+      "title": "云解析服务 DNS",
+      "uri": "https://support.huaweicloud.com/dns/index.html",
+      "description": "提供高可用，高扩展的DNS服务和管理服务",
+      "category": "网络",
+      "category_code": "network"
+    },
+    {
+      "code": "cce",
+      "title": "云容器引擎 CCE",
+      "uri": "https://support.huaweicloud.com/cce/index.html",
+      "description": "提供高可靠的企业级容器应用管理服务",
+      "category": "容器",
+      "category_code": "container-service"
+    },
+    {
+      "code": "cci",
+      "title": "云容器实例 CCI",
+      "uri": "https://support.huaweicloud.com/cci/index.html",
+      "description": "提供敏捷安全的Serverless容器服务",
+      "category": "容器",
+      "category_code": "container-service"
+    },
+    {
+      "code": "swr",
+      "title": "容器镜像服务 SWR",
+      "uri": "https://support.huaweicloud.com/swr/index.html",
+      "description": "一种支持容器镜像全生命周期管理的服务",
+      "category": "容器",
+      "category_code": "container-service"
+    },
+    {
+      "code": "osc",
+      "title": "云原生服务中心 OSC",
+      "uri": "https://support.huaweicloud.com/productdesc-osc/osc_productdesc_0001.html",
+      "description": "云原生服务的生命周期管理平台",
+      "category": "容器",
+      "category_code": "container-service"
+    },
+    {
+      "code": "asm",
+      "title": "应用服务网格 ASM",
+      "uri": "https://support.huaweicloud.com/asm/index.html",
+      "description": "让应用治理智能化，可视化",
+      "category": "容器",
+      "category_code": "container-service"
+    },
+    {
+      "code": "ucs",
+      "title": "华为云UCS",
+      "uri": "https://support.huaweicloud.com/ucs/index.html",
+      "description": "提供无处不在的云原生服务",
+      "category": "容器",
+      "category_code": "container-service"
+    },
+    {
+      "code": "cdn",
+      "title": "内容分发网络 CDN",
+      "uri": "https://support.huaweicloud.com/cdn/index.html",
+      "description": "就近获得所需的内容，改善网络拥挤的状况",
+      "category": "CDN与智能边缘",
+      "category_code": "intelligence-edge"
+    },
+    {
+      "code": "iec",
+      "title": "智能边缘云 IEC",
+      "uri": "https://support.huaweicloud.com/iec/index.html",
+      "description": "部署距用户更近的位置，提供低时延体验",
+      "category": "CDN与智能边缘",
+      "category_code": "intelligence-edge"
+    },
+    {
+      "code": "ief",
+      "title": "智能边缘平台 IEF",
+      "uri": "https://support.huaweicloud.com/ief/index.html",
+      "description": "边云协同操作系统，提供边缘应用托管",
+      "category": "CDN与智能边缘",
+      "category_code": "intelligence-edge"
+    },
+    {
+      "code": "cloudpond",
+      "title": "CloudPond云服务",
+      "uri": "https://support.huaweicloud.com/cloudpond/index.html",
+      "description": "将云基础设施部署到机房用于边缘计算",
+      "category": "CDN与智能边缘",
+      "category_code": "intelligence-edge"
+    },
+    {
+      "code": "rds",
+      "title": "云数据库 RDS",
+      "uri": "https://support.huaweicloud.com/rds/index.html",
+      "description": "稳定可靠、安全运行的云数据库服务",
+      "category": "数据库",
+      "category_code": "database"
+    },
+    {
+      "code": "drs",
+      "title": "数据复制服务 DRS",
+      "uri": "https://support.huaweicloud.com/drs/index.html",
+      "description": "业务不停机中完成数据库迁移上云",
+      "category": "数据库",
+      "category_code": "database"
+    },
+    {
+      "code": "dds",
+      "title": "文档数据库服务 DDS",
+      "uri": "https://support.huaweicloud.com/dds/index.html",
+      "description": "支持集群和副本集部署，弹性伸缩",
+      "category": "数据库",
+      "category_code": "database"
+    },
+    {
+      "code": "ddm",
+      "title": "分布式数据库中间件 DDM",
+      "uri": "https://support.huaweicloud.com/ddm/index.html",
+      "description": "突破容量和性能瓶颈，支持数据高并发访问",
+      "category": "数据库",
+      "category_code": "database"
+    },
+    {
+      "code": "gaussdb",
+      "title": "云数据库 GaussDB",
+      "uri": "https://support.huaweicloud.com/gaussdb/index.html",
+      "description": "新一代企业级分布式关系型数据库产品",
+      "category": "数据库",
+      "category_code": "database"
+    },
+    {
+      "code": "nosql",
+      "title": "云数据库 GeminiDB",
+      "uri": "https://support.huaweicloud.com/nosql/index.html",
+      "description": "云原生多模NoSQL，兼容Redis®/Influx",
+      "category": "数据库",
+      "category_code": "database"
+    },
+    {
+      "code": "das",
+      "title": "数据管理服务 DAS",
+      "uri": "https://support.huaweicloud.com/das/index.html",
+      "description": "数据库管理专家",
+      "category": "数据库",
+      "category_code": "database"
+    },
+    {
+      "code": "ugo",
+      "title": "数据库和应用迁移 UGO",
+      "uri": "https://support.huaweicloud.com/ugo/index.html",
+      "description": "异构数据库结构迁移和应用迁移的专业工具",
+      "category": "数据库",
+      "category_code": "database"
+    },
+    {
+      "code": "taurusdb",
+      "title": "云数据库 TaurusDB",
+      "uri": "https://support.huaweicloud.com/taurusdb/index.html",
+      "description": "新一代完全兼容MySQL的企业级数据库",
+      "category": "数据库",
+      "category_code": "database"
+    },
+    {
+      "code": "dcs",
+      "title": "分布式缓存服务 DCS",
+      "uri": "https://support.huaweicloud.com/dcs/index.html",
+      "description": "兼容Redis®的高速内存数据处理引擎",
+      "category": "数据库",
+      "category_code": "database"
+    },
+    {
+      "code": "modelarts",
+      "title": "AI开发平台ModelArts",
+      "uri": "https://support.huaweicloud.com/modelarts/index.html",
+      "description": "面向AI开发者的一站式开发平台",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "pangulm",
+      "title": "盘古大模型 PanguLargeModels",
+      "uri": "https://support.huaweicloud.com/pangulm/index.html",
+      "description": "打造行业大模型，重塑千行百业",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "ges",
+      "title": "图引擎服务 GES",
+      "uri": "https://support.huaweicloud.com/ges/index.html",
+      "description": "针对图结构数据，进行查询分析",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "ai4sservice",
+      "title": "AI科学计算服务",
+      "uri": "https://support.huaweicloud.com/ai4sservice/index.html",
+      "description": "将人工智能技术与科学研究相结合的创新平台  ",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "octopus",
+      "title": "自动驾驶云服务 Octopus",
+      "uri": "https://support.huaweicloud.com/octopus/index.html",
+      "description": "自动驾驶端到端开发工具链",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "image",
+      "title": "图像识别 Image",
+      "uri": "https://support.huaweicloud.com/image/index.html",
+      "description": "准确识别图像中的视觉内容",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "ocr",
+      "title": "文字识别 OCR",
+      "uri": "https://support.huaweicloud.com/ocr/index.html",
+      "description": "将图片中的文字识别成可编辑的文本",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "nlp",
+      "title": "自然语言处理 NLP",
+      "uri": "https://support.huaweicloud.com/nlp/index.html",
+      "description": "用于处理文本、文本分析及挖掘的云服务",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "moderation",
+      "title": "内容审核 Moderation",
+      "uri": "https://support.huaweicloud.com/moderation/index.html",
+      "description": "提供内容检测功能",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "imagesearch",
+      "title": "图像搜索 ImageSearch",
+      "uri": "https://support.huaweicloud.com/imagesearch/index.html",
+      "description": "从图库中搜索相同或相似的图片",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "face",
+      "title": "人脸识别服务 FRS",
+      "uri": "https://support.huaweicloud.com/face/index.html",
+      "description": "用于身份验证、电子考勤、客流分析等场景",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "cbs",
+      "title": " 对话机器人服务 CBS",
+      "uri": "https://support.huaweicloud.com/cbs/index.html",
+      "description": "提供智能对话机器人和数字人功能",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "sis",
+      "title": "语音交互服务 SIS",
+      "uri": "https://support.huaweicloud.com/sis/index.html",
+      "description": "提供语音识别、合成功能",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "ivs",
+      "title": "人证核身服务 IVS",
+      "uri": "https://support.huaweicloud.com/ivs/index.html",
+      "description": "实现对身份真实性的精准核验",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "vias",
+      "title": "视频智能分析服务 VIAS",
+      "uri": "https://support.huaweicloud.com/vias/index.html",
+      "description": "集成视频接入和AI分析的一体化平台",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "icitys",
+      "title": "城市智能体",
+      "uri": "https://support.huaweicloud.com/icitys/index.html",
+      "description": "城市行业数智化转型升级解决方案",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "hilens",
+      "title": "华为HiLens",
+      "uri": "https://support.huaweicloud.com/hilens/index.html",
+      "description": "端云协同AI应用开发平台",
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "pangubot",
+      "title": "盘古Bot",
+      "uri": "https://support.huaweicloud.com/pangubot/index.html",
+      "description": null,
+      "category": "人工智能",
+      "category_code": "EI"
+    },
+    {
+      "code": "mrs",
+      "title": "MapReduce服务 MRS",
+      "uri": "https://support.huaweicloud.com/mrs/index.html",
+      "description": "企业级大数据集群云服务",
+      "category": "大数据",
+      "category_code": "analytics"
+    },
+    {
+      "code": "dli",
+      "title": "数据湖探索 DLI",
+      "uri": "https://support.huaweicloud.com/dli/index.html",
+      "description": "流处理、批处理的融合处理分析服务",
+      "category": "大数据",
+      "category_code": "analytics"
+    },
+    {
+      "code": "dws",
+      "title": "数据仓库服务 DWS",
+      "uri": "https://support.huaweicloud.com/dws/index.html",
+      "description": "极致性能、稳定、按需扩展的数据仓库",
+      "category": "大数据",
+      "category_code": "analytics"
+    },
+    {
+      "code": "css",
+      "title": "云搜索服务 CSS",
+      "uri": "https://support.huaweicloud.com/css/index.html",
+      "description": "提供多条件检索与分析能力",
+      "category": "大数据",
+      "category_code": "analytics"
+    },
+    {
+      "code": "dataartsstudio",
+      "title": "数据治理中心 DataArts Studio",
+      "uri": "https://support.huaweicloud.com/dataartsstudio/index.html",
+      "description": "一站式数据开发与治理平台",
+      "category": "大数据",
+      "category_code": "analytics"
+    },
+    {
+      "code": "cloudtable",
+      "title": "表格存储服务 CloudTable",
+      "uri": "https://support.huaweicloud.com/cloudtable/index.html",
+      "description": "企业级托管型云数仓产品",
+      "category": "大数据",
+      "category_code": "analytics"
+    },
+    {
+      "code": "tics",
+      "title": "可信智能计算服务 TICS",
+      "uri": "https://support.huaweicloud.com/tics/index.html",
+      "description": "软硬件协同的多方隐私计算服务",
+      "category": "大数据",
+      "category_code": "analytics"
+    },
+    {
+      "code": "dis",
+      "title": "数据接入服务 DIS",
+      "uri": "https://support.huaweicloud.com/dis/index.html",
+      "description": "实时数据接入、处理、转储服务",
+      "category": "大数据",
+      "category_code": "analytics"
+    },
+    {
+      "code": "lakeformation",
+      "title": "湖仓构建 LakeFormation",
+      "uri": "https://support.huaweicloud.com/lakeformation/index.html",
+      "description": "高效搭建数智融合一体化解决方案",
+      "category": "大数据",
+      "category_code": "analytics"
+    },
+    {
+      "code": "dataartsinsight",
+      "title": "智能数据洞察 DataArts Insight",
+      "uri": "https://support.huaweicloud.com/dataartsinsight/index.html",
+      "description": "新一代BI服务，支撑业务实时高效决策",
+      "category": "大数据",
+      "category_code": "analytics"
+    },
+    {
+      "code": "fabric",
+      "title": "数智融合计算服务 DataArts Fabric",
+      "uri": "https://support.huaweicloud.com/fabric/index.html",
+      "description": "数据+AI一站式开发平台",
+      "category": "大数据",
+      "category_code": "analytics"
+    },
+    {
+      "code": "dlv",
+      "title": "数据可视化 DLV",
+      "uri": "https://support.huaweicloud.com/dlv/index.html",
+      "description": "提供可视化组件定制和应用数据大屏",
+      "category": "大数据",
+      "category_code": "analytics"
+    },
+    {
+      "code": "iothub",
+      "title": "设备接入 IoTDA",
+      "uri": "https://support.huaweicloud.com/iothub/index.html",
+      "description": "安全可靠接入海量设备",
+      "category": "IoT物联网",
+      "category_code": "IOT"
+    },
+    {
+      "code": "oceanlink",
+      "title": "全球SIM联接 GSL",
+      "uri": "https://support.huaweicloud.com/oceanlink/index.html",
+      "description": "为物联网设备提供一站式SIM卡管理",
+      "category": "IoT物联网",
+      "category_code": "IOT"
+    },
+    {
+      "code": "iotanalytics",
+      "title": "IoT数据分析 IoTA",
+      "uri": "https://support.huaweicloud.com/productdesc-iotanalytics/iota_01_00100.html",
+      "description": "IoT数据集成、清洗、分析、可视化的服务",
+      "category": "IoT物联网",
+      "category_code": "IOT"
+    },
+    {
+      "code": "iotedge",
+      "title": "IoT边缘 IoTEdge",
+      "uri": "https://support.huaweicloud.com/iotedge/index.html",
+      "description": "就近接入、数据预处理和边缘应用管理",
+      "category": "IoT物联网",
+      "category_code": "IOT"
+    },
+    {
+      "code": "iotps",
+      "title": "设备发放 IoTDP",
+      "uri": "https://support.huaweicloud.com/productdesc-iotps/iot_02_0001.html",
+      "description": "设备在多个IoT平台实例之间的腾挪",
+      "category": "IoT物联网",
+      "category_code": "IOT"
+    },
+    {
+      "code": "cse",
+      "title": "微服务引擎 CSE",
+      "uri": "https://support.huaweicloud.com/cse/index.html",
+      "description": "微服务应用快速注册发现、配置管理及治理",
+      "category": "应用中间件",
+      "category_code": "application"
+    },
+    {
+      "code": "kafka",
+      "title": "分布式消息服务Kafka版",
+      "uri": "https://support.huaweicloud.com/kafka/index.html",
+      "description": "高吞吐、高可用的消息中间件服务",
+      "category": "应用中间件",
+      "category_code": "application"
+    },
+    {
+      "code": "rabbitmq",
+      "title": "分布式消息服务RabbitMQ版",
+      "uri": "https://support.huaweicloud.com/rabbitmq/index.html",
+      "description": "支持AMQP协议，兼容RabbitMQ生态",
+      "category": "应用中间件",
+      "category_code": "application"
+    },
+    {
+      "code": "hrm",
+      "title": "分布式消息服务RocketMQ版",
+      "uri": "https://support.huaweicloud.com/hrm/index.html",
+      "description": "低延迟、高可靠，兼容开源RocketMQ",
+      "category": "应用中间件",
+      "category_code": "application"
+    },
+    {
+      "code": "apig",
+      "title": "API网关 APIG",
+      "uri": "https://support.huaweicloud.com/apig/index.html",
+      "description": "构建、管理和部署任意规模的API服务",
+      "category": "应用中间件",
+      "category_code": "application"
+    },
+    {
+      "code": "mas",
+      "title": "多活高可用服务 MAS",
+      "uri": "https://support.huaweicloud.com/mas/index.html",
+      "description": "提供端到端业务故障切换及容灾演练能力",
+      "category": "应用中间件",
+      "category_code": "application"
+    },
+    {
+      "code": "eg",
+      "title": "事件网格 EG",
+      "uri": "https://support.huaweicloud.com/eg/index.html",
+      "description": "兼容CloudEvents的事件驱动架构服务",
+      "category": "应用中间件",
+      "category_code": "application"
+    },
+    {
+      "code": "codeartssnap",
+      "title": "CodeArts代码智能体 ",
+      "uri": "https://support.huaweicloud.com/productdesc-codeartssnap/codeartsdoer_pd_0001.html",
+      "description": "助力开发者高效研发，重塑智能开发新范式",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "devcloud",
+      "title": "软件开发生产线 CodeArts",
+      "uri": "https://support.huaweicloud.com/devcloud/index.html",
+      "description": "内置华为实践的一站式软件开发平台",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "projectman",
+      "title": "需求管理 CodeArts Req",
+      "uri": "https://support.huaweicloud.com/projectman/index.html",
+      "description": "为研发团队提供高效需求管理服务",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "pipeline",
+      "title": "流水线 CodeArts Pipeline",
+      "uri": "https://support.huaweicloud.com/cloudpipeline/index.html",
+      "description": "可视化、可定制的持续交付发布软件",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "codecheck",
+      "title": "代码检查 CodeArts Check",
+      "uri": "https://support.huaweicloud.com/codecheck/index.html",
+      "description": "基于云端实现代码质量管理的服务",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "codeci",
+      "title": "编译构建 CodeArts Build",
+      "uri": "https://support.huaweicloud.com/cloudbuild/index.html",
+      "description": "提供开箱即用、快速的构建能力",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "deployman",
+      "title": "部署 CodeArts Deploy",
+      "uri": "https://support.huaweicloud.com/clouddeploy/index.html",
+      "description": "提供可视化、一键式部署服务",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "testman",
+      "title": "测试计划 CodeArts TestPlan",
+      "uri": "https://support.huaweicloud.com/cloudtest/index.html",
+      "description": "面向开发者提供的一站式测试管理平台",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "cloudartifact",
+      "title": "制品仓库 CodeArts Artifact",
+      "uri": "https://support.huaweicloud.com/cloudartifact/index.html",
+      "description": "提供多类型、安全可靠的软件制品仓库",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "mobiletest",
+      "title": "移动应用测试 MobileAPPTest",
+      "uri": "https://support.huaweicloud.com/mobileapptest/index.html",
+      "description": "提供移动兼容性测试服务",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "cloudide",
+      "title": "CodeArts IDE Online",
+      "uri": "https://support.huaweicloud.com/cloudide/index.html",
+      "description": "面向云原生的轻量级WebIDE",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "mirrors",
+      "title": "开源镜像站 Mirrors",
+      "uri": "https://support.huaweicloud.com/mirrors/index.html",
+      "description": "开源组件、操作系统及DevOps工具镜像站",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "cpts",
+      "title": "性能测试 CodeArts PerfTest",
+      "uri": "https://support.huaweicloud.com/cpts/index.html",
+      "description": "为应用的接口和全链路提供性能测试服务",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "servicestage",
+      "title": "应用管理与运维平台 ServiceStage",
+      "uri": "https://support.huaweicloud.com/servicestage/index.html",
+      "description": "面向企业的一站式PaaS平台服务",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "cae",
+      "title": "云应用引擎 CAE",
+      "uri": "https://support.huaweicloud.com/cae/index.html",
+      "description": "面向应用的Serverless极简托管引擎",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "devsecurity",
+      "title": "开源治理服务 CodeArts Governance",
+      "uri": "https://support.huaweicloud.com/devsecurity/index.html",
+      "description": "识别开源软件风险，高效安全的使用开源",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "astrozero",
+      "title": "华为云Astro轻应用",
+      "uri": "https://support.huaweicloud.com/astrozero/index.html",
+      "description": "快速搭建低代码轻应用",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "codeartside",
+      "title": "CodeArts IDE",
+      "uri": "https://support.huaweicloud.com/codeartside/index.html",
+      "description": "智能化集成开发环境",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "astroflow",
+      "title": "Astro工作流 AstroFlow",
+      "uri": "https://support.huaweicloud.com/astroflow/index.html",
+      "description": "一站式自动化工作流应用构建工具",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "codeartsrepo",
+      "title": "代码托管 CodeArts Repo",
+      "uri": "https://support.huaweicloud.com/codeartsrepo/index.html",
+      "description": "提供基于Git的在线代码托管服务",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "vss",
+      "title": "漏洞管理服务 CodeArts Inspector",
+      "uri": "https://support.huaweicloud.com/vss/index.html",
+      "description": "满足合规要求，让安全弱点无所遁形",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "codeartslink",
+      "title": "联接 CodeArtsLink",
+      "uri": "https://support.huaweicloud.com/codeartslink/index.html",
+      "description": "一站打通与业界生态研发工具或应用",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "codeartsmodeling",
+      "title": "软件建模  CodeArts Modeling",
+      "uri": "https://support.huaweicloud.com/codeartsmodeling/index.html",
+      "description": "UML、SysML可视化建模",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "astropro",
+      "title": "Astro企业应用 AstroPro",
+      "uri": "https://support.huaweicloud.com/astropro/index.html",
+      "description": "快速构建企业核心业务应用",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "astrocanvas",
+      "title": "华为云Astro大屏应用",
+      "uri": "https://support.huaweicloud.com/astrocanvas/index.html",
+      "description": "快速搭建专业的数据可视化大屏应用",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "codeartsboard",
+      "title": "效能洞察 CodeArts Board",
+      "uri": "https://support.huaweicloud.com/codeartsboard/index.html",
+      "description": "效能洞察（CodeArts Board）为企业管理者、项目经理、团队Leader、开发者提供面向DevSecOps领域端到端的研发效能度量能力。",
+      "category": "开发与运维",
+      "category_code": "devcloud"
+    },
+    {
+      "code": "domain",
+      "title": "域名注册服务 Domains",
+      "uri": "https://support.huaweicloud.com/domain/index.html",
+      "description": "提供域名购买，转入，续费，管理的服务",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "cloudsite",
+      "title": "企业门户 EWP",
+      "uri": "https://support.huaweicloud.com/cloudsite/index.html",
+      "description": "无需代码，快速拖拽搭建网站的服务",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "icp",
+      "title": "ICP备案",
+      "uri": "https://support.huaweicloud.com/icp/index.html",
+      "description": "提供免费备案服务，助力业务合规上云",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "trademark",
+      "title": "商标注册",
+      "uri": "https://support.huaweicloud.com/trademark/index.html",
+      "description": "快速递交，智能申报的商标注册服务",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "workplace",
+      "title": "华为云WeLink",
+      "uri": "https://support.huaweicloud.com/welink/index.html",
+      "description": "安全、智能、数字化协同办公平台",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "meeting",
+      "title": "华为云会议 Meeting",
+      "uri": "https://support.huaweicloud.com/meeting/index.html",
+      "description": "提供全场景端云协同视频会议解决方案",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "PrivateNumber",
+      "title": "隐私保护通话 PrivateNumber",
+      "uri": "https://support.huaweicloud.com/PrivateNumber/index.html",
+      "description": "不增加SIM卡，隐藏号码，保护个人隐私",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "voice",
+      "title": "语音通话 VoiceCall",
+      "uri": "https://support.huaweicloud.com/VoiceCall/index.html",
+      "description": "携手全球运营商提供语音服务",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "msgsms",
+      "title": "消息&短信 MSGSMS",
+      "uri": "https://support.huaweicloud.com/msgsms/index.html",
+      "description": "携手全球运营商和渠道提供短信服务",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "cmn",
+      "title": "云管理网络",
+      "uri": "https://support.huaweicloud.com/productdesc-cmn/cmn040003.html",
+      "description": "提供集中管理网络的能力",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "sdwan",
+      "title": "SD-WAN 云服务",
+      "uri": "https://support.huaweicloud.com/productdesc-sdwan/zh-cn_topic_0194308928.html",
+      "description": "提供企业总部、分支、多云之间的网络互联",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "workspace",
+      "title": "云桌面 Workspace",
+      "uri": "https://support.huaweicloud.com/workspace/index.html",
+      "description": "安全高效、即开即用的云上虚拟桌面服务",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "roma",
+      "title": "应用与数据集成平台 ROMA Connect",
+      "uri": "https://support.huaweicloud.com/roma/index.html",
+      "description": "无缝联接应用、消息、数据、API、设备",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "romaexchange",
+      "title": "ROMA资产中心 ROMA Exchange",
+      "uri": "https://support.huaweicloud.com/romaexchange/index.html",
+      "description": "企业数字资产管理和运营的统一平台",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "esm",
+      "title": "政企自服务管理 ESM",
+      "uri": "https://support.huaweicloud.com/esm/index.html",
+      "description": "提升HCSO客户自主运营管理能力",
+      "category": "企业应用",
+      "category_code": "enterprise-applications"
+    },
+    {
+      "code": "versatile",
+      "title": "智能体平台 Versatile",
+      "uri": "https://support.huaweicloud.com/versatile/index.html",
+      "description": "一站式企业级智能体构建平台",
+      "category": "开天aPaaS",
+      "category_code": "aPaaS"
+    },
+    {
+      "code": "appstage",
+      "title": "应用平台 AppStage",
+      "uri": "https://support.huaweicloud.com/appstage/index.html",
+      "description": "应用全生命周期管理",
+      "category": "开天aPaaS",
+      "category_code": "aPaaS"
+    },
+    {
+      "code": "msse",
+      "title": "开天企业工作台 MSSE",
+      "uri": "https://support.huaweicloud.com/msse/index.html",
+      "description": "企业一站式数字化工作台",
+      "category": "开天aPaaS",
+      "category_code": "aPaaS"
+    },
+    {
+      "code": "mssi",
+      "title": "开天集成工作台 MSSI",
+      "uri": "https://support.huaweicloud.com/mssi/index.html",
+      "description": "统一的行业资产智能协作平台",
+      "category": "开天aPaaS",
+      "category_code": "aPaaS"
+    },
+    {
+      "code": "koomessage",
+      "title": "云消息服务 KooMessage",
+      "uri": "https://support.huaweicloud.com/koomessage/index.html",
+      "description": "一站式富媒体消息服务",
+      "category": "开天aPaaS",
+      "category_code": "aPaaS"
+    },
+    {
+      "code": "eds",
+      "title": "交换数据空间 EDS",
+      "uri": "https://support.huaweicloud.com/eds/index.html",
+      "description": "主权可控的数据安全交换服务",
+      "category": "开天aPaaS",
+      "category_code": "aPaaS"
+    },
+    {
+      "code": "koomap",
+      "title": "云地图服务 KooMap",
+      "uri": "https://support.huaweicloud.com/koomap/index.html",
+      "description": "使能数字孪生的云地图服务",
+      "category": "开天aPaaS",
+      "category_code": "aPaaS"
+    },
+    {
+      "code": "koophone",
+      "title": "KooPhone  云服务",
+      "uri": "https://support.huaweicloud.com/koophone/index.html",
+      "description": "优体验、高安全的政企云手机服务",
+      "category": "开天aPaaS",
+      "category_code": "aPaaS"
+    },
+    {
+      "code": "orgid",
+      "title": "组织成员账号 OrgID",
+      "uri": "https://support.huaweicloud.com/orgid/index.html",
+      "description": "为企业提供统一账号、应用授权管理",
+      "category": "开天aPaaS",
+      "category_code": "aPaaS"
+    },
+    {
+      "code": "koodrive",
+      "title": "云空间服务 KooDrive",
+      "uri": "https://support.huaweicloud.com/koodrive/index.html",
+      "description": "数字内容中枢、内容协作更高效",
+      "category": "开天aPaaS",
+      "category_code": "aPaaS"
+    },
+    {
+      "code": "rtc",
+      "title": "实时音视频 SparkRTC",
+      "uri": "https://support.huaweicloud.com/rtc/index.html",
+      "description": "低时延、高并发、安全可靠的音视频通话服务",
+      "category": "视频",
+      "category_code": "video"
+    },
+    {
+      "code": "live",
+      "title": "视频直播 Live",
+      "uri": "https://support.huaweicloud.com/live/index.html",
+      "description": "端到端视频直播解决方案",
+      "category": "视频",
+      "category_code": "video"
+    },
+    {
+      "code": "vod",
+      "title": "视频点播 VOD",
+      "uri": "https://support.huaweicloud.com/vod/index.html",
+      "description": "视频上传、处理、加速和播放",
+      "category": "视频",
+      "category_code": "video"
+    },
+    {
+      "code": "mpc",
+      "title": "媒体处理 MPC",
+      "uri": "https://support.huaweicloud.com/mpc/index.html",
+      "description": "经济、高效、弹性的音视频转码和处理",
+      "category": "视频",
+      "category_code": "video"
+    },
+    {
+      "code": "vis",
+      "title": "视频接入服务 VIS",
+      "uri": "https://support.huaweicloud.com/productdesc-vis/vis_01_0001.html",
+      "description": "支持多协议的实时视频数据接入服务",
+      "category": "视频",
+      "category_code": "video"
+    },
+    {
+      "code": "ivm",
+      "title": "行业视频管理服务 IVM",
+      "uri": "https://support.huaweicloud.com/ivm/index.html",
+      "description": "面向机器视觉设备提供统一的设备管理服务",
+      "category": "视频",
+      "category_code": "video"
+    },
+    {
+      "code": "metastudio",
+      "title": "数字内容生产线 MetaStudio",
+      "uri": "https://support.huaweicloud.com/metastudio/index.html",
+      "description": "提供一站式数字内容生产解决方案",
+      "category": "视频",
+      "category_code": "video"
+    },
+    {
+      "code": "securityInfo",
+      "title": "安全技术与应用",
+      "uri": "https://support.huaweicloud.com/bestpractice-securityInfo/securityInfo_01_0029.html",
+      "description": "租户安全排查与加固建议",
+      "category": "安全与合规",
+      "category_code": "security"
+    },
+    {
+      "code": "waf",
+      "title": "Web应用防火墙 WAF",
+      "uri": "https://support.huaweicloud.com/waf/index.html",
+      "description": "识别恶意请求特征和防御未知威胁",
+      "category": "安全与合规",
+      "category_code": "security"
+    },
+    {
+      "code": "hss2.0",
+      "title": "企业主机安全 HSS",
+      "uri": "https://support.huaweicloud.com/hss2.0/index.html",
+      "description": "服务器贴身安全管家",
+      "category": "安全与合规",
+      "category_code": "security"
+    },
+    {
+      "code": "cfw",
+      "title": "云防火墙 CFW",
+      "uri": "https://support.huaweicloud.com/cfw/index.html",
+      "description": "网络流量管控与入侵安全防护",
+      "category": "安全与合规",
+      "category_code": "security"
+    },
+    {
+      "code": "secmaster",
+      "title": "安全云脑 SecMaster",
+      "uri": "https://support.huaweicloud.com/secmaster/index.html",
+      "description": "云原生的新一代智能安全运营中心",
+      "category": "安全与合规",
+      "category_code": "security"
+    },
+    {
+      "code": "aad",
+      "title": "DDoS防护 AAD",
+      "uri": "https://support.huaweicloud.com/aad/index.html",
+      "description": "配置高防IP，将攻击流量引流到高防IP",
+      "category": "安全与合规",
+      "category_code": "security"
+    },
+    {
+      "code": "dew",
+      "title": "密码安全中心 DEW",
+      "uri": "https://support.huaweicloud.com/dew/index.html",
+      "description": "云上数据加密和密钥托管服务",
+      "category": "安全与合规",
+      "category_code": "security"
+    },
+    {
+      "code": "dbss",
+      "title": "数据库安全服务 DBSS",
+      "uri": "https://support.huaweicloud.com/dbss/index.html",
+      "description": "数据库审计，SQL注入攻击检测",
+      "category": "安全与合规",
+      "category_code": "security"
+    },
+    {
+      "code": "cbh",
+      "title": "云堡垒机 CBH",
+      "uri": "https://support.huaweicloud.com/cbh/index.html",
+      "description": "主机管理、权限控制、运维审计",
+      "category": "安全与合规",
+      "category_code": "security"
+    },
+    {
+      "code": "dsc",
+      "title": "数据安全中心 DSC",
+      "uri": "https://support.huaweicloud.com/dsc/index.html",
+      "description": "云原生数据安全治理平台",
+      "category": "安全与合规",
+      "category_code": "security"
+    },
+    {
+      "code": "ccm",
+      "title": "云证书与管理服务 CCM",
+      "uri": "https://support.huaweicloud.com/ccm/index.html",
+      "description": "SSL证书和私有证书管理",
+      "category": "安全与合规",
+      "category_code": "security"
+    },
+    {
+      "code": "edgesec",
+      "title": "边缘安全 EdgeSec",
+      "uri": "https://support.huaweicloud.com/edgesec/index.html",
+      "description": "保护边缘应用安全，提升安全加速体验",
+      "category": "安全与合规",
+      "category_code": "security"
+    },
+    {
+      "code": "iam",
+      "title": "统一身份认证服务 IAM",
+      "uri": "https://support.huaweicloud.com/iam/index.html",
+      "description": "提供身份认证和权限管理功能",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "smn",
+      "title": "消息通知服务 SMN",
+      "uri": "https://support.huaweicloud.com/smn/index.html",
+      "description": "依据用户的需求主动推送通知消息",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "ces",
+      "title": "云监控服务 CES",
+      "uri": "https://support.huaweicloud.com/ces/index.html",
+      "description": "提供云上及本地资源的立体化监控平台",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "aom",
+      "title": "应用运维管理 AOM",
+      "uri": "https://support.huaweicloud.com/aom/index.html",
+      "description": "提供立体运维平台，实时监控应用",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "apm",
+      "title": "应用性能管理 APM",
+      "uri": "https://support.huaweicloud.com/apm/index.html",
+      "description": "实时监控并管理企业应用性能和故障",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "lts",
+      "title": "云日志服务 LTS",
+      "uri": "https://support.huaweicloud.com/lts/index.html",
+      "description": "提供日志收集、实时查询、存储等功能",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "cts",
+      "title": "云审计服务 CTS",
+      "uri": "https://support.huaweicloud.com/cts/index.html",
+      "description": "为您提供云账户下资源的操作记录",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "tms",
+      "title": "标签管理服务 TMS",
+      "uri": "https://support.huaweicloud.com/tms/index.html",
+      "description": "提供标签集中管理和资源分类功能",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "rms",
+      "title": "配置审计 Config",
+      "uri": "https://support.huaweicloud.com/rms/index.html",
+      "description": "提供全局资源配置管理，配置检测能力",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "oneaccess",
+      "title": "应用身份管理服务 OneAccess",
+      "uri": "https://support.huaweicloud.com/oneaccess/index.html",
+      "description": "具备集中式的身份管理、认证和授权能力",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "ram",
+      "title": "资源访问管理 RAM",
+      "uri": "https://support.huaweicloud.com/ram/index.html",
+      "description": "提供安全的跨账号共享资源的能力",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "organizations",
+      "title": "组织 Organizations",
+      "uri": "https://support.huaweicloud.com/organizations/index.html",
+      "description": "提供多账号关系的管理能力",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "aos",
+      "title": "资源编排服务 RFS",
+      "uri": "https://support.huaweicloud.com/aos/index.html",
+      "description": "批量自动化创建云服务资源",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "oa",
+      "title": "优化顾问 OA",
+      "uri": "https://support.huaweicloud.com/productdesc-oa/oa_01_0002.html",
+      "description": "一键识别云资源潜在风险并给出优化建议",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "identitycenter",
+      "title": "IAM 身份中心",
+      "uri": "https://support.huaweicloud.com/identitycenter/index.html",
+      "description": "提供多账号统一身份管理与访问控制",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "coc",
+      "title": "云运维中心 COC",
+      "uri": "https://support.huaweicloud.com/coc/index.html",
+      "description": "提供安全、高效的一站式智能运维平台",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "rgc",
+      "title": "资源治理中心 RGC",
+      "uri": "https://support.huaweicloud.com/productdesc-rgc/rgc_01_0002.html",
+      "description": "搭建并治理安全可扩展的多账号环境",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "pangudoer",
+      "title": "盘古Doer",
+      "uri": "https://support.huaweicloud.com/pangudoer/index.html",
+      "description": "产品咨询、任务执行、获取有效建议",
+      "category": "管理与监管",
+      "category_code": "management-deployment"
+    },
+    {
+      "code": "sms",
+      "title": "主机迁移服务 SMS",
+      "uri": "https://support.huaweicloud.com/sms/index.html",
+      "description": "把数据中心或其他云上的主机迁移到华为云",
+      "category": "迁移",
+      "category_code": "migration"
+    },
+    {
+      "code": "oms",
+      "title": "对象存储迁移服务 OMS",
+      "uri": "https://support.huaweicloud.com/oms/index.html",
+      "description": "公有云对象存储数据迁移服务",
+      "category": "迁移",
+      "category_code": "migration"
+    },
+    {
+      "code": "cdm",
+      "title": "云数据迁移 CDM",
+      "uri": "https://support.huaweicloud.com/cdm/index.html",
+      "description": "提供同/异构数据源之间批量数据迁移服务",
+      "category": "迁移",
+      "category_code": "migration"
+    },
+    {
+      "code": "mgc",
+      "title": "迁移中心 MgC",
+      "uri": "https://support.huaweicloud.com/mgc/index.html",
+      "description": "一站式迁移和现代化平台",
+      "category": "迁移",
+      "category_code": "migration"
+    },
+    {
+      "code": "bcs",
+      "title": "区块链服务 BCS",
+      "uri": "https://support.huaweicloud.com/bcs/index.html",
+      "description": "高性能、高安全的区块链技术平台服务",
+      "category": "区块链",
+      "category_code": "bcs"
+    },
+    {
+      "code": "dac",
+      "title": "数字资产链 DAC",
+      "uri": "https://support.huaweicloud.com/dac/index.html",
+      "description": "提供数字资产的确权、可信保存、安全交易",
+      "category": "区块链",
+      "category_code": "bcs"
+    },
+    {
+      "code": "hbs",
+      "title": "华为云区块链引擎服务 HBS",
+      "uri": "https://support.huaweicloud.com/hbs/index.html",
+      "description": "轻松搭建、管理区块链应用",
+      "category": "区块链",
+      "category_code": "bcs"
+    },
+    {
+      "code": "dcc",
+      "title": "专属计算集群 DCC",
+      "uri": "https://support.huaweicloud.com/dcc/index.html",
+      "description": "提供资源物理隔离的专属计算资源池",
+      "category": "专属云",
+      "category_code": "dedicated-cloud"
+    },
+    {
+      "code": "highperformance",
+      "title": "高性能计算 HPC",
+      "uri": "https://support.huaweicloud.com/usermanual-hpc/hpc_01_0002.html",
+      "description": "以云服务形式提供高性能计算资源",
+      "category": "解决方案",
+      "category_code": "solutions"
+    },
+    {
+      "code": "sap",
+      "title": "SAP",
+      "uri": "https://support.huaweicloud.com/sap/learningpath.html",
+      "description": "支持客户SAP系统部署在华为云上",
+      "category": "解决方案",
+      "category_code": "solutions"
+    },
+    {
+      "code": "hcdr",
+      "title": "混合云灾备",
+      "uri": "https://support.huaweicloud.com/hcdr/index.html",
+      "description": "提供多云以及跨云的容灾备份能力",
+      "category": "解决方案",
+      "category_code": "solutions"
+    },
+    {
+      "code": "imc",
+      "title": "开天工业工作台 MIW",
+      "uri": "https://support.huaweicloud.com/imc/index.html",
+      "description": "提供生产制造等工业行业的一体化使用体验",
+      "category": "解决方案",
+      "category_code": "solutions"
+    },
+    {
+      "code": "haydncsf",
+      "title": "解决方案工作台",
+      "uri": "https://support.huaweicloud.com/haydncsf/index.html#tabpane_06314173",
+      "description": "解决方案设计、验证的全生命周期管理平台",
+      "category": "解决方案",
+      "category_code": "solutions"
+    },
+    {
+      "code": "dtc",
+      "title": "数字化诊断治理专家服务",
+      "uri": "https://support.huaweicloud.com/usermanual-dtc/usermanual_01.html",
+      "description": null,
+      "category": "解决方案",
+      "category_code": "solutions"
+    },
+    {
+      "code": "sdk",
+      "title": "SDK开发指南",
+      "uri": "https://support.huaweicloud.com/devg-sdk/zh-cn_topic_0070637169.html",
+      "description": "获取和使用云服务提供的SDK",
+      "category": "开发者工具",
+      "category_code": "devtool"
+    },
+    {
+      "code": "apisign",
+      "title": "API签名指南",
+      "uri": "https://support.huaweicloud.com/devg-apisign/api-sign-provide01.html",
+      "description": "使用签名认证调用通过网关开放的API",
+      "category": "开发者工具",
+      "category_code": "devtool"
+    },
+    {
+      "code": "devstar",
+      "title": "DevStar",
+      "uri": "https://support.huaweicloud.com/productdesc-devstar/devstar_productdesc_0001.html",
+      "description": "基于模板快速开发云应用的开发平台",
+      "category": "开发者工具",
+      "category_code": "devtool"
+    },
+    {
+      "code": "hcli",
+      "title": "华为云命令行工具服务 KooCLI",
+      "uri": "https://support.huaweicloud.com/hcli/index.html",
+      "description": "为华为云服务API提供的命令行管理工具",
+      "category": "开发者工具",
+      "category_code": "devtool"
+    },
+    {
+      "code": "devkit",
+      "title": "Huawei Cloud Toolkit",
+      "uri": "https://support.huaweicloud.com/wtsnew-devkit/index.html",
+      "description": "华为云开发者插件",
+      "category": "开发者工具",
+      "category_code": "devtool"
+    },
+    {
+      "code": "codeartsapi",
+      "title": "CodeArts API",
+      "uri": "https://support.huaweicloud.com/productdesc-codeartsapi/apiarts_07_0001.html",
+      "description": "API全生命周期管理一体化协作平台",
+      "category": "开发者工具",
+      "category_code": "devtool"
+    },
+    {
+      "code": "hdspace",
+      "title": "开发者空间",
+      "uri": "https://support.huaweicloud.com/devg-hdspace/zh-cn_topic_0000002499689613.html",
+      "description": "提供开发者开发资源、工具权益及知识服务",
+      "category": "开发者工具",
+      "category_code": "devtool"
+    },
+    {
+      "code": "bestpract",
+      "title": "成本优化最佳实践",
+      "uri": "https://support.huaweicloud.com/price-bestpract/zh-cn_topic_0088404785.html",
+      "description": "云服务的成本管理优化建议",
+      "category": "价格",
+      "category_code": "price"
+    },
+    {
+      "code": "caf",
+      "title": "云采用框架  CAF",
+      "uri": "https://support.huaweicloud.com/usermanual-caf/caf_01_0002.html",
+      "description": "云化转型方法论与最佳实践",
+      "category": "云化转型",
+      "category_code": "cloudtransformation"
+    },
+    {
+      "code": "architecture",
+      "title": "云架构中心",
+      "uri": "https://support.huaweicloud.com/usermanual-architecture/architecture_01_0001.html",
+      "description": "上云后关键问题的设计指导和最佳实践",
+      "category": "云化转型",
+      "category_code": "cloudtransformation"
+    },
+    {
+      "code": "marketplace",
+      "title": "云商店",
+      "uri": "https://support.huaweicloud.com/marketplace/index.html",
+      "description": "领先的企业应用分发与交易平台",
+      "category": "云生态",
+      "category_code": "closedeconomy"
+    },
+    {
+      "code": "bpconsole",
+      "title": "合作伙伴中心",
+      "uri": "https://support.huaweicloud.com/bpconsole/index.html",
+      "description": "一站式伙伴关系管理与作业平台",
+      "category": "云生态",
+      "category_code": "closedeconomy"
+    },
+    {
+      "code": "edu",
+      "title": "华为云开发者学堂",
+      "uri": "https://support.huaweicloud.com/usermanual-edu/zh-cn_topic_0104702228.html",
+      "description": "云上学习、实验、认证与培训服务",
+      "category": "云生态",
+      "category_code": "closedeconomy"
+    },
+    {
+      "code": "hctms",
+      "title": "华为云慧通差旅",
+      "uri": "https://support.huaweicloud.com/hctms/index.html",
+      "description": "首个基于差旅大模型的智能差旅平台",
+      "category": "云生态",
+      "category_code": "closedeconomy"
+    },
+    {
+      "code": "account",
+      "title": "账号中心",
+      "uri": "https://support.huaweicloud.com/account/index.html",
+      "description": "华为云账号的注册、实名认证、维护和注销等",
+      "category": "用户服务",
+      "category_code": "UserSupport"
+    },
+    {
+      "code": "billing",
+      "title": "费用中心",
+      "uri": "https://support.huaweicloud.com/billing/index.html",
+      "description": "全方面了解您的消费信息",
+      "category": "用户服务",
+      "category_code": "UserSupport"
+    },
+    {
+      "code": "cost",
+      "title": "成本中心",
+      "uri": "https://support.huaweicloud.com/cost/index.html",
+      "description": "洞察、监控、优化您的华为云成本",
+      "category": "用户服务",
+      "category_code": "UserSupport"
+    },
+    {
+      "code": "support",
+      "title": "资源中心",
+      "uri": "https://support.huaweicloud.com/usermanual-support/zh-cn_topic_0069229860.html",
+      "description": "提供云服务器资源管理能力",
+      "category": "用户服务",
+      "category_code": "UserSupport"
+    },
+    {
+      "code": "em",
+      "title": "企业管理",
+      "uri": "https://support.huaweicloud.com/em/index.html",
+      "description": "实现企业云上的人、财、物、权、业务的管理",
+      "category": "用户服务",
+      "category_code": "UserSupport"
+    },
+    {
+      "code": "ticket",
+      "title": "工单管理",
+      "uri": "https://support.huaweicloud.com/productdesc-ticket/ticket_01_0002.html",
+      "description": "坐席工程师为您解答云产品使用问题",
+      "category": "用户服务",
+      "category_code": "UserSupport"
+    },
+    {
+      "code": "oce",
+      "title": "客户运营能力",
+      "uri": "https://support.huaweicloud.com/api-oce/zh-cn_topic_0075195195.html",
+      "description": "面向客户开放，支持多种交易运营能力",
+      "category": "用户服务",
+      "category_code": "UserSupport"
+    },
+    {
+      "code": "international",
+      "title": "国际站常见问题",
+      "uri": "https://support.huaweicloud.com/intl_faq/zh-cn_topic_0115884691.html",
+      "description": "华为云的子站点，面向全球客户开放",
+      "category": "用户服务",
+      "category_code": "UserSupport"
+    },
+    {
+      "code": "supportplans",
+      "title": "支持计划",
+      "uri": "https://support.huaweicloud.com/productdesc-supportplans/support-plans_01_0001.html",
+      "description": "提供高度灵活，全产品技术支持服务",
+      "category": "用户服务",
+      "category_code": "UserSupport"
+    },
+    {
+      "code": "professionalservices",
+      "title": "专业服务",
+      "uri": "https://support.huaweicloud.com/productdesc-professionalservices/migrationservices.html",
+      "description": "帮助客户上好云、用好云、管好云",
+      "category": "用户服务",
+      "category_code": "UserSupport"
+    },
+    {
+      "code": "ca",
+      "title": "我的凭证",
+      "uri": "https://support.huaweicloud.com/usermanual-ca/ca_01_0001.html",
+      "description": "集中展示与管理用户的身份凭证信息",
+      "category": "用户服务",
+      "category_code": "UserSupport"
+    },
+    {
+      "code": "govcloud",
+      "title": "华为云公共事业服务云平台",
+      "uri": "https://support.huaweicloud.com/qs-govcloud/qs-govcloud-0000001.html",
+      "description": null,
+      "category": "用户服务",
+      "category_code": "UserSupport"
+    },
+    {
+      "code": "consolehome",
+      "title": "管理控制台",
+      "uri": "https://support.huaweicloud.com/qs-consolehome/consolehome_qs_0002.html",
+      "description": "提供操作和管理云服务资源的能力",
+      "category": "其他",
+      "category_code": "others"
+    },
+    {
+      "code": "mc",
+      "title": "消息中心",
+      "uri": "https://support.huaweicloud.com/productdesc-mc/zh-cn_topic_0065366616.html",
+      "description": "提供各类通知消息发送接收和管理能力",
+      "category": "其他",
+      "category_code": "others"
+    },
+    {
+      "code": "pro_price",
+      "title": "产品价格详情",
+      "uri": "https://www.huaweicloud.com/price_detail.html",
+      "description": "云服务的价格详情与价格计算器",
+      "category": "其他",
+      "category_code": "others"
+    },
+    {
+      "code": "permissions",
+      "title": "系统权限",
+      "uri": "https://support.huaweicloud.com/usermanual-permissions/iam_01_0001.html",
+      "description": "各云服务系统权限的合集",
+      "category": "其他",
+      "category_code": "others"
+    },
+    {
+      "code": "bp_usernotice",
+      "title": "客户关联华为云合作伙伴须知",
+      "uri": "https://support.huaweicloud.com/bp_usernotice/index.html",
+      "description": "客户关联合作伙伴时，需阅读并同意此手册",
+      "category": "其他",
+      "category_code": "others"
+    },
+    {
+      "code": "iaas",
+      "title": "公共问题",
+      "uri": "https://support.huaweicloud.com/usermanual-iaas/zh-cn_topic_0040259342.html",
+      "description": "提供配额、区域和可用区等介绍",
+      "category": "其他",
+      "category_code": "others"
+    },
+    {
+      "code": "period",
+      "title": "宽限期保留期",
+      "uri": "https://support.huaweicloud.com/usermanual-period/zh-cn_topic_0086671074.html",
+      "description": "资源到期或欠费时提供的宽限和保留时间",
+      "category": "其他",
+      "category_code": "others"
+    },
+    {
+      "code": "cps_agreement",
+      "title": "奖励推广计划",
+      "uri": "https://support.huaweicloud.com/cps_agreement/cps_agreement_0000001.html",
+      "description": "奖励推广计划合作推广协议及商业信息认证",
+      "category": "其他",
+      "category_code": "others"
+    },
+    {
+      "code": "activity",
+      "title": "活动",
+      "uri": "https://support.huaweicloud.com/usermanual-activity/active_topic_0000001.html",
+      "description": "免费试用、产品促销等最新活动信息",
+      "category": "其他",
+      "category_code": "others"
+    },
+    {
+      "code": "trustsystem",
+      "title": "云服务信任体系能力说明",
+      "uri": "https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/trustsystem/1721296536013437303.pdf",
+      "description": "基础云服务的信任体系能力说明",
+      "category": "其他",
+      "category_code": "others"
+    },
+    {
+      "code": "idme",
+      "title": "工业数字模型驱动引擎",
+      "uri": "https://support.huaweicloud.com/idme/index.html",
+      "description": "赋能工业软件SaaS化数据模型驱动引擎",
+      "category": "工业软件",
+      "category_code": "Industrial"
+    },
+    {
+      "code": "craftartsipdcenter",
+      "title": "硬件开发工具链平台云服务",
+      "uri": "https://support.huaweicloud.com/craftartsipdcenter/index.html",
+      "description": "打造硬件开发工具链",
+      "category": "工业软件",
+      "category_code": "Industrial"
+    },
+    {
+      "code": "idee",
+      "title": "工业数据转换引擎云服务",
+      "uri": "https://support.huaweicloud.com/idee/index.html",
+      "description": "赋能异构工业软件高效数据转换",
+      "category": "工业软件",
+      "category_code": "Industrial"
+    }
+  ],
+  "fetched_at": "2026-02-05T16:51:28.506070"
+}

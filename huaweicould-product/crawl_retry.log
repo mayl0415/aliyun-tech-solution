@@ -1,0 +1,746 @@
+2026-02-05 16:51:28,197 [INFO] ============================================================
+2026-02-05 16:51:28,197 [INFO] 华为云产品架构爬虫启动
+2026-02-05 16:51:28,198 [INFO] ============================================================
+2026-02-05 16:51:28,198 [INFO] 正在获取产品列表...
+2026-02-05 16:51:28,505 [INFO] 获取到 242 个产品
+2026-02-05 16:51:28,507 [INFO] 已爬取: 137 个产品
+2026-02-05 16:51:28,508 [INFO] 跳过已爬取: 剩余 105 个产品
+2026-02-05 16:51:28,508 [INFO] 
+开始爬取 105 个产品...
+2026-02-05 16:51:28,508 [INFO] ------------------------------------------------------------
+2026-02-05 16:51:28,508 [INFO] 
+[1/105] Flexus云服务 (flexus) - 计算
+2026-02-05 16:51:28,508 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/flexus.html
+2026-02-05 16:51:28,627 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:51:28,711 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-flexus/pd_0000.html
+2026-02-05 16:51:28,941 [INFO]   [SUCCESS] 保存到 计算/Flexus云服务_flexus.md
+2026-02-05 16:51:31,442 [INFO] 
+[2/105] Huawei Cloud EulerOS (hce) - 计算
+2026-02-05 16:51:31,442 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/hce.html
+2026-02-05 16:51:31,659 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/hce.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/hce.html
+2026-02-05 16:51:31,660 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:51:31,761 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-hce/hce_01_0001.html
+2026-02-05 16:51:31,930 [INFO]   [SUCCESS] 保存到 计算/Huawei_Cloud_EulerOS_hce.md
+2026-02-05 16:51:34,431 [INFO] 
+[3/105] 弹性内存存储 EMS (ems) - 存储
+2026-02-05 16:51:34,431 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/ems.html
+2026-02-05 16:51:34,816 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/ems.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/ems.html
+2026-02-05 16:51:34,816 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:51:34,900 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-ems/ems_01_0100.html
+2026-02-05 16:51:35,065 [INFO]   [SUCCESS] 保存到 存储/弹性内存存储_EMS_ems.md
+2026-02-05 16:51:37,565 [INFO] 
+[4/105] 云硬盘备份 VBS (vbs) - 存储
+2026-02-05 16:51:37,565 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/vbs.html
+2026-02-05 16:51:38,031 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/vbs.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/vbs.html
+2026-02-05 16:51:38,032 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:51:38,111 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/vbs_faq/index.html
+2026-02-05 16:51:38,256 [INFO]   [SUCCESS] 保存到 存储/云硬盘备份_VBS_vbs.md
+2026-02-05 16:51:40,757 [INFO] 
+[5/105] 云服务器备份 CSBS (csbs) - 存储
+2026-02-05 16:51:40,757 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/csbs.html
+2026-02-05 16:51:41,097 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/csbs.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/csbs.html
+2026-02-05 16:51:41,098 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:51:41,191 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/csbs_faq/zh-cn_topic_0056584628.html
+2026-02-05 16:51:41,333 [INFO]   [SUCCESS] 保存到 存储/云服务器备份_CSBS_csbs.md
+2026-02-05 16:51:43,843 [INFO] 
+[6/105] 专属分布式存储服务 DSS (dss) - 存储
+2026-02-05 16:51:43,843 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/dss.html
+2026-02-05 16:51:44,155 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/dss.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/dss.html
+2026-02-05 16:51:44,155 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:51:44,249 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-dss/zh-cn_topic_0081591984.html
+2026-02-05 16:51:44,770 [INFO]   [SUCCESS] 保存到 存储/专属分布式存储服务_DSS_dss.md
+2026-02-05 16:51:47,287 [INFO] 
+[7/105] 数据工坊 DWR (dwr) - 存储
+2026-02-05 16:51:47,287 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/dwr.html
+2026-02-05 16:51:47,599 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/dwr.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/dwr.html
+2026-02-05 16:51:47,600 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:51:47,687 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-dwr/dwr_01_0001.html
+2026-02-05 16:51:48,073 [INFO]   [SUCCESS] 保存到 存储/数据工坊_DWR_dwr.md
+2026-02-05 16:51:50,573 [INFO] 
+[8/105] 地图数据 MapDS (mapds) - 存储
+2026-02-05 16:51:50,574 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/mapds.html
+2026-02-05 16:51:50,913 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/mapds.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/mapds.html
+2026-02-05 16:51:50,916 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:51:51,003 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-mapds/mapds_01_0002.html
+2026-02-05 16:51:51,248 [INFO]   [SUCCESS] 保存到 存储/地图数据_MapDS_mapds.md
+2026-02-05 16:51:53,749 [INFO] 
+[9/105] 键值存储服务 KVS (kvs) - 存储
+2026-02-05 16:51:53,749 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/kvs.html
+2026-02-05 16:51:54,062 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/kvs.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/kvs.html
+2026-02-05 16:51:54,063 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:51:54,153 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-kvs/kvs_01_0003.html
+2026-02-05 16:51:54,297 [INFO]   [SUCCESS] 保存到 存储/键值存储服务_KVS_kvs.md
+2026-02-05 16:51:56,798 [INFO] 
+[10/105] 全球加速 GA (ga) - 网络
+2026-02-05 16:51:56,798 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/ga.html
+2026-02-05 16:51:56,922 [INFO]   找到产品介绍: https://support.huaweicloud.com/productdesc-ga/ga_01_0001.html
+2026-02-05 16:51:57,291 [INFO]   [SUCCESS] 保存到 网络/全球加速_GA_ga.md
+2026-02-05 16:51:59,792 [INFO] 
+[11/105] 云原生应用网络 ANC (anc) - 网络
+2026-02-05 16:51:59,792 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/anc.html
+2026-02-05 16:52:00,195 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/anc.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/anc.html
+2026-02-05 16:52:00,196 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:00,319 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-anc/anc_01_0002.html
+2026-02-05 16:52:00,475 [INFO]   [SUCCESS] 保存到 网络/云原生应用网络_ANC_anc.md
+2026-02-05 16:52:02,976 [INFO] 
+[12/105] 云容器实例 CCI (cci) - 容器
+2026-02-05 16:52:02,976 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/cci.html
+2026-02-05 16:52:03,206 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/cci.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/cci.html
+2026-02-05 16:52:03,206 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:03,298 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-cci2/cci_03_1001.html
+2026-02-05 16:52:03,446 [INFO]   [SUCCESS] 保存到 容器/云容器实例_CCI_cci.md
+2026-02-05 16:52:05,947 [INFO] 
+[13/105] 云原生服务中心 OSC (osc) - 容器
+2026-02-05 16:52:05,947 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/osc.html
+2026-02-05 16:52:06,270 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/osc.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/osc.html
+2026-02-05 16:52:06,271 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:06,358 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-osc/osc_productdesc_0001.html
+2026-02-05 16:52:06,496 [INFO]   [SUCCESS] 保存到 容器/云原生服务中心_OSC_osc.md
+2026-02-05 16:52:08,997 [INFO] 
+[14/105] 应用服务网格 ASM (asm) - 容器
+2026-02-05 16:52:08,997 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/asm.html
+2026-02-05 16:52:09,304 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/asm.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/asm.html
+2026-02-05 16:52:09,306 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:09,401 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-asm/asm_productdesc_0001.html
+2026-02-05 16:52:09,642 [INFO]   [SUCCESS] 保存到 容器/应用服务网格_ASM_asm.md
+2026-02-05 16:52:12,143 [INFO] 
+[15/105] 云数据库 RDS (rds) - 数据库
+2026-02-05 16:52:12,143 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/rds.html
+2026-02-05 16:52:12,282 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:12,391 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-rds/zh-cn_topic_dashboard.html
+2026-02-05 16:52:12,543 [INFO]   [SUCCESS] 保存到 数据库/云数据库_RDS_rds.md
+2026-02-05 16:52:15,044 [INFO] 
+[16/105] 分布式数据库中间件 DDM (ddm) - 数据库
+2026-02-05 16:52:15,044 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/ddm.html
+2026-02-05 16:52:15,269 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/ddm.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/ddm.html
+2026-02-05 16:52:15,270 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:16,290 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-ddm/ddm_01_0001.html
+2026-02-05 16:52:16,471 [INFO]   [SUCCESS] 保存到 数据库/分布式数据库中间件_DDM_ddm.md
+2026-02-05 16:52:18,972 [INFO] 
+[17/105] 云数据库 GeminiDB (nosql) - 数据库
+2026-02-05 16:52:18,972 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/nosql.html
+2026-02-05 16:52:19,380 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/nosql.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/nosql.html
+2026-02-05 16:52:19,381 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:19,471 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-nosql/nosql_introduction.html
+2026-02-05 16:52:19,625 [INFO]   [SUCCESS] 保存到 数据库/云数据库_GeminiDB_nosql.md
+2026-02-05 16:52:22,126 [INFO] 
+[18/105] 分布式缓存服务 DCS (dcs) - 数据库
+2026-02-05 16:52:22,126 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/dcs.html
+2026-02-05 16:52:22,391 [INFO]   找到产品介绍: https://support.huaweicloud.com/productdesc-dcs/dcs-pd-200713001.html
+2026-02-05 16:52:22,585 [INFO]   [SUCCESS] 保存到 数据库/分布式缓存服务_DCS_dcs.md
+2026-02-05 16:52:25,086 [INFO] 
+[19/105] 自动驾驶云服务 Octopus (octopus) - 人工智能
+2026-02-05 16:52:25,086 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/octopus.html
+2026-02-05 16:52:25,381 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/octopus.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/octopus.html
+2026-02-05 16:52:25,382 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:25,471 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-octopus/octopus-01-0001.html
+2026-02-05 16:52:25,628 [INFO]   [SUCCESS] 保存到 人工智能/自动驾驶云服务_Octopus_octopus.md
+2026-02-05 16:52:28,129 [INFO] 
+[20/105] 自然语言处理 NLP (nlp) - 人工智能
+2026-02-05 16:52:28,129 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/nlp.html
+2026-02-05 16:52:28,361 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/nlp.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/nlp.html
+2026-02-05 16:52:28,362 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:28,484 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-nlp/nlp_04_0001.html
+2026-02-05 16:52:28,659 [INFO]   [SUCCESS] 保存到 人工智能/自然语言处理_NLP_nlp.md
+2026-02-05 16:52:31,160 [INFO] 
+[21/105] 内容审核 Moderation (moderation) - 人工智能
+2026-02-05 16:52:31,160 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/moderation.html
+2026-02-05 16:52:31,513 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/moderation.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/moderation.html
+2026-02-05 16:52:31,514 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:31,589 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-moderation/moderation_01_0002.html
+2026-02-05 16:52:31,722 [INFO]   [SUCCESS] 保存到 人工智能/内容审核_Moderation_moderation.md
+2026-02-05 16:52:34,223 [INFO] 
+[22/105] 人脸识别服务 FRS (face) - 人工智能
+2026-02-05 16:52:34,223 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/face.html
+2026-02-05 16:52:34,616 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/face.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/face.html
+2026-02-05 16:52:34,617 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:34,718 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-face/face_01_0001.html
+2026-02-05 16:52:34,864 [INFO]   [SUCCESS] 保存到 人工智能/人脸识别服务_FRS_face.md
+2026-02-05 16:52:37,365 [INFO] 
+[23/105]  对话机器人服务 CBS (cbs) - 人工智能
+2026-02-05 16:52:37,365 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/cbs.html
+2026-02-05 16:52:37,646 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/cbs.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/cbs.html
+2026-02-05 16:52:37,647 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:37,732 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-cbs/cbs_04_0001.html
+2026-02-05 16:52:37,881 [INFO]   [SUCCESS] 保存到 人工智能/_对话机器人服务_CBS_cbs.md
+2026-02-05 16:52:40,381 [INFO] 
+[24/105] 人证核身服务 IVS (ivs) - 人工智能
+2026-02-05 16:52:40,382 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/ivs.html
+2026-02-05 16:52:40,681 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/ivs.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/ivs.html
+2026-02-05 16:52:40,682 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:40,763 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-ivs/ivs_01_0001.html
+2026-02-05 16:52:40,905 [INFO]   [SUCCESS] 保存到 人工智能/人证核身服务_IVS_ivs.md
+2026-02-05 16:52:43,406 [INFO] 
+[25/105] 城市智能体 (icitys) - 人工智能
+2026-02-05 16:52:43,406 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/icitys.html
+2026-02-05 16:52:43,716 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/icitys.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/icitys.html
+2026-02-05 16:52:43,717 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:43,803 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-icitys/icitys_04_0001.html
+2026-02-05 16:52:44,301 [INFO]   [SUCCESS] 保存到 人工智能/城市智能体_icitys.md
+2026-02-05 16:52:46,802 [INFO] 
+[26/105] 华为HiLens (hilens) - 人工智能
+2026-02-05 16:52:46,802 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/hilens.html
+2026-02-05 16:52:47,128 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/hilens.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/hilens.html
+2026-02-05 16:52:47,129 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:47,226 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-hilens/hilens_01_0001.html
+2026-02-05 16:52:47,645 [INFO]   [SUCCESS] 保存到 人工智能/华为HiLens_hilens.md
+2026-02-05 16:52:50,146 [INFO] 
+[27/105] 数据治理中心 DataArts Studio (dataartsstudio) - 大数据
+2026-02-05 16:52:50,146 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/dataartsstudio.html
+2026-02-05 16:52:50,445 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/dataartsstudio.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/dataartsstudio.html
+2026-02-05 16:52:50,445 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:50,543 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-dataartsstudio/dataartsstudio_07_001.html
+2026-02-05 16:52:50,689 [INFO]   [SUCCESS] 保存到 大数据/数据治理中心_DataArts_Studio_dataartsstudio.md
+2026-02-05 16:52:53,191 [INFO] 
+[28/105] 数智融合计算服务 DataArts Fabric (fabric) - 大数据
+2026-02-05 16:52:53,191 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/fabric.html
+2026-02-05 16:52:53,470 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/fabric.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/fabric.html
+2026-02-05 16:52:53,471 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:53,563 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-fabric/dataartsfabric_01_0002.html
+2026-02-05 16:52:54,724 [INFO]   [SUCCESS] 保存到 大数据/数智融合计算服务_DataArts_Fabric_fabric.md
+2026-02-05 16:52:57,225 [INFO] 
+[29/105] 设备接入 IoTDA (iothub) - IoT物联网
+2026-02-05 16:52:57,225 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/iothub.html
+2026-02-05 16:52:57,443 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/iothub.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/iothub.html
+2026-02-05 16:52:57,443 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:52:57,533 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-iothub/iot_04_0002.html
+2026-02-05 16:52:57,750 [INFO]   [SUCCESS] 保存到 IoT物联网/设备接入_IoTDA_iothub.md
+2026-02-05 16:53:00,251 [INFO] 
+[30/105] IoT数据分析 IoTA (iotanalytics) - IoT物联网
+2026-02-05 16:53:00,251 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/iotanalytics.html
+2026-02-05 16:53:01,084 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/iotanalytics.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/iotanalytics.html
+2026-02-05 16:53:01,086 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:01,228 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-iotanalytics/iota_01_00100.html
+2026-02-05 16:53:01,444 [INFO]   [SUCCESS] 保存到 IoT物联网/IoT数据分析_IoTA_iotanalytics.md
+2026-02-05 16:53:03,945 [INFO] 
+[31/105] IoT边缘 IoTEdge (iotedge) - IoT物联网
+2026-02-05 16:53:03,945 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/iotedge.html
+2026-02-05 16:53:04,248 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/iotedge.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/iotedge.html
+2026-02-05 16:53:04,250 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:04,348 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/iotedge_faq/iotedge_04_0001.html
+2026-02-05 16:53:04,511 [INFO]   [SUCCESS] 保存到 IoT物联网/IoT边缘_IoTEdge_iotedge.md
+2026-02-05 16:53:07,012 [INFO] 
+[32/105] 设备发放 IoTDP (iotps) - IoT物联网
+2026-02-05 16:53:07,012 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/iotps.html
+2026-02-05 16:53:07,266 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/iotps.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/iotps.html
+2026-02-05 16:53:07,267 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:07,367 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-iotps/iot_02_0001.html
+2026-02-05 16:53:07,585 [INFO]   [SUCCESS] 保存到 IoT物联网/设备发放_IoTDP_iotps.md
+2026-02-05 16:53:10,086 [INFO] 
+[33/105] 分布式消息服务RocketMQ版 (hrm) - 应用中间件
+2026-02-05 16:53:10,086 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/hrm.html
+2026-02-05 16:53:10,277 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/hrm.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/hrm.html
+2026-02-05 16:53:10,279 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:10,390 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-hrm/hrm-pd-001.html
+2026-02-05 16:53:10,705 [INFO]   [SUCCESS] 保存到 应用中间件/分布式消息服务RocketMQ版_hrm.md
+2026-02-05 16:53:13,206 [INFO] 
+[34/105] CodeArts代码智能体  (codeartssnap) - 开发与运维
+2026-02-05 16:53:13,206 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/codeartssnap.html
+2026-02-05 16:53:13,533 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/codeartssnap.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/codeartssnap.html
+2026-02-05 16:53:13,534 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:13,628 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-codeartssnap/codeartsdoer_pd_0001.html
+2026-02-05 16:53:13,746 [INFO]   [SUCCESS] 保存到 开发与运维/CodeArts代码智能体__codeartssnap.md
+2026-02-05 16:53:16,247 [INFO] 
+[35/105] 软件开发生产线 CodeArts (devcloud) - 开发与运维
+2026-02-05 16:53:16,247 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/devcloud.html
+2026-02-05 16:53:16,504 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/devcloud.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/devcloud.html
+2026-02-05 16:53:16,504 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:16,598 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-devcloud/devcloud_pdtd_00001.html
+2026-02-05 16:53:16,730 [INFO]   [SUCCESS] 保存到 开发与运维/软件开发生产线_CodeArts_devcloud.md
+2026-02-05 16:53:19,230 [INFO] 
+[36/105] 移动应用测试 MobileAPPTest (mobiletest) - 开发与运维
+2026-02-05 16:53:19,231 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/mobiletest.html
+2026-02-05 16:53:19,501 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/mobiletest.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/mobiletest.html
+2026-02-05 16:53:19,501 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:19,620 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-mobiletest/mobiletest_pdtd_00001.html
+2026-02-05 16:53:19,753 [INFO]   [SUCCESS] 保存到 开发与运维/移动应用测试_MobileAPPTest_mobiletest.md
+2026-02-05 16:53:22,702 [INFO] 
+[37/105] 开源镜像站 Mirrors (mirrors) - 开发与运维
+2026-02-05 16:53:22,702 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/mirrors.html
+2026-02-05 16:53:22,919 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/mirrors.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/mirrors.html
+2026-02-05 16:53:22,920 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:23,007 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-mirrors/mirrors_pdtd_0000.html
+2026-02-05 16:53:23,139 [INFO]   [SUCCESS] 保存到 开发与运维/开源镜像站_Mirrors_mirrors.md
+2026-02-05 16:53:25,639 [INFO] 
+[38/105] Astro企业应用 AstroPro (astropro) - 开发与运维
+2026-02-05 16:53:25,639 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/astropro.html
+2026-02-05 16:53:25,747 [INFO]   找到产品介绍: https://support.huaweicloud.com/productdesc-astropro/astropro_03_0001.html
+2026-02-05 16:53:26,086 [INFO]   [SUCCESS] 保存到 开发与运维/Astro企业应用_AstroPro_astropro.md
+2026-02-05 16:53:28,586 [INFO] 
+[39/105] 域名注册服务 Domains (domain) - 企业应用
+2026-02-05 16:53:28,587 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/domain.html
+2026-02-05 16:53:28,832 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/domain.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/domain.html
+2026-02-05 16:53:28,832 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:29,412 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-domain/domain_pd_110000.html
+2026-02-05 16:53:29,549 [INFO]   [SUCCESS] 保存到 企业应用/域名注册服务_Domains_domain.md
+2026-02-05 16:53:32,050 [INFO] 
+[40/105] 企业门户 EWP (cloudsite) - 企业应用
+2026-02-05 16:53:32,050 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/cloudsite.html
+2026-02-05 16:53:32,382 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/cloudsite.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/cloudsite.html
+2026-02-05 16:53:32,383 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:32,468 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-cloudsite/cloudsite_01_4081.html
+2026-02-05 16:53:32,623 [INFO]   [SUCCESS] 保存到 企业应用/企业门户_EWP_cloudsite.md
+2026-02-05 16:53:35,124 [INFO] 
+[41/105] ICP备案 (icp) - 企业应用
+2026-02-05 16:53:35,124 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/icp.html
+2026-02-05 16:53:35,414 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/icp.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/icp.html
+2026-02-05 16:53:35,415 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:35,581 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/icprb-icp/zh-cn_topic_0115815923.html
+2026-02-05 16:53:35,761 [INFO]   [SUCCESS] 保存到 企业应用/ICP备案_icp.md
+2026-02-05 16:53:38,261 [INFO] 
+[42/105] 商标注册 (trademark) - 企业应用
+2026-02-05 16:53:38,261 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/trademark.html
+2026-02-05 16:53:38,489 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/trademark.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/trademark.html
+2026-02-05 16:53:38,490 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:38,615 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-trademark/trademark_01_0100.html
+2026-02-05 16:53:38,769 [INFO]   [SUCCESS] 保存到 企业应用/商标注册_trademark.md
+2026-02-05 16:53:41,269 [INFO] 
+[43/105] 华为云WeLink (workplace) - 企业应用
+2026-02-05 16:53:41,270 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/workplace.html
+2026-02-05 16:53:41,810 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/workplace.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/workplace.html
+2026-02-05 16:53:41,812 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:41,954 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/usermanual-welink/welink_pcuse_roundtable_03.html
+2026-02-05 16:53:42,226 [INFO]   [SUCCESS] 保存到 企业应用/华为云WeLink_workplace.md
+2026-02-05 16:53:44,727 [INFO] 
+[44/105] 隐私保护通话 PrivateNumber (PrivateNumber) - 企业应用
+2026-02-05 16:53:44,727 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/PrivateNumber.html
+2026-02-05 16:53:44,978 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/PrivateNumber.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/PrivateNumber.html
+2026-02-05 16:53:44,982 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:45,084 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/PrivateNumber_faq/pn_faq_spec07.html
+2026-02-05 16:53:45,233 [INFO]   [SUCCESS] 保存到 企业应用/隐私保护通话_PrivateNumber_PrivateNumber.md
+2026-02-05 16:53:47,734 [INFO] 
+[45/105] 语音通话 VoiceCall (voice) - 企业应用
+2026-02-05 16:53:47,734 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/voice.html
+2026-02-05 16:53:47,993 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/voice.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/voice.html
+2026-02-05 16:53:47,994 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:48,121 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/VoiceCall_faq/VoiceCall_faq_00018.html
+2026-02-05 16:53:48,251 [INFO]   [SUCCESS] 保存到 企业应用/语音通话_VoiceCall_voice.md
+2026-02-05 16:53:50,751 [INFO] 
+[46/105] 云管理网络 (cmn) - 企业应用
+2026-02-05 16:53:50,751 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/cmn.html
+2026-02-05 16:53:50,993 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/cmn.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/cmn.html
+2026-02-05 16:53:50,994 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:51,102 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/cmn_faq/cmn030002.html
+2026-02-05 16:53:51,299 [INFO]   [SUCCESS] 保存到 企业应用/云管理网络_cmn.md
+2026-02-05 16:53:53,799 [INFO] 
+[47/105] SD-WAN 云服务 (sdwan) - 企业应用
+2026-02-05 16:53:53,799 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/sdwan.html
+2026-02-05 16:53:54,054 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/sdwan.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/sdwan.html
+2026-02-05 16:53:54,054 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:54,267 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-sdwan/zh-cn_topic_0194308928.html
+2026-02-05 16:53:54,448 [INFO]   [SUCCESS] 保存到 企业应用/SD-WAN_云服务_sdwan.md
+2026-02-05 16:53:56,951 [INFO] 
+[48/105] 应用与数据集成平台 ROMA Connect (roma) - 企业应用
+2026-02-05 16:53:56,951 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/roma.html
+2026-02-05 16:53:57,206 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/roma.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/roma.html
+2026-02-05 16:53:57,209 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:53:57,333 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-roma/what-is-ROMA.html
+2026-02-05 16:53:57,747 [INFO]   [SUCCESS] 保存到 企业应用/应用与数据集成平台_ROMA_Connect_roma.md
+2026-02-05 16:54:00,248 [INFO] 
+[49/105] 政企自服务管理 ESM (esm) - 企业应用
+2026-02-05 16:54:00,249 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/esm.html
+2026-02-05 16:54:00,503 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/esm.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/esm.html
+2026-02-05 16:54:00,504 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:00,637 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-esm/esm_03_0002.html
+2026-02-05 16:54:00,837 [INFO]   [SUCCESS] 保存到 企业应用/政企自服务管理_ESM_esm.md
+2026-02-05 16:54:03,339 [INFO] 
+[50/105] 实时音视频 SparkRTC (rtc) - 视频
+2026-02-05 16:54:03,339 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/rtc.html
+2026-02-05 16:54:03,840 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/rtc.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/rtc.html
+2026-02-05 16:54:03,843 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:03,958 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-rtc/rtc_01_0001.html
+2026-02-05 16:54:04,173 [INFO]   [SUCCESS] 保存到 视频/实时音视频_SparkRTC_rtc.md
+2026-02-05 16:54:06,676 [INFO] 
+[51/105] 视频直播 Live (live) - 视频
+2026-02-05 16:54:06,676 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/live.html
+2026-02-05 16:54:06,925 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/live.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/live.html
+2026-02-05 16:54:06,927 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:07,026 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-live/live030001.html
+2026-02-05 16:54:07,189 [INFO]   [SUCCESS] 保存到 视频/视频直播_Live_live.md
+2026-02-05 16:54:09,689 [INFO] 
+[52/105] 视频点播 VOD (vod) - 视频
+2026-02-05 16:54:09,689 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/vod.html
+2026-02-05 16:54:10,229 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/vod.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/vod.html
+2026-02-05 16:54:10,230 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:10,345 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-vod/vod030001.html
+2026-02-05 16:54:10,536 [INFO]   [SUCCESS] 保存到 视频/视频点播_VOD_vod.md
+2026-02-05 16:54:13,037 [INFO] 
+[53/105] 媒体处理 MPC (mpc) - 视频
+2026-02-05 16:54:13,037 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/mpc.html
+2026-02-05 16:54:13,354 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/mpc.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/mpc.html
+2026-02-05 16:54:13,355 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:13,483 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-mpc/mpc030001.html
+2026-02-05 16:54:13,675 [INFO]   [SUCCESS] 保存到 视频/媒体处理_MPC_mpc.md
+2026-02-05 16:54:16,178 [INFO] 
+[54/105] 视频接入服务 VIS (vis) - 视频
+2026-02-05 16:54:16,178 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/vis.html
+2026-02-05 16:54:16,445 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/vis.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/vis.html
+2026-02-05 16:54:16,446 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:16,583 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-vis/vis_01_0001.html
+2026-02-05 16:54:16,764 [INFO]   [SUCCESS] 保存到 视频/视频接入服务_VIS_vis.md
+2026-02-05 16:54:19,265 [INFO] 
+[55/105] 行业视频管理服务 IVM (ivm) - 视频
+2026-02-05 16:54:19,265 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/ivm.html
+2026-02-05 16:54:19,536 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/ivm.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/ivm.html
+2026-02-05 16:54:19,537 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:19,638 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-ivm/ivm_01_0001.html
+2026-02-05 16:54:19,807 [INFO]   [SUCCESS] 保存到 视频/行业视频管理服务_IVM_ivm.md
+2026-02-05 16:54:22,308 [INFO] 
+[56/105] 数字内容生产线 MetaStudio (metastudio) - 视频
+2026-02-05 16:54:22,308 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/metastudio.html
+2026-02-05 16:54:22,603 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/metastudio.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/metastudio.html
+2026-02-05 16:54:22,604 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:22,729 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-metastudio/metastudio_01_0000.html
+2026-02-05 16:54:22,887 [INFO]   [SUCCESS] 保存到 视频/数字内容生产线_MetaStudio_metastudio.md
+2026-02-05 16:54:25,390 [INFO] 
+[57/105] 安全技术与应用 (securityInfo) - 安全与合规
+2026-02-05 16:54:25,390 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/securityInfo.html
+2026-02-05 16:54:25,788 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/securityInfo.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/securityInfo.html
+2026-02-05 16:54:25,788 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:25,945 [INFO]   使用备用链接: https://support.huaweicloud.com/bestpractice-securityInfo/securityInfo_01_0029.html
+2026-02-05 16:54:26,082 [INFO]   [SUCCESS] 保存到 安全与合规/安全技术与应用_securityInfo.md
+2026-02-05 16:54:28,583 [INFO] 
+[58/105] 企业主机安全 HSS (hss2.0) - 安全与合规
+2026-02-05 16:54:28,583 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/hss2.0.html
+2026-02-05 16:54:28,849 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/hss2.0.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/hss2.0.html
+2026-02-05 16:54:28,850 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:28,969 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-hss2.0/hss_01_0001.html
+2026-02-05 16:54:29,118 [INFO]   [SUCCESS] 保存到 安全与合规/企业主机安全_HSS_hss2.0.md
+2026-02-05 16:54:31,619 [INFO] 
+[59/105] 云监控服务 CES (ces) - 管理与监管
+2026-02-05 16:54:31,619 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/ces.html
+2026-02-05 16:54:31,725 [INFO]   找到产品介绍: https://support.huaweicloud.com/productdesc-ces/zh-cn_topic_0015479882.html
+2026-02-05 16:54:31,868 [INFO]   [SUCCESS] 保存到 管理与监管/云监控服务_CES_ces.md
+2026-02-05 16:54:34,369 [INFO] 
+[60/105] 配置审计 Config (rms) - 管理与监管
+2026-02-05 16:54:34,369 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/rms.html
+2026-02-05 16:54:34,621 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/rms.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/rms.html
+2026-02-05 16:54:34,622 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:34,742 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-rms/rms_01_0100.html
+2026-02-05 16:54:34,932 [INFO]   [SUCCESS] 保存到 管理与监管/配置审计_Config_rms.md
+2026-02-05 16:54:37,433 [INFO] 
+[61/105] 组织 Organizations (organizations) - 管理与监管
+2026-02-05 16:54:37,433 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/organizations.html
+2026-02-05 16:54:37,833 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/organizations.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/organizations.html
+2026-02-05 16:54:37,835 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:37,969 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-organizations/org_01_0011.html
+2026-02-05 16:54:38,228 [INFO]   [SUCCESS] 保存到 管理与监管/组织_Organizations_organizations.md
+2026-02-05 16:54:40,729 [INFO] 
+[62/105] 资源编排服务 RFS (aos) - 管理与监管
+2026-02-05 16:54:40,729 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/aos.html
+2026-02-05 16:54:40,999 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/aos.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/aos.html
+2026-02-05 16:54:41,000 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:41,132 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-aos/rf_02_0002.html
+2026-02-05 16:54:41,517 [INFO]   [SUCCESS] 保存到 管理与监管/资源编排服务_RFS_aos.md
+2026-02-05 16:54:44,019 [INFO] 
+[63/105] 优化顾问 OA (oa) - 管理与监管
+2026-02-05 16:54:44,019 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/oa.html
+2026-02-05 16:54:44,388 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/oa.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/oa.html
+2026-02-05 16:54:44,388 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:44,458 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-oa/oa_01_0002.html
+2026-02-05 16:54:44,604 [INFO]   [SUCCESS] 保存到 管理与监管/优化顾问_OA_oa.md
+2026-02-05 16:54:47,104 [INFO] 
+[64/105] IAM 身份中心 (identitycenter) - 管理与监管
+2026-02-05 16:54:47,104 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/identitycenter.html
+2026-02-05 16:54:47,420 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/identitycenter.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/identitycenter.html
+2026-02-05 16:54:47,421 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:48,007 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-identitycenter/iic_01_0002.html
+2026-02-05 16:54:48,159 [INFO]   [SUCCESS] 保存到 管理与监管/IAM_身份中心_identitycenter.md
+2026-02-05 16:54:50,660 [INFO] 
+[65/105] 资源治理中心 RGC (rgc) - 管理与监管
+2026-02-05 16:54:50,660 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/rgc.html
+2026-02-05 16:54:50,973 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/rgc.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/rgc.html
+2026-02-05 16:54:50,974 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:51,078 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-rgc/rgc_01_0002.html
+2026-02-05 16:54:51,246 [INFO]   [SUCCESS] 保存到 管理与监管/资源治理中心_RGC_rgc.md
+2026-02-05 16:54:53,747 [INFO] 
+[66/105] 盘古Doer (pangudoer) - 管理与监管
+2026-02-05 16:54:53,747 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/pangudoer.html
+2026-02-05 16:54:54,111 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/pangudoer.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/pangudoer.html
+2026-02-05 16:54:54,112 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:54,290 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-pangudoer/pangudoer_01_0001.html
+2026-02-05 16:54:54,547 [INFO]   [SUCCESS] 保存到 管理与监管/盘古Doer_pangudoer.md
+2026-02-05 16:54:57,047 [INFO] 
+[67/105] 华为云区块链引擎服务 HBS (hbs) - 区块链
+2026-02-05 16:54:57,048 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/hbs.html
+2026-02-05 16:54:57,487 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/hbs.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/hbs.html
+2026-02-05 16:54:57,489 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:54:57,687 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-hbs/hbs_productdesc_01008.html
+2026-02-05 16:54:57,957 [INFO]   [SUCCESS] 保存到 区块链/华为云区块链引擎服务_HBS_hbs.md
+2026-02-05 16:55:00,458 [INFO] 
+[68/105] 高性能计算 HPC (highperformance) - 解决方案
+2026-02-05 16:55:00,458 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/highperformance.html
+2026-02-05 16:55:00,741 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/highperformance.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/highperformance.html
+2026-02-05 16:55:00,743 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:00,858 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/usermanual-hpcss/hpcss_01_0002.html
+2026-02-05 16:55:01,184 [INFO]   [SUCCESS] 保存到 解决方案/高性能计算_HPC_highperformance.md
+2026-02-05 16:55:03,690 [INFO] 
+[69/105] SAP (sap) - 解决方案
+2026-02-05 16:55:03,690 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/sap.html
+2026-02-05 16:55:04,024 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/sap.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/sap.html
+2026-02-05 16:55:04,025 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:04,109 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/sap_faq/sap_04_0003.html
+2026-02-05 16:55:04,268 [INFO]   [SUCCESS] 保存到 解决方案/SAP_sap.md
+2026-02-05 16:55:06,769 [INFO] 
+[70/105] 混合云灾备 (hcdr) - 解决方案
+2026-02-05 16:55:06,769 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/hcdr.html
+2026-02-05 16:55:07,220 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/hcdr.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/hcdr.html
+2026-02-05 16:55:07,222 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:07,358 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-hcdr/hcdr_01_0000.html
+2026-02-05 16:55:07,567 [INFO]   [SUCCESS] 保存到 解决方案/混合云灾备_hcdr.md
+2026-02-05 16:55:10,068 [INFO] 
+[71/105] 开天工业工作台 MIW (imc) - 解决方案
+2026-02-05 16:55:10,068 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/imc.html
+2026-02-05 16:55:10,360 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/imc.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/imc.html
+2026-02-05 16:55:10,361 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:10,468 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-imc/imc-03-0002.html
+2026-02-05 16:55:10,658 [INFO]   [SUCCESS] 保存到 解决方案/开天工业工作台_MIW_imc.md
+2026-02-05 16:55:13,159 [INFO] 
+[72/105] 解决方案工作台 (haydncsf) - 解决方案
+2026-02-05 16:55:13,159 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/haydncsf.html
+2026-02-05 16:55:13,570 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/haydncsf.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/haydncsf.html
+2026-02-05 16:55:13,571 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:13,658 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-haydncsf/haydncsf_02_0001.html
+2026-02-05 16:55:13,900 [INFO]   [SUCCESS] 保存到 解决方案/解决方案工作台_haydncsf.md
+2026-02-05 16:55:16,401 [INFO] 
+[73/105] 数字化诊断治理专家服务 (dtc) - 解决方案
+2026-02-05 16:55:16,401 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/dtc.html
+2026-02-05 16:55:16,848 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/dtc.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/dtc.html
+2026-02-05 16:55:16,849 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:17,100 [INFO]   使用备用链接: https://support.huaweicloud.com/usermanual-dtc/usermanual_01.html
+2026-02-05 16:55:17,215 [INFO]   [SUCCESS] 保存到 解决方案/数字化诊断治理专家服务_dtc.md
+2026-02-05 16:55:19,716 [INFO] 
+[74/105] SDK开发指南 (sdk) - 开发者工具
+2026-02-05 16:55:19,716 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/sdk.html
+2026-02-05 16:55:20,041 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/sdk.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/sdk.html
+2026-02-05 16:55:20,042 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:20,242 [INFO]   使用备用链接: https://support.huaweicloud.com/devg-sdk/zh-cn_topic_0070637169.html
+2026-02-05 16:55:20,410 [INFO]   [SUCCESS] 保存到 开发者工具/SDK开发指南_sdk.md
+2026-02-05 16:55:22,911 [INFO] 
+[75/105] API签名指南 (apisign) - 开发者工具
+2026-02-05 16:55:22,911 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/apisign.html
+2026-02-05 16:55:23,294 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/apisign.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/apisign.html
+2026-02-05 16:55:23,296 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:23,611 [INFO]   使用备用链接: https://support.huaweicloud.com/devg-apisign/api-sign-provide01.html
+2026-02-05 16:55:23,770 [INFO]   [SUCCESS] 保存到 开发者工具/API签名指南_apisign.md
+2026-02-05 16:55:26,271 [INFO] 
+[76/105] DevStar (devstar) - 开发者工具
+2026-02-05 16:55:26,271 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/devstar.html
+2026-02-05 16:55:26,632 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/devstar.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/devstar.html
+2026-02-05 16:55:26,633 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:26,764 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-devstar/devstar_productdesc_0001.html
+2026-02-05 16:55:26,968 [INFO]   [SUCCESS] 保存到 开发者工具/DevStar_devstar.md
+2026-02-05 16:55:29,468 [INFO] 
+[77/105] 华为云命令行工具服务 KooCLI (hcli) - 开发者工具
+2026-02-05 16:55:29,468 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/hcli.html
+2026-02-05 16:55:29,803 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/hcli.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/hcli.html
+2026-02-05 16:55:29,804 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:29,900 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-hcli/hcli_01.html
+2026-02-05 16:55:30,108 [INFO]   [SUCCESS] 保存到 开发者工具/华为云命令行工具服务_KooCLI_hcli.md
+2026-02-05 16:55:33,027 [INFO] 
+[78/105] Huawei Cloud Toolkit (devkit) - 开发者工具
+2026-02-05 16:55:33,027 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/devkit.html
+2026-02-05 16:55:33,256 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/devkit.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/devkit.html
+2026-02-05 16:55:33,257 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:33,336 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-devkit/devkit_002.html
+2026-02-05 16:55:33,459 [INFO]   [SUCCESS] 保存到 开发者工具/Huawei_Cloud_Toolkit_devkit.md
+2026-02-05 16:55:35,960 [INFO] 
+[79/105] CodeArts API (codeartsapi) - 开发者工具
+2026-02-05 16:55:35,960 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/codeartsapi.html
+2026-02-05 16:55:36,304 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/codeartsapi.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/codeartsapi.html
+2026-02-05 16:55:36,305 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:36,381 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-codeartsapi/apiarts_07_0001.html
+2026-02-05 16:55:36,535 [INFO]   [SUCCESS] 保存到 开发者工具/CodeArts_API_codeartsapi.md
+2026-02-05 16:55:39,035 [INFO] 
+[80/105] 开发者空间 (hdspace) - 开发者工具
+2026-02-05 16:55:39,035 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/hdspace.html
+2026-02-05 16:55:39,382 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/hdspace.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/hdspace.html
+2026-02-05 16:55:39,383 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:39,474 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/devg-hdspace/zh-cn_topic_0000002466610314.html
+2026-02-05 16:55:39,621 [INFO]   [SUCCESS] 保存到 开发者工具/开发者空间_hdspace.md
+2026-02-05 16:55:42,121 [INFO] 
+[81/105] 成本优化最佳实践 (bestpract) - 价格
+2026-02-05 16:55:42,122 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/bestpract.html
+2026-02-05 16:55:42,361 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/bestpract.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/bestpract.html
+2026-02-05 16:55:42,362 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:42,549 [INFO]   使用备用链接: https://support.huaweicloud.com/price-bestpract/zh-cn_topic_0088404785.html
+2026-02-05 16:55:42,711 [INFO]   [SUCCESS] 保存到 价格/成本优化最佳实践_bestpract.md
+2026-02-05 16:55:45,212 [INFO] 
+[82/105] 云采用框架  CAF (caf) - 云化转型
+2026-02-05 16:55:45,212 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/caf.html
+2026-02-05 16:55:45,541 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/caf.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/caf.html
+2026-02-05 16:55:45,542 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:45,660 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/usermanual-caf/caf_01_0059.html
+2026-02-05 16:55:45,848 [INFO]   [SUCCESS] 保存到 云化转型/云采用框架_CAF_caf.md
+2026-02-05 16:55:48,349 [INFO] 
+[83/105] 云架构中心 (architecture) - 云化转型
+2026-02-05 16:55:48,349 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/architecture.html
+2026-02-05 16:55:48,622 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/architecture.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/architecture.html
+2026-02-05 16:55:48,623 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:48,798 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/usermanual-architecture/architecture_02_0004.html
+2026-02-05 16:55:49,021 [INFO]   [SUCCESS] 保存到 云化转型/云架构中心_architecture.md
+2026-02-05 16:55:51,522 [INFO] 
+[84/105] 云商店 (marketplace) - 云生态
+2026-02-05 16:55:51,522 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/marketplace.html
+2026-02-05 16:55:51,853 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/marketplace.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/marketplace.html
+2026-02-05 16:55:51,854 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:52,026 [INFO]   使用备用链接: https://support.huaweicloud.com/marketplace/index.html
+2026-02-05 16:55:52,136 [ERROR]   [FAILED] 页面内容为空
+2026-02-05 16:55:54,636 [INFO] 
+[85/105] 合作伙伴中心 (bpconsole) - 云生态
+2026-02-05 16:55:54,636 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/bpconsole.html
+2026-02-05 16:55:54,962 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/bpconsole.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/bpconsole.html
+2026-02-05 16:55:54,963 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:55,070 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/bpconsole_faq/zh-cn_topic_0079110002.html
+2026-02-05 16:55:55,183 [INFO]   [SUCCESS] 保存到 云生态/合作伙伴中心_bpconsole.md
+2026-02-05 16:55:57,683 [INFO] 
+[86/105] 华为云开发者学堂 (edu) - 云生态
+2026-02-05 16:55:57,683 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/edu.html
+2026-02-05 16:55:58,000 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/edu.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/edu.html
+2026-02-05 16:55:58,001 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:55:58,081 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/usermanual-edu/zh-cn_topic_0000002498291622.html
+2026-02-05 16:55:58,246 [INFO]   [SUCCESS] 保存到 云生态/华为云开发者学堂_edu.md
+2026-02-05 16:56:00,746 [INFO] 
+[87/105] 华为云慧通差旅 (hctms) - 云生态
+2026-02-05 16:56:00,747 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/hctms.html
+2026-02-05 16:56:00,988 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/hctms.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/hctms.html
+2026-02-05 16:56:00,988 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:01,230 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-hctms/hctms-0002.html
+2026-02-05 16:56:01,355 [INFO]   [SUCCESS] 保存到 云生态/华为云慧通差旅_hctms.md
+2026-02-05 16:56:03,855 [INFO] 
+[88/105] 资源中心 (support) - 用户服务
+2026-02-05 16:56:03,855 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/support.html
+2026-02-05 16:56:04,145 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/support.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/support.html
+2026-02-05 16:56:04,146 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:04,346 [INFO]   使用备用链接: https://support.huaweicloud.com/usermanual-support/zh-cn_topic_0069229860.html
+2026-02-05 16:56:04,479 [INFO]   [SUCCESS] 保存到 用户服务/资源中心_support.md
+2026-02-05 16:56:06,980 [INFO] 
+[89/105] 工单管理 (ticket) - 用户服务
+2026-02-05 16:56:06,980 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/ticket.html
+2026-02-05 16:56:07,277 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/ticket.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/ticket.html
+2026-02-05 16:56:07,278 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:07,376 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-ticket/ticket_01_0002.html
+2026-02-05 16:56:07,505 [INFO]   [SUCCESS] 保存到 用户服务/工单管理_ticket.md
+2026-02-05 16:56:10,006 [INFO] 
+[90/105] 客户运营能力 (oce) - 用户服务
+2026-02-05 16:56:10,006 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/oce.html
+2026-02-05 16:56:10,570 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/oce.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/oce.html
+2026-02-05 16:56:10,572 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:10,832 [INFO]   使用备用链接: https://support.huaweicloud.com/api-oce/zh-cn_topic_0075195195.html
+2026-02-05 16:56:11,165 [INFO]   [SUCCESS] 保存到 用户服务/客户运营能力_oce.md
+2026-02-05 16:56:13,667 [INFO] 
+[91/105] 国际站常见问题 (international) - 用户服务
+2026-02-05 16:56:13,667 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/international.html
+2026-02-05 16:56:13,910 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/international.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/international.html
+2026-02-05 16:56:13,911 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:14,095 [INFO]   使用备用链接: https://support.huaweicloud.com/intl_faq/zh-cn_topic_0115884691.html
+2026-02-05 16:56:14,249 [INFO]   [SUCCESS] 保存到 用户服务/国际站常见问题_international.md
+2026-02-05 16:56:16,750 [INFO] 
+[92/105] 支持计划 (supportplans) - 用户服务
+2026-02-05 16:56:16,750 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/supportplans.html
+2026-02-05 16:56:16,990 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/supportplans.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/supportplans.html
+2026-02-05 16:56:16,991 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:17,092 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-supportplans/support-plans_01_0001.html
+2026-02-05 16:56:17,621 [INFO]   [SUCCESS] 保存到 用户服务/支持计划_supportplans.md
+2026-02-05 16:56:20,122 [INFO] 
+[93/105] 专业服务 (professionalservices) - 用户服务
+2026-02-05 16:56:20,122 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/professionalservices.html
+2026-02-05 16:56:20,411 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/professionalservices.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/professionalservices.html
+2026-02-05 16:56:20,412 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:20,506 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-professionalservices/dtcs4.html
+2026-02-05 16:56:20,937 [INFO]   [SUCCESS] 保存到 用户服务/专业服务_professionalservices.md
+2026-02-05 16:56:23,438 [INFO] 
+[94/105] 我的凭证 (ca) - 用户服务
+2026-02-05 16:56:23,438 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/ca.html
+2026-02-05 16:56:23,715 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/ca.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/ca.html
+2026-02-05 16:56:23,716 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:23,798 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/usermanual-ca/ca_05_0001.html
+2026-02-05 16:56:23,953 [INFO]   [SUCCESS] 保存到 用户服务/我的凭证_ca.md
+2026-02-05 16:56:26,454 [INFO] 
+[95/105] 华为云公共事业服务云平台 (govcloud) - 用户服务
+2026-02-05 16:56:26,454 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/govcloud.html
+2026-02-05 16:56:26,682 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/govcloud.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/govcloud.html
+2026-02-05 16:56:26,682 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:26,956 [INFO]   使用备用链接: https://support.huaweicloud.com/qs-govcloud/qs-govcloud-0000001.html
+2026-02-05 16:56:27,132 [INFO]   [SUCCESS] 保存到 用户服务/华为云公共事业服务云平台_govcloud.md
+2026-02-05 16:56:29,633 [INFO] 
+[96/105] 管理控制台 (consolehome) - 其他
+2026-02-05 16:56:29,633 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/consolehome.html
+2026-02-05 16:56:30,023 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/consolehome.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/consolehome.html
+2026-02-05 16:56:30,023 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:30,687 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/qs-consolehome/consolehome_qs_0002.html
+2026-02-05 16:56:30,951 [INFO]   [SUCCESS] 保存到 其他/管理控制台_consolehome.md
+2026-02-05 16:56:33,451 [INFO] 
+[97/105] 消息中心 (mc) - 其他
+2026-02-05 16:56:33,452 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/mc.html
+2026-02-05 16:56:33,865 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/mc.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/mc.html
+2026-02-05 16:56:33,865 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:34,001 [INFO]   从左侧菜单找到: https://support.huaweicloud.com/productdesc-mc/zh-cn_topic_0065366616.html
+2026-02-05 16:56:34,246 [INFO]   [SUCCESS] 保存到 其他/消息中心_mc.md
+2026-02-05 16:56:36,747 [INFO] 
+[98/105] 产品价格详情 (pro_price) - 其他
+2026-02-05 16:56:36,747 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/pro_price.html
+2026-02-05 16:56:37,138 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/pro_price.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/pro_price.html
+2026-02-05 16:56:37,139 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:37,636 [INFO]   使用备用链接: https://www.huaweicloud.com/price_detail.html
+2026-02-05 16:56:37,798 [ERROR]   [FAILED] 页面内容为空
+2026-02-05 16:56:40,298 [INFO] 
+[99/105] 系统权限 (permissions) - 其他
+2026-02-05 16:56:40,299 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/permissions.html
+2026-02-05 16:56:40,601 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/permissions.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/permissions.html
+2026-02-05 16:56:40,602 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:40,773 [INFO]   使用备用链接: https://support.huaweicloud.com/usermanual-permissions/iam_01_0001.html
+2026-02-05 16:56:41,712 [INFO]   [SUCCESS] 保存到 其他/系统权限_permissions.md
+2026-02-05 16:56:44,213 [INFO] 
+[100/105] 客户关联华为云合作伙伴须知 (bp_usernotice) - 其他
+2026-02-05 16:56:44,213 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/bp_usernotice.html
+2026-02-05 16:56:44,574 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/bp_usernotice.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/bp_usernotice.html
+2026-02-05 16:56:44,575 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:44,812 [INFO]   使用备用链接: https://support.huaweicloud.com/bp_usernotice/index.html
+2026-02-05 16:56:44,946 [INFO]   [SUCCESS] 保存到 其他/客户关联华为云合作伙伴须知_bp_usernotice.md
+2026-02-05 16:56:47,447 [INFO] 
+[101/105] 公共问题 (iaas) - 其他
+2026-02-05 16:56:47,447 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/iaas.html
+2026-02-05 16:56:47,736 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/iaas.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/iaas.html
+2026-02-05 16:56:47,737 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:47,918 [INFO]   使用备用链接: https://support.huaweicloud.com/usermanual-iaas/zh-cn_topic_0040259342.html
+2026-02-05 16:56:48,069 [INFO]   [SUCCESS] 保存到 其他/公共问题_iaas.md
+2026-02-05 16:56:50,570 [INFO] 
+[102/105] 宽限期保留期 (period) - 其他
+2026-02-05 16:56:50,570 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/period.html
+2026-02-05 16:56:50,921 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/period.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/period.html
+2026-02-05 16:56:50,922 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:51,148 [INFO]   使用备用链接: https://support.huaweicloud.com/usermanual-period/zh-cn_topic_0086671074.html
+2026-02-05 16:56:51,297 [INFO]   [SUCCESS] 保存到 其他/宽限期保留期_period.md
+2026-02-05 16:56:53,798 [INFO] 
+[103/105] 奖励推广计划 (cps_agreement) - 其他
+2026-02-05 16:56:53,798 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/cps_agreement.html
+2026-02-05 16:56:54,231 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/cps_agreement.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/cps_agreement.html
+2026-02-05 16:56:54,231 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:54,395 [INFO]   使用备用链接: https://support.huaweicloud.com/cps_agreement/cps_agreement_0000001.html
+2026-02-05 16:56:54,561 [INFO]   [SUCCESS] 保存到 其他/奖励推广计划_cps_agreement.md
+2026-02-05 16:56:57,062 [INFO] 
+[104/105] 活动 (activity) - 其他
+2026-02-05 16:56:57,062 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/activity.html
+2026-02-05 16:56:57,497 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/activity.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/activity.html
+2026-02-05 16:56:57,498 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:56:57,687 [INFO]   使用备用链接: https://support.huaweicloud.com/usermanual-activity/active_topic_0000001.html
+2026-02-05 16:56:57,815 [INFO]   [SUCCESS] 保存到 其他/活动_activity.md
+2026-02-05 16:57:00,316 [INFO] 
+[105/105] 云服务信任体系能力说明 (trustsystem) - 其他
+2026-02-05 16:57:00,316 [INFO]   尝试文档中心: https://support.huaweicloud.com/progressive_knowledge/trustsystem.html
+2026-02-05 16:57:00,616 [ERROR] 获取页面失败 https://support.huaweicloud.com/progressive_knowledge/trustsystem.html: 404 Client Error: Not Found for url: https://support.huaweicloud.com/progressive_knowledge/trustsystem.html
+2026-02-05 16:57:00,617 [INFO]   尝试左侧菜单接口...
+2026-02-05 16:57:01,157 [INFO]   使用备用链接: https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/trustsystem/1721296536013437303.pdf
+2026-02-05 16:57:02,949 [ERROR]   [FAILED] 页面内容为空
+2026-02-05 16:57:02,950 [INFO] 
+============================================================
+2026-02-05 16:57:02,950 [INFO] 爬取完成!
+2026-02-05 16:57:02,950 [INFO]   成功: 102
+2026-02-05 16:57:02,950 [INFO]   失败: 3
+2026-02-05 16:57:02,950 [INFO] ============================================================
+2026-02-05 16:57:02,950 [INFO] 
+失败产品列表:
+2026-02-05 16:57:02,950 [INFO]   - 云商店 (marketplace): 页面内容为空
+2026-02-05 16:57:02,950 [INFO]   - 产品价格详情 (pro_price): 页面内容为空
+2026-02-05 16:57:02,950 [INFO]   - 云服务信任体系能力说明 (trustsystem): 页面内容为空
