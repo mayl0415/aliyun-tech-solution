@@ -16,8 +16,6 @@ RocketMQ for AI 的 LiteTopic 轻量模型、消息优先级、定速消费等�
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png)
-
 ## 产品图片
 
 ![图片1](https://img.alicdn.com/imgextra/i1/O1CN01rvVEBz1bFHaH4iWJY_!!6000000003435-2-tps-2320-1264.png)

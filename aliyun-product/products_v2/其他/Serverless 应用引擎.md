@@ -16,8 +16,6 @@ Serverless 应用引擎 SAE（Serverless App Engine）是一款零代码改造�
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png)
-
 ## 产品图片
 
 ![图片1](https://img.alicdn.com/imgextra/i4/O1CN01UXlERw1u8Nu0ljoQK_!!6000000005992-2-tps-1360-1520.png)

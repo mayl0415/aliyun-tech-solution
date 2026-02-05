@@ -16,8 +16,6 @@ crawled_at: 2026-02-05T14:15:29.529165
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png)
-
 ## 产品图片
 
 ![图片1](https://img.alicdn.com/imgextra/i1/O1CN01cOD0qc1r0CG3Nu2eV_!!6000000005568-2-tps-2700-2400.png)
@@ -33,8 +31,6 @@ crawled_at: 2026-02-05T14:15:29.529165
 ![图片6](https://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/model/demo/image/2dc3dcd6a983cb57e1667e159f826b1f.jpeg)
 
 ![图片7](https://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/model/demo/image/afe202443e2d117219bc9585fa979f18.jpeg)
-
-![图片8](https://img.alicdn.com/imgextra/i3/O1CN01vBbQLH1XUcOADg2M5_!!6000000002927-2-tps-460-544.png)
 
 ## 应用场景
 

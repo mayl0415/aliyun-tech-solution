@@ -16,25 +16,7 @@ crawled_at: 2026-02-05T14:59:20.287024
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/tfs/TB1ENFGvFP7gK0jSZFjXXc5aXXa-350-350.png)
-
 ## 产品图片
-
-![图片1](https://img.alicdn.com/imgextra/i2/O1CN01bbqiAo1IXcN1wXeCh_!!6000000000903-0-tps-484-300.jpg)
-
-![图片2](https://img.alicdn.com/tfs/TB1HP0guvb2gK0jSZK9XXaEgFXa-512-512.png)
-
-![图片3](https://img.alicdn.com/tfs/TB112RguuT2gK0jSZFvXXXnFXXa-512-512.png)
-
-![图片4](https://img.alicdn.com/tfs/TB1yqlkuy_1gK0jSZFqXXcpaXXa-512-512.png)
-
-![图片5](https://img.alicdn.com/tfs/TB1k1xgupT7gK0jSZFpXXaTkpXa-512-512.png)
-
-![图片6](https://img.alicdn.com/tfs/TB1MTN5vET1gK0jSZFhXXaAtVXa-512-512.png)
-
-![图片7](https://img.alicdn.com/imgextra/i1/O1CN01p3GIRk1D7ReDyE0iF_!!6000000000169-2-tps-512-512.png)
-
-![图片8](https://img.alicdn.com/imgextra/i3/O1CN01vBbQLH1XUcOADg2M5_!!6000000002927-2-tps-460-544.png)
 
 ## 相比开源自建，云效制品仓库的优势
 

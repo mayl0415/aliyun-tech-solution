@@ -16,8 +16,6 @@ Ingress Nginx 退役 提供平滑迁移方案
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png)
-
 ## 产品图片
 
 ![图片1](https://img.alicdn.com/imgextra/i1/O1CN01S1NGqR1H7EIVebzze_!!6000000000710-2-tps-2320-1264.png)

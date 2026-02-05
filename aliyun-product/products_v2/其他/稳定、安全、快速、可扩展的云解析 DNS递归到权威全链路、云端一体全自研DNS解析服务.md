@@ -16,8 +16,6 @@ crawled_at: 2026-02-05T14:33:00.275183
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png)
-
 ## 产品图片
 
 ![图片1](https://img.alicdn.com/imgextra/i2/O1CN01g9hQXY1jYzXAcQl5X_!!6000000004561-2-tps-2320-1264.png)
@@ -31,10 +29,6 @@ crawled_at: 2026-02-05T14:33:00.275183
 ![图片5](https://img.alicdn.com/imgextra/i3/O1CN01vIJ5ZA1mqLO2xAknN_!!6000000005005-2-tps-1920-1312.png)
 
 ![图片6](https://img.alicdn.com/imgextra/i1/O1CN010qQ0t01T5eJ53hGuE_!!6000000002331-2-tps-960-656.png)
-
-![图片7](https://img.alicdn.com/imgextra/i4/O1CN01yFMcmN1E8CHr2pEWG_!!6000000000306-0-tps-1000-789.jpg)
-
-![图片8](https://img.alicdn.com/imgextra/i1/O1CN01YI73xv23w9mLBhmGd_!!6000000007319-0-tps-1792-800.jpg)
 
 ## 产品动态
 

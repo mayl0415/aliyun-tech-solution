@@ -32,10 +32,6 @@ crawled_at: 2026-02-05T14:24:48.250524
 
 ![图片6](https://img.alicdn.com/imgextra/i4/O1CN01n5eowD1Cean47arUG_!!6000000000106-2-tps-1080-1080.png)
 
-![图片7](https://img.alicdn.com/imgextra/i3/O1CN01vBbQLH1XUcOADg2M5_!!6000000002927-2-tps-460-544.png)
-
-![图片8](https://img.alicdn.com/imgextra/i2/O1CN018yfMwK1O05LxJScxL_!!6000000001642-2-tps-144-464.png)
-
 ## 新品发布
 
 Elasticsearch AI 搜索 Elasticsearch Serverless Elasticsearch AI 搜索重磅发布 阿里云 Elasticsearch 结合 AI 搜索开放平台模型服务，基于内置的高性能混合检索能力，提供完整的 AI 语义搜索方案。新用户可免费开通 AI 搜索开放平台。

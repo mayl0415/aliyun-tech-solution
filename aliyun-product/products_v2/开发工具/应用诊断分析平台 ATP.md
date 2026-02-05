@@ -28,10 +28,6 @@ crawled_at: 2026-02-05T14:30:26.394494
 
 ![图片4](https://img.alicdn.com/imgextra/i3/O1CN01OBZiSw1WCvBhcY0cR_!!6000000002753-0-tps-690-583.jpg)
 
-![图片5](https://img.alicdn.com/imgextra/i3/O1CN01vBbQLH1XUcOADg2M5_!!6000000002927-2-tps-460-544.png)
-
-![图片6](https://img.alicdn.com/imgextra/i2/O1CN018yfMwK1O05LxJScxL_!!6000000001642-2-tps-144-464.png)
-
 ## 产品优势
 
 - 丰富的分析能力集 提供丰富的分析能力集合，覆盖了Java应用潜在问题点，确保Java应用相应的问题可通过分析器辅助诊断。

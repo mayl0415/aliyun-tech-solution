@@ -16,15 +16,11 @@ Agentic 安全运营中心以Agentic AI为核心引擎，提供自动感知、�
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png)
-
 ## 产品图片
 
 ![图片1](https://img.alicdn.com/imgextra/i2/O1CN01sed2lz1qEYyZR1BCS_!!6000000005464-0-tps-1024-768.jpg)
 
 ![图片2](https://img.alicdn.com/imgextra/i4/O1CN01b5n9LS1f9YsGVzTbg_!!6000000003964-0-tps-2500-1406.jpg)
-
-![图片3](https://img.alicdn.com/imgextra/i4/O1CN01pl2nYx1g5jB3Ytojz_!!6000000004091-0-tps-1000-554.jpg)
 
 ![图片4](https://img.alicdn.com/imgextra/i3/O1CN01stbTXv1gVplI2RMFF_!!6000000004148-0-tps-1472-736.jpg)
 
@@ -33,8 +29,6 @@ Agentic 安全运营中心以Agentic AI为核心引擎，提供自动感知、�
 ![图片6](https://img.alicdn.com/imgextra/i4/O1CN01KfmUOO1lSh7s7eXx6_!!6000000004818-0-tps-476-228.jpg)
 
 ![图片7](https://img.alicdn.com/imgextra/i3/O1CN01D33Z5b26b2GqKZkAs_!!6000000007679-0-tps-476-228.jpg)
-
-![图片8](https://img.alicdn.com/imgextra/i2/O1CN01bSEwRO1Jitt72zxLz_!!6000000001063-0-tps-5349-3367.jpg)
 
 ## 产品简介
 

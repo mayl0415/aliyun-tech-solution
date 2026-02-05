@@ -16,8 +16,6 @@ crawled_at: 2026-02-05T14:58:59.158628
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/tfs/TB1ENFGvFP7gK0jSZFjXXc5aXXa-350-350.png)
-
 ## 产品图片
 
 ![图片1](https://img.alicdn.com/imgextra/i1/O1CN01wOAVrM1HE64dF8PNU_!!6000000000725-0-tps-2258-1638.jpg)
@@ -31,10 +29,6 @@ crawled_at: 2026-02-05T14:58:59.158628
 ![图片5](https://img.alicdn.com/imgextra/i4/O1CN011DmMZG1LbgwQJl3zY_!!6000000001318-0-tps-1588-1412.jpg)
 
 ![图片6](https://img.alicdn.com/imgextra/i1/O1CN01sUL15M1acLklAOCAk_!!6000000003350-0-tps-1360-1060.jpg)
-
-![图片7](https://img.alicdn.com/tfs/TB1yqlkuy_1gK0jSZFqXXcpaXXa-512-512.png)
-
-![图片8](https://img.alicdn.com/tfs/TB112RguuT2gK0jSZFvXXXnFXXa-512-512.png)
 
 ## 云效AppStack可以帮你实现
 

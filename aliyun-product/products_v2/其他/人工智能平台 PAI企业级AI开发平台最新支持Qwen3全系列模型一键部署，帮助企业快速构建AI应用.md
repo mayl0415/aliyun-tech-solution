@@ -16,8 +16,6 @@ crawled_at: 2026-02-05T14:24:56.813843
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png)
-
 ## 产品图片
 
 ![图片1](https://img.alicdn.com/imgextra/i1/O1CN01zmt4ol21Te0rTef3d_!!6000000006986-0-tps-2700-1102.jpg)

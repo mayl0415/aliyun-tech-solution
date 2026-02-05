@@ -16,8 +16,6 @@ AI 驱动的一站式可观测平台
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png)
-
 ## 产品图片
 
 ![图片1](https://img.alicdn.com/imgextra/i2/O1CN01TvcaB11sWXyg3csNX_!!6000000005774-2-tps-2320-1264.png)
@@ -29,12 +27,6 @@ AI 驱动的一站式可观测平台
 ![图片4](https://img.alicdn.com/imgextra/i2/O1CN01HOfhnR1yeghseuMd1_!!6000000006604-0-tps-1392-800.jpg)
 
 ![图片5](https://img.alicdn.com/imgextra/i4/O1CN01IYFuB91pbB8SnNK2Q_!!6000000005378-2-tps-1392-800.png)
-
-![图片6](https://img.alicdn.com/imgextra/i2/O1CN01a2Pqpw1OQBtkdcon2_!!6000000001699-0-tps-600-460.jpg)
-
-![图片7](https://img.alicdn.com/imgextra/i1/O1CN01Rx43vL27XCfADdV06_!!6000000007806-0-tps-1792-800.jpg)
-
-![图片8](https://img.alicdn.com/imgextra/i3/O1CN01UKLglP1i1j2wJdgTX_!!6000000004353-0-tps-1792-800.jpg)
 
 ## 产品动态
 

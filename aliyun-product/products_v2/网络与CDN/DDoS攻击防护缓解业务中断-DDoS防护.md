@@ -16,8 +16,6 @@ DDoS防护 阿里云DDoS防护服务是以阿里云覆盖全球的DDoS防护网�
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png)
-
 ## 产品图片
 
 ![图片1](https://gw.alicdn.com/tfs/TB1AJHFBET1gK0jSZFrXXcNCXXa-1100-380.png)
@@ -29,12 +27,6 @@ DDoS防护 阿里云DDoS防护服务是以阿里云覆盖全球的DDoS防护网�
 ![图片4](https://img.alicdn.com/tfs/TB1en2ODrr1gK0jSZR0XXbP8XXa-3060-2280.png)
 
 ![图片5](https://img.alicdn.com/tfs/TB1ZFTGDuL2gK0jSZPhXXahvXXa-3060-2280.png)
-
-![图片6](https://img.alicdn.com/imgextra/i3/O1CN01vBbQLH1XUcOADg2M5_!!6000000002927-2-tps-460-544.png)
-
-![图片7](https://img.alicdn.com/imgextra/i2/O1CN018yfMwK1O05LxJScxL_!!6000000001642-2-tps-144-464.png)
-
-![图片8](https://ynuf.alipay.com/service/clear.png?xt=Y1b603184a4fc2a4aa49ebf8b1e621902&xa=act-aliyun-com)
 
 ## 产品优势
 

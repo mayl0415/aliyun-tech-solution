@@ -16,8 +16,6 @@ crawled_at: 2026-02-05T14:34:21.728911
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png)
-
 ## 产品图片
 
 ![图片1](https://img.alicdn.com/imgextra/i1/O1CN010UMm3A21xPKqlbDJB_!!6000000007051-2-tps-1360-1060.png)
@@ -27,12 +25,6 @@ crawled_at: 2026-02-05T14:34:21.728911
 ![图片3](https://img.alicdn.com/imgextra/i2/O1CN01givFsH1zYYbxgr7xZ_!!6000000006726-2-tps-1360-1060.png)
 
 ![图片4](https://img.alicdn.com/imgextra/i4/O1CN01f0UKJm1hFAlbgZrIV_!!6000000004247-2-tps-1360-1060.png)
-
-![图片5](https://tps.alibaba-inc.com/app/ph/56x56)
-
-![图片6](https://img.alicdn.com/imgextra/i3/O1CN01vBbQLH1XUcOADg2M5_!!6000000002927-2-tps-460-544.png)
-
-![图片7](https://img.alicdn.com/imgextra/i2/O1CN018yfMwK1O05LxJScxL_!!6000000001642-2-tps-144-464.png)
 
 ## 产品优势
 

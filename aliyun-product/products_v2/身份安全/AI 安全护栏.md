@@ -16,19 +16,11 @@ AI安全护栏是为大模型及AI应用打造的一站式安全服务，能精�
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png)
-
 ## 产品图片
 
 ![图片1](https://img.alicdn.com/imgextra/i3/O1CN01oaSw3g1JMSeVi2Dy0_!!6000000001014-0-tps-2560-1440.jpg)
 
 ![图片2](https://img.alicdn.com/imgextra/i2/O1CN01C0Fnsv1t3463EOHMJ_!!6000000005845-2-tps-3288-1415.png)
-
-![图片3](https://img.alicdn.com/imgextra/i4/O1CN01XLesV31fkf7pYNATb_!!6000000004045-2-tps-400-400.png)
-
-![图片4](https://img.alicdn.com/imgextra/i3/O1CN01vBbQLH1XUcOADg2M5_!!6000000002927-2-tps-460-544.png)
-
-![图片5](https://img.alicdn.com/imgextra/i2/O1CN018yfMwK1O05LxJScxL_!!6000000001642-2-tps-144-464.png)
 
 ## 产品简介
 

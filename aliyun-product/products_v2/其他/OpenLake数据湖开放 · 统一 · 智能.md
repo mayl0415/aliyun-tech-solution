@@ -34,8 +34,6 @@ OpenLake数据湖
 
 ![图片7](https://img.alicdn.com/imgextra/i3/O1CN01voQxB824of3P8i3FH_!!6000000007438-2-tps-2146-782.png)
 
-![图片8](https://img.alicdn.com/imgextra/i4/O1CN01XLesV31fkf7pYNATb_!!6000000004045-2-tps-400-400.png)
-
 ## 阿里云 OpenLake 解决方案架构
 
 阿里云OpenLake解决方案是基于开放可控的数据目录服务Data Lake Formation（DLF）构建的大数据、搜索与AI一体化的多模态智能体数据解决方案。它提供企业级安全的开放湖仓，通过Omini Catalog（5类数据目录）支持开源表格式（如Paimon、Iceberg）、数据格式（如Parquet、ORC、Avro）及各类文件（包括多媒体等）。OpenLake实现多引擎对同一份数据的平权协同计算，并通过DataWorks的OpenLake Studio提供IDE或Notebook方式的Data+AI集成开发，支持多任务可视化调度与高并发大规模任务保障。同时，借助OpenLake Agent / MCP，支持多模态智能体访问，打造Agentic Data的新一代湖仓架构。

@@ -16,8 +16,6 @@ Qwen3全尺寸模型 可通过人工智能平台 PAI 一键部署 Qwen3全尺寸
 
 ## 产品图标
 
-![产品图标](https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png)
-
 ## 产品图片
 
 ![图片1](https://img.alicdn.com/imgextra/i2/O1CN01MY91Rk1i3YhP8YDvm_!!6000000004357-2-tps-3968-1887.png)
@@ -33,8 +31,6 @@ Qwen3全尺寸模型 可通过人工智能平台 PAI 一键部署 Qwen3全尺寸
 ![图片6](https://img.alicdn.com/imgextra/i2/O1CN01ql0o6J1LsBJkCszLx_!!6000000001354-2-tps-660-400.png)
 
 ![图片7](https://img.alicdn.com/imgextra/i1/O1CN01I7t8TC1iWPecemC0K_!!6000000004420-2-tps-1320-800.png)
-
-![图片8](https://img.alicdn.com/imgextra/i4/O1CN01XLesV31fkf7pYNATb_!!6000000004045-2-tps-400-400.png)
 
 ## AI 搜索方案-集成 Elasticsearch、OpenSearch、Milvus 等引擎
 
