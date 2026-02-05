@@ -4,7 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 项目概述
 
-阿里云技术解决方案爬虫 - 从阿里云开发者中心爬取技术解决方案，将 HTML 转换为 Markdown，并按类别组织内容。集成了 LangChain/Ollama 用于 RAG 和 Agent 开发。
+阿里云技术解决方案爬虫 - 从阿里云开发者中心爬取技术解决方案和产品详情，将 HTML 转换为 Markdown，并按类别组织内容。集成了 LangChain/Ollama 用于 RAG 和 Agent 开发。
+
+**两个主要模块：**
+- `aliyun/` - 技术解决方案爬虫
+- `aliyun-product/` - 产品详情页爬虫
 
 ## 常用命令
 
@@ -45,10 +49,34 @@ export ALIBABA_CLOUD_ACCESS_KEY_SECRET="your_secret"
 - HTML 清洗：转换前移除导航、页头、页脚、脚本、广告
 - URL 规范化：在 Markdown 输出中将相对 URL 转为绝对 URL
 
+## 阿里云产品爬虫 (aliyun-product/)
+
+**爬取流程：**
+1. `product_crawler_v2.py` - 使用 agent-browser 爬取产品详情页，提取内容和图片
+2. `clean_duplicate_images.py` - 扫描并清理重复的模板图片
+
+**常用命令：**
+```bash
+# 爬取产品（跳过已爬取，限制100个）
+python aliyun-product/product_crawler_v2.py --skip-crawled --limit 100
+
+# 清理重复图片（阈值5表示出现>=5次的图片视为模板图片）
+python aliyun-product/clean_duplicate_images.py --clean --threshold 5
+
+# 只查看重复报告
+python aliyun-product/clean_duplicate_images.py
+```
+
+**数据输出：**
+- 产品 Markdown：`aliyun-product/products_v2/{类别}/`
+- 元数据：`aliyun-product/products_v2/crawl_metadata.json`
+- 重复图片报告：`aliyun-product/duplicate_images_report.json`
+
 ## 技术栈
 
 - Python 3.12，使用 `uv` 管理
 - 网页爬取：requests、beautifulsoup4、markdownify
+- 浏览器自动化：agent-browser
 - 阿里云 SDK：aliyun-python-sdk-core、aliyun-python-sdk-ecs
 - AI/LLM：langchain、langchain-ollama
 
