@@ -1,0 +1,2507 @@
+{
+  "total": 312,
+  "collected_at": "2026-02-05T21:18:23.500686",
+  "source_pages": [
+    "https://www.huaweicloud.com/solution/technical-directory.html",
+    "https://www.huaweicloud.com/solution/industry-directory.html",
+    "https://www.huaweicloud.com/solution/reference-architecture.html"
+  ],
+  "solutions": [
+    {
+      "id": 1,
+      "title": "德勤AI场景化咨询与实施服务解决方案_AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/ai/deloitteai.html",
+      "filename": "001-德勤AI场景化咨询与实施服务解决方案_AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "66ae5e191f8b19b376262724902ab5aa"
+    },
+    {
+      "id": 2,
+      "title": "易路eGPT企业知识服务和智能客服解决方案_AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/ai/egpt.html",
+      "filename": "002-易路eGPT企业知识服务和智能客服解决方案_AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "7338144789b672ef863e7d933f04d727"
+    },
+    {
+      "id": 3,
+      "title": "云势数据AIGC智能助理解决方案_大模型_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/ai/gdcn.html",
+      "filename": "003-云势数据AIGC智能助理解决方案_大模型_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "477dd68179dcc2d211b32567bd90c9f4"
+    },
+    {
+      "id": 4,
+      "title": "讯飞星火代码大模型解决方案_AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/ai/iflycode.html",
+      "filename": "004-讯飞星火代码大模型解决方案_AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "64a48b82a9066c7d724db22020983644"
+    },
+    {
+      "id": 5,
+      "title": "天宽昇腾云行业大模型适配服务解决方案_AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/ai/tiankuanindustrialllm.html",
+      "filename": "005-天宽昇腾云行业大模型适配服务解决方案_AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "870ca04c2366344fc08094685f2374e4"
+    },
+    {
+      "id": 6,
+      "title": "应用现代化解决方案_应用现代化-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/appmd/application-modernization.html",
+      "filename": "006-应用现代化解决方案_应用现代化.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "e38535ca6491f8101552aab12792ad9a"
+    },
+    {
+      "id": 7,
+      "title": "自动驾驶研发平台解决方案_传统车企_汽车-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/automotive/autonomous-vehicle.html",
+      "filename": "007-自动驾驶研发平台解决方案_传统车企_汽车.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "fe39d0a9f7db035ad4527ccfdc026a4d"
+    },
+    {
+      "id": 8,
+      "title": "中国汽研凯瑞机器人数字孪生解决方案_外资车企_汽车-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/automotive/cdts.html",
+      "filename": "008-中国汽研凯瑞机器人数字孪生解决方案_外资车企_汽车.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "e452536d655d8b0b4b2221e228943b62"
+    },
+    {
+      "id": 9,
+      "title": "华为云汽车行业产品数字化解决方案_移动出行_汽车-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/automotive/difas.html",
+      "filename": "009-华为云汽车行业产品数字化解决方案_移动出行_汽车.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "ff81a59ba6f2a35f90074764d1738931"
+    },
+    {
+      "id": 10,
+      "title": "映云科技车联网数据基础设施解决方案_传统车企_汽车-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/automotive/emqx.html",
+      "filename": "010-映云科技车联网数据基础设施解决方案_传统车企_汽车.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f6846a6363afa4497d010199d84f5b25"
+    },
+    {
+      "id": 11,
+      "title": "汽车行业解决方案_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/automotive/index.html",
+      "filename": "011-汽车行业解决方案_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "84ebae5bf716e2b2585bcccb5ec4cdc9"
+    },
+    {
+      "id": 12,
+      "title": "依柯力新能源汽车MOM解决方案_传统车企_汽车-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/automotive/inkenlink-ev-mom.html",
+      "filename": "012-依柯力新能源汽车MOM解决方案_传统车企_汽车.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "7ec889c144ab8a9b95a6dae48878a3a6"
+    },
+    {
+      "id": 13,
+      "title": "华为云车联网使能平台2.0_传统车企_汽车-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/automotive/internet-of-vehicles.html",
+      "filename": "013-华为云车联网使能平台2.0_传统车企_汽车.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f23b88ab0e80ec09bd8ef5c6fbb2bb8e"
+    },
+    {
+      "id": 14,
+      "title": "摩尔元数电子汽配装备制造执行系统解决方案_汽车-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/automotive/n2mes.html",
+      "filename": "014-摩尔元数电子汽配装备制造执行系统解决方案_汽车.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "ef7b121df322fee31b8cf799c607f6d3"
+    },
+    {
+      "id": 15,
+      "title": "翌擎车联网数据AI应用解决方案_主机厂_汽车-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/automotive/nextengineiovdataappliation.html",
+      "filename": "015-翌擎车联网数据AI应用解决方案_主机厂_汽车.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "bcb1cf413c118ed051e8a226b9d9d9ce"
+    },
+    {
+      "id": 16,
+      "title": "斯润天朗智能网联平台海外解决方案_主机厂_汽车-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/automotive/sicvp.html",
+      "filename": "016-斯润天朗智能网联平台海外解决方案_主机厂_汽车.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "6549932c28fa82061289a535917467ad"
+    },
+    {
+      "id": 17,
+      "title": "华为云移动出行解决方案_移动出行_汽车-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/automotive/smartmobility.html",
+      "filename": "017-华为云移动出行解决方案_移动出行_汽车.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "270b7db5914baaa7175022c148d08f91"
+    },
+    {
+      "id": 23,
+      "title": "业务连续性中心_业务连续性-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/business-continuity/bcc.html",
+      "filename": "023-业务连续性中心_业务连续性.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "573931b8abb2684ddbcd07ae21f4e45c"
+    },
+    {
+      "id": 24,
+      "title": "云财务管理-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cfncmngm/index.html",
+      "filename": "024-云财务管理.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "d01c1d3e4dfadc6001ff94235cdab6a8"
+    },
+    {
+      "id": 25,
+      "title": "知行志成云迁移云容灾解决方案_应用上云迁移_政企深度云化-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cifge/acmcdr.html",
+      "filename": "025-知行志成云迁移云容灾解决方案_应用上云迁移_政企深度云化.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "384bf4d39be8ac543ee3f321c10cd9e1"
+    },
+    {
+      "id": 26,
+      "title": "知行志成MSP解决方案_管理与治理_政企深度云化-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cifge/actwillmsp.html",
+      "filename": "026-知行志成MSP解决方案_管理与治理_政企深度云化.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "5080ab08955ab3a45fa2313b09d0abb3"
+    },
+    {
+      "id": 27,
+      "title": "商用密码应用解决方案_管理与治理_政企深度云化-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cifge/ccas.html",
+      "filename": "027-商用密码应用解决方案_管理与治理_政企深度云化.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "cc31e8984d0412f52befceb1e63390b8"
+    },
+    {
+      "id": 28,
+      "title": "翼海云峰应用现代化专业服务解决方案_应用上云_政企深度云化-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cifge/eseaskyampss.html",
+      "filename": "028-翼海云峰应用现代化专业服务解决方案_应用上云_政企深度云化.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "5ce587a619a08bfd5acfb20a0beea506"
+    },
+    {
+      "id": 29,
+      "title": "翼海云峰企业上云服务解决方案_应用上云_政企深度云化-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cifge/eseaskyecss.html",
+      "filename": "029-翼海云峰企业上云服务解决方案_应用上云_政企深度云化.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "2ce7d1d4d9fd0ddded7594f61158d622"
+    },
+    {
+      "id": 30,
+      "title": "翼海云峰鸿蒙应用端云适配专业服务解决方案_应用上云_政企深度云化-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cifge/eseaskyhadcas.html",
+      "filename": "030-翼海云峰鸿蒙应用端云适配专业服务解决方案_应用上云_政企深度云化.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "8fcbb86090a427acda1ef1441ca5048b"
+    },
+    {
+      "id": 31,
+      "title": "翼海云峰AI大模型专业服务解决方案_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/aillmpss.html",
+      "filename": "031-翼海云峰AI大模型专业服务解决方案_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "3a3e235df3256df222dcc3567fc78e41"
+    },
+    {
+      "id": 32,
+      "title": "中软国际基于昇腾云的模型迁移与调优专业服务解决方案_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/cipssm.html",
+      "filename": "032-中软国际基于昇腾云的模型迁移与调优专业服务解决方案_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "1d4f5a21219a97a1e0198a506fc002b3"
+    },
+    {
+      "id": 33,
+      "title": "德勤GenAI平台DelphAI解决方案_分布式AI基础设施_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/delphai.html",
+      "filename": "033-德勤GenAI平台DelphAI解决方案_分布式AI基础设施_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "3f0f447f2518b387ce50e4f868b36a6a"
+    },
+    {
+      "id": 34,
+      "title": "伊登eCopilot昇腾云专业服务解决方案_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/eeis.html",
+      "filename": "034-伊登eCopilot昇腾云专业服务解决方案_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "c05f2eba7915fc8000ea453f8889392d"
+    },
+    {
+      "id": 35,
+      "title": "翼海云峰制造行业AI场景化专业服务解决方案_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/eseasky.html",
+      "filename": "035-翼海云峰制造行业AI场景化专业服务解决方案_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "0089eb7932176551b8217ac8ad233b3a"
+    },
+    {
+      "id": 36,
+      "title": "中软国际灵析智能体模型应用服务解决方案_大模型_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/icssjpass.html",
+      "filename": "036-中软国际灵析智能体模型应用服务解决方案_大模型_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "ce7751469c9e8efc6685d78e1cbe896e"
+    },
+    {
+      "id": 37,
+      "title": "云问智能知识管理解决方案_分布式AI基础设施_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/ikc.html",
+      "filename": "037-云问智能知识管理解决方案_分布式AI基础设施_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "9a5508576e1cf90e84b5d87cfde09132"
+    },
+    {
+      "id": 38,
+      "title": "软通动力昇腾云模型迁移和调优服务解决方案_昇腾云_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/issammtss.html",
+      "filename": "038-软通动力昇腾云模型迁移和调优服务解决方案_昇腾云_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "d2b9f5fb962fbb4db430c6c1e895cdc4"
+    },
+    {
+      "id": 39,
+      "title": "诺瓦星云星络智语数据智能平台解决方案_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/sneip.html",
+      "filename": "039-诺瓦星云星络智语数据智能平台解决方案_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "c82b114cf031ad4ed4018f473147f52c"
+    },
+    {
+      "id": 40,
+      "title": "数新行业智能体开发服务解决方案_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/sxiaad.html",
+      "filename": "040-数新行业智能体开发服务解决方案_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f0b0d44e489ba4e220dc50598a411a9d"
+    },
+    {
+      "id": 41,
+      "title": "天宽知识管理与系统运维服务解决方案_大模型_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/tkkms.html",
+      "filename": "041-天宽知识管理与系统运维服务解决方案_大模型_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "955124042d68b6f803ab3646a569f419"
+    },
+    {
+      "id": 42,
+      "title": "翱众垂直行业融合大模型构建解决方案案_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/vlds.html",
+      "filename": "042-翱众垂直行业融合大模型构建解决方案案_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "3a819b9aad2787192fe51d43f8c62f6a"
+    },
+    {
+      "id": 43,
+      "title": "讯方昇腾云行业大模型适配服务解决方案_大模型_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/xfaillm.html",
+      "filename": "043-讯方昇腾云行业大模型适配服务解决方案_大模型_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "01975d7a96eb67a8b623a81b8be5b8a0"
+    },
+    {
+      "id": 44,
+      "title": "众联世纪AI企业服务解决方案_分布式AI基础设施_Cloud for AI-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cloudforai/zlsjaips.html",
+      "filename": "044-众联世纪AI企业服务解决方案_分布式AI基础设施_Cloud-for-AI.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "6431cd290632b04731e72db31db30d7c"
+    },
+    {
+      "id": 45,
+      "title": "云游戏解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/cloudgame/index.html",
+      "filename": "045-云游戏解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "71e5b1d7f8d8eca48baeabd62a1dca35"
+    },
+    {
+      "id": 46,
+      "title": "中软国际企业审计解决方案_应用上云迁移-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cmgrt/csiea.html",
+      "filename": "046-中软国际企业审计解决方案_应用上云迁移.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "6ec31d6a26768e1d00628c0e156f6f3e"
+    },
+    {
+      "id": 47,
+      "title": "掌数科技GaussDB及DWS专业技术服务解决方案_应用上云迁移-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cmgrt/dgptss.html",
+      "filename": "047-掌数科技GaussDB及DWS专业技术服务解决方案_应用上云迁移.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "672b21be92c993dce5f831207af2be0b"
+    },
+    {
+      "id": 48,
+      "title": "观测未来可观测性解决方案_应用上云迁移-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cmgrt/gfos.html",
+      "filename": "048-观测未来可观测性解决方案_应用上云迁移.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "17e1711f7f5c8113140a84351db4a287"
+    },
+    {
+      "id": 49,
+      "title": "华为云安全等级云解决方案_应用上云迁移-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cmgrt/gradedcloud.html",
+      "filename": "049-华为云安全等级云解决方案_应用上云迁移.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "fa821cb7b023bdff1a626424371580c9"
+    },
+    {
+      "id": 50,
+      "title": "恒驰上云规划实施解决方案_应用上云迁移-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cmgrt/hcmpis.html",
+      "filename": "050-恒驰上云规划实施解决方案_应用上云迁移.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "bb555f9215cdbac9336be73e777fdafd"
+    },
+    {
+      "id": 51,
+      "title": "中软国际企业上云迁移服务解决方案_应用上云迁移-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cmgrt/icsscmsfe.html",
+      "filename": "051-中软国际企业上云迁移服务解决方案_应用上云迁移.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "8fc2cb0874e4f3ade9894797b476fe77"
+    },
+    {
+      "id": 52,
+      "title": "集成迁移_云迁移-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cmgrt/integrated-migration.html",
+      "filename": "052-集成迁移_云迁移.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "c78e5669aca36a45ea2ee7bb66754546"
+    },
+    {
+      "id": 53,
+      "title": "软通动力企业上云服务解决方案_应用上云迁移-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cmgrt/issecs.html",
+      "filename": "053-软通动力企业上云服务解决方案_应用上云迁移.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "bbf43496e0cdc60ca44451e3bd89eafb"
+    },
+    {
+      "id": 54,
+      "title": "南洋万邦Cloud MSP解决方案_应用上云迁移-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cmgrt/ncmsp.html",
+      "filename": "054-南洋万邦Cloud-MSP解决方案_应用上云迁移.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "ccf5f1bbdcb6b924109e0b1ffd3b663b"
+    },
+    {
+      "id": 55,
+      "title": "基调听云智能运维解决方案_应用上云迁移-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/cmgrt/tingyunaiops.html",
+      "filename": "055-基调听云智能运维解决方案_应用上云迁移.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "a1b712e9b0252b4ad991845e2b38c7b4"
+    },
+    {
+      "id": 56,
+      "title": "德勤IT数字化转型咨询解决方案_咨询-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/consulting/ddtf.html",
+      "filename": "056-德勤IT数字化转型咨询解决方案_咨询.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "0f8e318776cd29a7634492833ce8603e"
+    },
+    {
+      "id": 57,
+      "title": "运维现代化_云运维-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/coprt/operation-modernization.html",
+      "filename": "057-运维现代化_云运维.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "b37627ec2f06408d0408c4e142883266"
+    },
+    {
+      "id": 58,
+      "title": "华为云成长型企业数字化转型包解决方案-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/ctf/sparkpack-overview.html",
+      "filename": "058-华为云成长型企业数字化转型包解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "ec408f41e77a8b9da38d465233b0fc36"
+    },
+    {
+      "id": 59,
+      "title": "流批一体数据治理解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/data-governance/index.html",
+      "filename": "059-流批一体数据治理解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "51a819c1f60069a293bfe41600e6a3de"
+    },
+    {
+      "id": 60,
+      "title": "资源专属 DeC_专属云-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dedicated-cloud/dedicated-resource.html",
+      "filename": "060-资源专属-DeC_专属云.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "0d4ae933a91afbec02193f3ae3a9e5a8"
+    },
+    {
+      "id": 61,
+      "title": "全栈专属云_专属云-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dedicated-cloud/forecloud-stack.html",
+      "filename": "061-全栈专属云_专属云.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "2f1868e468f760f321b78a09c84ffb79"
+    },
+    {
+      "id": 62,
+      "title": "德勤智慧财务共享平台解决方案_数字化办公-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dgo/difsps.html",
+      "filename": "062-德勤智慧财务共享平台解决方案_数字化办公.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "c1447125472c781b918b3ca5744b6e43"
+    },
+    {
+      "id": 63,
+      "title": "伊登Citrix桌面云迁移解决方案_数字化办公-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dgo/ecwms.html",
+      "filename": "063-伊登Citrix桌面云迁移解决方案_数字化办公.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "2d627c7527fdc62e962f327f9e1ccdec"
+    },
+    {
+      "id": 64,
+      "title": "法大大电子合同云解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/dgo/fadada.html",
+      "filename": "064-法大大电子合同云解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "ec66554971a5dcbb38643732bb855678"
+    },
+    {
+      "id": 65,
+      "title": "蓝凌协同办公解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/dgo/loa.html",
+      "filename": "065-蓝凌协同办公解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "456965178c523b4821bb9138c8c86b54"
+    },
+    {
+      "id": 66,
+      "title": "华盟税纪云智慧全税务基线解决方案_数字化办公-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dgo/newtaxera.html",
+      "filename": "066-华盟税纪云智慧全税务基线解决方案_数字化办公.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "58b4c3670427df8c48da051d33863566"
+    },
+    {
+      "id": 67,
+      "title": "契约锁电子签约解决方案_数字化办公-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dgo/qiyuesuo.html",
+      "filename": "067-契约锁电子签约解决方案_数字化办公.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "7ca5d24c6cbc421b1c56861bf246c760"
+    },
+    {
+      "id": 68,
+      "title": "致远互联协同管理解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/dgo/seeyoncms.html",
+      "filename": "068-致远互联协同管理解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "fa1cd8e12c6ef890a63687f8c0dc352f"
+    },
+    {
+      "id": 69,
+      "title": "全场景万户AI智能定制门户解决方案_数字化办公-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dgo/whfaicps.html",
+      "filename": "069-全场景万户AI智能定制门户解决方案_数字化办公.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "bfdbf2cfe84e3e5aa27a99540ec4e987"
+    },
+    {
+      "id": 70,
+      "title": "赞奇超高清云工作站解决方案_数字化办公-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dgo/xdemouhd.html",
+      "filename": "070-赞奇超高清云工作站解决方案_数字化办公.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "c52a035dc977ea31dfee7e2c7914b109"
+    },
+    {
+      "id": 71,
+      "title": "云玺量子安全智能印章管理解决方案_数字化办公-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dgo/yxqsaoa.html",
+      "filename": "071-云玺量子安全智能印章管理解决方案_数字化办公.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f0a995f60bc081cb2bc16cef74d4306e"
+    },
+    {
+      "id": 72,
+      "title": "百胜软件全渠道中台解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/digital-marketing/baisonoms.html",
+      "filename": "072-百胜软件全渠道中台解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "b0aabb0bdadd4712dec63288ed60c8b4"
+    },
+    {
+      "id": 73,
+      "title": "伯俊科技全渠道中台解决方案-数字化营销-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/digital-marketing/bmps.html",
+      "filename": "073-伯俊科技全渠道中台解决方案-数字化营销.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "2fa810208bf5d6580e286c663b149b4b"
+    },
+    {
+      "id": 74,
+      "title": "Convertlab营销云解决方案_数字化营销-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/digital-marketing/convertlabmc.html",
+      "filename": "074-Convertlab营销云解决方案_数字化营销.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "2bc4f36710bf40d12bdb797e27de943f"
+    },
+    {
+      "id": 75,
+      "title": "杭云数字化营销酷销云SCRM解决方案_数字化营销-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/digital-marketing/coolsalesai.html",
+      "filename": "075-杭云数字化营销酷销云SCRM解决方案_数字化营销.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "7b8227f3988d6b66cff1ee858cce78e9"
+    },
+    {
+      "id": 76,
+      "title": "夺冠订单数字化解决方案_数字化营销-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/digital-marketing/dgdo.html",
+      "filename": "076-夺冠订单数字化解决方案_数字化营销.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f65391955bf596d928cb0bec2fe173ea"
+    },
+    {
+      "id": 77,
+      "title": "合力亿捷云客服解决方案_数字化营销-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/digital-marketing/hollyccs.html",
+      "filename": "077-合力亿捷云客服解决方案_数字化营销.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "49b33573cba607d6e0ed30b297068c4f"
+    },
+    {
+      "id": 78,
+      "title": "合力亿捷全场景智能运营解决方案_数字化营销-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/digital-marketing/hollyios.html",
+      "filename": "078-合力亿捷全场景智能运营解决方案_数字化营销.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "73ea73be3018fb4c7832cfd5d0d125fb"
+    },
+    {
+      "id": 79,
+      "title": "数字化营销解决方案_用户增长营销_智能数据业务中台-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/digital-marketing/index.html",
+      "filename": "079-数字化营销解决方案_用户增长营销_智能数据业务中台.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "0245803b6572db1b7abbdfcfe923d1c3"
+    },
+    {
+      "id": 80,
+      "title": "欧电云门店一体化管理解决方案_数字化营销-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/digital-marketing/isms.html",
+      "filename": "080-欧电云门店一体化管理解决方案_数字化营销.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "567a71b4590a94eb3c14613d2778676e"
+    },
+    {
+      "id": 81,
+      "title": "加推企业AIGC营销系统解决方案_数字化营销-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/digital-marketing/jeams.html",
+      "filename": "081-加推企业AIGC营销系统解决方案_数字化营销.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "2285c7238d8559644a07c58c697a2366"
+    },
+    {
+      "id": 82,
+      "title": "兔展内容智能引擎解决方案_数字化营销-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/digital-marketing/race.html",
+      "filename": "082-兔展内容智能引擎解决方案_数字化营销.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "cd374980e69aa401a8f3220ea5c26d2b"
+    },
+    {
+      "id": 83,
+      "title": "神策客户数据平台解决方案_数字化营销-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/digital-marketing/scdps.html",
+      "filename": "083-神策客户数据平台解决方案_数字化营销.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "641cbc092ecafaef3ac3246471190685"
+    },
+    {
+      "id": 84,
+      "title": "云徙GOS增长运营平台解决方案_数字化营销-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/digital-marketing/yunxigos.html",
+      "filename": "084-云徙GOS增长运营平台解决方案_数字化营销.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "d3acf84b360fe213a50d8292e8fba44e"
+    },
+    {
+      "id": 85,
+      "title": "安图特GaussDB数据库专业服务解决方案_数据管理与分析-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/agpss.html",
+      "filename": "085-安图特GaussDB数据库专业服务解决方案_数据管理与分析.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "a116114f25e6ba6275c904e28fd5256f"
+    },
+    {
+      "id": 86,
+      "title": "数新多云大数据管理服务解决方案_数据管理与分析-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/bdps.html",
+      "filename": "086-数新多云大数据管理服务解决方案_数据管理与分析.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "1325a242a92a1bc85d2bb81fb40f64fc"
+    },
+    {
+      "id": 88,
+      "title": "华为云数据使能解决方案_数据资产管理_可信交换_数据应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/dataenabling-gpdes.html",
+      "filename": "088-华为云数据使能解决方案_数据资产管理_可信交换_数据应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "2e8d83a386359ad2fe803f7e87ebba69"
+    },
+    {
+      "id": 89,
+      "title": "翼海云峰大数据服务解决方案_数据管理与分析-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/eseaskybds.html",
+      "filename": "089-翼海云峰大数据服务解决方案_数据管理与分析.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "e0761642c06a0c04325e9385080434b6"
+    },
+    {
+      "id": 90,
+      "title": "帆软商业智能解决方案_数据使能_数据管理分析与流通-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/frrbi.html",
+      "filename": "090-帆软商业智能解决方案_数据使能_数据管理分析与流通.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "5b312e5d07abf5662e820d0ba3f4338a"
+    },
+    {
+      "id": 91,
+      "title": "观远商业智能数据分析解决方案_数据管理与分析-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/guandataabi.html",
+      "filename": "091-观远商业智能数据分析解决方案_数据管理与分析.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "4e723979d394099b784dc3d89ef2b368"
+    },
+    {
+      "id": 92,
+      "title": "华为云数据要素流通解决方案_数据管理与分析-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/hcdecs.html",
+      "filename": "092-华为云数据要素流通解决方案_数据管理与分析.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "8953cd12a1c5569273bb4a6f4e9d79e8"
+    },
+    {
+      "id": 93,
+      "title": "恒驰GaussDB数据库专业服务解决方案_数据使能_数据管理分析与流通-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/hcgdbss.html",
+      "filename": "093-恒驰GaussDB数据库专业服务解决方案_数据使能_数据管理分析与流通.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "ab306d6dce83d886963163e77c9217cf"
+    },
+    {
+      "id": 94,
+      "title": "中软国际数据治理专业服务解决方案_数据管理与分析-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/icssdgps.html",
+      "filename": "094-中软国际数据治理专业服务解决方案_数据管理与分析.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f3eda57d72ead50c5455958c41e31018"
+    },
+    {
+      "id": 95,
+      "title": "软通动力数据中台及数据治理服务解决方案_数据管理与分析-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/idms.html",
+      "filename": "095-软通动力数据中台及数据治理服务解决方案_数据管理与分析.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "d21a81cd3841c444ec2e907a6277dae6"
+    },
+    {
+      "id": 96,
+      "title": "八六三智能数据平台解决方案_数据管理与分析-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/idp863.html",
+      "filename": "096-八六三智能数据平台解决方案_数据管理与分析.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "1b3d816cacd518726f81dee446c23585"
+    },
+    {
+      "id": 97,
+      "title": "软通动力智能家居全场景解决方案_数据使能_数据管理分析与流通-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/issshfs.html",
+      "filename": "097-软通动力智能家居全场景解决方案_数据使能_数据管理分析与流通.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "3e2c67e9a7e823cb0b3670e1fdd373b0"
+    },
+    {
+      "id": 98,
+      "title": "普元元数据资产管理解决方案-数据管理与分析-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/primetonmams.html",
+      "filename": "098-普元元数据资产管理解决方案-数据管理与分析.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "a8b7b2c7ab447cde6dfc78247f71af51"
+    },
+    {
+      "id": 99,
+      "title": "数鑫科技领域数据空间解决方案-数据要素-数据管理与分析-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/sdss.html",
+      "filename": "099-数鑫科技领域数据空间解决方案-数据要素-数据管理与分析.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f2c8842cb4b35140576be432f9c0f3fc"
+    },
+    {
+      "id": 100,
+      "title": "赛意信息iDME服务基线解决方案_综合制造 _制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/sieidme.html",
+      "filename": "100-赛意信息iDME服务基线解决方案_综合制造-_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "70b92e6c6e599c76c6f5f1a2e69ed16b"
+    },
+    {
+      "id": 101,
+      "title": "永洪AIGC智能软件解决方案_数据使能_数据管理分析与流通-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/vaigc.html",
+      "filename": "101-永洪AIGC智能软件解决方案_数据使能_数据管理分析与流通.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "48680c9204a23f3f4cb807219306ce2b"
+    },
+    {
+      "id": 102,
+      "title": "永洪商业智能解决方案_数据管理与分析-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/dma/yhbi.html",
+      "filename": "102-永洪商业智能解决方案_数据管理与分析.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "669ca1867e21380c790ddf6c03596568"
+    },
+    {
+      "id": 103,
+      "title": "华为云双减课后服务解决方案_基础教育_教育-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/education/basic-education/assp.html",
+      "filename": "103-华为云双减课后服务解决方案_基础教育_教育.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "4114126449b460d206d034a3dfa82bda"
+    },
+    {
+      "id": 104,
+      "title": "光年无限图灵机器人智慧教育解决方案_基础教育_教育-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/education/basic-education/turingrobotsmarteducation.html",
+      "filename": "104-光年无限图灵机器人智慧教育解决方案_基础教育_教育.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f453c595ef56cdbcc756290ec4d2d17a"
+    },
+    {
+      "id": 105,
+      "title": "元图时代工业软件产教融合解决方案-教育-高等教育-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/education/higher-education/metaindustryedu.html",
+      "filename": "105-元图时代工业软件产教融合解决方案-教育-高等教育.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f74349f41495410fcf085414d1f1630d"
+    },
+    {
+      "id": 106,
+      "title": "青软创新集团数字化人才培养解决方案_高等教育_教育-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/education/higher-education/qstdtt.html",
+      "filename": "106-青软创新集团数字化人才培养解决方案_高等教育_教育.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "d8b23acb5c0205cefa726767d5702505"
+    },
+    {
+      "id": 107,
+      "title": "致远高校一体化协同运营平台解决方案-教育-高等教育-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/education/higher-education/seeyon-copforuniversity.html",
+      "filename": "107-致远高校一体化协同运营平台解决方案-教育-高等教育.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "4cd18e90515ee6a7c38fefc39d8e55db"
+    },
+    {
+      "id": 108,
+      "title": "中软国际教育科研云与人才培养解决方案_高等教育_教育-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/education/higher-education/tcrc.html",
+      "filename": "108-中软国际教育科研云与人才培养解决方案_高等教育_教育.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "a1b141b260cbc96973b00518130b1a58"
+    },
+    {
+      "id": 109,
+      "title": "文华在线智慧教室解决方案-教育-高等教育-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/education/higher-education/ulearning-smartclassroom.html",
+      "filename": "109-文华在线智慧教室解决方案-教育-高等教育.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "38d0848242e530d25f2230eb3fbe8eee"
+    },
+    {
+      "id": 110,
+      "title": "造风者在线教育沙箱平台解决方案_培训机构_教育-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/education/training-institutions/zfzces.html",
+      "filename": "110-造风者在线教育沙箱平台解决方案_培训机构_教育.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "d134cd51e4ce122a32314626a9893499"
+    },
+    {
+      "id": 114,
+      "title": "恒驰桌面云运维专业服务解决方案_银行_金融-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/finance/hcdcoms.html",
+      "filename": "114-恒驰桌面云运维专业服务解决方案_银行_金融.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "d7d3fc67f9c170519f1652c3371e068d"
+    },
+    {
+      "id": 115,
+      "title": "保险全业务上云解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/finance/insurance.html",
+      "filename": "115-保险全业务上云解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "92d5eb933faebc936737f63cba00c9ce"
+    },
+    {
+      "id": 116,
+      "title": "证券行情资讯解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/finance/quotations.html",
+      "filename": "116-证券行情资讯解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "4e0d3f6e82944f6b8b6a1996cadb7333"
+    },
+    {
+      "id": 119,
+      "title": "恒生证券UF3.0财富管理场景解决方案_证券_金融-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/finance/uf3wms.html",
+      "filename": "119-恒生证券UF3.0财富管理场景解决方案_证券_金融.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "74a067ef8d910d891d1148e85bbddf97"
+    },
+    {
+      "id": 120,
+      "title": "银行行业解决方案_银行金融云_分布式改造_核心改造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/financial/bank.html",
+      "filename": "120-银行行业解决方案_银行金融云_分布式改造_核心改造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "253edd0b8f44c1548f7c5b295e16eedf"
+    },
+    {
+      "id": 121,
+      "title": "中亦安图GaussDB数据库专业服务解决方案_银行_金融-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/financial/bank/gpsfces.html",
+      "filename": "121-中亦安图GaussDB数据库专业服务解决方案_银行_金融.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "e20a786a90e1f4a8e9b5dbadf808c936"
+    },
+    {
+      "id": 122,
+      "title": "华为云主机现代化解决方案_银行_金融行业-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/financial/bank/hchms.html",
+      "filename": "122-华为云主机现代化解决方案_银行_金融行业.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "62563b39500ed97f97468954ba5d6b00"
+    },
+    {
+      "id": 123,
+      "title": "金智维RPA AI解决方案_银行_金融-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/financial/bank/rpa.html",
+      "filename": "123-金智维RPA-AI解决方案_银行_金融.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "bf6d77ee91b54e05e1ee46ddbd99d3e0"
+    },
+    {
+      "id": 124,
+      "title": "同盾科技金融风险管理解决方案_银行_金融-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/financial/bank/ttfrms.html",
+      "filename": "124-同盾科技金融风险管理解决方案_银行_金融.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "198f53878dce31034a4c7c38391d3b81"
+    },
+    {
+      "id": 125,
+      "title": "宇信银行一表通报送解决方案_银行_金融-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/financial/bank/yofs.html",
+      "filename": "125-宇信银行一表通报送解决方案_银行_金融.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "8ef23febfeca33a1f0d26d2686e9e475"
+    },
+    {
+      "id": 126,
+      "title": "中科软智能培训解决方案_保险_金融-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/financial/insurance/aitms.html",
+      "filename": "126-中科软智能培训解决方案_保险_金融.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "fdbc3583b0c300b9935e7caf97555d2a"
+    },
+    {
+      "id": 127,
+      "title": "德勤金融保险行业I17及财务支持服务解决方案_保险_金融-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/financial/insurance/dii17.html",
+      "filename": "127-德勤金融保险行业I17及财务支持服务解决方案_保险_金融.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "16e68d2d679ea06809d8d48d98aa62ea"
+    },
+    {
+      "id": 128,
+      "title": "中科软云原生分布式寿险核心业务系统解决方案_保险_金融-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/financial/insurance/sinosoftcndlis.html",
+      "filename": "128-中科软云原生分布式寿险核心业务系统解决方案_保险_金融.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "db9b52c50abb448834d5aa7d96d07f67"
+    },
+    {
+      "id": 129,
+      "title": "中科软IFRS17解决方案_保险_金融-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/financial/insurance/sinosoftifrs17.html",
+      "filename": "129-中科软IFRS17解决方案_保险_金融.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "34692e7b40c6cb4f4f2d275671b7e959"
+    },
+    {
+      "id": 130,
+      "title": "鑫陇智能陪练解决方案_保险_金融-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/financial/insurance/xlstc.html",
+      "filename": "130-鑫陇智能陪练解决方案_保险_金融.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "c1191d09f719cb50bac6c130bbe127ed"
+    },
+    {
+      "id": 131,
+      "title": "中科金得助金融智能客服解决方案_互联网金融_金融-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/financial/internet-finance/zkj.html",
+      "filename": "131-中科金得助金融智能客服解决方案_互联网金融_金融.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "e85eb9bf246a78e9d47146981ec7b985"
+    },
+    {
+      "id": 132,
+      "title": "同花顺智能投研解决方案_证券_金融-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/financial/securities/hithinkiirs.html",
+      "filename": "132-同花顺智能投研解决方案_证券_金融.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "61bd9a12914ff7ba3be969f3ebc7ea9b"
+    },
+    {
+      "id": 133,
+      "title": "金融专区_金融行业解决方案-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/ftci/index.html",
+      "filename": "133-金融专区_金融行业解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "be4e0bfbd5df8b791ae7ea0d6c884033"
+    },
+    {
+      "id": 134,
+      "title": "华为FusionPlant智能工业互联网平台-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/fusionplant/homepage.html",
+      "filename": "134-华为FusionPlant智能工业互联网平台.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "3debdfd3b6c99f2eb18a3516eb7df8ce"
+    },
+    {
+      "id": 135,
+      "title": "游戏云端部署解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/gamehosting/index.html",
+      "filename": "135-游戏云端部署解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "a21b1b008138429ccb77c42519912854"
+    },
+    {
+      "id": 136,
+      "title": "游戏安全解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/gamesecurity/index.html",
+      "filename": "136-游戏安全解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "6ac222544667df1bfcaddbff5eac269f"
+    },
+    {
+      "id": 137,
+      "title": "华为云全球业务Boosting解决方案_中资出海_互联网-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/go-global.html",
+      "filename": "137-华为云全球业务Boosting解决方案_中资出海_互联网.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "2bb267579274b4ccdffbab4f1bdafb62"
+    },
+    {
+      "id": 138,
+      "title": "翼海云峰政府GAAI场景化专业服务解决方案_公共安全_政府与公共事业-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/government-and-public-utilities/gasps.html",
+      "filename": "138-翼海云峰政府GAAI场景化专业服务解决方案_公共安全_政府与公共事业.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "93c8aeb92733cd70f88f09f9a2618dc4"
+    },
+    {
+      "id": 139,
+      "title": "华海智汇政务办公助手解决方案_政务_政府与公共事业-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/government-and-public-utilities/govai.html",
+      "filename": "139-华海智汇政务办公助手解决方案_政务_政府与公共事业.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "10353c0c21eaaba0373deecdc24f6ab5"
+    },
+    {
+      "id": 140,
+      "title": "基于MetaStudio的云小华数字人服务解决方案_教育及科研_政府与公共事业-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/government-and-public-utilities/yxhdhssbm.html",
+      "filename": "140-基于MetaStudio的云小华数字人服务解决方案_教育及科研_政府与公共事业.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "488a01c5a9b1eaa66ec8422f83c9b7bc"
+    },
+    {
+      "id": 141,
+      "title": "华为云政务大数据解决方案_政务一网通_政务-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/government/gonc/hcgbd.html",
+      "filename": "141-华为云政务大数据解决方案_政务一网通_政务.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "78e3c732193c3f8d5a52f4ce08505c13"
+    },
+    {
+      "id": 142,
+      "title": "数字政通城市运行管理服务平台解决方案_政府与公共事业_政府公共服务-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/government/gonc/uomsp.html",
+      "filename": "142-数字政通城市运行管理服务平台解决方案_政府与公共事业_政府公共服务.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "203b51fcfa89003eeeeb92b2b4ac9030"
+    },
+    {
+      "id": 143,
+      "title": "云基华海政务大数据解决方案-政务一网通-政府-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/government/gonc/yunectgbd.html",
+      "filename": "143-云基华海政务大数据解决方案-政务一网通-政府.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "aa344d2c1a2d2b7bf7d15cd20dc51c83"
+    },
+    {
+      "id": 144,
+      "title": "等保合规安全解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/gradedprotection/index.html",
+      "filename": "144-等保合规安全解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "18173f77b8b44fcc024e6f0e6471c1b2"
+    },
+    {
+      "id": 145,
+      "title": "影禾医脉医学影像解决方案_医院_医疗-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/health/hospital/miis.html",
+      "filename": "145-影禾医脉医学影像解决方案_医院_医疗.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "50ffa2621483ef6c1a3fe024191ba2b8"
+    },
+    {
+      "id": 146,
+      "title": "润达智慧医疗云解决方案_医院_医疗-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/health/hospital/rdwmc.html",
+      "filename": "146-润达智慧医疗云解决方案_医院_医疗.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "ff9f37f8faf68e71c99775228d7e45cd"
+    },
+    {
+      "id": 147,
+      "title": "源康健互联网医院解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/health/internet-hospital-overview.html",
+      "filename": "147-源康健互联网医院解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "19ff5df0489d499f5d91cd78feddd9f5"
+    },
+    {
+      "id": 148,
+      "title": "迈氪锶智能应用构建平台解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/aielmsnl2app.html",
+      "filename": "148-迈氪锶智能应用构建平台解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "139e5e3b0c7934bdfae3e12ff77ad678"
+    },
+    {
+      "id": 149,
+      "title": "达观数据智能知识管理系统解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/aikms.html",
+      "filename": "149-达观数据智能知识管理系统解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "97ce8cf64d6613c1c811b7ba66f07a13"
+    },
+    {
+      "id": 150,
+      "title": "像素绽放AiPPT解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/aippt.html",
+      "filename": "150-像素绽放AiPPT解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "d8085ab52e004e451e5bd30b51dd9dc6"
+    },
+    {
+      "id": 151,
+      "title": "博阳精讯EBPM流程管理平台解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/ebpm.html",
+      "filename": "151-博阳精讯EBPM流程管理平台解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "43466913a69a56dd8a5b91386aa961cb"
+    },
+    {
+      "id": 152,
+      "title": "法正智能企业AI大数据采购管理平台解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/fzaips.html",
+      "filename": "152-法正智能企业AI大数据采购管理平台解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "cc11becf8b49e1dd1071eb68a4323569"
+    },
+    {
+      "id": 153,
+      "title": "汇联易AI智能费控档案一体化解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/helios.html",
+      "filename": "153-汇联易AI智能费控档案一体化解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "076a6731275ed078be63c6664b9b073a"
+    },
+    {
+      "id": 154,
+      "title": "红圈工程项目管理一体化平台解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/hongquan.html",
+      "filename": "154-红圈工程项目管理一体化平台解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "b6d8ac30f423e59c7cf4b8bba8849d8e"
+    },
+    {
+      "id": 155,
+      "title": "软通动力智帷司库解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/isswts.html",
+      "filename": "155-软通动力智帷司库解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "283fa57f2a141f658e57f797b026434d"
+    },
+    {
+      "id": 156,
+      "title": "金蝶云星瀚企业管理数字化解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/kingdeeccemd.html",
+      "filename": "156-金蝶云星瀚企业管理数字化解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "fc91ed12c038723426c00aa8b43e2c98"
+    },
+    {
+      "id": 157,
+      "title": "保利威私域营销直播解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/polyvpdls.html",
+      "filename": "157-保利威私域营销直播解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "1369ae4317170e42e7af06fcaaca0c53"
+    },
+    {
+      "id": 158,
+      "title": "致远互联智能助手Agent平台解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/seeyon-cop.html",
+      "filename": "158-致远互联智能助手Agent平台解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f9dd314b1a9bb4d62169b8dd249e978b"
+    },
+    {
+      "id": 159,
+      "title": "亿企赢涉税数据服务解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/tdss.html",
+      "filename": "159-亿企赢涉税数据服务解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "87b8bd8c68743c1b30290a8ab8207bec"
+    },
+    {
+      "id": 160,
+      "title": "任我行天通ERP中小企业业财产一体化解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/tiantongerp.html",
+      "filename": "160-任我行天通ERP中小企业业财产一体化解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "1cdc72db464b4f5e692030022ca9a783"
+    },
+    {
+      "id": 161,
+      "title": "讯盟智享AI人工智能服务平台解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/tsai.html",
+      "filename": "161-讯盟智享AI人工智能服务平台解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "e7129b84f327e0ed7c654096b337092a"
+    },
+    {
+      "id": 162,
+      "title": "金山WPS365数智办公解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/wps365.html",
+      "filename": "162-金山WPS365数智办公解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "6233e4c4a7c2cb42df49ddb90222e560"
+    },
+    {
+      "id": 163,
+      "title": "赞奇AIKnow智能体编排服务解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/xsuperzone.html",
+      "filename": "163-赞奇AIKnow智能体编排服务解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "e73d99876138a85ec999595e709ede41"
+    },
+    {
+      "id": 164,
+      "title": "卓繁信息循道智能体应用及开发平台解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/high-tech/zhuofanaiappdev.html",
+      "filename": "164-卓繁信息循道智能体应用及开发平台解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "1b046b1bc5ce308cf72177daec0cdbe2"
+    },
+    {
+      "id": 165,
+      "title": "MetaTown数字资产管理解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/build-a-digital-assets-platform-based-on-metatown.html",
+      "filename": "165-MetaTown数字资产管理解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "0ae615ac07bede35c00216dcfab25bc4"
+    },
+    {
+      "id": 166,
+      "title": "数字资产秒杀场景解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/build-a-digital-assets-platform-seckill-solution.html",
+      "filename": "166-数字资产秒杀场景解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "c3e1f8d66929b9b1a1a66bfae057587c"
+    },
+    {
+      "id": 167,
+      "title": "搭建站斧跨境电商管理系统",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/build-a-zhanfu-cross-border-e-commerce-management-system.html",
+      "filename": "167-搭建站斧跨境电商管理系统.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "0c192ef7de08473563d40f341ada5e77"
+    },
+    {
+      "id": 168,
+      "title": "基于开源Odoo快速部署ERP系统",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/build-an-erp-based-on-odoo.html",
+      "filename": "168-基于开源Odoo快速部署ERP系统.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "b5d5b82fe1fa6faba953661b1cb24037"
+    },
+    {
+      "id": 169,
+      "title": "快速搭建DeepSeek推理系统",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/building-a-deepseek-lnference-system.html",
+      "filename": "169-快速搭建DeepSeek推理系统.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "2d6e77cfe57ad5105e95c9fb72e8ba47"
+    },
+    {
+      "id": 170,
+      "title": "快速搭建Dify-LLM应用开发平台",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/building-a-dify-llm-application-development-platform.html",
+      "filename": "170-快速搭建Dify-LLM应用开发平台.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "2167cf2dd03a498fe415b69f416b6a0e"
+    },
+    {
+      "id": 171,
+      "title": "快速搭建New API大模型网关",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/building-a-newapi-llm-gateway.html",
+      "filename": "171-快速搭建New-API大模型网关.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "8f915c2da7676a167da4eca875959938"
+    },
+    {
+      "id": 172,
+      "title": "基于开源模型构建高可用AIGC应用",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/building-high-availability-aigc-applications-with-stable-diffusion.html",
+      "filename": "172-基于开源模型构建高可用AIGC应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "d553376d10f8be149db3f0a0fad03370"
+    },
+    {
+      "id": 173,
+      "title": "CDN下载加速",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/cdn-download-acceleration.html",
+      "filename": "173-CDN下载加速.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "539160c34d051453fa390e23eef8ef62"
+    },
+    {
+      "id": 174,
+      "title": "基于关键词快速生成高清短视频",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/creating-short-hd-videos.html",
+      "filename": "174-基于关键词快速生成高清短视频.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "64ea2163dff0fce929af2d9750b84e70"
+    },
+    {
+      "id": 175,
+      "title": "快速部署幻兽帕鲁专用服务器",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/deploy-a-palworld-dedicated-server.html",
+      "filename": "175-快速部署幻兽帕鲁专用服务器.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "4562290cb30718ae360a03eaf5397f90"
+    },
+    {
+      "id": 176,
+      "title": "基于Slurm构建泛HPC场景云上云下资源协同解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/deploy-a-scalable-hpc-cluster-with-slurm.html",
+      "filename": "176-基于Slurm构建泛HPC场景云上云下资源协同解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "6ee42103e469ec4a609550698b6494e0"
+    },
+    {
+      "id": 177,
+      "title": "快速部署Embedding及Reranker模型",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/deploying-embedding-and-reranker-models.html",
+      "filename": "177-快速部署Embedding及Reranker模型.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "db2a2092e2cbef89f021538b618d484d"
+    },
+    {
+      "id": 178,
+      "title": "快速搭建EvalScope模型性能评测平台",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/deploying-evalscope-for-model-performance-evaluation.html",
+      "filename": "178-快速搭建EvalScope模型性能评测平台.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "241cc1e4f021cacd2bc53ee6a773df1f"
+    },
+    {
+      "id": 179,
+      "title": "快速部署Qwen-QwQ-32B模型",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/deploying-qwen-qwq-32b-model.html",
+      "filename": "179-快速部署Qwen-QwQ-32B模型.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "8f1a0afa26f10126be5edf8f0922ebbc"
+    },
+    {
+      "id": 180,
+      "title": "快速部署Qwen3系列模型",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/deploying-qwen3-large-language-model-family.html",
+      "filename": "180-快速部署Qwen3系列模型.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "8f1de20e6a525bd291516e7131df2297"
+    },
+    {
+      "id": 181,
+      "title": "数字人交互智能问答解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/digital-human-interaction-and-intelligent-qa-solution.html",
+      "filename": "181-数字人交互智能问答解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "5ef7c249536e5e3e1c6c2d1029a84dae"
+    },
+    {
+      "id": 182,
+      "title": "电商秒杀大促数据库解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/e-commerce-seckill-big-promotion-database.html",
+      "filename": "182-电商秒杀大促数据库解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "0c04c194c302550a3dd0f4378bfe0245"
+    },
+    {
+      "id": 183,
+      "title": "基于Magento快速构建电商网站",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/e-commerce-shop-based-magento.html",
+      "filename": "183-基于Magento快速构建电商网站.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "ff8cdb00ac96f09091db5562f188297e"
+    },
+    {
+      "id": 184,
+      "title": "搭建跨境电商店铺管理环境",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/e-commerce-store-access-environment.html",
+      "filename": "184-搭建跨境电商店铺管理环境.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "af694751971bffdf806b9f03bf8a6cb7"
+    },
+    {
+      "id": 185,
+      "title": "游戏服务托管解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/game-hosting-platform-based-on-gameflexmatch.html",
+      "filename": "185-游戏服务托管解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "356a854bd3911d5859926dcdaa8f8c5d"
+    },
+    {
+      "id": 186,
+      "title": "快速体验智能问数",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/getting-started-with-intelligent-data-insight.html",
+      "filename": "186-快速体验智能问数.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "fe3880bbb1963f152174230c1bc0e798"
+    },
+    {
+      "id": 187,
+      "title": "高可用网站架构云化",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/high-availability-website-architecture.html",
+      "filename": "187-高可用网站架构云化.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "db77ba96f1723978dfc8f2744b6bfe0a"
+    },
+    {
+      "id": 188,
+      "title": "参考架构_华为云解决方案-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/index.html",
+      "filename": "188-参考架构_华为云解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "3a4fd772b298bfb0fb16f4b807bcf92f"
+    },
+    {
+      "id": 189,
+      "title": "等保三级解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/level-3-protection.html",
+      "filename": "189-等保三级解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "07e25da2d8c2937114d2c2584ba34639"
+    },
+    {
+      "id": 190,
+      "title": "基于DBSyncer快速实现数据库迁移",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/migrating-databases-with-dbsyncer.html",
+      "filename": "190-基于DBSyncer快速实现数据库迁移.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "b50b1604e5983d7ccfe19e9e21340257"
+    },
+    {
+      "id": 191,
+      "title": "内容审核-图片审核",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/moderation.html",
+      "filename": "191-内容审核-图片审核.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "b07f245284888a390ee4c6314e599c69"
+    },
+    {
+      "id": 192,
+      "title": "文字识别-发票识别与验真",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/ocr.html",
+      "filename": "192-文字识别-发票识别与验真.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "6f395f582a016436f824edb122ef5a0e"
+    },
+    {
+      "id": 193,
+      "title": "基于JumpServer快速搭建远程安全运维环境",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/om-environment-with-jumpserver.html",
+      "filename": "193-基于JumpServer快速搭建远程安全运维环境.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f3c79fa94ea0da28aaa6f335d374185d"
+    },
+    {
+      "id": 194,
+      "title": "核心数据库上云",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/oracle-rac-in-cloud.html",
+      "filename": "194-核心数据库上云.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "c24dac62843fc6bea8ee8af3c2668045"
+    },
+    {
+      "id": 195,
+      "title": "快速部署MCP SSE服务器",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/quickly-deploying-an-sse-based-mcp-server.html",
+      "filename": "195-快速部署MCP-SSE服务器.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "beaa7427fb3fd2e0866389ddf28fd8a9"
+    },
+    {
+      "id": 196,
+      "title": "快速部署宝塔面板",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/rapid-deployment-of-baota-panel.html",
+      "filename": "196-快速部署宝塔面板.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "fe1b7ff1c3eb7e32aa3b7eff053d256b"
+    },
+    {
+      "id": 197,
+      "title": "OBS极速同步模型权重文件",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/replicating-model-weight-files-across-obs-buckets.html",
+      "filename": "197-OBS极速同步模型权重文件.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "914135b1c3ee9cf6b991d5d2d77052e4"
+    },
+    {
+      "id": 198,
+      "title": "定时开关机解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/scheduled-power-on-and-power-off-solution.html",
+      "filename": "198-定时开关机解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "5c717bee7dbc68fdfd4bb6abb8f255f4"
+    },
+    {
+      "id": 199,
+      "title": "基于云搜索服务的SQL加速",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/search-acceleration-based-css.html",
+      "filename": "199-基于云搜索服务的SQL加速.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "53d3e6cddd2c74d3910a3211dc141339"
+    },
+    {
+      "id": 200,
+      "title": "快速搭建BISHENG应用开发平台",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/setting-up-bisheng-for-application-development.html",
+      "filename": "200-快速搭建BISHENG应用开发平台.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "c1e9b245e9d86552d035b28a677ae009"
+    },
+    {
+      "id": 201,
+      "title": "快速搭建Zadig AIDevOps平台",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/setting-up-zadig-for-aidevops.html",
+      "filename": "201-快速搭建Zadig-AIDevOps平台.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "34289397f911cd3aa13a0d5976ce4597"
+    },
+    {
+      "id": 202,
+      "title": "Web网站基础安全防护",
+      "source_url": "https://www.huaweicloud.com/solution/implementations/website-security.html",
+      "filename": "202-Web网站基础安全防护.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "b41a5afc6f86e50ed7e1d29835161b44"
+    },
+    {
+      "id": 203,
+      "title": "语忆全域消费者洞察VOC解决方案_电商_互联网-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/internet/e-commerce/yuyivoc.html",
+      "filename": "203-语忆全域消费者洞察VOC解决方案_电商_互联网.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "ee0bad63ebf89c521f66be2bee6c4f61"
+    },
+    {
+      "id": 204,
+      "title": "网易易盾内容安全解决方案_游戏_互联网-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/internet/game/nycss.html",
+      "filename": "204-网易易盾内容安全解决方案_游戏_互联网.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "5055f02e69a8057f74828999a5573096"
+    },
+    {
+      "id": 205,
+      "title": "数数科技游戏行业TE系统云原生解决方案_游戏_互联网-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/internet/game/tecns.html",
+      "filename": "205-数数科技游戏行业TE系统云原生解决方案_游戏_互联网.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "6601a98d11d1b05cfebc86efb11f2bb3"
+    },
+    {
+      "id": 206,
+      "title": "数美科技大模型AIGC内容风控解决方案_媒体娱乐_互联网-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/internet/generativeaimoderation.html",
+      "filename": "206-数美科技大模型AIGC内容风控解决方案_媒体娱乐_互联网.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "7fceb128637838adf57d908f63087ef9"
+    },
+    {
+      "id": 207,
+      "title": "今日人才数智员工解决方案_新赛道_互联网-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/internet/new-track/dintaide.html",
+      "filename": "207-今日人才数智员工解决方案_新赛道_互联网.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "6048b0c1e48cd1062960cf10ec19235a"
+    },
+    {
+      "id": 208,
+      "title": "图普科技内容智能审核解决方案_媒体娱乐_互联网-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/internet/tupuaicms.html",
+      "filename": "208-图普科技内容智能审核解决方案_媒体娱乐_互联网.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "44e6fb1ac7ad40aa2ed7cdc6999da757"
+    },
+    {
+      "id": 209,
+      "title": "IPv6解决方案_云基础设施-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/ipv6/index.html",
+      "filename": "209-IPv6解决方案_云基础设施.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "c8ac0846ad1103e42af6ea179a15687a"
+    },
+    {
+      "id": 210,
+      "title": "G7易流运输管理系统解决方案-物流-物流与仓储-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/logistics/g7e6tms.html",
+      "filename": "210-G7易流运输管理系统解决方案-物流-物流与仓储.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "be24eccd6c59088002f655212fdae195"
+    },
+    {
+      "id": 211,
+      "title": "高达综合供应链管理平台",
+      "source_url": "https://www.huaweicloud.com/solution/logistics/gscmps.html",
+      "filename": "211-高达综合供应链管理平台.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "75a120135c0a2494a8c2acd016841549"
+    },
+    {
+      "id": 212,
+      "title": "华唯企业数字化与管理咨询实施服务解决方案_综合制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/manufacturing/edcis.html",
+      "filename": "212-华唯企业数字化与管理咨询实施服务解决方案_综合制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f4457d51e7556316a276c53e2d87cd96"
+    },
+    {
+      "id": 213,
+      "title": "谷斗科技供应链决策优化解决方案_综合制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/manufacturing/goodorso.html",
+      "filename": "213-谷斗科技供应链决策优化解决方案_综合制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "5d070e84f07c5cdacde48c7a72ff3ec1"
+    },
+    {
+      "id": 214,
+      "title": "汉得HZERO企业级PaaS平台解决方案_综合制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/manufacturing/hzerops.html",
+      "filename": "214-汉得HZERO企业级PaaS平台解决方案_综合制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "70ee7145f921b4f7d35ddcb97ccb1c0c"
+    },
+    {
+      "id": 215,
+      "title": "泊松Magicsim多体动力学仿真解决方案_装备制造_综合制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/manufacturing/mmdss.html",
+      "filename": "215-泊松Magicsim多体动力学仿真解决方案_装备制造_综合制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f80d66665af09f6079bbef1f4092265b"
+    },
+    {
+      "id": 216,
+      "title": "智成软件轮胎行业数字化解决方案_汽车零部件及配件制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/manufacturing/mt3.html",
+      "filename": "216-智成软件轮胎行业数字化解决方案_汽车零部件及配件制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "556d1ddfdc08e1ef0cd9072a946f2727"
+    },
+    {
+      "id": 217,
+      "title": "商派制造业数字化订货与积分返利平台解决方案_制造_综合制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/manufacturing/shopexs2b2b.html",
+      "filename": "217-商派制造业数字化订货与积分返利平台解决方案_制造_综合制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "2ff30289b9022364f4315cc139b5de02"
+    },
+    {
+      "id": 218,
+      "title": "中控卓越智能工厂解决方案_材料化工（有色金属/化工/水泥/玻璃）_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/manufacturing/supconpremium.html",
+      "filename": "218-中控卓越智能工厂解决方案_材料化工（有色金属化工水泥玻璃）_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "c561fb59f769340f4c6139c9287abca1"
+    },
+    {
+      "id": 219,
+      "title": "上海益吉科技质量管理QMS解决方案_汽车零部件及配件制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/manufacturing/sytqmss.html",
+      "filename": "219-上海益吉科技质量管理QMS解决方案_汽车零部件及配件制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "bf4faec710972174ce3fe70975c2e570"
+    },
+    {
+      "id": 220,
+      "title": "硅基智能多模态仿真数字人解决方案_媒体娱乐_互联网-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mda/simdhs.html",
+      "filename": "220-硅基智能多模态仿真数字人解决方案_媒体娱乐_互联网.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "80b70ee3c1a4c52f7323ee2a80c80588"
+    },
+    {
+      "id": 221,
+      "title": "华为云工业互联网平台-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/industrial-internet.html",
+      "filename": "221-华为云工业互联网平台.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "46fedc3d424e5796e1992789bf976374"
+    },
+    {
+      "id": 222,
+      "title": "赞奇工业云小站解决方案_工业互联网_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/industrial-internet/xics.html",
+      "filename": "222-赞奇工业云小站解决方案_工业互联网_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "e477053c5eb1cbf37d93a8244f0210f6"
+    },
+    {
+      "id": 223,
+      "title": "爱上云仿真算力上云规划与实施服务解决方案_电子半导体_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/ascpis.html",
+      "filename": "223-爱上云仿真算力上云规划与实施服务解决方案_电子半导体_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "cee7cc3bfe0e7a5d138580e249d9a682"
+    },
+    {
+      "id": 224,
+      "title": "葆德星云能综合能源管理解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/bdiems.html",
+      "filename": "224-葆德星云能综合能源管理解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "b63750a976f1847f4bdc796c7c889b41"
+    },
+    {
+      "id": 225,
+      "title": "黑湖智造云端制造协同平台解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/blsm.html",
+      "filename": "225-黑湖智造云端制造协同平台解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f4a7737d4972a902d87524b0e44e224d"
+    },
+    {
+      "id": 227,
+      "title": "添翼D2M制造运营管理系统解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/d2mmom.html",
+      "filename": "227-添翼D2M制造运营管理系统解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "5144da925d3cb0274432ae884719cd56"
+    },
+    {
+      "id": 228,
+      "title": "大腾智能工业设计与服务一站式解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/dateng3d.html",
+      "filename": "228-大腾智能工业设计与服务一站式解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "5350fcf479d1bb24ecf0ec2e578cf372"
+    },
+    {
+      "id": 229,
+      "title": "鼎捷机械行业经营管理数字化解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/digiwinmimd.html",
+      "filename": "229-鼎捷机械行业经营管理数字化解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "5ae75d426a9c2578e75c6d51f9f64954"
+    },
+    {
+      "id": 230,
+      "title": "中望机械和结构设计数字化解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/dsmdsd.html",
+      "filename": "230-中望机械和结构设计数字化解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "0f5ae71a6129ecdf46552a5b6ab126c3"
+    },
+    {
+      "id": 231,
+      "title": "亿信华辰数据中台解决方案_设备制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/equipment/edms.html",
+      "filename": "231-亿信华辰数据中台解决方案_设备制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "2e1d4cff17f83cee65286f422b6b4db4"
+    },
+    {
+      "id": 232,
+      "title": "金蝶云星空机械装备数字化解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/equipment/kingdeedsme.html",
+      "filename": "232-金蝶云星空机械装备数字化解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "77d834dc5b4d2badb738d4c565abe0e3"
+    },
+    {
+      "id": 233,
+      "title": "蘑菇物联云智控解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/equipment/mcics.html",
+      "filename": "233-蘑菇物联云智控解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "214b3a4d73f4790d54da56fced94bd76"
+    },
+    {
+      "id": 234,
+      "title": "赛瀚德工业云生产协同解决方案-制造-智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/equipment/saihande.html",
+      "filename": "234-赛瀚德工业云生产协同解决方案-制造-智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "7e8d98ad0ccc56b27ef236475e13b262"
+    },
+    {
+      "id": 235,
+      "title": "华天软件3D+IM智能制造解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/h3dim.html",
+      "filename": "235-华天软件3D+IM智能制造解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "04b1c110591547d4012721aa603a64ce"
+    },
+    {
+      "id": 236,
+      "title": "阿尔卑斯制造业供应链资源计划解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/hasp.html",
+      "filename": "236-阿尔卑斯制造业供应链资源计划解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "9d75c5217ea912fbc2a7f0ec4f175c7c"
+    },
+    {
+      "id": 237,
+      "title": "华为云硬件开发工具链解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/hchdts.html",
+      "filename": "237-华为云硬件开发工具链解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "43085f412490c2decc5b81613b368777"
+    },
+    {
+      "id": 238,
+      "title": "环思纺织服装数字供应链解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/hdscs.html",
+      "filename": "238-环思纺织服装数字供应链解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "91e5ad5887436ed45e321d825a20ed0c"
+    },
+    {
+      "id": 239,
+      "title": "蜂巢工具链集成开发平台解决方案_装备制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/hitidps.html",
+      "filename": "239-蜂巢工具链集成开发平台解决方案_装备制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "636fc3cc9f5aa3788a998fd3805c04f1"
+    },
+    {
+      "id": 240,
+      "title": "华磊迅拓MOMpro企业智造运营管理解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/hlxums.html",
+      "filename": "240-华磊迅拓MOMpro企业智造运营管理解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "73d62f55489230e00990faa08f918066"
+    },
+    {
+      "id": 241,
+      "title": "汉鑫MOM制造运营管理系统解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/hmom.html",
+      "filename": "241-汉鑫MOM制造运营管理系统解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "ff26cd6b07ca963dd83f39f0cb165601"
+    },
+    {
+      "id": 242,
+      "title": "蜂巢工软工业云小站解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/honeycombics.html",
+      "filename": "242-蜂巢工软工业云小站解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "23b028d80fd7305b7267d394de3d9c69"
+    },
+    {
+      "id": 243,
+      "title": "润和国产操作系统解决方案_综合制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/hoss.html",
+      "filename": "243-润和国产操作系统解决方案_综合制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "9967ab62e9028e8e31f3830b89c4e867"
+    },
+    {
+      "id": 244,
+      "title": "华天软件3DPlaza制造行业研发数字化解决方案_综合制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/ht3dplaza.html",
+      "filename": "244-华天软件3DPlaza制造行业研发数字化解决方案_综合制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "49310b1ba8ceedd0ce324fce37864169"
+    },
+    {
+      "id": 245,
+      "title": "华会QMS质量数字化管理解决方案_消费电子_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/huahuiqms.html",
+      "filename": "245-华会QMS质量数字化管理解决方案_消费电子_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "5300fca13f8c31657e7939221f7e7cc1"
+    },
+    {
+      "id": 246,
+      "title": "汇智MOM解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/huizhimom.html",
+      "filename": "246-汇智MOM解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "1ad260d46ebb9e165b0e1e4c59d9d853"
+    },
+    {
+      "id": 247,
+      "title": "海之晨工业质检人工智能解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/hzciq.html",
+      "filename": "247-海之晨工业质检人工智能解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "263112c9dc4312242759ef1578a2dde5"
+    },
+    {
+      "id": 248,
+      "title": "光启慧语智慧医疗解决方案_医药_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/infihc.html",
+      "filename": "248-光启慧语智慧医疗解决方案_医药_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "da8da863955868c9f6566d55106ec8f8"
+    },
+    {
+      "id": 249,
+      "title": "天喻产品全生命周期管理系统IntePLM解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/inteplmv10.html",
+      "filename": "249-天喻产品全生命周期管理系统IntePLM解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "0c7b7b4bb5fa347838a3001dc208bfe5"
+    },
+    {
+      "id": 250,
+      "title": "造物数科工业云小站解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/inzaowuics.html",
+      "filename": "250-造物数科工业云小站解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "daa3f97fe7a3b898fe7da797a7a49aff"
+    },
+    {
+      "id": 251,
+      "title": "造物数科电子电路云工厂数字化解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/inztation.html",
+      "filename": "251-造物数科电子电路云工厂数字化解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "e7e42dba32611fcef4c2f076e95c7a03"
+    },
+    {
+      "id": 252,
+      "title": "华龙讯达木星工业自动化平台智能制造解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/jiccloud.html",
+      "filename": "252-华龙讯达木星工业自动化平台智能制造解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "1ea990135f24a543a88041e99affd570"
+    },
+    {
+      "id": 253,
+      "title": "链宇技术制造业数字化订单管理解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/lianyu-oms.html",
+      "filename": "253-链宇技术制造业数字化订单管理解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "3585b44eccc7f68e02de64220b6d89d0"
+    },
+    {
+      "id": 254,
+      "title": "智物联Mixlinker设备运维及能耗管理解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/memems.html",
+      "filename": "254-智物联Mixlinker设备运维及能耗管理解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "22a91e8266a351ea30e602187d684d98"
+    },
+    {
+      "id": 255,
+      "title": "博诚经纬MOM制造运营管理解决方案_综合制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/mom.html",
+      "filename": "255-博诚经纬MOM制造运营管理解决方案_综合制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "e89cabfc30c629ad2a053d514a1718d9"
+    },
+    {
+      "id": 256,
+      "title": "美云智数美擎CAPP解决方案_消费电子_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/mqcapp.html",
+      "filename": "256-美云智数美擎CAPP解决方案_消费电子_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "50e92caf07844454c80d457ae8f572eb"
+    },
+    {
+      "id": 257,
+      "title": "能科科技数字主线解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/ndts.html",
+      "filename": "257-能科科技数字主线解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "529795e97fccade442bd1a3bdad07b7f"
+    },
+    {
+      "id": 258,
+      "title": "启云方板级EDA设计数字化解决方案_电子半导体_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/qyfeda.html",
+      "filename": "258-启云方板级EDA设计数字化解决方案_电子半导体_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "fdf55cc59d4bc0cd7f042594ef52e543"
+    },
+    {
+      "id": 259,
+      "title": "芯片EDA解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/semiconductor/icds.html",
+      "filename": "259-芯片EDA解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "acef23e5e9b4a0d31f3941a5ea53764f"
+    },
+    {
+      "id": 260,
+      "title": "赛意制造运营管理MOM解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/siemom.html",
+      "filename": "260-赛意制造运营管理MOM解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "a57e9c0c3a7472e6d762f806c202bae1"
+    },
+    {
+      "id": 261,
+      "title": "中控灵动生产制造云解决方案_综合制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/supcon.html",
+      "filename": "261-中控灵动生产制造云解决方案_综合制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "2ea18de7ce16641ff115e48a14e2da14"
+    },
+    {
+      "id": 262,
+      "title": "天心天思数字化工厂解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/tdfs.html",
+      "filename": "262-天心天思数字化工厂解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "89d3aa454eb223feb845808a3fed83e2"
+    },
+    {
+      "id": 263,
+      "title": "用友装备制造企业数字化解决方案_综合制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/u9candplm-details.html",
+      "filename": "263-用友装备制造企业数字化解决方案_综合制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "10ba1252d5e254675a364b940bec1b8f"
+    },
+    {
+      "id": 264,
+      "title": "万腾科技制造运营管理MOM解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/vmom.html",
+      "filename": "264-万腾科技制造运营管理MOM解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "b173f7b35925d0103de134fed947c580"
+    },
+    {
+      "id": 265,
+      "title": "万物智联智造云解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/worldlinkingimc.html",
+      "filename": "265-万物智联智造云解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "7fd0a3a495f84db3cd96230e6a15900a"
+    },
+    {
+      "id": 266,
+      "title": "希维科技制造业数字化质量管理解决方案_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/xiwicloud.html",
+      "filename": "266-希维科技制造业数字化质量管理解决方案_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "3636f51b0ac9fc30d9c56116e9622de3"
+    },
+    {
+      "id": 267,
+      "title": "云数MOM制造运营管理系统解决方案_制造_综合制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/manufacturing/yunshumom.html",
+      "filename": "267-云数MOM制造运营管理系统解决方案_制造_综合制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "11705ea2d20af63b3e6a10b37b3dcdd2"
+    },
+    {
+      "id": 268,
+      "title": "华为云区域工业互联网公共技术服务平台_制造_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/riipra.html",
+      "filename": "268-华为云区域工业互联网公共技术服务平台_制造_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "5dee7a202f9b36df56abcae7e1ec08d3"
+    },
+    {
+      "id": 269,
+      "title": "悠桦林智能供应链计划与排程解决方案_智能制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/mnft/uscps.html",
+      "filename": "269-悠桦林智能供应链计划与排程解决方案_智能制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "5fd48a72b9d173ba617246afb6ab18d4"
+    },
+    {
+      "id": 270,
+      "title": "北明软件智慧仲裁解决方案_政府-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/publicutility/bsas.html",
+      "filename": "270-北明软件智慧仲裁解决方案_政府.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "d131d7a6150f1fbf7f24e2086d0a5e93"
+    },
+    {
+      "id": 271,
+      "title": "国蓝中天环保监测系统解决方案_政府-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/publicutility/semss.html",
+      "filename": "271-国蓝中天环保监测系统解决方案_政府.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "313312a01701237987c12e0dde15a905"
+    },
+    {
+      "id": 272,
+      "title": "无忧智慧公文解决方案_政务_政府与公共事业-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/publicutility/wipp.html",
+      "filename": "272-无忧智慧公文解决方案_政务_政府与公共事业.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "29f4c604c500462150515ea7cf523ed5"
+    },
+    {
+      "id": 273,
+      "title": "明源云不动产投建营一体化平台",
+      "source_url": "https://www.huaweicloud.com/solution/rec/mingyuanyun-ica-management.html",
+      "filename": "273-明源云不动产投建营一体化平台.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "e9af16e8ae348f791666c5cf18fa273e"
+    },
+    {
+      "id": 274,
+      "title": "区域教育云平台解决方案_基础教育-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/regionaleducationcenter/index.html",
+      "filename": "274-区域教育云平台解决方案_基础教育.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "29559b0fe9889cf7f0ff61761362b87d"
+    },
+    {
+      "id": 275,
+      "title": "百胜软件胜券AI解决方案_综合零售_零售与地产-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail-real-estate/baisonsqai.html",
+      "filename": "275-百胜软件胜券AI解决方案_综合零售_零售与地产.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "06a62b800428bcc64760dd289cc30501"
+    },
+    {
+      "id": 276,
+      "title": "迈富时智能营销销售解决方案_综合零售_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail-real-estate/marketingforce.html",
+      "filename": "276-迈富时智能营销销售解决方案_综合零售_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "7582164bcdee9377cbbb3b2a9805a539"
+    },
+    {
+      "id": 277,
+      "title": "南讯综合零售全渠道消费者运营解决方案_综合零售_零售与地产-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail-real-estate/nascent.html",
+      "filename": "277-南讯综合零售全渠道消费者运营解决方案_综合零售_零售与地产.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "82da07bf867a2196ffc1dfe6f6119f9a"
+    },
+    {
+      "id": 278,
+      "title": "比升技术全渠道运营管理解决方案_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/bstom.html",
+      "filename": "278-比升技术全渠道运营管理解决方案_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "bd79d18e3092e5d5e24148a6932818e0"
+    },
+    {
+      "id": 279,
+      "title": "ChiefClouds 消费者增长解决方案_综合零售_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/ccgs.html",
+      "filename": "279-ChiefClouds-消费者增长解决方案_综合零售_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "747431ca42ba30f2aa445a9b21c41043"
+    },
+    {
+      "id": 280,
+      "title": "CCN中商一物一码品牌防伪溯源营销解决方案_综合零售_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/ccnopoc.html",
+      "filename": "280-CCN中商一物一码品牌防伪溯源营销解决方案_综合零售_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "704373b9df6459069674eda84c47f774"
+    },
+    {
+      "id": 281,
+      "title": "博诚经纬跨境外综服务平台解决方案_零售SaaS 服务商_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/ccsp.html",
+      "filename": "281-博诚经纬跨境外综服务平台解决方案_零售SaaS-服务商_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "4f88a6c463eb0ac8dc1e7a7d05cd9572"
+    },
+    {
+      "id": 282,
+      "title": "数说故事舆情雷达解决方案_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/dpom.html",
+      "filename": "282-数说故事舆情雷达解决方案_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "3ea247c4c1dcc39dc2a5e91ac4c4c187"
+    },
+    {
+      "id": 283,
+      "title": "杉数科技供应链智慧决策平台解决方案_大服饰_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/iscpps.html",
+      "filename": "283-杉数科技供应链智慧决策平台解决方案_大服饰_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "22cb8bfd8cfe74b3ad71c4e6addd983d"
+    },
+    {
+      "id": 284,
+      "title": "杰峰科技泛连锁零售智慧门店运营解决方案_商超连锁_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/jfvms.html",
+      "filename": "284-杰峰科技泛连锁零售智慧门店运营解决方案_商超连锁_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "0ffa91bbf075b98c2c047c2e69f04a05"
+    },
+    {
+      "id": 285,
+      "title": "明奇科技线下场域营运智能解决方案_商超连锁_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/mqtoois.html",
+      "filename": "285-明奇科技线下场域营运智能解决方案_商超连锁_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "18666dab85444a8088e73fc64c90e5fc"
+    },
+    {
+      "id": 286,
+      "title": "万店掌智慧门店连锁运营解决方案_综合零售_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/opssps.html",
+      "filename": "286-万店掌智慧门店连锁运营解决方案_综合零售_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "05b26be6290740c237f250103a0a716f"
+    },
+    {
+      "id": 287,
+      "title": "丽晶软件Nebula星云全链路零售解决方案_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/rnodrs.html",
+      "filename": "287-丽晶软件Nebula星云全链路零售解决方案_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "79ded8909ddd5baf2026fd4187bef21b"
+    },
+    {
+      "id": 288,
+      "title": "数云快消行业BC一体化会员运营解决方案_大快消_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/sybcim.html",
+      "filename": "288-数云快消行业BC一体化会员运营解决方案_大快消_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "6cf5121b83645018841b3e6369d6ca5a"
+    },
+    {
+      "id": 289,
+      "title": "特赞品牌零售内容营销中台解决方案_大快消_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/tdam.html",
+      "filename": "289-特赞品牌零售内容营销中台解决方案_大快消_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "3b5d3137ee2ebd31a12302211436a615"
+    },
+    {
+      "id": 290,
+      "title": "图普科技线下门店空间数字化解决方案_商超购百_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/tpdsfoss.html",
+      "filename": "290-图普科技线下门店空间数字化解决方案_商超购百_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "6da904549acd55f4243294696c8b5448"
+    },
+    {
+      "id": 291,
+      "title": "玄武智慧100快消行业数智化CRM解决方案_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/xww100.html",
+      "filename": "291-玄武智慧100快消行业数智化CRM解决方案_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "3799321010d5ad6a77456f21e6d83685"
+    },
+    {
+      "id": 292,
+      "title": "有赞快消行业私域用户运营服务平台解决方案_大快消_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/yfpuops.html",
+      "filename": "292-有赞快消行业私域用户运营服务平台解决方案_大快消_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "12b4db1258ec19436c786fc7b2868b23"
+    },
+    {
+      "id": 293,
+      "title": "云徙xAgent智能体构建平台解决方案_综合零售_零售-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/retail/yunxixagent.html",
+      "filename": "293-云徙xAgent智能体构建平台解决方案_综合零售_零售.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f3a4bf0a9d5931cc0f8e7abd4957c670"
+    },
+    {
+      "id": 294,
+      "title": "百望云票财税一体化解决方案_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/bwcit.html",
+      "filename": "294-百望云票财税一体化解决方案_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "9dbe0aa51d173666aa13ea124be2636b"
+    },
+    {
+      "id": 295,
+      "title": "酷学院企业培训解决方案_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/ccts.html",
+      "filename": "295-酷学院企业培训解决方案_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "fbc9a660ff43d4558402d5e20b9210db"
+    },
+    {
+      "id": 296,
+      "title": "云智慧AIOPS智能运维平台解决方案_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/cfaiops.html",
+      "filename": "296-云智慧AIOPS智能运维平台解决方案_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "9782e460687b305b4ff758a08db7252d"
+    },
+    {
+      "id": 297,
+      "title": "易路People+一站式HCM人力资源管理平台解决方案_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/eroadpeoplehcm.html",
+      "filename": "297-易路People+一站式HCM人力资源管理平台解决方案_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "e5053d08f1c3394adfd2b4e99c5d6f25"
+    },
+    {
+      "id": 298,
+      "title": "金财互联业财税一体化解决方案_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/fti.html",
+      "filename": "298-金财互联业财税一体化解决方案_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "0384d93d0efd1fbb6ec847cfd5587fac"
+    },
+    {
+      "id": 299,
+      "title": "北京易动纷享客户管理解决方案",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/fxcrm.html",
+      "filename": "299-北京易动纷享客户管理解决方案.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "666eed566cade34dc5feff814e757b4c"
+    },
+    {
+      "id": 300,
+      "title": "盖雅工场劳动力管理解决方案_HR_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/gaiawfm.html",
+      "filename": "300-盖雅工场劳动力管理解决方案_HR_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "15b7067a42a9347b56097a2828b2b495"
+    },
+    {
+      "id": 301,
+      "title": "合思财务收支管理平台解决方案_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/hosefrem.html",
+      "filename": "301-合思财务收支管理平台解决方案_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "90ba513a96187bcc08f1ea10d17beed7"
+    },
+    {
+      "id": 302,
+      "title": "朗新人力资源解决方案_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/hrsoftdhr.html",
+      "filename": "302-朗新人力资源解决方案_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "692d51cdd51e8d2f6cc1eb5935afb3b3"
+    },
+    {
+      "id": 303,
+      "title": "南京数界科技中小企业无码数字化解决方案_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/nscf.html",
+      "filename": "303-南京数界科技中小企业无码数字化解决方案_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "1c10624437f7e4d7e4ef107f596c1e97"
+    },
+    {
+      "id": 304,
+      "title": "ONES企业级研发管理解决方案_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/osdms.html",
+      "filename": "304-ONES企业级研发管理解决方案_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "099b633508ae008ad362e7b2118991b9"
+    },
+    {
+      "id": 305,
+      "title": "湃睿产品生命周期管理解决方案_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/pplms.html",
+      "filename": "305-湃睿产品生命周期管理解决方案_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "59a4eed1f12b0fe87cf2256a3cad3ef9"
+    },
+    {
+      "id": 306,
+      "title": "瑞云服务云售后服务管理解决方案_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/rcis.html",
+      "filename": "306-瑞云服务云售后服务管理解决方案_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "f1caf52ef5b04f9cf30ae1f2649852cb"
+    },
+    {
+      "id": 307,
+      "title": "容联云容犀Copilot智能平台解决方案_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/rxcopilot.html",
+      "filename": "307-容联云容犀Copilot智能平台解决方案_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "40cce8ca37b46b8b42cfd983dc15dc25"
+    },
+    {
+      "id": 308,
+      "title": "智齿科技智能客服解决方案_企业SaaS应用-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/sobotcc.html",
+      "filename": "308-智齿科技智能客服解决方案_企业SaaS应用.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "d73eee42f648b7842b0ad71c8ef0562b"
+    },
+    {
+      "id": 309,
+      "title": "用友BIP大型企业数智化速达包 On 华为云解决方案_软件开发_高科技-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/saasapp/yybip.html",
+      "filename": "309-用友BIP大型企业数智化速达包-On-华为云解决方案_软件开发_高科技.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "9db9049e7215c8c9076b5b66a97a60e7"
+    },
+    {
+      "id": 310,
+      "title": "合规遵从_安全与治理-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/sag/compliance.html",
+      "filename": "310-合规遵从_安全与治理.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "bec65b7d06e82d5011c0d29d8f47cf91"
+    },
+    {
+      "id": 311,
+      "title": "顶象业务安全解决方案_安全与治理-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/sag/dxbss.html",
+      "filename": "311-顶象业务安全解决方案_安全与治理.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "488cebbd805e6e28a427d9d0c23c3f2d"
+    },
+    {
+      "id": 312,
+      "title": "华为云Landing Zone解决方案_安全与治理-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/sag/landingzone.html",
+      "filename": "312-华为云Landing-Zone解决方案_安全与治理.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "a6db14c242a1aae511538697f13a90fc"
+    },
+    {
+      "id": 313,
+      "title": "华为云大模型安全解决方案_安全与治理-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/sag/lmsec.html",
+      "filename": "313-华为云大模型安全解决方案_安全与治理.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "619cfed3f4791bf21a9ad89665c5e8d7"
+    },
+    {
+      "id": 314,
+      "title": "华为云多层联动防勒索解决方案-安全与治理-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/sag/mrps.html",
+      "filename": "314-华为云多层联动防勒索解决方案-安全与治理.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "c3fe96255334f9c58e3df13f1c0b67b5"
+    },
+    {
+      "id": 315,
+      "title": "杭州友声科技股份有限公司质控解决方案_安全与治理-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/sag/qcs.html",
+      "filename": "315-杭州友声科技股份有限公司质控解决方案_安全与治理.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "b3d962b509dff42d780839dca6c028e4"
+    },
+    {
+      "id": 316,
+      "title": "SAP上云解决方案_应用上云_政企深度云化-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/sap/index.html",
+      "filename": "316-SAP上云解决方案_应用上云_政企深度云化.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "cfb71e549d4b4e28d3019c022681247a"
+    },
+    {
+      "id": 317,
+      "title": "赛意智慧供应链解决方案_汽车零部件及配件制造_制造-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/siedisc.html",
+      "filename": "317-赛意智慧供应链解决方案_汽车零部件及配件制造_制造.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "d9ce419b657f9a0afdad49bb0eafe490"
+    },
+    {
+      "id": 318,
+      "title": "华讯网络智慧园区解决方案_智能园区-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/smart-campus/hsps.html",
+      "filename": "318-华讯网络智慧园区解决方案_智能园区.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "155764c8cb4b38a9896cb4d676d97ba9"
+    },
+    {
+      "id": 319,
+      "title": "上海源控园区智慧能效管理解决方案_智能园区-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/smart-campus/yukonpseems.html",
+      "filename": "319-上海源控园区智慧能效管理解决方案_智能园区.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "511abcd9693762137506dc2671f5f6a2"
+    },
+    {
+      "id": 320,
+      "title": "嘉环科技双碳管理解决方案_智能园区-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/smc/bcnm.html",
+      "filename": "320-嘉环科技双碳管理解决方案_智能园区.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "d4766f28fe0d6cfd55120a6b763b1a67"
+    },
+    {
+      "id": 321,
+      "title": "神州信息低碳智慧园区可视化运营管理平台解决方案_智慧园区-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/smc/dcilcpoms.html",
+      "filename": "321-神州信息低碳智慧园区可视化运营管理平台解决方案_智慧园区.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "9714d2fe0bb71159c4e65cba7f6c1b12"
+    },
+    {
+      "id": 322,
+      "title": "华为云智慧园区解决方案_通用园区_智慧园区-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/smc/hcsmartcampus.html",
+      "filename": "322-华为云智慧园区解决方案_通用园区_智慧园区.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "3f2c2dd08c8389e3f1bb25353b3080e2"
+    },
+    {
+      "id": 323,
+      "title": "左邻数智能效解决方案_智慧园区-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/smc/sees.html",
+      "filename": "323-左邻数智能效解决方案_智慧园区.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "13801ac704d6851e94d1d8271d8504cd"
+    },
+    {
+      "id": 325,
+      "title": "杰峰科技蜂云轻量化云监控平台解决方案-视频监控-华为云",
+      "source_url": "https://www.huaweicloud.com/solution/vdmnt/jfbcloud.html",
+      "filename": "325-杰峰科技蜂云轻量化云监控平台解决方案-视频监控.md",
+      "collected_at": "2026-02-05",
+      "content_hash": "bdbb5a1ada91cdf7e02637d067aed6ba"
+    }
+  ]
+}
