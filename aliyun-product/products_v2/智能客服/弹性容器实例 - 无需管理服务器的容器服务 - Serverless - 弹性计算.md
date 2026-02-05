@@ -1,0 +1,76 @@
+---
+title: "弹性容器实例 - 无需管理服务器的容器服务 - Serverless - 弹性计算"
+short_title: ""
+url: https://www.aliyun.com/product/ecs/eci
+category_l1: "智能客服"
+category_l2: "人工智能与机器学习"
+keywords: "了解弹性容器实例,评估弹性容器实例,弹性容器实例产品介绍,弹性容器实例应用场景"
+crawled_at: 2026-02-05T14:34:21.728911
+---
+
+# 弹性容器实例 - 无需管理服务器的容器服务 - Serverless - 弹性计算
+
+## 产品简介
+
+弹性容器实例  播放视频 阿里云弹性容器实例（Elastic Container Instance）是 Serverless 和容器化的弹性计算服务。您无需管理底层 ECS 服务器，只需要提供打包好的镜像，即可运行容器，与阿里云容器服务无缝对接并仅为容器实际运行消耗的资源付费。
+
+## 产品图标
+
+![产品图标](https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png)
+
+## 产品图片
+
+![图片1](https://img.alicdn.com/imgextra/i1/O1CN010UMm3A21xPKqlbDJB_!!6000000007051-2-tps-1360-1060.png)
+
+![图片2](https://img.alicdn.com/imgextra/i1/O1CN01bI3OPR1H93SyyxVcY_!!6000000000714-2-tps-1360-1060.png)
+
+![图片3](https://img.alicdn.com/imgextra/i2/O1CN01givFsH1zYYbxgr7xZ_!!6000000006726-2-tps-1360-1060.png)
+
+![图片4](https://img.alicdn.com/imgextra/i4/O1CN01f0UKJm1hFAlbgZrIV_!!6000000004247-2-tps-1360-1060.png)
+
+![图片5](https://tps.alibaba-inc.com/app/ph/56x56)
+
+![图片6](https://img.alicdn.com/imgextra/i3/O1CN01vBbQLH1XUcOADg2M5_!!6000000002927-2-tps-460-544.png)
+
+![图片7](https://img.alicdn.com/imgextra/i2/O1CN018yfMwK1O05LxJScxL_!!6000000001642-2-tps-144-464.png)
+
+## 产品优势
+
+- 无服务器容器 无需预先创建集群，无需管理底层基础设施，只需专注于业务领域创新
+- 按需计费 自定义容器规格，按需计费，秒级弹性伸缩，从容面对突发访问
+- 兼容 Kubernetes 通过virtual kubelet管理容器实例，无缝对接阿里云容器服务
+- 服务集成 自动集成阿里云产品，例如：专有网络、日志服务、云监控等
+
+## 产品功能
+
+无服务器容器 用户只需要提交容器镜像，不需要关心底层服务器。
+- 无需运维服务器 不需要关心底层服务器的运维和集群管理。
+- 只需要提供计算能力声明 只需要声明计算能力需求，由 ECI 进行相关资源的调度和部署。
+自定义规格 多级别容器组规格，自由搭配容器组内容器规格。
+- 容器级别 支持最小 0.25 核 0.5GB 规格容器。
+- 容器组 支持最小 1 核 2GB 规格容器组。
+- 最大规格 容器和容器组支持最大 64 核 512GB 规格。
+按量按秒收费 按实例启动到结束时间段消耗资源收费。
+- 按实际使用量收费 按您实际运行时长收费，不使用不收费。
+按秒收费 以小时为计费周期，按秒收费。
+秒级弹性伸缩 便捷的批量启动容器，秒级的部署时间。
+- 秒级响应 秒级开通和扩容，满足业务的实时响应。
+- 自定义弹性伸缩规则 支持 k8s 多种规则和类型的弹性伸缩组配置。
+兼容 Kubernetes 可以通过 Kubernetes API 把容器实例作为 Pod 调度。
+- 兼容 Pod 通过 virtual kubelet 兼容 Kubernetes API。
+- 支持自建集群 支持用户自建 Kubernetes 集群。
+
+## 应用场景
+
+互联网：突发、周期性弹性业务 通用：Serverless数据处理 云原生：DevOps持续交付 通用：事件驱动容器引擎
+根据业务流量，自动业务扩容 根据业务流量自动对业务进行扩容，无需人工干预，避免流量激增扩容不及时而导致系统故障，以及平时大量闲置资源造成的浪费。 能够解决 Serverless简单可控 便捷获取计算资源，兼容 Kubernetes 快速弹性 秒级启动和弹性伸缩 按需使用 容器实例按需创建释放，不需要预先准备底层资源 推荐搭配使用
+
+## 更多产品与服务
+
+-  Serverless Kubernetes 服务 Serverless Kubernetes 服务是一款基于阿里云弹性计算基础架构的无服务器容器服务，同时完全兼容 Kubernetes 生态，安全、可靠的容器产品。通过该产品，您无需管理和维护集群，即可快速创建 Kubernetes 容器应用，并且根据应用实际使用的 CPU 和内存资源量进行按需付费，从而使您更专注于应用本身，而非运行应用的基础设施。 查看详情
+- 容器服务 ACK 容器服务 Kubernetes 版（简称 ACK）提供高性能可伸缩的容器应用管理能力，支持企业级容器化应用的全生命周期管理；是国内唯一入选2020年Gartner公共云容器报告的产品，并在2019年Forrester容器报告中获国内排名第一；整合了阿里云虚拟化、存储、网络和安全能力，助力企业高效运行云端Kubernetes容器化应用。容器服务ACK支持无缝对接无服务器容器部署。 查看详情
+
+## 文档与工具
+
+-  API & SDK 开发者需要的API和SDK
+

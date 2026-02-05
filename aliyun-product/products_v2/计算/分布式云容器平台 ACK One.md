@@ -1,0 +1,72 @@
+---
+title: "分布式云容器平台ACK One - 多云容器管理 - 分布式云资源管理 - 云原生应用平台"
+short_title: "分布式云容器平台 ACK One"
+url: https://www.aliyun.com/product/aliware/adcp
+category_l1: "计算"
+category_l2: ""
+keywords: "了解ACK One产品,了解ACK One功能,了解ACK One应用场景,ACK One产品介绍,ACK One产品优势,ACK One功能列表"
+crawled_at: 2026-02-05T14:17:00.082224
+---
+
+# 分布式云容器平台 ACK One
+
+## 产品简介
+
+分布式云容器平台（简称 ACK One ）是面向混合云、多集群、分布式计算、容灾等场景的企业级云原生平台，支持连接任何基础设施上的 Kubernetes 集群，对集群和应用统一运维管理。此外，面向批处理、数据处理、科学计算、持续集成等场景提供全托管 Argo 工作流集群，支持大规模工作流编排与高效弹性运行。
+
+## 产品图标
+
+![产品图标](https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png)
+
+## 产品图片
+
+![图片1](https://img.alicdn.com/imgextra/i4/O1CN01V2EMs72346oEY09Dg_!!6000000007201-2-tps-1360-1060.png)
+
+![图片2](https://img.alicdn.com/imgextra/i3/O1CN01QECm2b1JHPzgApelW_!!6000000001003-2-tps-1360-1060.png)
+
+![图片3](https://img.alicdn.com/imgextra/i4/O1CN01r6id6N294vP8Md8rK_!!6000000008015-2-tps-1360-1060.png)
+
+![图片4](https://img.alicdn.com/imgextra/i2/O1CN017nufZ01mkqUUunTIt_!!6000000004993-0-tps-1360-1060.jpg)
+
+![图片5](https://img.alicdn.com/imgextra/i2/O1CN01NepSc71rlpVvTTBCz_!!6000000005672-2-tps-2024-1590.png)
+
+![图片6](https://img.alicdn.com/imgextra/i1/O1CN01djwNoq1bBc3R5c0S8_!!6000000003427-2-tps-1360-1060.png)
+
+![图片7](https://img.alicdn.com/imgextra/i4/O1CN01gU5c4Y1ZFcU0GKUKj_!!6000000003165-2-tps-690-180.png)
+
+![图片8](https://img.alicdn.com/imgextra/i3/O1CN01vBbQLH1XUcOADg2M5_!!6000000002927-2-tps-460-544.png)
+
+## 产品优势
+
+- 统一资源调度 通过 ACK One ，您可以根据业务波峰，轻松弹性上云，降低综合业务成本
+- 统一集群管理 可以连接并管理您任何地域/基础设施上的 K8s 集群，并提供统一的界面和与社区兼容的 API
+- 统一数据容灾 开箱即用的备份中心，提供应用和数据保护，并支持跨地域热迁移和应用多活
+- 统一应用交付 全域应用分发、任务分发、流量治理能力，帮助您基于业务分布和数据管控诉求
+
+## 产品功能
+
+- 多集群管理 从云端、边缘到 IDC，分布式云容器平台可以管理任意环境的 K8s 集群，为企业提供一致的云原生应用管理体验和最佳实践，助力企业实现统一安全治理、成本管理等能力。
+- 智能调度 为多环境下不同集群提供统一调度和弹性能力，充分提升资源利用率；通过分布式数据编排，打通跨地域异构数据源，助力智能计算提速。
+- 备份容灾 提供备份、恢复、迁移一体化方案，支持跨地域集群容灾，结合多活应用架构，全面提升企业业务连续性。
+- 安全中心 提供面向多集群优化的安全策略，并提供智能巡检发现集群的配置风险和安全漏洞。
+- GitOps 应用持续交付 ACK One 舰队 Fleet 实例托管了 ArgoCD，实现多集群 GitOps 持续交付，满足应用的高可用部署、系统组件多集群分发等需求。
+- 服务网格 提供托管式的管理微服务应用流量管理平台，并兼容 Istio。
+- 应用市场 提供阿里云产品或 分布式云容器平台认证的云原生软件，并可以一键部署到任何地域和集群。
+- 工作流 面向批处理、数据处理、科学计算、持续集成等业务场景，提供全托管 Argo 工作流集群，实现大规模工作流编排与高效弹性运行，同时 Serverless 弹性能力优化工作流运行成本。
+
+## 应用场景
+
+混合云集群 多集群备份容灾 工作流 GitOps 多集群管理 AI / 大数据
+分布式云容器平台 ACK One
+
+## 客户案例
+
+- 阿里云 ACK One Serverless Argo 助力深势科技构建高效任务平台 在业务方面，由于 Serverless Argo 完全兼容开源 Argo Workflows，所以原平台的各个业务模板可以达到无需修改、无缝迁移，在一周之内就完成了机器学习任务平台的整体迁移。 查看详情
+- 极氪汽车的云资源治理细探 通过阿里云容器服务提供的 ACK One 多集群管理、云原生资源画像等功能，极氪得以对线上及线下近 30 套 K8s 集群实现统一管理。取得了多方面的实质性的业务成果. 查看详情
+
+## 文档与工具
+
+-  产品文档 查看 ACK One 使用文档
+-  快速入门 查看 ACK One 快速入门
+-  技术交流 加入 ACK One 产品讨论群
+

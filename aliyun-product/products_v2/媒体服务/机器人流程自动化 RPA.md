@@ -1,0 +1,40 @@
+---
+title: "机器人流程自动化RPA - 数字员工 - Computer Use Agent自动化工具"
+short_title: "机器人流程自动化 RPA"
+url: https://www.aliyun.com/product/codestore
+category_l1: "媒体服务"
+category_l2: ""
+keywords: "RPA,数字员工,Computer Use,Browser Use,浏览器自动化,移动端自动化,电脑自动化,AI Agent"
+crawled_at: 2026-02-05T14:29:10.082458
+---
+
+# 机器人流程自动化 RPA
+
+## 产品简介
+
+阿里云RPA是自动化操作电脑和移动端的工具，能够帮助企业打造生产可用的Computer Use Agent，成倍提升企业运营效率。产品诞生于2011年（原码栈），已经广泛应用在零售、政务、制造、银行、保险、金融、医疗、互联网、教育等行业。
+
+## 产品图标
+
+![产品图标](https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png)
+
+## 产品图片
+
+![图片1](https://img.alicdn.com/imgextra/i4/O1CN01ecieJG1I2TpC1tWIK_!!6000000000835-2-tps-1600-910.png)
+
+![图片2](https://img.alicdn.com/imgextra/i3/O1CN01vBbQLH1XUcOADg2M5_!!6000000002927-2-tps-460-544.png)
+
+![图片3](https://img.alicdn.com/imgextra/i2/O1CN018yfMwK1O05LxJScxL_!!6000000001642-2-tps-144-464.png)
+
+## 应用场景
+
+企业内外部系统操作自动化 企业员工会使用到若干内部业务系统、公开平台，针对操作过程固定、重复次数多、时效性要求高的流程，可通过机器人自动执行的方式，代替人工手动操作，提高企业运营效率。
+企业Computer Use Agent开发 拥有丰富的企业级Computer Use Agent落地经验，满足人机交互协同、支撑万台数字员工同时在线。结合百炼等AI应用开发平台，共同构建生产可用的AI Agent，帮助企业平衡技术先进性探索与业务可靠性要求。
+
+## 产品优势
+
+- 十余年软件自动化操作经验 提供700多个Python自动化方法、300多个低代码自动化组件，覆盖电脑、移动端的操作场景
+- 可视化和编码多种开发方式 专业开发者、业务人员等不同技能水平的人员都能快速开发自动化流程
+- 大规模机器人管理和调度 支持构建万台机器人规模的自动化资源池，提供一体化资源管理
+- 帮助大模型准确、高效地操作 利用流程固化技术，有效解决智能体运行不可靠、结果不准确、运行时间长等问题
+

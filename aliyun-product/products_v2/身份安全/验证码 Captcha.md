@@ -1,0 +1,47 @@
+---
+title: "验证码Captcha - 交互验证 - 人机识别 - 云安全"
+short_title: "验证码 Captcha"
+url: https://www.aliyun.com/product/security/captcha
+category_l1: "身份安全"
+category_l2: ""
+keywords: "了解验证码产品,评估验证码产品,验证码产品介绍,验证码产品功能,验证码产品优势"
+crawled_at: 2026-02-05T14:53:02.222523
+---
+
+# 验证码 Captcha
+
+## 产品简介
+
+产品功能 产品优势 文档与工具
+
+## 产品图标
+
+![产品图标](https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png)
+
+## 产品图片
+
+![图片1](https://img.alicdn.com/imgextra/i4/O1CN01dOMHOO1mllIblb7hu_!!6000000004995-0-tps-902-446.jpg)
+
+![图片2](https://img.alicdn.com/imgextra/i4/O1CN01hzUEdL1QqPosFNlZD_!!6000000002027-0-tps-940-476.jpg)
+
+![图片3](https://img.alicdn.com/imgextra/i3/O1CN01vBbQLH1XUcOADg2M5_!!6000000002927-2-tps-460-544.png)
+
+![图片4](https://img.alicdn.com/imgextra/i2/O1CN018yfMwK1O05LxJScxL_!!6000000001642-2-tps-144-464.png)
+
+## 产品功能
+
+无痕验证 用户无感知的验证模式，基于设备等多维度进行高效防御。 滑动验证
+滑动验证 一次便捷的滑动，即可安全验证，在保障用户体验的同时，抵御机器风险。 拼图验证
+拼图验证 通过滑动碎片到图片正确缺口位置进行交互的安全验证 图像复原
+图像复原（独家发布） 通过对图片的完整度理解，滑动物品的局部补全图像，进行交互的安全验证
+
+## 产品优势
+
+- 多种验证码防护形态 支持滑动验证、无痕验证和空间推理，从推理逻辑、设备数据、交互行为模型等多维度完成立体防护。
+- 多维度多层次的防护能力 包含 JS 混淆，动态加密，反模拟器，大数据风险建模等多层防护。
+- 支持多客户端接入 提供 Web、H5、APP 等多客户端接入方案。
+- 高效接入模式 一次集成无需更新代码，自动迭代攻防能力和验证码形态。
+- 提供测试功能 提供产品化的测试能力，支持一键测试集成和验证链路。
+- 完善的容灾方案 保障 99.99% 的服务可用性，默认容灾方案，保障业务通路正常。
+- 支持快速扩容 默认支持 1000QPS 接入，更高 QPS 支持定制快速扩容。
+

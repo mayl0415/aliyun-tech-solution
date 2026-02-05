@@ -1,0 +1,1885 @@
+{
+  "total": 235,
+  "products": [
+    {
+      "url": "https://www.aliyun.com/product/kubernetes",
+      "name": "容器服务",
+      "short_title": "容器服务",
+      "description": "Kubernetes 版 ACK 提供高性能可伸缩的容器应用管理能力，支持企业级 Kubernetes 容器化应用的全生命周期管理。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/govdingtalk",
+      "name": "专有钉钉",
+      "short_title": "专有钉钉",
+      "description": "通过技术融合、业务融合、数据融合，实现跨层级、跨地域、跨系统、跨部门、跨业务的协同管理和服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/dlf",
+      "name": "数据湖构建",
+      "short_title": "数据湖构建",
+      "description": "Data Lake Formation  一套与计算引擎无关的统一数据湖表存储服务，开源开放平权支持计算、分析、AI等多种范式",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/kafka",
+      "name": "云消息队列",
+      "short_title": "云消息队列",
+      "description": "Kafka 版 消息队列 Kafka 版是阿里云基于 Apache Kafka 构建的高吞吐量、高可扩展性的分布式消息队列服务，广泛用于日志收集、监控数据聚合、流式数据处理、在线和离线分析等场景，是大数据生态中不可或缺的产品之一，阿里云提供全托管服务，用户无需部署运维，支持极致弹性，更专业、更可靠、更安全。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/datav",
+      "name": "DataV",
+      "short_title": "DataV",
+      "description": "数据可视化  DataV是数据可视化应用搭建平台，帮助有数据展示需求的用户快速完成可视化应用搭建。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/containersec",
+      "name": "容器安全",
+      "short_title": "容器安全",
+      "description": "为云原生容器化环境提供全链路的容器生命周期产品解决方案和安全防护能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/ddos",
+      "name": "DDoS",
+      "short_title": "DDoS",
+      "description": "防护 阿里云提供了多种DDoS防护安全解决方案，可以满足云上及云下用户对L3到L7层DDoS攻击防护的需求。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/mongodb",
+      "name": "云数据库",
+      "short_title": "云数据库",
+      "description": "MongoDB 版  云数据库 MongoDB 版是完全兼容 MongoDB 协议、高度兼容 DynamoDB 协议的在线文档型数据库服务，助您降低 IT 成本，提升运维效率，使您更专注于核心业务创新。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/storage/dbfs",
+      "name": "数据库文件存储",
+      "short_title": "数据库文件存储",
+      "description": "DBFS 数据库文件存储（DBFS）是一款针对数据库场景的云原生共享文件存储服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/xtrace",
+      "name": "可观测链路",
+      "short_title": "可观测链路",
+      "description": "OpenTelemetry 版 兼容开源标准的应用性能监控和分布式链路追踪的可观测产品，可帮助客户洞察应用性能瓶颈，定位错慢根因，提升问题排查效率。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/analyticdb",
+      "name": "云原生数据仓库",
+      "short_title": "云原生数据仓库",
+      "description": "AnalyticDB  PB级实时数据仓库，高度兼容MySQL和PostgreSQL语法生态，提供数据湖的规模、数据库的易用性，最高节省90%的TCO。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ess/",
+      "name": "弹性伸缩",
+      "short_title": "弹性伸缩",
+      "description": "弹性伸缩（Elastic Scaling Service）是一种根据业务需求波动自动调整弹性计算资源的管理服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/codestore",
+      "name": "机器人流程自动化",
+      "short_title": "机器人流程自动化",
+      "description": "RPA 阿里云RPA是自动化操作电脑和移动端的工具，能够帮助企业打造生产可用的Computer Use Agent，成倍提升企业运营效率。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/imm",
+      "name": "智能媒体管理",
+      "short_title": "智能媒体管理",
+      "description": "IMM 场景化封装数据智能分析管理工具，可为云上的文档及图片数据提供一站式数据处理、分析、检索等管控体验。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/idaas",
+      "name": "应用身份服务",
+      "short_title": "应用身份服务",
+      "description": "(IDaaS) 应用身份服务 IDaaS是阿里云为企业用户提供的云原生的、经济的、便捷的、标准的身份、权限管理体系。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/elasticsearch",
+      "name": "检索分析服务",
+      "short_title": "检索分析服务",
+      "description": "Elasticsearch 版  阿里云Elasticsearch是100%兼容开源，并在弹性伸缩、容灾容错、智能运维、Serverless等方向上进行了大量优化的云原生化服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/mgw",
+      "name": "闪电立方",
+      "short_title": "闪电立方",
+      "description": "Data Transport 定制化的离线迁移设备，实现 TB 到 PB 级别的本地数据迁移上云。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/ice/editor",
+      "name": "云端智能剪辑",
+      "short_title": "云端智能剪辑",
+      "description": "基于云计算和人工智能技术的视频剪辑生产服务，能为用户提供直播剪辑、视频剪辑、模版工厂、数字人制作等核心功能。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/vs",
+      "name": "视图计算",
+      "short_title": "视图计算",
+      "description": "依托阿里云遍布全球的边缘节点，面向视图设备上云场景提供连接、视图 AI 计算、视图云存储的云 PaaS 服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/dingtalkpro",
+      "name": "专属钉钉",
+      "short_title": "专属钉钉",
+      "description": "钉钉专属版，面向企业的数字化安全底座，提供混合云部署、安全合规、自主可控和专属AI，打造专属数字化平台",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cmh",
+      "name": "云迁移中心",
+      "short_title": "云迁移中心",
+      "description": "基于迁云最佳实践沉淀的一站式云迁移平台，让云迁移变得有条不紊。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/lingjun",
+      "name": "智能计算灵骏",
+      "short_title": "智能计算灵骏",
+      "description": "面向万亿参数模型和训推一体融合的新一代智能计算集群",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/cloudbox",
+      "name": "云盒",
+      "short_title": "云盒",
+      "description": "阿里云云盒是阿里公共云延伸部署到企业数据中心的公共云服务，满足企业数据本地留存和处理、低延时等业务场景需求。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/yida",
+      "name": "宜搭",
+      "short_title": "宜搭",
+      "description": "可让用户通过简单的拖拽、配置即可完成应用搭建，为每个组织提供低门槛、高效率的数字化业务应用生产新模式。有效缩减企业应用开发时间，助力企业数字化升级。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/computenest",
+      "name": "计算巢服务",
+      "short_title": "计算巢服务",
+      "description": "一站式软件云化平台，构建云原生 SaaS，完成传统软件 SaaS 化，助力 ISV 云化转型。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/fc",
+      "name": "函数计算",
+      "short_title": "函数计算",
+      "description": "FC  函数计算是事件驱动的全托管计算服务，足够轻量灵活，让用户以更少的代码更好、更快地使用阿里云产品实现业务创新。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/intelligentservice/beebot",
+      "name": "智能对话机器人",
+      "short_title": "智能对话机器人",
+      "description": "连接即对话，帮助企业为用户提供7*24小时快速高效的智能服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/xianzhi/jiagu",
+      "name": "评估加固服务",
+      "short_title": "评估加固服务",
+      "description": "经客户授权，远程登录客户业务系统服务器，对外网或内网主机进行全方位基线加固和组件升级，提前修补系统潜在高危漏洞和安全威胁。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/rocketmq",
+      "name": "云消息队列",
+      "short_title": "云消息队列",
+      "description": "RocketMQ 版  云消息队列 RocketMQ 版是专为企业级 AI 应用与微服务应用设计的云原生消息引擎。其 “RocketMQ for AI” 核心能力解决了 AI 场景下的多智能体(Multi-Agent)通信、大规模任务调度及长会话状态管理等难题。为您构建企业级 AI 应用与微服务应用提供可靠异步通信基础设施。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cdp",
+      "name": "数据集成",
+      "short_title": "数据集成",
+      "description": "Data Integration 数据集成是稳定高效、弹性伸缩的数据同步平台，致力于提供复杂网络环境下、丰富的异构数据源之间高速稳定的数据移动及同步能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aiccs",
+      "name": "智能联络中心",
+      "short_title": "智能联络中心",
+      "description": "智能联络中心（Artificial Intelligence Cloud Call Service），是阿里云整合人工智能能力和语音通信能力为企业打造的一套高效联络中心系统，助力企业快捷高效的联络用户。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloud-backup",
+      "name": "云备份",
+      "short_title": "云备份",
+      "description": "Cloud Backup  云备份（Cloud Backup，原混合云备份 HBR）作为阿里云统一灾备平台，是一种简单易用、敏捷高效、安全可靠的公共云数据管理服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/smc",
+      "name": "服务器迁移中心",
+      "short_title": "服务器迁移中心",
+      "description": "服务器迁移中心（Server Migration Center，简称SMC）是阿里云提供给您的迁移平台。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/oss",
+      "name": "对象存储",
+      "short_title": "对象存储",
+      "description": "OSS  对象存储 OSS是一款海量、安全、低成本、高可靠的云存储服务，提供最高99.995%的服务可用性。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/smartag",
+      "name": "智能接入网关",
+      "short_title": "智能接入网关",
+      "description": "企业可通过智能接入网关实现 Internet 就近加密接入，获得更加智能、更加可靠、更加安全的上云体验。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/icss",
+      "name": "智能客服",
+      "short_title": "智能客服",
+      "description": "提供云呼叫中心、对话机器人、客服工作台、智能外呼、智能对话分析等产品，覆盖企业全链路智能服务场景，实现企业服务的数智化升级。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/pts",
+      "name": "性能测试",
+      "short_title": "性能测试",
+      "description": "作为一站式性能压测与监控分析平台，性能测试 PTS 旨在帮助企业对各类应用程序、网站、API 等进行深度性能评估和优化。提供百万并发、千万 TPS 流量发起能力，100% 兼容 JMeter。提供的场景编排、API 调试、流量定制、流量录制等功能，有助于快速创建业务压测脚本，精准模拟不同量级用户访问业务系统，帮助业务快速提升系统性能和稳定性。同时，PTS 内置丰富的监控工具，实时监测并展示压测过程中的各项性能数据，为优化和调优提供依据。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/hgw",
+      "name": "混合云存储",
+      "short_title": "混合云存储",
+      "description": "包括混合云存储阵列、混合云 CPFS 存储、混合云分布式存储等多种形态，用户可以像使用本地存储一样使用和管理本地和云端的各种存储资源。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/cmn",
+      "name": "云网管",
+      "short_title": "云网管",
+      "description": "云网管CMN（Cloud Managed Network）是一款面向基础设施运维，提供集中管理、可观测监控、自动化配置的运维管理服务，帮助您快速构建跨地域、跨厂家的基础设施统一运维体系。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iot/iotid",
+      "name": "IoT",
+      "short_title": "IoT",
+      "description": "设备身份认证  通过可信计算和密码技术为物联网系统提供设备安全认证、安全连接、业务数据加密、密钥管理等端到端的可信接入能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ots",
+      "name": "表格存储",
+      "short_title": "表格存储",
+      "description": "Tablestore  表格存储（Tablestore）是面向海量结构化数据的 Serverless 表存储服务，支持 AI Agent Memory 框架、宽表/消息/时序模型，适用于 AI 应用、IM 消息、海量账单、物联网等场景，提供低成本存储、毫秒级查询及灵活分析能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/privatelink",
+      "name": "私网连接",
+      "short_title": "私网连接",
+      "description": "私网连接 PrivateLink 提供安全稳定的私网访问通道，支持从 VPC 和本地数据中心访问阿里云服务、伙伴服务与用户自建服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/ntr",
+      "name": "转发路由器",
+      "short_title": "转发路由器",
+      "description": "TR  连接云上VPC之间、构建混合云的企业级核心路由器，支持定义灵活的互通、隔离、引流策略，帮客户构建大规模的企业级云上网络。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cap",
+      "name": "云原生应用开发平台",
+      "short_title": "云原生应用开发平台",
+      "description": "CAP 云原生应用开发平台 CAP（Cloud Application Platform）是阿里云提供的一站式应用开发及应用生命周期管理平台。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/alinux",
+      "name": "Alibaba",
+      "short_title": "Alibaba",
+      "description": "Cloud Linux Alibaba Cloud Linux是阿里云研发的稳定、安全、高性能的服务器操作系统，为用户提供更好的操作系统服务体验。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ehpc",
+      "name": "弹性高性能计算",
+      "short_title": "弹性高性能计算",
+      "description": "E-HPC 自动化部署和管理HPC集群。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/network",
+      "name": "网络与CDN",
+      "short_title": "网络与CDN",
+      "description": "",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloudcomm/cams",
+      "name": "Chat",
+      "short_title": "Chat",
+      "description": "App 消息服务  Chat App 消息服务（Chat App Message Service）是阿里云为企业设计的一款高效触达用户的消息引擎，企业可以通过第三方社交APP发送商业消息，让业务更高效更准确触达全球用户。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/mts",
+      "name": "媒体处理",
+      "short_title": "媒体处理",
+      "description": "媒体处理MPS提供智能化媒体处理服务，以经济、弹性、高扩展的方式，将多媒体内容转码为全平台流畅播放的格式，提升用户视听体验，降低分发成本。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aliware/fnf",
+      "name": "云工作流",
+      "short_title": "云工作流",
+      "description": "CloudFlow 致力于简化开发和运行业务流程所需要的任务协调、状态管理以及错误处理等繁琐工作，让用户聚焦业务逻辑开发。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/imp/auikits",
+      "name": "音视频低代码开发",
+      "short_title": "音视频低代码开发",
+      "description": "基于阿里云丰富的音视频实践沉淀，依托音视频终端 SDK，为用户提供简单易用的 aPaaS 产品。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/vpc",
+      "name": "专有网络",
+      "short_title": "专有网络",
+      "description": "VPC  专有网络VPC(Virtual Private Cloud)是一个隔离的网络环境，专有网络之间逻辑上彻底隔离。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/entconsole",
+      "name": "资源管理",
+      "short_title": "资源管理",
+      "description": "阿里云资源管理 (Resource Management）服务支持您按照企业业务分层搭建资源组织结构，统筹管理组织、账号和资源。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/sms",
+      "name": "短信服务",
+      "short_title": "短信服务",
+      "description": "短信服务是阿里云为企业客户提供的一种通信服务的能力，简单易用，安全可靠，秒级触达，服务范围覆盖全球200多个国家和地区。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/hdr",
+      "name": "混合云容灾服务",
+      "short_title": "混合云容灾服务",
+      "description": "HDR 为本地数据中心以及阿里云上的企业关键业务提供低至秒级 RPO，分钟级 RTO 的容灾服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cdn",
+      "name": "CDN",
+      "short_title": "CDN",
+      "description": "阿里云CDN内容分发网络，通过遍布全球的加速节点对内容进行缓存和传输优化，解决跨地域跨、运营商网络性能问题。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/assettech",
+      "name": "云行情",
+      "short_title": "云行情",
+      "description": "基于行情中心服务提供一站式云行情产品服务，有效改进用户体验、降低技术和成本门槛、提升整体效率。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cms",
+      "name": "云监控",
+      "short_title": "云监控",
+      "description": "云监控 2.0 作为阿里云一站式全栈智能可观测平台，提供从用户体验到基础设施的端到端可观测能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ros",
+      "name": "资源编排",
+      "short_title": "资源编排",
+      "description": "资源编排ROS（Resource Orchestration Service）是一种简单易用的云资源自动化部署服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/datahub",
+      "name": "数据总线",
+      "short_title": "数据总线",
+      "description": "DataHub 提供对流式数据的发布 (Publish)，订阅（Subscribe）和分发功能，让您可以轻松构建基于流式数据的分析和应用。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/apsarabigdata",
+      "name": "大数据计算",
+      "short_title": "大数据计算",
+      "description": "",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/yunxiao/project",
+      "name": "项目协作",
+      "short_title": "项目协作",
+      "description": "提供对需求、迭代、缺陷各个维度的协同管理以及相关的统计报告，让研发团队高效协作。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaradb/cddc",
+      "name": "云数据库专属集群",
+      "short_title": "云数据库专属集群",
+      "description": "MyBase 是阿里云专为企业级数据库自建用户定制优化的解决方案，提供托管和自建两种形态。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/cloudshell",
+      "name": "云命令行",
+      "short_title": "云命令行",
+      "description": "网页版命令行工具，允许用户通过命令行管理阿里云资源。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/opensearch",
+      "name": "智能开放搜索",
+      "short_title": "智能开放搜索",
+      "description": "OpenSearch  智能开放搜索 OpenSearch是基于阿里巴巴自主研发的大规模分布式搜索引擎搭建的一站式智能搜索业务开发平台，内置大语言模型、各行业的查询语义理解、机器学习排序算法等，并提供充分开放的文本、向量引擎能力，助您快速搭建行业搜索、对话式搜索、图像搜索等各类智能搜索服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iot/dyiot",
+      "name": "物联网无线连接服务",
+      "short_title": "物联网无线连接服务",
+      "description": "为物联网设备提供蜂窝连接服务，包括公网、定向以及智能选网等功能，提供优质稳定网络以及一站式管理服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/hosting",
+      "name": "云虚拟主机",
+      "short_title": "云虚拟主机",
+      "description": "增强版实例采用经过优化 LNMP 网站运行环境，支撑网站更稳定运行，并大幅提升高并发访问响应速度。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloudsiem",
+      "name": "Agentic",
+      "short_title": "Agentic",
+      "description": "安全运营中心 以 Agentic AI 为核心引擎，深度融合阿里云原生安全数据与基础设施，为客户提供自动感知、深度推理、协同调查、快速闭环的下一代安全运营平台。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/directmail",
+      "name": "邮件推送",
+      "short_title": "邮件推送",
+      "description": "事务邮件、通知邮件和批量邮件的快速发送。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/dashvector",
+      "name": "向量检索服务",
+      "short_title": "向量检索服务",
+      "description": "DashVector 向量检索服务基于阿里云自研的Proxima内核进行封装，面对非结构化数据（图片、视频、文本、语音、DNA、分子式等），提供具备垂直和水平扩展的高效相似向量比对服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/openapiexplorer",
+      "name": "OpenAPI",
+      "short_title": "OpenAPI",
+      "description": "Explorer  OpenAPI Explorer是阿里云OpenAPI的开发者中心，面向开发者提供全方位的信息查询、调试和集成服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/salesforce",
+      "name": "Salesforce",
+      "short_title": "Salesforce",
+      "description": "on Alibaba Cloud 全球领先的客户关系管理CRM平台",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/nat",
+      "name": "NAT",
+      "short_title": "NAT",
+      "description": "网关 NAT 网关（NAT Gateway）是阿里云提供的全托管网络地址转换服务，助力用户安全访问互联网和解决地址冲突。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/cdt",
+      "name": "云数据传输",
+      "short_title": "云数据传输",
+      "description": "云数据传输 CDT（Cloud Data Transfer）是阿里云推出的普惠高效、灵活弹性的网络带宽统一计费平台。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/flowbag",
+      "name": "共享流量包",
+      "short_title": "共享流量包",
+      "description": "共享流量包套餐价格实惠，使用简单，流量包开通后自动覆盖多个地域的产品，并自动抵扣流量费用。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/energyexpert",
+      "name": "能耗宝",
+      "short_title": "能耗宝",
+      "description": "通过大数据计算及人工智能技术，联合权威双碳咨询机构及绿色金融等优质资源，帮助企业核算碳排放量、制定节能降碳方案、规划碳中和路径。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/eci",
+      "name": "弹性容器实例",
+      "short_title": "弹性容器实例",
+      "description": "ECI 无需管理底层 ECS 服务器，只需提供打包好的镜像即可运行容器，并仅为容器实际运行消耗的资源付费。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/outline/index",
+      "name": "数据库",
+      "short_title": "数据库",
+      "description": "",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/industryengine/ettraffic",
+      "name": "交通云控平台",
+      "short_title": "交通云控平台",
+      "description": "基于城市大脑开放平台与阿里大数据一体化计算平台，智能出行引擎·数据融合、控制优化、实时预警三大模块，实现交通行业数据的闭环流转。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aliware/containerservice",
+      "name": "容器",
+      "short_title": "容器",
+      "description": "",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/wuying/gws/personal_edition",
+      "name": "无影云电脑个人版",
+      "short_title": "无影云电脑个人版",
+      "description": "面向个人和家庭，简单易用，安全高效。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/intelligentservice/outboundbot",
+      "name": "智能外呼机器人",
+      "short_title": "智能外呼机器人",
+      "description": "智能外呼机器人基于语音识别与合成、机器学习和自然语言理解等技术，根据业务场景自动发起智能机器人电话外呼任务，通过人与机器人的语音对话交互收集业务结果，并对数据加以统计处理，获取用户反馈。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/expressconnect",
+      "name": "高速通道",
+      "short_title": "高速通道",
+      "description": "物理专线连接是线云下IDC专线接入云上，提高网络拓扑灵活性和跨网通信质量。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iot/iot_instc_public_cn",
+      "name": "物联网平台",
+      "short_title": "物联网平台",
+      "description": "安全可靠、极具性价比的物联网云平台，提供设备接入、管理运维、数据处理和分析等功能。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/live/interactlive",
+      "name": "实时音视频",
+      "short_title": "实时音视频",
+      "description": "依托阿里云全球3200+节点及多年的音视频技术积累，提供高可用、高品质、超低延时的音视频通信服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/learn",
+      "name": "人工智能平台",
+      "short_title": "人工智能平台",
+      "description": "PAI  人工智能平台 PAI（Platform for Artificial Intelligence）是完整覆盖AI标注、开发、训练、推理一体化全链路的AI工程平台，具备丰富的行业场景插件，为用户提供低门槛、高性能的云原生AI工程化能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs",
+      "name": "云服务器",
+      "short_title": "云服务器",
+      "description": "ECS  云服务器是一种安全可靠、弹性可伸缩的云计算服务，助您降低 IT 成本，提升运维效率。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/ddh",
+      "name": "专有宿主机",
+      "short_title": "专有宿主机",
+      "description": "阿里云专为企业用户定制优化的解决方案，具有物理资源独享、部署更灵活、配置更丰富、性价比更高等特点。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/acr",
+      "name": "容器镜像服务",
+      "short_title": "容器镜像服务",
+      "description": "ACR  阿里云容器镜像服务（简称 ACR）是面向容器镜像、Helm Chart 等符合 OCI 标准的云原生制品安全托管及高效分发平台。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/prometheus",
+      "name": "可观测监控",
+      "short_title": "可观测监控",
+      "description": "Prometheus 版  作为云原生指标监控平台， 可观测监控 Prometheus 版完整兼容 Prometheus 开源生态，提供一站式指标观测能力，满足业务自定义 / 应用组件 / 云服务 / 容器 / 基础设施等场景的监控、告警能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/sos",
+      "name": "安全管家服务",
+      "short_title": "安全管家服务",
+      "description": "阿里云安全专家基于阿里云多年安全最佳实践经验为云上用户提供的全方位安全技术和咨询服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iot/livinglink",
+      "name": "生活物联网平台（飞燕平台）",
+      "short_title": "生活物联网平台（飞燕平台）",
+      "description": "为解决设备快速智能化中常遇到的设备连接、App端控制、设备消息推送、语音控制、设备管理、数据统计等问题，提供了一整套配置化方案。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/yunxiao/packages",
+      "name": "制品仓库",
+      "short_title": "制品仓库",
+      "description": "提供基于 Maven、Gradle、NPM 等软件包管理工具的企业级私有仓库服务，用于管理企业级依赖托管。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/emas",
+      "name": "移动研发平台",
+      "short_title": "移动研发平台",
+      "description": "EMAS  EMAS 致力于为企业、开发者提供应用研发管理服务，涵盖开发、测试、运维、运营等阶段。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/appstreaming",
+      "name": "无影云应用",
+      "short_title": "无影云应用",
+      "description": "无影云应用是一种流式应用传输服务，提供安全、易用、高效的云上应用管理与使用体验。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cs/servicemesh",
+      "name": "服务网格",
+      "short_title": "服务网格",
+      "description": "ASM 通过流量控制、网格观测及服务间通信安全等功能，服务网格ASM可以全方位为运行在异构计算基础设施上的服务提供统一流量管理。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/eip",
+      "name": "弹性公网",
+      "short_title": "弹性公网",
+      "description": "IP  弹性公网IP是可以独立购买和持有的公网IPv4地址资源，可以灵活绑定/解绑至专有网络类型的云服务器ECS、辅助弹性网卡ENI、公网NAT网关、负载均衡SLB、高可用虚拟IP等云资源，为云资源提供优质稳定的互联网访问能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/sddp",
+      "name": "数据安全中心（含数据库审计）",
+      "short_title": "数据安全中心（含数据库审计）",
+      "description": "提供敏感数据自动识别、分级分类、列加密、图片脱敏、安全审计与检测响应等数据安全能力，形成一体化的云上全域数据防泄漏与安全解决方案。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ram",
+      "name": "访问控制",
+      "short_title": "访问控制",
+      "description": "RAM  访问控制RAM是阿里云提供的管理用户身份与资源访问权限的服务。帮助您统一管理访问身份，通过精细化授权和临时凭证践行最小权限原则，从而显著提升云环境的整体安全性。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bailian",
+      "name": "大模型服务平台百炼",
+      "short_title": "大模型服务平台百炼",
+      "description": "阿里云百炼是AI时代一站式大模型服务模型与应用的开发平台，为客户提供高性能、高性价比的大模型服务能力以及灵活开发、易于集成的Agent应用开发架构。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai-stack",
+      "name": "AI",
+      "short_title": "AI",
+      "description": "Stack 阿里云AI Stack支持企业私有化部署大模型，针对AI场景提供软硬一体化解决方案，为用户提供高性能、易部署的AI算力平台。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/emapreduce",
+      "name": "开源大数据平台",
+      "short_title": "开源大数据平台",
+      "description": "E-MapReduce  阿里云 EMR 提供智能数据湖方案，融合实时计算、离线计算、机器学习等分析引擎，兼容多种计算框架，99.9%服务可用，助力高效大数据处理。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/pls",
+      "name": "号码隐私保护",
+      "short_title": "号码隐私保护",
+      "description": "基于基础运营商通信网络能力的互联网产品，企业客户可以通过集成号码隐私保护能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/rds",
+      "name": "云数据库",
+      "short_title": "云数据库",
+      "description": "RDS  稳定可靠、可弹性伸缩的云数据库RDS， 助您轻松低成本上云、安全用云。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/dns",
+      "name": "云解析",
+      "short_title": "云解析",
+      "description": "DNS  云+IDC场景下的融合DNS服务，覆盖公网/内网、递归/权威、APP等全场景解析。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/governance",
+      "name": "云治理中心",
+      "short_title": "云治理中心",
+      "description": "云治理中心是企业在阿里云上进行多账号集中IT治理的平台。通过步骤式向导和自动化流程帮助企业快速搭建Landing Zone。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cbwp",
+      "name": "共享带宽",
+      "short_title": "共享带宽",
+      "description": "共享带宽提供地域级带宽共享和复用功能，支持同地域下弹性公网IP共享带宽。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/cloudcontrol",
+      "name": "云控制",
+      "short_title": "云控制",
+      "description": "API  云控制 API （CloudControl API）是一款免费的开发者工具套件，让开发者使用一致的API管理阿里云。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/learn/eas",
+      "name": "模型在线服务",
+      "short_title": "模型在线服务",
+      "description": "PAI-EAS  模型在线服务平台，支持用户将模型一键部署为在线推理服务或 AI-Web 应用。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/opt",
+      "name": "优化求解器",
+      "short_title": "优化求解器",
+      "description": "求解优化问题的专业计算软件，可广泛应用于云计算、电力能源、工业制造、交通物流、等领域，能帮助做设计或优化生产方案、辅助决策等。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/dragonwell",
+      "name": "Dragonwell",
+      "short_title": "Dragonwell",
+      "description": "Alibaba Dragonwell 是一款免费的，多平台生产就绪型 OpenJDK 发行版，提供长期支持，包括稳定性，安全修复和性能增强。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/gpu",
+      "name": "GPU",
+      "short_title": "GPU",
+      "description": "云服务器 GPU云服务器为用户提供安全，稳定，弹性的GPU算力平台，满足用户AI计算，图形渲染，仿真模拟等各类GPU计算需求。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/linkedmall",
+      "name": "企业商城",
+      "short_title": "企业商城",
+      "description": "LinkedMall 为企业快速搭建积分、福利或品牌电商商城，依靠阿里巴巴的技术与供应链能力，提供用户运营、企业内购和渠道分销等解决方案。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/netana",
+      "name": "网络智能服务",
+      "short_title": "网络智能服务",
+      "description": "一款网络运维云服务，提供网络可视化管理、性能监控、诊断修复、流量分析等能力，通过集成专家经验、机器学习，方便用户自助运维。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ssecp",
+      "name": "智能科教内容生成平台",
+      "short_title": "智能科教内容生成平台",
+      "description": "智能科教内容生成平台基于自然语言处理（NLP）、人工智能内容生成（AIGC）等技术，面向教育出版单位、在线教育科技公司、智能学习硬件厂商以及英语培训机构，提供从内容制作到个性化学习的全链路技术能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaradb/clickhouse",
+      "name": "云数据库",
+      "short_title": "云数据库",
+      "description": "ClickHouse 云数据库 ClickHouse 版是一款全托管的实时数仓服务，分为提供开源ClickHouse全托管服务的社区兼容版，以及和原厂战略合作开发的云原生Serverless企业版两个产品版本，在开源版本基础上提供了更好的稳定性、安全性和可运维性。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/xianzhi/mlpse",
+      "name": "等保咨询服务",
+      "short_title": "等保咨询服务",
+      "description": "整合云安全产品的技术优势，联合优质等保咨询、等保测评合作资源，为您提供一站式服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/learn/itag",
+      "name": "智能数据标注",
+      "short_title": "智能数据标注",
+      "description": "PAI-iTAG 智能化数据标注平台，支持图像、文本、视频、音频等多种数据类型的标注以及多模态的混合标注。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/dataphin",
+      "name": "智能数据建设与治理",
+      "short_title": "智能数据建设与治理",
+      "description": "Dataphin 集产品、技术、方法论于一体，提供一站式采、建、管、用全生命周期的大数据建设及治理平台。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/advisor",
+      "name": "智能顾问",
+      "short_title": "智能顾问",
+      "description": "开箱即用的风险巡检产品，一键巡检快速识别当前云资源、应用架构的潜在风险并针对性提供解决方案。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/airec",
+      "name": "智能推荐",
+      "short_title": "智能推荐",
+      "description": "AIRec 基于阿里巴巴领先的大数据和人工智能技术，结合在电商、内容、新闻等多个行业领域的积累，为全球企业及开发者提供个性化推荐服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/storage/scu",
+      "name": "存储容量单位包",
+      "short_title": "存储容量单位包",
+      "description": "SCU 一种预付费存储售卖形态，可以用来抵扣多种不同类型云存储产品的按量付费账单。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/pvtz",
+      "name": "云解析",
+      "short_title": "云解析",
+      "description": "PrivateZone 云+IDC场景下的融合内网解析服务，内网权威、转发、缓存、递归等能力，解析稳定、灵活、可控。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/vpn",
+      "name": "VPN",
+      "short_title": "VPN",
+      "description": "网关 基于Internet通过加密通道将企业数据中心、企业办公网络或Internet终端和阿里云专有网络安全可靠连接起来的服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/quick-tracking",
+      "name": "全域采集与增长分析",
+      "short_title": "全域采集与增长分析",
+      "description": "Quick Tracking 全域采集与增长分析（Quick Tracking）帮助企业快速构建全渠道用户行为采集和分析体系，积累企业一方数据资产。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/learn/pailingjun",
+      "name": "智算服务",
+      "short_title": "智算服务",
+      "description": "PAI-灵骏 面向大规模深度学习及融合智算场景的 PaaS 平台产品，支持公共云 Serverless 版、单租版以及混合云产品形态。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/agentbay",
+      "name": "无影",
+      "short_title": "无影",
+      "description": "Agent 开发套件 AgentBay  无影AgentBay是一款专为AI Agent提供的任务执行工具和平台，提供浏览器、桌面、代码、移动端全覆盖的安全沙箱环境，支持SDK和MCP接入，依托阿里云强大算力实现智能体的高效调度与规模化运行，助力各类Agent应用具备全面可靠的可执行能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/host-security",
+      "name": "主机安全",
+      "short_title": "主机安全",
+      "description": "主机安全为多云主机和线下IDC提供威胁检测、响应、溯源和自动化安全运营闭环能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/amqp",
+      "name": "云消息队列",
+      "short_title": "云消息队列",
+      "description": "RabbitMQ 版 云消息队列 RabbitMQ 版是一款兼容 AMQP 0-9-1 协议，解决开源稳定性痛点的消息队列产品，同时具备按量后付费的售卖模式、开箱即用、无需评估容量等优势。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/kvcache",
+      "name": "Tair",
+      "short_title": "Tair",
+      "description": "KVCache AI 时代的KV缓存 Tair KVCache 分布式动态分级缓存，突破显存瓶颈，加速大模型推理",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aliware/grafana",
+      "name": "可观测可视化",
+      "short_title": "可观测可视化",
+      "description": "Grafana 版  作为云原生数据可视化与告警工具，可观测可视化 Grafana 版支持多种数据源接入，提供丰富的图表类型和自定义选项，以及强大灵活的告警能力，为运维监控、经营分析、汇报展示等不同场景的数据查询、可视化、告警需求。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/tair",
+      "name": "云数据库",
+      "short_title": "云数据库",
+      "description": "Tair（兼容 Redis）  高性能的云数据库 Tair（兼容Redis®），提供亚毫秒级的稳定时延，对应用程序全面加速。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/dide",
+      "name": "大数据开发治理平台",
+      "short_title": "大数据开发治理平台",
+      "description": "DataWorks  DataWorks是一站式智能大数据开发治理平台，深度适配数十种大数据引擎和AI计算服务，为数据仓库、数据湖、湖仓一体、Data+AI解决方案提供全链路智能化的数据集成、大数据AI一体化开发、数据分析与主动式数据资产治理服务，帮助企业进行全生命周期数据管理。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/config",
+      "name": "配置审计",
+      "short_title": "配置审计",
+      "description": "从资源发现、检测、告警到治理的全链路合规审计服务，保障云资源持续合规。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/ens",
+      "name": "边缘节点服务",
+      "short_title": "边缘节点服务",
+      "description": "ENS ENS以广覆盖为核心定位，为客户提供低时延、本地化、小型化三大核心价值的全球分布式基础设施服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/imarketing",
+      "name": "营销引擎",
+      "short_title": "营销引擎",
+      "description": "以大模型为底座，深度适配业务场景的泛行业营销引擎磐曦，为客户提供营销图文、数字人互动、智能对练为一体，即开即用的AI应用工具集。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/vod",
+      "name": "视频点播",
+      "short_title": "视频点播",
+      "description": "视频点播(ApsaraVideo VOD)为在线音视频点播业务，提供全链路的端到端方案。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/uis",
+      "name": "云连接器",
+      "short_title": "云连接器",
+      "description": "提供海量物联网卡一站式定向上云连接服务，即开即用，帮您实现物联网终端到阿里云之间安全、稳定、可靠的连接。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/mse",
+      "name": "微服务引擎",
+      "short_title": "微服务引擎",
+      "description": "MSE  面向微服务开源项目提供各类商业增强服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/bizworks",
+      "name": "云原生应用组装平台",
+      "short_title": "云原生应用组装平台",
+      "description": "BizWorks 基于阿里巴巴中台实践的研发运营一体化数字平台，提供客户业务中台建模设计、开发运维、运营治理的端到端能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/h3a/ahas",
+      "name": "应用高可用服务",
+      "short_title": "应用高可用服务",
+      "description": "AHAS 应用高可用服务Application High Availability Service通过多活容灾提高应用高可用能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/bigdatacst",
+      "name": "大数据专家服务",
+      "short_title": "大数据专家服务",
+      "description": "由阿里云大数据技术专家基于多年大数据架构、应用、运维最佳实践经验及方法论为用户提供包含大数据产品技术咨询服务及售后保障全方位的服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/yunxiao/flow",
+      "name": "流水线",
+      "short_title": "流水线",
+      "description": "企业级、自动化的研发交付流水线， 提供灵活易用的持续集成、持续验证、 持续发布功能。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/nas",
+      "name": "文件存储",
+      "short_title": "文件存储",
+      "description": "NAS  可支持Linux和Windows操作系统大规模共享访问，可弹性扩展，低延迟、高吞吐的文件存储服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/vulnerability-management",
+      "name": "漏洞管理",
+      "short_title": "漏洞管理",
+      "description": "支持对常见 Linux 软件漏洞、Windows 系统漏洞、Web-CMS 漏洞、应用漏洞、应急漏洞五种漏洞类型进行扫描，并支持 CVE 系统漏洞的一键修复。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/kms",
+      "name": "密钥管理服务",
+      "short_title": "密钥管理服务",
+      "description": "一站式密钥管理和数据加密服务平台、一站式凭据安全管理平台，提供简单、可靠、安全、合规的数据加密保护和凭据管理能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/avatar",
+      "name": "虚拟数字人",
+      "short_title": "虚拟数字人",
+      "description": "以 AI 驱动实时渲染为核心能力，提供快速轻量的数字人构建路径。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/maxcompute",
+      "name": "云原生大数据计算服务",
+      "short_title": "云原生大数据计算服务",
+      "description": "MaxCompute  MaxCompute是一款Serverless、多功能、低成本、高性能、开放的、易于使用的数据仓库平台和服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/ice",
+      "name": "智能媒体服务",
+      "short_title": "智能媒体服务",
+      "description": "智能媒体服务IMS（Intelligent Media Services）提供媒资管理、智能媒体处理、智能生产制作服务，具有专业度高、灵活性强、智能化、多样性的产品特性， 服务于培训教学、视频网站、广电传媒、短视频、互动直播等应用场景。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/actiontrail",
+      "name": "操作审计",
+      "short_title": "操作审计",
+      "description": "操作审计（ActionTrail）是阿里云提供的云账号资源操作记录的查询和投递服务，可用于安全分析、资源变更追踪以及合规性审计等场景。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/hsm",
+      "name": "加密服务",
+      "short_title": "加密服务",
+      "description": "基于硬件加密机提供云上数据加解密服务，满足国内监管要求，提供国密算法能力，并且满足国际FIPS 140-2/3的安全合规监管要求。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/edas",
+      "name": "企业级分布式应用服务",
+      "short_title": "企业级分布式应用服务",
+      "description": "EDAS  EDAS 是公共云/混合云同构的应用托管平台，提供应用开发、部署、监控、运维全栈能力，助力企业应用架构云原生升级。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/acs",
+      "name": "容器计算服务",
+      "short_title": "容器计算服务",
+      "description": "ACS 以 K8s 为使用界面供给容器算力资源的云计算服务，提供符合容器规范的算力资源。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/sls",
+      "name": "日志服务",
+      "short_title": "日志服务",
+      "description": "SLS  日志服务 SLS提供一站式数据采集、加工、分析、投递功能，提升运维、运营和安全场景数字能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/sca",
+      "name": "智能对话分析",
+      "short_title": "智能对话分析",
+      "description": "智能对话分析 (Smart Conversation Analysis) 帮助企业质检客服服务质量、识别风险。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/wtc",
+      "name": "无影终端",
+      "short_title": "无影终端",
+      "description": "无影终端，云上办公的全能入口——全系硬件、多端客户端与智能管控平台一体协同，让高效、安全、灵活的云办公触手可及。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/content-moderation/guardrail",
+      "name": "AI",
+      "short_title": "AI",
+      "description": "安全护栏 AI安全护栏是面向AI应用的防护系统，通过实时和精准检测能力保障AI的合规、安全、稳定。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/captcha",
+      "name": "验证码",
+      "short_title": "验证码",
+      "description": "通过多样的交互逻辑，使用业界先进的风控引擎，有效区分真实用户和机器自动化脚本攻击，避免机器请求造成业务损失。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/selectdb",
+      "name": "云数据库",
+      "short_title": "云数据库",
+      "description": "SelectDB 版 基于 Apache Doris 的云原生实时数据仓库，致力于为客户提供极致性能、简单易用的数据分析服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/id-verification",
+      "name": "实人认证",
+      "short_title": "实人认证",
+      "description": "实人认证（ID Verification）是精准可靠的远程身份认证服务。通过业内领先的生物识别技术，验证用户为真人且为本人，为客户提供安全便捷的数字身份识别解决方案。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/swas",
+      "name": "轻量应用服务器",
+      "short_title": "轻量应用服务器",
+      "description": "轻量应用服务器 （Simple Application Server）是面向网站建设、开发测试、小型应用等轻量应用场景的云服务器产品，通过轻量化、贴近应用、账单确定性强、可进化四大产品特点，帮助中小企业及开发者快速构建应用程序和网站。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/storage/pds",
+      "name": "网盘与相册服务",
+      "short_title": "网盘与相册服务",
+      "description": "PDS 为开发者提供的面向企业、个人数据管理、内容识别、协作的开放平台。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/lvwang",
+      "name": "内容安全",
+      "short_title": "内容安全",
+      "description": "基于深度学习技术，提供图片、视频、语音、文字、网页等多媒体的内容风险智能识别和审核服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/edse",
+      "name": "无影云电脑企业版",
+      "short_title": "无影云电脑企业版",
+      "description": "无影云电脑企业版安全高效，支持快速部署和统一管理，访问灵活，资源弹性调整，适用于办公、教育、协作等场景。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/quick-audience",
+      "name": "智能用户增长",
+      "short_title": "智能用户增长",
+      "description": "Quick Audience 智能用户增长（Quick Audience），是一款全渠道消费者分析、智能内容管理和自动化触达运营的工具，助力企业用户增长。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/slb",
+      "name": "负载均衡",
+      "short_title": "负载均衡",
+      "description": "SLB  负载均衡 SLB 是对云上流量进行按需分发的服务，通过将流量分发到不同的后端服务来提升业务处理能力，消除单点故障，提升可用性。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/disk",
+      "name": "块存储",
+      "short_title": "块存储",
+      "description": "EBS 块存储 EBS ( Elastic Block Storage ) 是为云服务器 ECS 、容器计算服务 ACS、智能计算灵骏等提供的低时延、高性能、高可靠、简单易用的块级别存储服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/pt",
+      "name": "渗透测试服务",
+      "short_title": "渗透测试服务",
+      "description": "帮助企业挖掘出正常业务流程中的安全缺陷和漏洞，助力企业先于黑客发现安全风险，防患于未然。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/gemp",
+      "name": "运维事件中心",
+      "short_title": "运维事件中心",
+      "description": "运维事件中心提供一站式运维管理、多端协同、事件故障管理，助企业实现实时的数字化管理、连续的业务体验。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aliware/sae",
+      "name": "Serverless",
+      "short_title": "Serverless",
+      "description": "应用引擎 SAE  Serverless应用引擎是一个全托管、免运维、高弹性的PaaS平台，助力企业数字化转型。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/live/producer",
+      "name": "云导播台",
+      "short_title": "云导播台",
+      "description": "云导播台依托于阿里云强大的视频直播、媒体处理和视频 AI 等技术，融合图文包装、实时抠像等能力，对传统导播服务进行云端创新。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cspm",
+      "name": "云安全态势管理",
+      "short_title": "云安全态势管理",
+      "description": "为多云环境下的云产品提供持续、自动化的配置风险检查及治理能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ebm",
+      "name": "弹性裸金属服务器",
+      "short_title": "弹性裸金属服务器",
+      "description": "一种可弹性伸缩的高性能计算服务，具有安全物理隔离的特点，分钟级的交付周期将为您提供实时业务响应能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/live",
+      "name": "视频直播",
+      "short_title": "视频直播",
+      "description": "视频直播（ApsaraVideo Live）通过云计算为直播平台、企业客户提供直播采集、传输、处理、分发、播放的底层PaaS服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bastionhost",
+      "name": "运维安全中心（堡垒机）",
+      "short_title": "运维安全中心（堡垒机）",
+      "description": "运维安全中心（堡垒机）是阿里云提供的运维和安全审计管控平台。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/yunxiao",
+      "name": "云效",
+      "short_title": "云效",
+      "description": "阿里云企业级一站式研发协同平台，数十万企业都在用。支持公共云、专有云和混合云多种部署形态，通过云原生新技术和研发新模式，助力创新创业和数字化转型企业快速实现研发敏捷和组织敏捷，打造“双敏”组织，实现多倍效能提升。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/cadt",
+      "name": "云速搭",
+      "short_title": "云速搭",
+      "description": "云速搭(CADT)是一款为上云应用提供自助式云架构管理的产品，显著地降低云上资源管理的复杂度，还支持通过API调用实现自动化管理180款不同阿里云资源。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/hcs",
+      "name": "云存储网关",
+      "short_title": "云存储网关",
+      "description": "云存储网关是一款可以部署在用户本地数据中心和阿里云上的网关产品。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/yunxiao/codeup",
+      "name": "代码管理",
+      "short_title": "代码管理",
+      "description": "提供代码托管、智能评审、质量检测等功能，提供删库保护、外包管控等高级功能，实现安全、稳定、高效的研发生产。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/lowlatencylive",
+      "name": "超低延时直播",
+      "short_title": "超低延时直播",
+      "description": "超低延时直播（Real-time Streaming）是一款超低延时、高并发、低卡顿的视频直播产品",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/aliyuncvc",
+      "name": "钉钉会议",
+      "short_title": "钉钉会议",
+      "description": "基于阿里巴巴集团多年视频会议应用经验，为企业客户提供高清流畅、简单易用、安全可靠的云会议服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/api-gateway",
+      "name": "API",
+      "short_title": "API",
+      "description": "网关  协调和管理各类 API 和 AI 请求，是构建应用的关键基础设施。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloudcomm/dytns",
+      "name": "号码百科",
+      "short_title": "号码百科",
+      "description": "号码百科（Cell Phone Number Service）是阿里云为企业提供的号码信息服务的能力集合。包括手机号、身份证号、组织机构代码等各种号码相关的能力集。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/mns",
+      "name": "轻量消息队列（原",
+      "short_title": "轻量消息队列（原",
+      "description": "MNS） 轻量消息队列（原 MNS）是一款易集成、高并发、可弹性扩展的消息队列服务。轻量队列模型、按量后付费的计费模式、自动适应高并发的弹性可扩展能力让开发者低成本快速构建分布式松耦合系统，高效地传递数据和通知消息。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/miniappdev",
+      "name": "多端低代码开发平台魔笔",
+      "short_title": "多端低代码开发平台魔笔",
+      "description": "面向全端（Web、H5、全平台小程序、App）场景，模型驱动的低代码开发平台，提供一站式的应用全生命周期管理。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cityvisual",
+      "name": "城市视觉智能引擎",
+      "short_title": "城市视觉智能引擎",
+      "description": "打通并连接散落在城市各个单元的视觉资源，让图像、视频帮助城市来做思考、决策和运营，从而整体提升城市运行效率。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloud-phone",
+      "name": "无影云手机",
+      "short_title": "无影云手机",
+      "description": "无影云手机是集成AI Agent的云端虚拟手机，提供安全、稳定、弹性、智能的安卓应用运行环境。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/genomics",
+      "name": "基因分析平台",
+      "short_title": "基因分析平台",
+      "description": "遵循 GA4GH 行业标准，提供超大规模基因计算引擎和数据应用开放服务。端到端解决用户基因数据传输、存储、管理和生信分析问题。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/alimt",
+      "name": "机器翻译",
+      "short_title": "机器翻译",
+      "description": "依托阿里巴巴先进的自然语言处理技术和海量的数据优势，为企业或开发者提供多语言、多场景、多模态的语言解决方案。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/docmind",
+      "name": "文档智能",
+      "short_title": "文档智能",
+      "description": "文档智能（Document Mind），基于多年技术积累打造的多模态文档识别与理解引擎，为用户提供各类文档的智能化处理能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ccc",
+      "name": "云联络中心",
+      "short_title": "云联络中心",
+      "description": "可提供 PaaS 化的智能呼叫中心技术服务，包含坐席管理、技能组、IVR 流程、队列调度、录音和统计报表等功能。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/hologres",
+      "name": "实时数仓",
+      "short_title": "实时数仓",
+      "description": "Hologres  Hologres一体化实时湖仓平台，一份数据、一份计算、一份服务，极大提高数据开发及应用效率。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/Internetbank",
+      "name": "场景金融链接器",
+      "short_title": "场景金融链接器",
+      "description": "通过联合阿里巴巴消费与产业互联网场景及外部合作场景，提供面向消费者、企业的金融链接数智科技服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/storage/nas_cpfs",
+      "name": "文件存储",
+      "short_title": "文件存储",
+      "description": "CPFS  CPFS是阿里云推出的全托管、可扩展并行文件系统，满足高性能计算场景的需求。支持成百上千的机器同时访问，提供数TB/s吞吐、数千万的IOPS和亚毫秒延时。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bdrc",
+      "name": "数据灾备中心",
+      "short_title": "数据灾备中心",
+      "description": "BDRC 企业灾备管理服务， 帮助客户简单、高效地实现数据灾备及合规管理。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cas",
+      "name": "数字证书管理服务（原SSL证书）",
+      "short_title": "数字证书管理服务（原SSL证书）",
+      "description": "为网站和移动应用（APP）及小程序提供数据 HTTPS 加密协议访问，保障数据的安全。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/quick-bi",
+      "name": "智能商业分析",
+      "short_title": "智能商业分析",
+      "description": "Quick BI  AI时代的智能数据分析产品 Quick BI，深度融合 BI 与 AI Agent 能力，帮助企业快速构建数据分析系统。通过自然语言与数据对话，满足智能报告、智能问数、智能解读、智能搭建等需求。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/waf",
+      "name": "Web应用防火墙",
+      "short_title": "Web应用防火墙",
+      "description": "WAF  Web应用防火墙对网站或者APP的业务流量进行恶意特征识别及防护，将正常、安全的流量回源到服务器。避免网站服务器被恶意入侵，保障业务的核心数据安全，解决因恶意攻击导致的服务器性能异常问题。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/ga",
+      "name": "全球加速",
+      "short_title": "全球加速",
+      "description": "GA  全球加速是一款覆盖全球的互联网加速服务。依托阿里巴巴优质的全球互联网带宽与传输网络，实现网络服务在全球范围内就近接入和跨地域部署，提升服务可用性和性能。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/dts",
+      "name": "数据传输服务",
+      "short_title": "数据传输服务",
+      "description": "DTS  支持关系型数据库、NoSQL、大数据(OLAP)等数据源间的数据传输。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/imp",
+      "name": "音视频终端",
+      "short_title": "音视频终端",
+      "description": "SDK 智能协同的云端一体化媒体中台服务，帮助客户快速构建音视频、点直播融合的媒体服务或应用。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloudcomm/dypns",
+      "name": "号码认证服务",
+      "short_title": "号码认证服务",
+      "description": "号码认证是一种快速完成用户手机号认证/比对、人机识别认证的服务。可覆盖app、网站、H5、小程序等众多场景。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/vms",
+      "name": "语音服务",
+      "short_title": "语音服务",
+      "description": "阿里云为方便用户使用语音能力，联合运营商提供稳定可靠、安全可信的云通信服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aliware/eventbridge",
+      "name": "事件总线",
+      "short_title": "事件总线",
+      "description": "EventBridge 支持阿里云服务、自定义应用、SaaS 应用以标准化、中心化的方式接入。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloudcomm/snsu",
+      "name": "边缘网络加速",
+      "short_title": "边缘网络加速",
+      "description": "ENA 边缘网络加速ENA是一种广覆盖、高可靠、一站式的网络连接服务，助您降低运维成本、提升质量，使您更专注于核心业务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/arms",
+      "name": "应用实时监控服务",
+      "short_title": "应用实时监控服务",
+      "description": "ARMS  一站式应用性能观测平台应用实时监控服务ARMS包含用户体验监控、应用监控、可观测链路OpenTelemetry版等模块。覆盖Web&H5、小程序、PC、Mobile等类型终端应用，Java、Golang、Python等开发语言的分布式、微服务架构服务端应用，实现端到端全栈应用性能数据的统一观测与分析，基于LLM的告警收敛、故障洞察、影响面分析，高效发现与定位异常根因。并全面兼容OpenTelemetry、Prometheus等行业开源标准，实现数据统一管理与应用。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/rsimganalys",
+      "name": "数知地球",
+      "short_title": "数知地球",
+      "description": "AI Earth 依托于阿里巴巴达摩院在深度学习、计算机视觉和地理空间分析方向上的技术积累，实现对多源遥感空间数据的智能计算与融合分析。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cfw",
+      "name": "云防火墙",
+      "short_title": "云防火墙",
+      "description": "云防火墙针对云上网络资产的互联网边界、VPC边界、NAT边界、主机边界以及DNS边界实现多位一体的安全管控与安全防御，是云上多个边界的统一安全解决方案。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iqs",
+      "name": "信息查询服务",
+      "short_title": "信息查询服务",
+      "description": "信息查询服务IQS 提供大模型友好的的海量丰富信息和业务链接能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iot/iovcc",
+      "name": "自动驾驶云开发平台",
+      "short_title": "自动驾驶云开发平台",
+      "description": "自动驾驶云开发平台，是阿里云面向自动驾驶企业在云端供应的开发工具体系，让自动驾驶企业更高效、高性价比的利用阿里云。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/lingma",
+      "name": "智能编码助手通义灵码",
+      "short_title": "智能编码助手通义灵码",
+      "description": "通义灵码（TONGYI Lingma）是一款基于通义大模型的智能编码辅助工具，提供代码智能生成、研发智能问答的能力，为开发者打造高效、流畅的编码体验。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/yunxiao/appstack",
+      "name": "应用交付",
+      "short_title": "应用交付",
+      "description": "以应用为中心的云原生应用交付平台，提供对开发者友好的应用编排、环境管理、部署运维、资源管理、应用发布等一站式应用交付能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/esa",
+      "name": "边缘安全加速",
+      "short_title": "边缘安全加速",
+      "description": "ESA  边缘安全加速ESA通过全球3200+个边缘节点，为在线业务提供全球的加速、4/7层攻击防护和就近计算能力。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/dms",
+      "name": "数据管理",
+      "short_title": "数据管理",
+      "description": "DMS  Data+AI一站式数据管理平台。DMS提供基于OneMeta多模资产管理、OneChannel多模数据通道、Data Agent开发平台以及面向数据垂类场景的Data Agent、Meta Agent和DAS Agent，致力于通过AI帮助企业高效、安全地挖掘数据价值，助力企业数字化转型。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/saf",
+      "name": "风险识别",
+      "short_title": "风险识别",
+      "description": "风险识别（Fraud Detection）是“一站式”业务风险管理服务，帮助客户快速解决注册、登录、营销活动的关键业务环节遇到的黑灰产欺诈问题，有效提升账号质量，保护营销资金。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/quotas",
+      "name": "配额中心",
+      "short_title": "配额中心",
+      "description": "配额中心帮助用户统一管理云服务配额从而保证上云管云的流畅稳定。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/polardb",
+      "name": "云原生数据库",
+      "short_title": "云原生数据库",
+      "description": "PolarDB  Super MySQL和PostgreSQL，支持集中式和分布式。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/addresspurification/addrp",
+      "name": "地址标准化",
+      "short_title": "地址标准化",
+      "description": "依托阿里云海量的地址语料库，以及超强的NLP算法实力所沉淀出的高性能及高准确率的标准地址算法服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/milvus",
+      "name": "向量检索服务",
+      "short_title": "向量检索服务",
+      "description": "Milvus 版  100%兼容开源Milvus，在性能、稳定性、可用性、管控能力等多个方向进行大量优化的云原生化向量检索引擎。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/ice/mediaai",
+      "name": "智能媒资服务",
+      "short_title": "智能媒资服务",
+      "description": "基于人工智能实现多媒体媒资的管理和处理",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/sas",
+      "name": "云安全中心",
+      "short_title": "云安全中心",
+      "description": "一款集持续监测、深度防御、全面分析、快速响应能力于一体的云上安全管理平台。基于云原生架构优势，提供覆盖多云环境的云上资产管理、配置核查、主动防御、安全加固、云产品配置评估和安全可视化等能力，实现一体化、自动化的安全运营闭环。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/mq4iot",
+      "name": "云消息队列",
+      "short_title": "云消息队列",
+      "description": "MQTT 版 专为移动互联网、物联网领域设计的消息产品，覆盖互动直播、金融支付、智能餐饮、即时聊天、移动 Apps 等多种应用场景。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/csas",
+      "name": "办公安全平台",
+      "short_title": "办公安全平台",
+      "description": "SASE 办公安全平台SASE是阿里云为企业用户提供的一体化办公安全管控平台。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cbn",
+      "name": "云企业网",
+      "short_title": "云企业网",
+      "description": "提供一种能够快速构建混合云和分布式业务系统的全球网络，帮助用户打造一张具有企业级规模和通信能力的云上网络。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/oos",
+      "name": "系统运维管理",
+      "short_title": "系统运维管理",
+      "description": "OOS  云上统一的自动化管理与运维平台，支持对ECS、RDS、SLB等多种云产品进行编排，提升日常运维管理效率。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/brainindustrial",
+      "name": "工业大脑",
+      "short_title": "工业大脑",
+      "description": "工业大脑AICS(AI Control System)是一套便捷、安全、低成本的云边协同工业算法开发工具，助您高效完成工业预测分析、优化控制等工业算法应用开发。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/dbaudit",
+      "name": "数据库审计",
+      "short_title": "数据库审计",
+      "description": "通过对数据库全量行为的审计溯源、危险攻击的实时告警、风险语句的智能预警，为您最敏感的数据库资产做好最安全的监控保障。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/atp",
+      "name": "应用诊断分析平台",
+      "short_title": "应用诊断分析平台",
+      "description": "ATP 分析功能丰富、诊断能力完备的平台，可助力用户高效定位应用性能、异常行为、内存泄漏、程序崩溃等问题。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/gws",
+      "name": "无影云电脑",
+      "short_title": "无影云电脑",
+      "description": "随时随地安全接入的云上超级电脑",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsara",
+      "name": "视图计算",
+      "short_title": "视图计算",
+      "description": "依托阿里云遍布全球的边缘节点，面向视图设备上云场景提供连接、视图 AI 计算、视图云存储的云 PaaS 服务。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/hdm",
+      "name": "数据库自治服务",
+      "short_title": "数据库自治服务",
+      "description": "DAS 数据库自治服务DAS，基于机器学习实现数据库自感知、自修复、自优化、自运维、自安全，有效保障数据库服务的稳定、安全及优化。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/flink",
+      "name": "实时计算",
+      "short_title": "实时计算",
+      "description": "Flink 版  阿里云实时计算Flink版是一套基于Apache Flink构建的一站式实时大数据计算平台，提供端到端亚秒级实时数据分析。并通过标准SQL降低业务开发门槛，助力企业向实时化、智能化大数据计算升级转型。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iot/linkvisual",
+      "name": "物联网智能视频服务",
+      "short_title": "物联网智能视频服务",
+      "description": "面向视频采集设备，提供设备连云、视频分发、云存储、视频回放、远程控制、视频AI分析等能力的一体化智能视频服务平台。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aliware/adcp",
+      "name": "分布式云容器平台",
+      "short_title": "分布式云容器平台",
+      "description": "ACK One 面向混合云、多集群、分布式计算、容灾等场景推出的企业级云原生平台。",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaradb/lindorm",
+      "name": "云原生多模数据库",
+      "short_title": "云原生多模数据库",
+      "description": "Lindorm  宽表、时序、时空、检索、向量多模型统一处理，分层存储高压缩比可节省最高50%空间，多模超融合让海量数据存得起，看得见。",
+      "category_l1": "",
+      "category_l2": ""
+    }
+  ]
+}

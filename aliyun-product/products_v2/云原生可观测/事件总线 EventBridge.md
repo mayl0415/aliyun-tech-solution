@@ -1,0 +1,67 @@
+---
+title: "事件总线 EventBridge - 无服务器事件驱动架构服务"
+short_title: "事件总线 EventBridge"
+url: https://www.aliyun.com/product/aliware/eventbridge
+category_l1: "云原生可观测"
+category_l2: ""
+keywords: "事件总线 EventBridge, 无服务器事件总线, 事件驱动架构, EDA解决方案, CloudEvents集成, 阿里云事件枢纽"
+crawled_at: 2026-02-05T14:17:16.702086
+---
+
+# 事件总线 EventBridge
+
+## 产品简介
+
+事件总线 EventBridge 是阿里云提供的一款无服务器事件总线服务，支持阿里云服务、自定义应用、SaaS应用以标准化、中心化的方式接入，并能够以标准化的 CloudEvents 1.0 协议在这些应用之间路由事件，帮助您轻松构建松耦合、分布式的事件驱动架构。
+
+## 产品图标
+
+![产品图标](https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png)
+
+## 产品图片
+
+![图片1](https://img.alicdn.com/tfs/TB1XFmCEYY1gK0jSZTEXXXDQVXa-1160-480.jpg)
+
+![图片2](https://img.alicdn.com/tfs/TB1qI5uEWL7gK0jSZFBXXXZZpXa-1160-480.jpg)
+
+![图片3](https://img.alicdn.com/tfs/TB15iaBE4v1gK0jSZFFXXb0sXXa-1160-480.jpg)
+
+![图片4](https://img.alicdn.com/tfs/TB1f65xE.H1gK0jSZSyXXXtlpXa-1160-480.jpg)
+
+![图片5](https://img.alicdn.com/tfs/TB1PimBE4v1gK0jSZFFXXb0sXXa-1160-480.jpg)
+
+![图片6](https://img.alicdn.com/imgextra/i4/O1CN01tpsZoo1qAu33XDm40_!!6000000005456-2-tps-1277-668.png)
+
+![图片7](https://img.alicdn.com/imgextra/i1/O1CN01JJ0kWg1hHTBWmEAx5_!!6000000004252-2-tps-1277-668.png)
+
+![图片8](https://img.alicdn.com/imgextra/i3/O1CN01vBbQLH1XUcOADg2M5_!!6000000002927-2-tps-460-544.png)
+
+## 产品优势
+
+开源标准协议，原生支持 CloudEvents 社区 SDK 和 API，全面拥抱开源社区生态，支持无缝迁移上云。
+开放与集成 提供丰富的跨产品、跨平台连接能力，促进云产品、应用程序、SaaS 服务之间的相互集成。提供高性能且性价比高的企业集成方案，显著降低用户数据集成成本。
+稳定与安全 依托海量数据传输及运维经验，提供高稳定性且安全合规的企业集成服务。 每次请求均有安全访问控制，确保数据安全；支持 RAM 主子账号、RAM 访问控制，STS；支持 HTTP/HTTPS 协议。
+可观测与可治理 提供事件的可观测能力，支持事件查询、审计以及全链路的追踪； 提供事件的可治理能力，支持事件流控、事件回放、以及事件重试策略等。
+高并发与高可用 服务可用性 99.95%，Region 化、多可用区、分布式集群化部署，部分节点异常甚至可用区异常，仍会确保服务的可用性，具备极强的容灾能力； 数据可靠性 99.99999999%，多副本数据冗余与快速切换技术确保数据可靠。
+
+## 产品功能
+
+资源管理 提供完善的资源管理能力。
+- 事件总线 提供完整的事件总线管理，包括创建、更新以及查询。
+- 事件规则 提供完整的事件规则管理，包括创建、更新、查询以及规则启停等。
+- 事件处理 支持事件传输、事件过滤、事件路由、事件重试等。
+事件源 支持多种类型的事件源，包括管控流事件以及数据流事件。
+- 阿里云产品事件 默认支持阿里云多种产品的事件接入，并持续丰富中。
+- SaaS 服务事件 支持第三方 SaaS 服务事件，连接云产品与用户。
+目标处理 支持多种类型的事件目标处理，满足不同场景的事件处理需求。
+- 阿里云产品 支持阿里云产品的事件目标处理，如消息服务、函数计算、云监控等。
+- HTTP 网关 支持 HTTP/HTTPS 的 WEB 网关事件处理。
+- 跨网络 提供跨 Region、跨云的事件推送能力。
+
+## 应用场景
+
+- EDA 事件驱动场景 事件总线通过事件连接应用程序、云服务和 Serverless 服务，构建事件驱动架构（EDA，Event-driven Architectures），实现应用与应用、应用与云服务之间的高效连接。
+- 流式 ETL 场景 在企业集成场景中，事件总线可以作为流式数据管道，提供基础的过滤与转换功能，支持不同数据仓库、数据处理程序、数据分析与处理系统之间的数据同步和跨地域备份，连接不同系统与服务。
+- AI 数据集成场景 事件总线提供非结构化数据到结构化数据的链路集成，可处理多种数据源，如关系型数据库、API 数据、文件、ODPS 等，并支持将数据向量化后存储至向量数据库或其他数仓，同时支持数据清洗、转换和规范化。为 RAG 和模型数据准备等场景，提供一站式数据集成服务。
+- 统一事件通知服务 事件总线提供丰富的云产品事件源与事件的全生命周期管理工具，用户可以直接监听云产品产生的数据，并上报至监控和通知等下游服务，实现高效的事件管理和响应。
+

@@ -1,0 +1,2596 @@
+{
+  "total": 259,
+  "collected_at": "2026-02-04T20:36:51.059882",
+  "products": [
+    {
+      "url": "https://www.aliyun.com/product/ApsaraDB/ads",
+      "title": "云原生数据仓库AnalyticDB MySQL数据仓库_大数据实时分析",
+      "short_title": "云原生数据仓库 AnalyticDB MySQL 版",
+      "description": "阿里云云原生数据仓库AnalyticDB MySQL版（简称AnalyticDB）是融合数据库、大数据技术于一体的云原生企业级数据仓库平台。云原生数据仓库AnalyticDB MySQL版支持数据实时写入和同步更新、实时计算和实时服务，可用于构建企业级报表系统、数据仓库和数据服务引擎。",
+      "keywords": "云原生数据仓库AnalyticDB,MySQL数据仓库,大数据分析,实时计算,报表系统,ETL",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "网站性能优化",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/acr",
+      "title": "容器镜像服务ACR - 安全托管与高效分发平台",
+      "short_title": "稳定，易用，高性价比的容器镜像服务便捷管理，快速分发，无忧运维，助您简化制品管理",
+      "description": "阿里云容器镜像服务(ACR)提供OCI镜像安全托管与全球分发加速，支持多架构容器镜像、Helm Chart全生命周期管理。与容器服务ACK无缝集成，实现云原生应用一站式交付，提升分发效率3-7倍。",
+      "keywords": "容器镜像服务,ACR,云原生制品托管,镜像安全扫描,全球同步加速,阿里云容器服务,DevSecOps,镜像加速，制品托管",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "计算",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/acs",
+      "title": "容器计算服务 ACS - K8s界面的Serverless容器算力",
+      "short_title": "容器计算服务 ACS",
+      "description": "容器计算服务 ACS 是阿里云推出的 Serverless 容器计算服务，提供极致易用、秒级弹性的容器算力，并支持灵活的按量付费模式，助您聚焦应用创新，全面提升开发与运维效率。",
+      "keywords": "了解ACS产品,查询ACS定价,ACS快速入门,ACS产品介绍,ACS功能特性,ACS定价模式",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "计算",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/actiontrail",
+      "title": "操作审计(ActionTrail) - 云上行为监控与合规审计",
+      "short_title": "实时监控、全面记录、全链追踪，操作审计护航云上安全合规与高效运维",
+      "description": "操作审计（ActionTrail）是企业级云上行为审计服务，可全面记录与查询操作日志，满足安全分析与合规审计要求，保障云上业务安全与高效运维。",
+      "keywords": "了解操作审计产品,评估操作审计价值,操作审计产品简介,操作审计应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "运维与监控",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/addresspurification/addrp",
+      "title": "地址标准化 - 基于MGeo大模型的NLP地址数据处理与归一服务",
+      "short_title": "地址标准化",
+      "description": "地址标准化是一站式地址数据服务平台，提供专业的地址清洗、补全与结构化能力，实现地址的精细化解析、高精度归一与智能填写，助您打破数据孤岛，提升业务运营效率与决策精准度。",
+      "keywords": "了解地址标准化产品,查看地址标准化功能,查看地址标准化场景,地址标准化产品介绍,地址标准化产品功能,地址标准化应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "视觉智能",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/advisor",
+      "title": "智能顾问 - 云上架构巡检优化治理",
+      "short_title": "智能顾问",
+      "description": "智能顾问是阿里云官方的云上架构巡检与优化治理平台，它基于专家实践，从稳定性、成本等多维度发现风险并提供优化建议，助您持续提升云架构健康度，保障业务稳定与降本增效。",
+      "keywords": "了解智能顾问产品,查看智能顾问功能,智能顾问产品介绍,智能顾问功能介绍",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "开发工具",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/agentbay",
+      "title": "无影AgentBay - 全场景AI Agent执行平台 - 智能调度与安全沙箱",
+      "short_title": "无影 Agent 开发套件 AgentBay",
+      "description": "无影AgentBay是阿里云推出的全场景AI Agent执行平台，提供浏览器、云电脑、代码空间、云手机四大环境支持，具备秒级弹性伸缩、千级并发运维能力，集成企业级安全容器方案，助力深度研究、金融分析等场景的智能体高效运行。",
+      "keywords": "无影AgentBay,AI Agent执行平台,全场景覆盖,安全沙箱环境,智能调度",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "人工智能平台",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai-stack",
+      "title": "AI Stack - 软硬一体AI解决方案",
+      "short_title": "阿里云AI Stack轻量化、高性价比的软硬一体AI解决方案",
+      "description": "阿里云AI Stack - 轻量化、高性价比的软硬一体AI解决方案 - 阿里云",
+      "keywords": "AI, 大模型, 一体机, 软硬一体，DeepSeek",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "备份与迁移",
+      "category_l2": "迁移与运维管理"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/alimt",
+      "title": "机器翻译 - 多语言多模态AI翻译平台，覆盖214语种",
+      "short_title": "机器翻译",
+      "description": "阿里云机器翻译基于先进NLP技术，提供覆盖214种语言的多模态翻译服务，支持文本、文档、图片、语音和视频翻译。应用于跨境电商、教育、医疗、会议同传等场景，确保99.9%服务可靠性及高效人机协同解决方案。",
+      "keywords": "机器翻译, 多语言翻译, 多模态翻译, 人机协同翻译, 跨境电商翻译, AI翻译",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "视觉智能",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/avatar",
+      "title": "虚拟数字人 - 虚拟主播 - 直播平台 - 人工智能",
+      "short_title": "",
+      "description": "阿里云虚拟数字人提供AI驱动的数字人构建与应用能力，支持高效视频合成与实时交互，轻松应用于内容创作、虚拟直播等场景，助您降本提效，加速业务创新。",
+      "keywords": "了解虚拟数字人产品,查询虚拟数字人功能,购买虚拟数字人服务,虚拟数字人产品介绍,虚拟数字人核心功能,虚拟数字人应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "决策智能",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/brainindustrial",
+      "title": "工业大脑 - 数据智能驱动的工业制造优化",
+      "short_title": "工业大脑",
+      "description": "工业大脑是阿里云的一体化数据智能产品，融合大数据与AI技术激活工业数据价值。通过汇集与分析全链路数据，以智能算法优化生产流程与工艺参数，助您显著降低成本、提升生产效率，全面加速智能制造转型升级。",
+      "keywords": "了解工业大脑,工业大脑产品介绍,工业大脑行业方案",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "AI应用",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/dashvector",
+      "title": "向量检索服务 - 向量搜索 - 大模型生成式检索 - 人工智能",
+      "short_title": "",
+      "description": "阿里云向量检索服务提供全托管、云原生的高效向量检索能力，专为大模型知识库与多模态AI搜索等场景设计，支持亿级向量数据的高性能检索，赋能AI应用开发，加速您的业务创新。",
+      "keywords": "了解向量检索服务,查询向量检索服务场景,快速入门向量检索服务,向量检索服务产品介绍,向量检索服务产品功能,向量检索服务应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "人工智能平台",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/docmind",
+      "title": "文档智能_文档AI_智能文档处理_数据智能",
+      "short_title": "PLCNet: Real-time Packet Loss Concealment with Semi-supervised Generative Adversarial Network",
+      "description": "阿里云文档智能基于多年技术积累打造的多模态文档识别与理解引擎，为用户提供各类文档文字提取和文档处理，支持通用场景、行业场景和自定义场景下的多样化文档处理需求。",
+      "keywords": "文档智能,文档AI,智能文档处理,数据智能,IDP,文字提取, PDF转Word,文档解析,表格解析,文档结构化",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "视觉智能",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/genomics",
+      "title": "基因分析平台_基因组学_生物信息分析_企业应用",
+      "short_title": "",
+      "description": "阿里云基因分析平台可以提供端到端的基因计算PaaS服务。支持GA4GH行业标准，集成生信分析应用，大幅优化成本效率，快速处理海量基因数据。",
+      "keywords": "基因分析平台,基因组学,生物信息分析,NGS,生信流程,GATK,Sentieon,遗传病,分析加速",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "AI应用",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/icss",
+      "title": "智能客服 - 提供全渠道智能客服联络中心方案",
+      "short_title": "智能客服通义晓蜜",
+      "description": "阿里云智能客服是融合通义大模型的新一代企业级智能服务平台，提供覆盖咨询、外呼、分析全链路的智能对话与全渠道联络能力，全面提升服务效率与客户体验，驱动企业智慧化转型与增长。",
+      "keywords": "了解通义晓蜜产品,体验通义晓蜜功能,咨询通义晓蜜方案,通义晓蜜产品介绍,通义晓蜜产品体系,通义晓蜜应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "行业智能",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/opt",
+      "title": "优化求解器_数学规划_决策智能_MindOpt",
+      "short_title": "优化求解器",
+      "description": "阿里云优化求解器产品是求解优化问题的专业计算软件，技术来自达摩院决策智能实验室的MindOpt Solver。广泛应用于云计算、电力能源、交通物流等领域，每年在弹性计算资源调度优化场景里为阿里云节省数亿成本。",
+      "keywords": "优化求解器,优化,求解器,数学规划,线性规划,工业设计,决策智能,MindOpt,opt,solver,LP,MIP,运筹优化,仿真系统,人工智能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "智能语音交互",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ai/rsimganalys",
+      "title": "AI Earth 数知地球 - 遥感影像分析 - 地球科学 - 云计算 - 人工智能",
+      "short_title": "海量遥感数据检索",
+      "description": "数知地球 AI Earth是阿里云一站式地球科学云平台，融合海量遥感数据与强大AI能力，提供低门槛的云端GIS工作空间与灵活的在线开发环境，助您高效洞察地球时空变化，加速科学发现与行业创新。",
+      "keywords": "了解AI Earth功能,了解AI Earth应用,开通AI Earth服务,AI Earth产品介绍,AI Earth功能特性,AI Earth应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "决策智能",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aiccs",
+      "title": "智能联络中心 - AI语音机器人及呼叫中心解决方案",
+      "short_title": "智能联络中心提供一站式语音通话解决方案，助力企业高质量沟通",
+      "description": "阿里云智能联络中心提供一站式智能语音通话解决方案，融合大模型提供开箱即用的智能外呼与交互能力，轻松应对新客促活、客户回访等场景，全面提升沟通效率与业务转化。",
+      "keywords": "智能联络中心,AI语音机器人,大模型语音交互,新客促活",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "企业云服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/alinux",
+      "title": "Alibaba Cloud Linux - Linux服务器操作系统",
+      "short_title": "Alibaba Cloud Linux",
+      "description": "Alibaba Cloud Linux是阿里云官方服务器操作系统，为云上应用提供稳定、安全、高性能的运行环境，专为云服务器ECS深度优化，支持内核热补丁与十年超长维护，助您降低运维成本，从容应对业务挑战。",
+      "keywords": "Alibaba Cloud Linux,认识Alibaba Cloud Linux,试用Alibaba Cloud Linux,了解Alinux产品优势,Alibaba Cloud Linux简介,Alinux产品特性,Alinux技术方案",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "无影",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aliware/adcp",
+      "title": "分布式云容器平台ACK One - 多云容器管理 - 分布式云资源管理 - 云原生应用平台",
+      "short_title": "分布式云容器平台 ACK One",
+      "description": "分布式云容器平台 ACK One，是面向混合云与多集群的企业级云原生平台，提供统一的集群管理、应用交付、数据容灾与工作流编排能力，助您简化分布式云运维，构建安全、稳定、高效的云原生应用。",
+      "keywords": "了解ACK One产品,了解ACK One功能,了解ACK One应用场景,ACK One产品介绍,ACK One产品优势,ACK One功能列表",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "计算",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aliware/containerservice",
+      "title": "容器服务 - ACKAnywhere - 云原生应用平台",
+      "short_title": "容器服务",
+      "description": "阿里云容器服务ACK提供企业级统一容器基础设施，支持在混合云、多云环境下实现一致管理、弹性伸缩与应用容灾，助您构建现代化云原生IT架构，加速业务创新。",
+      "keywords": "了解容器服务,选择容器产品,容器服务产品介绍,容器服务应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "容器服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aliware/eventbridge",
+      "title": "事件总线 EventBridge - 无服务器事件驱动架构服务",
+      "short_title": "事件总线 EventBridge",
+      "description": "阿里云事件总线 EventBridge 提供标准化无服务器事件枢纽，兼容 CloudEvents 1.0 协议，支持跨云服务、SaaS 应用的事件路由。构建松耦合事件驱动架构（EDA），具备高并发、高可用及安全合规特性，适用于流式ETL、AI集成等场景。",
+      "keywords": "事件总线 EventBridge, 无服务器事件总线, 事件驱动架构, EDA解决方案, CloudEvents集成, 阿里云事件枢纽",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云原生可观测",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aliware/fnf",
+      "title": "云工作流 CloudFlow - 编排分布式任务执行",
+      "short_title": "云工作流 CloudFlow",
+      "description": "云工作流 CloudFlow 是一款全托管 Serverless 服务，旨在简化分布式任务的协调与自动化。它提供可视化编排、内置错误重试与状态管理，助您轻松构建可靠、可扩展的自动化业务流程，加速业务创新。",
+      "keywords": "了解云工作流产品,查看云工作流场景,云工作流产品介绍,云工作流产品优势,云工作流应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云原生可观测",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aliware/grafana",
+      "title": "可观测可视化 Grafana 版 - 数据可视化 - 运维监控 - 容器与中间件",
+      "short_title": "可观测可视化 Grafana 版",
+      "description": "阿里云可观测可视化 Grafana 版是一站式云原生数据可视化平台，提供开箱即用的海量数据源接入与丰富可视化模板，构建统一监控告警体系，助您提升运维分析效率，深度洞察数据价值，加速业务创新。",
+      "keywords": "了解Grafana版产品,对比自建Grafana,评估Grafana版功能,Grafana版产品介绍,Grafana版产品优势,Grafana版与自建对比",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云消息队列",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/aliware/sae",
+      "title": "Serverless 应用引擎SAE_应用托管服务_零代码改造上云_容器与中间件",
+      "short_title": "Serverless 应用引擎",
+      "description": "Serverless 应用引擎 SAE（Serverless App Engine）是一款零代码改造、极简易用、自适应弹性的应用全托管平台。SAE 让您免运维 IaaS和 K8s，秒级完成从源代码/代码包/ Docker 镜像部署任何语言的在线应用（如 Web /微服务 /Job任务）到 SAE，并自动伸缩实例按使用量计费，开箱即用日志、监控、负载均衡等配套能力。",
+      "keywords": "Serverless,容器化,降本,微服务,免运维,Spring Cloud,springboot",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "",
+      "category_l2": "模型训练与部署"
+    },
+    {
+      "url": "https://www.aliyun.com/product/amqp",
+      "title": "云消息队列RabbitMQ版 - Serverless弹性扩容降本75%",
+      "short_title": "云消息队列 RabbitMQ 版",
+      "description": "阿里云云消息队列RabbitMQ版提供Serverless弹性扩容，按量付费最高节省75%成本，兼容开源协议，解决消息堆积、脑裂问题，支持多可用区高可用部署。阿里云专业消息服务保障业务稳定。",
+      "keywords": "云消息队列RabbitMQ版,Serverless消息队列,高并发消息处理,消息堆积解决方案,分布式消息服务",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "安全",
+      "category_l2": "微服务工具与平台"
+    },
+    {
+      "url": "https://www.aliyun.com/product/analyticdb",
+      "title": "云原生数据仓库 AnalyticDB - PB级实时分析，兼容MySQL/PG",
+      "short_title": "秒级数据分析、稳定安全可靠的云原生数据仓库 AnalyticDB高度兼容 MySQL 和 PostgreSQL，企业级 Data+AI 一站式分析平台",
+      "description": "阿里云AnalyticDB是超大规模验证的PB级实时数据仓库，高度兼容MySQL/PostgreSQL语法生态，提供云原生存算分离架构和内置AI能力。具备极致分析性能、多可用区容灾保护及Serverless弹性扩展，最高可节省99.5%TCO。",
+      "keywords": "云原生数据仓库,AnalyticDB,MySQL兼容,PostgreSQL兼容,PB级数据分析,实时数据仓库,阿里云数据库",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "关系型数据库",
+      "category_l2": "NoSQL数据库"
+    },
+    {
+      "url": "https://www.aliyun.com/product/analyticdb/tech-solution",
+      "title": "云原生数据仓库 AnalyticDB - PB级实时分析，兼容MySQL/PG",
+      "short_title": "技术解决方案",
+      "description": "阿里云AnalyticDB是超大规模验证的PB级实时数据仓库，高度兼容MySQL/PostgreSQL语法生态，提供云原生存算分离架构和内置AI能力。具备极致分析性能、多可用区容灾保护及Serverless弹性扩展，最高可节省99.5%TCO。",
+      "keywords": "云原生数据仓库,AnalyticDB,MySQL兼容,PostgreSQL兼容,PB级数据分析,实时数据仓库,阿里云数据库",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "关系型数据库",
+      "category_l2": "NoSQL数据库"
+    },
+    {
+      "url": "https://www.aliyun.com/product/api-gateway",
+      "title": "API网关 - 阿里云高性能API管理与AI请求统一入口",
+      "short_title": "Ingress Nginx 退役 提供平滑迁移方案API 网关协调和管理各类 API 和 AI 请求",
+      "description": "阿里云API网关提供云原生API管理和AI网关两大产品，实现高性能API协调管理和大模型统一代理。云原生API网关整合API管理、流量网关和微服务网关能力，AI网关专为AI场景设计，支持大模型API和MCP Server统一治理。提供精准权限控制、Token管控、内容安全防护等核心功能。",
+      "keywords": "AI网关,云原生网关,云原生API网关,Higress,Nginx Ingress,Nginx",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "云原生可观测",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/E2",
+      "title": "E2企业云服务 - 企业生命周期完整解决方案",
+      "short_title": "",
+      "description": "阿里云E2企业云服务是围绕企业全生命周期打造的一站式解决方案，提供覆盖研发、采购、营销及能耗管理等场景的SaaS化应用，帮助企业实现降本增效，全面加速数字化转型与业务创新。",
+      "keywords": "了解E2企业云服务,试用E2企业云服务,了解E2产品架构,E2企业云服务介绍,E2企业云服务架构,E2企业云服务产品",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "媒体服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/Internetbank",
+      "title": "场景金融链接器_场景链接器_场景金融_应用服务",
+      "short_title": "",
+      "description": "阿里云场景金融链接器提供面向消费者、企业的金融链接数智科技服务，用它可提升金融机构贷款、保险、银行卡户等产品服务体验和营销运营效率，助力企业支出降本提效。",
+      "keywords": "场景金融链接器,场景链接器,场景金融,应用服务,金融链接器,企业云支出",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "媒体服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/assettech",
+      "title": "云行情 - NASDAQ行情服务 - 美股港股证券交易所行情数据 - 企业应用",
+      "short_title": "云行情",
+      "description": "云行情是阿里云官方一站式金融行情数据服务，聚合全球多源实时行情，具备稳定、低时延与高可用特性，助您大幅降低技术与成本门槛，高效构建专业金融服务。",
+      "keywords": "了解云行情产品,查看云行情优势,云行情产品介绍,云行情产品优势,云行情应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "媒体服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/bizworks",
+      "title": "BizWorks - 云原生应用组装平台 - 业务中台 - 开发与运维",
+      "short_title": "云原生应用组装平台 BizWorks",
+      "description": "云原生应用组装平台 BizWorks 是一站式应用开发与组装平台，融合低代码与全代码模式，可快速构建与复用业务能力，全面提升协同效率，加速企业数字化创新。",
+      "keywords": "了解BizWorks平台,评估BizWorks产品,了解BizWorks应用场景,BizWorks产品介绍,BizWorks产品功能,BizWorks应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "媒体服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/dingtalkpro",
+      "title": "专属钉钉 - 混合云架构企业协同平台",
+      "short_title": "",
+      "description": "专属钉钉是阿里云提供的混合云架构企业协同平台，支持数据独立存储与金融级信息安全，提供专属API开放及定制化APP开发。适用于金融、政务等行业，实现组织、协同与业务全流程在线化，助力企业数字化转型。",
+      "keywords": "专属钉钉,混合云企业协同平台,金融级信息安全解决方案,API开放平台,移动办公门户定制",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云通信",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/energyexpert",
+      "title": "能耗宝_节能_双碳_能耗_碳足迹_企业应用",
+      "short_title": "能耗宝",
+      "description": "能耗宝是阿里云在ESG和碳中和战略大背景下推出的碳管理+能耗优化的应用服务产品，通过大数据计算及人工智能技术，帮助企业核算碳排放量、科学计算产品碳足迹、制定节能降碳方案、规划碳中和路径。同时联合权威认证机构实现在线认证，联合金融机构提供绿色金融/碳金融服务。能耗宝还致力于让碳普惠融入居民生活，形成社区碳流与个人碳账户，助力以人为本的低碳社区、低碳校园落地。",
+      "keywords": "能耗宝,节能,企业应用,能耗管理,双碳,碳足迹",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "媒体服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/linkedmall",
+      "title": "企业商城 LinkedMall - 企业电商全链路商城系统",
+      "short_title": "企业商城 LinkedMall",
+      "description": "企业商城 LinkedMall 是一站式企业电商解决方案，助您快速搭建自有商城。依托阿里海量商品供应链，提供SaaS与API模式，灵活满足积分、福利、分销等场景，全面提升您的用户运营与渠道拓展能力。",
+      "keywords": "了解LinkedMall产品,查询LinkedMall功能,接入LinkedMall,LinkedMall产品介绍,LinkedMall业务场景,LinkedMall产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "媒体服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/salesforce",
+      "title": "Salesforce CRM平台 - 合规安全全球领先",
+      "short_title": "阿里云上的Salesforce全球领先的客户关系管理CRM平台",
+      "description": "阿里云上的Salesforce CRM平台，提供数据本地化存储、端到端加密及无缝扩展能力。支持跨国企业满足合规要求，集成本地生态，助力业务增长 - 阿里云",
+      "keywords": "Salesforce CRM,合规数据存储,端到端加密,全球领先CRM平台,阿里云解决方案",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "媒体服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/applicationservice/yida",
+      "title": "低代码可视化搭建数字化业务应用 - 宜搭",
+      "short_title": "宜搭",
+      "description": "宜搭是阿里巴巴自研的低代码平台，提供低门槛、高效率的应用搭建服务。您可通过可视化拖拽快速构建表单、流程与数据报表，深度集成钉钉与阿里云，助力企业高效实现数字化转型与业务创新。",
+      "keywords": "了解宜搭产品,查询宜搭功能,了解宜搭应用场景,宜搭产品介绍,宜搭产品功能,宜搭产品规格",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云通信",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsara",
+      "title": "飞天企业版_企业级云平台_私有化部署_专有云",
+      "short_title": "飞天企业版",
+      "description": "阿里云飞天企业版是基于阿里云飞天云计算操作系统，为政企客户专属构建的资源和云管完全独立的企业级云平台，阿里云专有云与公共云同根同源，支持私有化部署。",
+      "keywords": "飞天企业版,企业级云平台,专有云,私有云,云平台,数字化转型,私有化部署",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "备份与迁移",
+      "category_l2": "迁移与运维管理"
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaradb/cddc",
+      "title": "云数据库专属集群MyBase_企业级数据库_专属主机_数据库",
+      "short_title": "云数据库专属集群 MyBase",
+      "description": "云数据库专属集群MyBase是阿里云专为企业级用户定制优化的解决方案。支持MySQL、PostgreSQL、SQL Server、Redis和MongoDB数据库。具有云资源独享、支持资源超分配，自主可运维、开放权限等特点。MyBase不仅能保障客户独享云资源更加安全、享受到云数据库服务的便捷灵活，同时还满足企业对数据库合规性、安全性和高性能的要求。",
+      "keywords": "云数据库专属集群,MyBase,企业级数据库,专属主机,数据库",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "数据仓库",
+      "category_l2": "数据库管理工具"
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaradb/clickhouse",
+      "title": "云数据库ClickHouse - 实时数仓 - OLAP - 分析型数据库 - 客户画像 - 数据集市",
+      "short_title": "云数据库 ClickHouse",
+      "description": "云数据库ClickHouse是全托管的云原生实时数仓服务，具备高吞吐写入、秒级实时分析与自动弹性优势，助您释放海量数据价值，加速业务洞察与决策。",
+      "keywords": "了解ClickHouse产品,评估ClickHouse优势,查看ClickHouse场景,ClickHouse产品介绍,ClickHouse产品优势,ClickHouse应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "关系型数据库",
+      "category_l2": "NoSQL数据库"
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaradb/lindorm",
+      "title": "云原生多模数据库 Lindorm - 海量数据低成本存储与高并发处理",
+      "short_title": "云原生多模数据库 Lindorm",
+      "description": "阿里云云原生多模数据库Lindorm，支持海量泛时序、半结构化及非结构化数据的低成本存储与高并发查询。兼容MySQL、HBase、Elasticsearch等开源协议，提供宽表、时序、向量等多模数据模型，适用于车联网、金融监控等场景。",
+      "keywords": "云原生多模数据库,海量数据存储,高并发数据库,多模数据库服务,AI推理数据处理理",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "关系型数据库",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/aliyuncvc",
+      "title": "钉钉会议 - 云会议远程沟通协作",
+      "short_title": "钉钉会议",
+      "description": "钉钉会议提供高清流畅、安全可靠的企业级云会议服务。支持电脑、手机等多端设备随时入会，具备AI纪要与翻译等智能协作能力，助您打破时空限制，实现全场景高效协同。",
+      "keywords": "了解钉钉会议产品,查询钉钉会议功能,对比钉钉会议版本,钉钉会议产品介绍,钉钉会议功能介绍,钉钉会议版本对比",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云通信",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/ice",
+      "title": "智能媒体服务 IMS_媒资管理_音视频转码_云剪辑_音视频终端SDK",
+      "short_title": "智能媒体服务 IMS",
+      "description": "智能媒体服务IMS（Intelligent Media Services），是围绕直播和点播场景下的媒体采集、媒资管理、内容生产、制作和分发能力的一站式服务集，提供广播级、全智能、灵活多样、可多云接入的专业能力，并面向多云复杂业务流场景提供成熟的低代码终端SDK集成方案。",
+      "keywords": "智能媒体服务 IMS,媒资管理,音视频转码,云剪辑,音视频终端SDK",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "应用架构",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/ice/editor",
+      "title": "云端智能剪辑_云智剪_直播剪辑_视频云",
+      "short_title": "云端智能剪辑",
+      "description": "云端智能剪辑（云智剪）是基于云计算和人工智能技术的视频剪辑生产服务，能为用户提供直播剪辑、视频剪辑、模版工厂、数字人制作等核心功能，并可使用 AI 辅助剪辑生产。",
+      "keywords": "云端智能剪辑,云智剪,直播剪辑,视频剪辑,模版工厂,智能生产,数字人制作",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "视频服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/ice/mediaai",
+      "title": "智能媒资服务_内容资产管理_内容平台_视频云",
+      "short_title": "智能媒资服务",
+      "description": "智能媒资服务是阿里云提供的媒体内容资产管理和处理服务，提供标签、审核、检索、视频封面、智能处理等核心功能，提高海量内容的利用分发管理效率。",
+      "keywords": "智能媒资管理,标签,多模态,检索,识别,封面",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "视频服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/imp",
+      "title": "音视频终端 SDK - 一体化多终端接入方案",
+      "short_title": "",
+      "description": "阿里云音视频终端 SDK 提供直播推流、视频播放、短视频创作等一体化解决方案，支持移动端、PC端、Web端多终端高效集成，具备节省体积、稳定播放和AI美颜特效功能。适用于教育、娱乐、电商等场景。",
+      "keywords": "音视频终端 SDK, 直播点播一体化, 短视频创作, 美颜特效 SDK, 音频特效, 阿里云媒体解决方案",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "应用架构",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/imp/auikits",
+      "title": "音视频低代码开发_低代码直播间搭建_互动直播_视频云",
+      "short_title": "音视频低代码开发",
+      "description": "音视频低代码开发AUI Kits是基于阿里云视频云提供的aPaaS产品。AUI Kits将各种音视频SDK进行模块化封装，相比直接使用多个SDK对接PaaS服务，具有简单易用的特点。",
+      "keywords": "音视频低代码开发,低代码开发,AUI Kits,企业直播,互动直播",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "视频服务",
+      "category_l2": "媒体处理与内容生产"
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/live/interactlive",
+      "title": "RTC_直播连麦_实时音视频通话_互动直播_视频云",
+      "short_title": "实时音视频",
+      "description": "实时音视频（RTC）依托基于阿里云全球3200+节点及多年的音视频技术积累，提供高可用、高品质、超低延时的音视频通信服务。主要适用于直播互动、社交语聊、多人通话等场景。",
+      "keywords": "RTC,直播连麦,实时音视频通话,视频云,阿里云,互动直播",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "大数据计算",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/live/producer",
+      "title": "云导播台_导播平台_直播导播_视频云",
+      "short_title": "云导播台",
+      "description": "云导播台是阿里云提供的直播云端导播服务。能提供预监预看、备播延播、虚拟演播等功能，服务赛事演出、新闻报道、活动直播等场景，灵活接入，无需硬件",
+      "keywords": "云导播台,导播,实时字幕,延时直播,图文包装,无需硬件",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "大数据计算",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/lowlatencylive",
+      "title": "超低延时直播 RTS_视频直播_赛事直播_视频云",
+      "short_title": "超低延时直播 RTS",
+      "description": "超低延时直播是一款超低延时、高并发、低卡顿的视频直播产品，它将延时从标准视频直播降低至毫秒级别，且提供更强的抗丢包能力，适用于对网络延时要求高、互动性强的直播场景。",
+      "keywords": "超低延时直播 RTS,视频直播,赛事直播,视频云,慢直播,快直播,超低延时直播",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "大数据计算",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/apsaravideo/vs",
+      "title": "视图计算VEC - AI智能视频监控系统 - 摄像头上云 - 视频服务",
+      "short_title": "视图计算 VEC",
+      "description": "视图计算VEC是依托阿里云边缘节点打造的云PAAS服务，提供低延时、高效率的视图AI计算与云存储能力，助您提升数据处理效率，加速视图场景的业务创新。",
+      "keywords": "了解视图计算产品,视图计算产品介绍,视图计算产品优势,视图计算产品功能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "操作系统",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/arms",
+      "title": "应用实时监控服务ARMS - 全栈性能观测与智能诊断平台",
+      "short_title": "一站式应用性能观测平台应用实时监控服务 ARMS全栈采集、全链路监控与诊断，高效定位故障根因与性能瓶颈",
+      "description": "阿里云应用实时监控服务ARMS提供一站式应用性能观测解决方案，覆盖Web、小程序、移动端及Java/Golang/Python等服务端应用。具备全链路监控、智能告警收敛、开源兼容等核心能力，有效提升故障定位效率。通过Gartner认证的可观测平台。",
+      "keywords": "应用性能监控,全链路追踪,智能告警,开源兼容,可观测平台,阿里云ARMS",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "日志管理",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/arms/tech-solution",
+      "title": "应用实时监控服务ARMS - 全栈性能观测与智能诊断平台",
+      "short_title": "技术解决方案",
+      "description": "阿里云应用实时监控服务ARMS提供一站式应用性能观测解决方案，覆盖Web、小程序、移动端及Java/Golang/Python等服务端应用。具备全链路监控、智能告警收敛、开源兼容等核心能力，有效提升故障定位效率。通过Gartner认证的可观测平台。",
+      "keywords": "应用性能监控,全链路追踪,智能告警,开源兼容,可观测平台,阿里云ARMS",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "云消息队列",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bailian",
+      "title": "大模型服务平台百炼 - 大模型应用构建",
+      "short_title": "阿里云百炼，企业级模型服务和应用开发",
+      "description": "大模型服务平台百炼是企业级的大模型应用开发平台，一站式提供丰富的通义大模型与灵活的智能应用开发工具，助力企业快速落地AI应用，加速业务创新。",
+      "keywords": "了解阿里云百炼,查看百炼应用场景,阿里云百炼产品介绍,阿里云百炼产品优势",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "",
+      "category_l2": "模型推理与调用"
+    },
+    {
+      "url": "https://www.aliyun.com/product/bailian/tech-solution",
+      "title": "大模型服务平台百炼 应用场景和技术解决方案_企业级大模型开发平台",
+      "short_title": "技术解决方案",
+      "description": "阿里云百炼大模型服务平台AI大模型应用解决方案，助力企业快速调用大模型服务，通过灵活易用的应用工具组件搭建AI agent应用，可将大模型快速接入落地到企业系统或业务中，提升企业对接大模型的效率，极大降低接入成本。",
+      "keywords": "大模型服务平台百炼,企业级大模型开发平台,AI解决方案,ai内容创作,模型部署,大模型应用场景,大模型RAG",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "人工智能平台",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bastionhost",
+      "title": "堡垒机 - 统一运维安全通道与实时操作审计解决方案",
+      "short_title": "运维安全中心（堡垒机）",
+      "description": "阿里云堡垒机提供云上统一安全运维通道，支持资产权限集中管理、操作行为全程监控与审计、高危风险实时阻断，保障运维身份可鉴别、权限可管控。助力企业实现高效、安全的云端运维管理，满足等保合规要求。",
+      "keywords": "堡垒机, 运维安全中心, 云安全运维, 操作行为审计, 等保合规",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "数据安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bdrc",
+      "title": "数据灾备中心_数据灾备管理平台_云上数据保护管理_存储",
+      "short_title": "数据灾备中心 BDRC",
+      "description": "数据灾备中心BDRC（Backup and Disaster Recovery Center）是阿里云存储下的企业灾备管理服务，通过智能巡检，发现云上数据资源，展示数据资源保护状态并建议修复方案，使用策略中心对数据资源进行集中化管理，同时提供定制化报表， 帮助客户简单、高效地实现数据灾备及合规管理。",
+      "keywords": "数据灾备中心,数据灾备管理平台,云上数据保护管理,存储,数据保护,大数据管理,企业灾备管理服务",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "基础存储服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/airec",
+      "title": "智能推荐 AIRec - 大数据人工智能技术个性化推荐",
+      "short_title": "",
+      "description": "智能推荐 AIRec 是阿里云官方个性化推荐服务，基于阿里领先的大数据与AI技术，提供丰富的开箱即用模型与行业模板，满足从快速上线到深度定制的业务需求，显著提升用户粘性与转化效率，驱动业务增长。",
+      "keywords": "了解智能推荐AIRec,查看AIRec应用场景,了解AIRec服务模式,智能推荐AIRec产品介绍,智能推荐AIRec应用场景,智能推荐AIRec服务模式",
+      "image": "https://img.alicdn.com/imgextra/i2/O1CN011Ojxn41awxJXHtoHw_!!6000000003395-0-tps-118-118.jpg",
+      "category_l1": "自然语言处理",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/apsarabigdata",
+      "title": "阿里云大数据AI产品解决方案_模型训练与部署_AI搜索_大数据上云",
+      "short_title": "",
+      "description": "阿里云大数据 AI 平台为用户提供大数据上云、大数据处理分析、AI 搜索、模型训练与部署等 Data+AI 的一站式服务体系。",
+      "keywords": "AI,人工智能,Qwen3,DeepSeek,数据处理,数据分析,,搜索",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "数据库",
+      "category_l2": "数据应用与可视化"
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/bigdatacst",
+      "title": "大数据专家服务 - AI算法建模咨询 - 运维调优 - 大数据",
+      "short_title": "大数据专家服务",
+      "description": "大数据专家服务是阿里云顶尖专家提供的全方位服务，提供从架构咨询、方案验证到运维保障的一站式支持，助您构建并优化大数据体系，加速业务创新与增长。",
+      "keywords": "了解大数据专家服务,购买大数据专家服务,大数据专家服务介绍,大数据专家服务功能,大数据专家服务优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "数据库",
+      "category_l2": "数据计算与分析"
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/datahub",
+      "title": "数据总线Datahub - 流式大数据实时处理 - 数据发布与订阅 - 实时数仓",
+      "short_title": "数据总线",
+      "description": "数据总线是阿里云提供的流式数据服务，支持多源异构数据实时发布与订阅，并无缝对接大数据系统进行分析，助您释放数据价值，加速业务创新。",
+      "keywords": "了解数据总线产品,查看数据总线场景,评估数据总线优势,数据总线产品介绍,数据总线应用场景,数据总线产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "数据库",
+      "category_l2": "数据计算与分析"
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/dataphin",
+      "title": "智能数据建设与治理 Dataphin - 构建标准化数据资产体系",
+      "short_title": "智能数据建设与治理 Dataphin",
+      "description": "智能数据建设与治理Dataphin，提供一站式全链路Data x AI服务，通过可视化建模与自动化开发，高效构建标准化、高质量的数据资产体系，加速释放数据价值，驱动业务创新。",
+      "keywords": "了解Dataphin产品,了解Dataphin功能,了解Dataphin优势,Dataphin产品介绍,Dataphin功能特性,Dataphin产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "数据库",
+      "category_l2": "数据计算与分析"
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/datav",
+      "title": "数据可视化DataV - 数据分析工具 - 双十一数据可视化 - 三维可视化",
+      "short_title": "DataV数据可视化",
+      "description": "DataV数据可视化是阿里云一站式数据可视化应用搭建平台，提供丰富的组件与AI能力，通过拖拽即可轻松构建专业数据大屏、数字孪生等应用，助您将复杂数据转化为商业洞察，驱动业务创新。",
+      "keywords": "了解DataV产品,了解DataV应用场景,对比DataV产品版本,DataV产品介绍,DataV核心产品,DataV产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "数据库",
+      "category_l2": "数据开发与管理"
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/dlf",
+      "title": "数据湖构建 Data Lake Formation - 统一湖仓元数据存储权限管理",
+      "short_title": "数据湖构建 DataLake FormationData+AI驱动的智能全模态湖仓管理平台",
+      "description": "阿里云数据湖构建(DLF)是全托管的湖仓管理平台，通过统一元数据与智能优化，显著降低存储成本、提升查询性能，助您简化运维，加速业务创新与数据洞察。",
+      "keywords": "了解数据湖构建DLF,了解DLF产品优势,数据湖构建DLF产品简介,数据湖构建DLF产品优势",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网站性能优化",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/elasticsearch",
+      "title": "Elasticsearch - 全托管云搜索 - 兼容开源ELK - 智能化运维 - AI搜索 - 大数据",
+      "short_title": "检索分析服务 Elasticsearch 版",
+      "description": "检索分析服务 Elasticsearch 版是全托管的智能检索与分析引擎，无缝集成大语言模型，支持向量与语义搜索，提供超越开源的企业级安全与更高性价比，助您轻松构建AI搜索应用，加速数据洞察与业务创新。",
+      "keywords": "了解ES服务,查看ES服务功能,评估ES服务成本,ES服务产品介绍,ES服务应用场景,ES服务功能对比",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN01j6s0at1z22UHpjSWR_!!6000000006655-2-tps-1440-1440.png",
+      "category_l1": "数据库",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/learn",
+      "title": "人工智能平台PAI - 企业级AI开发平台 - 支持Qwen3一键部署",
+      "short_title": "人工智能平台 PAI企业级AI开发平台最新支持Qwen3全系列模型一键部署，帮助企业快速构建AI应用",
+      "description": "阿里云人工智能平台PAI提供全链路AI开发服务，支持Qwen3全系列模型一键部署，覆盖模型训练、推理优化全生命周期。内置140+优化算法，提供高性能TorchAcc训练框架和BladeLLM推理优化，助力企业快速构建AI应用。",
+      "keywords": "人工智能平台PAI,AI开发平台,Qwen3模型部署,机器学习平台,阿里云AI,模型训练,推理优化",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "",
+      "category_l2": "模型推理与调用"
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/learn/eas",
+      "title": "模型在线服务 PAI-EAS - 将模型部署为在线推理",
+      "short_title": "",
+      "description": "模型在线服务 PAI-EAS，将AI模型一键部署为高可用在线服务。它支持弹性伸缩与异构硬件，具备全周期运维能力，助您降本增效，加速AI应用创新落地。",
+      "keywords": "了解PAI-EAS产品,查询PAI-EAS优势,查询PAI-EAS功能,PAI-EAS产品介绍,PAI-EAS产品优势,PAI-EAS产品功能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "",
+      "category_l2": "模型推理与调用"
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/learn/itag",
+      "title": "智能数据标注 PAI-iTAG - 智能化多类型数据标注平台",
+      "short_title": "",
+      "description": "智能数据标注 PAI-iTAG 是一款专业的智能化数据标注平台，支持图像、文本、音视频等多模态数据，内置智能预标注工具与精细化任务管理，助您高效获取高质量训练数据，加速AI应用落地。",
+      "keywords": "了解PAI-iTAG产品,评估PAI-iTAG价值,PAI-iTAG产品介绍,PAI-iTAG产品功能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "政企业务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/bigdata/learn/pailingjun",
+      "title": "AI工程化全流程融合智算平台 - 智算服务 PAI - 灵骏",
+      "short_title": "",
+      "description": "智算服务 PAI-灵骏是面向大规模AI的高性能智算服务，具备软硬一体的高性能算力与AI工程化能力，助您攻克大模型等复杂计算挑战，加速业务创新。",
+      "keywords": "了解PAI-灵骏,查询PAI-灵骏功能,PAI-灵骏产品介绍,PAI-灵骏产品优势,PAI-灵骏应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "政企业务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cap",
+      "title": "云原生应用开发平台 CAP_云应用开发平台_云上应用开发_Serverless",
+      "short_title": "云原生应用开发平台 CAP",
+      "description": "阿里云云原生应用开发平台 CAP 是一站式云应用托管平台，内置丰富的 Serverless + AI 应用模板，帮助用户快速构建云上应用并且持续迭代，大幅提升研发、部署、运维效能。",
+      "keywords": "云原生应用开发平台 CAP,云应用开发平台,云上应用开发,Serverless,应用开发,项目管理,开发工具",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "计算",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cas",
+      "title": "数字证书管理服务（原SSL证书） - SSL证书自动化云部署、安全加密与多云支持",
+      "short_title": "数字证书管理服务（原SSL证书）",
+      "description": "阿里云数字证书管理服务提供SSL证书全生命周期管理，支持自动化云部署、安全认证与多云平台兼容。具备签发服务器及终端证书能力，实现数据传输加密，适用于网站、APP、小程序及物联网场景。保障最长3年订阅服务。",
+      "keywords": "SSL证书, 数字证书管理, 云上自动化部署, 安全加密, 多云平台支持",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "",
+      "category_l2": "模型应用与工具"
+    },
+    {
+      "url": "https://www.aliyun.com/product/cbn",
+      "title": "云企业网CEN - 企业级云上网络 - 跨地域网络互联 - 网络",
+      "short_title": "云企业网 CEN",
+      "description": "云企业网CEN是阿里云的企业级全球网络服务，助您快速构建安全可靠、低时延的全球网络，实现VPC与线下IDC高效互联，轻松应对复杂组网挑战，提升运维效率。",
+      "keywords": "了解云企业网,查询云企业网价格,开通云企业网,云企业网产品介绍,云企业网功能优势,云企业网应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "网站搭建",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cbwp",
+      "title": "共享带宽 - 弹性带宽 - 95计费 - VPC",
+      "short_title": "共享带宽",
+      "description": "阿里云共享带宽提供地域级带宽共享与复用功能，通过带宽复用与灵活计费模式，从容应对业务流量高峰，显著降低公网带宽成本，提升运维效率。",
+      "keywords": "了解共享带宽,购买共享带宽,共享带宽产品介绍,共享带宽优势,共享带宽应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "存储",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ccc",
+      "title": "云联络中心 - 整体的企业智能化客服平台",
+      "short_title": "云联络中心",
+      "description": "云联络中心是阿里云为企业打造的一站式智能客服平台，能无缝整合电话、网站、APP等全渠道，并以AI能力升级数字员工与智能辅助体系，全面提高服务效率与客户满意度，助您加速业务创新。",
+      "keywords": "了解云联络中心,购买云联络中心,体验云联络中心,云联络中心产品介绍,云联络中心产品功能,云联络中心产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "行业智能",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cdn",
+      "title": "CDN全球加速服务 - 智能调度与安全合规",
+      "short_title": "高性能，高可靠的内容分发网络 CDN智能调度，全球加速，零门槛部署，敏捷接入",
+      "description": "阿里云CDN提供全球3200+节点智能调度加速服务，支持HTTP/3协议与边缘缓存技术，150Tbps弹性带宽应对流量波动，符合等保三级认证，助力企业降低带宽成本30%以上，实现99.995%服务可用性。",
+      "keywords": "CDN全球加速,智能调度边缘缓存,HTTPS/3支持,安全合规认证,阿里云CDN",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "搜索与推荐",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cdp",
+      "title": "数据集成 Data Integration_DataX_ETL_大数据",
+      "short_title": "",
+      "description": "阿里云数据集成 Data Integration是跨异构数据、低成本、弹性扩展的数据采集同步平台，为DataX的商业版，支持ETL，支持50+数据源跨网络离线(全量/增量)同步。",
+      "keywords": "数据集成 Data Integration,DataX,ETL,大数据,StreamX,数据采集,分库分表",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "数据库",
+      "category_l2": "数据计算与分析"
+    },
+    {
+      "url": "https://www.aliyun.com/product/cfw",
+      "title": "云防火墙 - 云原生边界安全防护与等保合规",
+      "short_title": "高性价比、稳定安全可靠的云防火墙产品即开即用、一键防御，是您的网络边界安全与等保合规利器",
+      "description": "阿里云云防火墙是您业务上云的第一道网络防线，提供即开即用的入侵防护与深度威胁防御能力，轻松满足等保合规要求，为您的业务保驾护航。",
+      "keywords": "了解云防火墙产品,评估云防火墙优势,查看云防火墙场景,云防火墙产品介绍,云防火墙产品优势,云防火墙应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "数据安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cityvisual",
+      "title": "城市视觉智能引擎-城市大脑-全国首批人工智能开放创新平台",
+      "short_title": "城市视觉智能引擎",
+      "description": "阿里云城市视觉智能引擎(City Visual Intelligence Engine) 依托于阿里云分布式计算和存储平台，利用先进的视频图像、图形学处理技术和深度学习算法，建立城市级人工智能模型，实现对整个城市视觉数据(枪机、球机等摄像头数据以及遥感、卫星、无人机采集的图像数据)的接入、计算、分析、索引和挖掘，并赋能公共安全、交通、市政综治、商业、司法、园区、电力能源、医疗教育等各个行业场景。城市视觉智能引擎可以打通并连接散落在城市各个单元的视觉数据资源，让图像、视频帮助城市来做思考、决策和运营，从而整体提升城市运行效率。",
+      "keywords": "城市大脑,视觉智能,大规模视觉计算平台,智慧城市,智能安防,智慧交通,智慧应急,城市管理,智慧住建",
+      "image": "",
+      "category_l1": "AI应用",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloud-backup",
+      "title": "云备份Cloud Backup - 阿里云统一灾备平台，高效安全的数据保护方案",
+      "short_title": "统一高效、安全可靠、简单易用的云备份服务让数据保护更轻松，让合规无忧，让业务永续",
+      "description": "阿里云云备份(Cloud Backup)提供ECS整机、数据库、文件系统等全方位备份容灾服务，支持源端重删压缩、AES-256加密，节约80%以上TCO。实现跨地域容灾、VMware无代理迁云等企业级数据保护需求。",
+      "keywords": "云备份,数据灾备,阿里云备份,ECS备份,跨地域容灾,VMware迁移,数据归档",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "基础存储服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloud-phone",
+      "title": "无影云手机 - 虚拟手机 - 云端安卓 - 计算",
+      "short_title": "无影云手机是集成AI Agent的虚拟手机提供安全、稳定、弹性和流畅的安卓应用运行环境",
+      "description": "无影云手机是一台运行在云端的虚拟手机，利用ARM虚拟化技术，为用户在云端构建一个安卓应用平台，可广泛应用于云游戏，移动办公等场景。",
+      "keywords": "无影云手机,虚拟手机,云端安卓,通义,AI agent,agentbay,智能助理,AI 云手机,跨境营销,私域",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "高性能计算",
+      "category_l2": "Serverless"
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloudcomm/cams",
+      "title": "Chat App 消息服务 - WhatsApp Business API 官方服务商",
+      "short_title": "Chat App消息服务企业级 WhatsApp 官方解决方案快速接入 Business API，实现OTP、通知、营销消息触达",
+      "description": "阿里云Chat App是Meta官方认证的 WhatsApp Business API 服务商。支持OTP验证、营销推送、智能客服，一键接入 WhatsApp、Messenger等全球通道，立即申请免费试用",
+      "keywords": "阿里云Chat App, WhatsApp business API, WhatsApp商业API解决方案, WhatsApp自动回复, WhatsApp API 集成, WhatsApp群发, WhatsApp BSP",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "企业云服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloudcomm/dypns",
+      "title": "号码认证服务 - 一键登录与短信认证解决方案",
+      "short_title": "号码认证服务",
+      "description": "阿里云号码认证服务提供一键登录、短信认证和图形人机识别功能，直连三大运营商。支持 App/H5/小程序多端接入，安全防刷，支持融合认证，提升注册/登录转化。",
+      "keywords": "号码认证,一键登录,本机号码校验,短信认证,图形认证,融合认证,阿里云认证服务,防盗刷,手机号验证",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "企业云服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloudcomm/dytns",
+      "title": "号码百科 - 号码信息服务 - 号码归属地查询 - 云通信",
+      "short_title": "号码百科",
+      "description": "号码百科是阿里云权威的一站式号码信息服务，提供号码状态查询、身份核验与归属地查询，助力企业降低风控成本，提升营销与运营效率。",
+      "keywords": "了解号码百科产品,查看号码百科功能,了解号码百科场景,号码百科产品介绍,号码百科应用场景,号码百科产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "企业云服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloudcomm/snsu",
+      "title": "边缘网络加速ENA - 加速上云 - 网络加速 - 边缘网络 - 边缘云",
+      "short_title": "边缘网络加速",
+      "description": "边缘网络加速是阿里云为企业构建的安全可靠的端到端快速连接服务，支持分支机构、数据中心及多云环境的灵活组网与高速安全互联，全面提升企业网络质量与业务敏捷性，加速数字化业务创新。",
+      "keywords": "了解边缘网络加速,查看边缘网络加速场景,边缘网络加速介绍,边缘网络加速优势,边缘网络加速应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1cJxfl5pE_u4jSZKbXXbCUVXa-3840-740.jpg",
+      "category_l1": "操作系统",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cloudsiem",
+      "title": "Agentic 安全运营中心 - Agentic AI安全运营平台",
+      "short_title": "Agentic 安全运营中心",
+      "description": "Agentic 安全运营中心以Agentic AI为核心引擎，提供自动感知、深度推理、协同调查与快速响应闭环能力。支持智能化威胁检测、自动化事件处置及多智能体协同运营，显著提升云上安全运营效率。",
+      "keywords": "Agentic 安全运营中心,Agentic SOC,云安全运营平台,阿里云安全,威胁检测与响应",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网络与CDN",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cmh",
+      "title": "云迁移中心CMH - 一站式云迁移平台",
+      "short_title": "云迁移中心",
+      "description": "阿里云云迁移中心(CMH)提供一站式云迁移解决方案，支持多源适配、数据安全、全生命周期管理。基于迁云最佳实践，实现系统调研、云上规划、迁移管理全流程自动化，大幅提升迁移效率并降低风险。",
+      "keywords": "云迁移中心,阿里云迁移,云迁移解决方案,数据迁移,系统迁移,云迁移平台,CMH",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "云管理",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cms",
+      "title": "云监控 - AI 驱动的一站式可观测平台",
+      "short_title": "AI 驱动的一站式可观测平台云监控 2.0融合指标、日志、链路与事件，实现全栈观测与跨域智能洞察",
+      "description": "云监控是阿里云AI驱动的一站式可观测平台，深度融合指标、日志与链路等全栈数据，提供AI智能诊断与自动化根因定位能力，助您显著提升故障排查效率与业务稳定性。",
+      "keywords": "了解云监控2.0,了解云监控2.0功能,了解云监控2.0优势,云监控2.0产品介绍,云监控2.0产品优势,云监控2.0产品功能",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "应用监控",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/codestore",
+      "title": "机器人流程自动化RPA - 数字员工 - Computer Use Agent自动化工具",
+      "short_title": "机器人流程自动化 RPA",
+      "description": "阿里云RPA是自动化操作电脑和移动端的工具，能够帮助企业打造生产可用的Computer Use Agent，成倍提升企业运营效率。产品诞生于2011年（原码栈），已经广泛应用在零售、政务、制造、银行、保险、金融、医疗、互联网、教育等行业。",
+      "keywords": "RPA,数字员工,Computer Use,Browser Use,浏览器自动化,移动端自动化,电脑自动化,AI Agent",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "媒体服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/computenest",
+      "title": "计算巢服务 - 软件云化交付部署管控",
+      "short_title": "计算巢服务",
+      "description": "阿里云计算巢服务是一个面向ISV、SI、MSP和开发者的云集成PaaS平台，方便服务商更好的将产品、服务集成，借助云原生的能力提升软件服务交付、部署及后续管理。",
+      "keywords": "了解计算巢服务,评估计算巢服务优势,查询计算巢服务定价,计算巢服务产品介绍,计算巢服务核心功能,计算巢服务解决方案",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "智能客服",
+      "category_l2": "人工智能与机器学习"
+    },
+    {
+      "url": "https://www.aliyun.com/product/containersec",
+      "title": "容器安全_云原生安全_应用防护_安全",
+      "short_title": "容器安全",
+      "description": "阿里云容器安全，为云原生安全容器化环境提供全链路的容器生命周期产品解决方案和安全应用防护能力，针对容器运行时威胁检测与防御，帮助企业构建容器化应用安全体系。",
+      "keywords": "容器安全,云原生安全,应用防护,安全,容器签名,镜像安全扫描,容器文件防御",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网络与CDN",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/content-moderation/guardrail",
+      "title": "AI 安全护栏 - AI 应用内容合规检测与防护",
+      "short_title": "AI 安全护栏",
+      "description": "AI安全护栏是为大模型及AI应用打造的一站式安全服务，能精准检测并深度防护内容风险、提示词攻击等威胁，助力构建安全、可信、负责任的AI应用体系。",
+      "keywords": "了解AI安全护栏,接入AI安全护栏,查询AI安全护栏计费,AI安全护栏产品介绍,AI安全护栏产品功能,AI安全护栏计费说明",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "身份安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cs/servicemesh",
+      "title": "服务网格 ASM - 异构应用服务的统一流量治理",
+      "short_title": "服务网格 ASM",
+      "description": "服务网格 ASM 是托管式服务治理平台，无侵入地统一管理跨集群、多环境应用，提供精细化流量控制与可观测性，助您简化服务治理，全面提升开发与运维效率。",
+      "keywords": "了解服务网格ASM,查看ASM应用场景,服务网格ASM产品介绍,服务网格ASM产品功能,服务网格ASM产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "计算",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/cspm",
+      "title": "云安全态势管理_CSPM_数据安全_安全",
+      "short_title": "云安全态势管理",
+      "description": "阿里云云安全态势管理（CSPM）从身份权限，云产品最佳安全实践，合规检测三个场景实现对云平台配置风险的识别，为30+种云产品提供多维度数据安全检测，助力客户进行合规建设。",
+      "keywords": "云安全态势管理,CSPM,数据安全,安全,身份认证,日志审计,权限管理",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网络与CDN",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/dbaudit",
+      "title": "数据库审计 - 数据库访问行为审计监控",
+      "short_title": "数据库审计",
+      "description": "数据库审计是阿里云提供的智能安全审计服务，能够细粒度追溯所有数据库访问行为，实时告警SQL注入等高危风险，并提供专业报表满足等保2.0合规要求。助您全面保障核心数据资产安全。",
+      "keywords": "了解数据库审计产品,查询数据库审计功能,查看数据库审计优势,数据库审计产品介绍,数据库审计产品功能,数据库审计产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/atp",
+      "title": "应用诊断分析平台 - 诊断分析 - Java问题 - 开发运维",
+      "short_title": "应用诊断分析平台 ATP",
+      "description": "应用诊断分析平台ATP提供完备的诊断能力，高效定位应用性能与内存泄漏等问题。支持对Java堆、线程与GC日志的智能分析，深入洞察性能瓶颈，助您提升应用稳定性与排障效率。",
+      "keywords": "了解应用诊断分析平台,了解ATP产品功能,ATP产品介绍,ATP产品功能,ATP产品优势",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN01CS6Oa51yROx8zaBqB_!!6000000006575-1-tps-750-890.gif",
+      "category_l1": "开发工具",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/cadt",
+      "title": "云速搭 CADT - 应用云上架构全生命周期管理",
+      "short_title": "云速搭 CADT",
+      "description": "云速搭 CADT 是一款自助式云架构管理产品，可显著降低上云难度。提供丰富模板与拖拽式设计，支持一键部署与全生命周期管理，助您全面提升部署与运维效率。",
+      "keywords": "了解云速搭CADT,查看CADT产品功能,查看CADT应用场景,云速搭CADT产品介绍,云速搭CADT产品功能,云速搭CADT应用场景",
+      "image": "https://img.alicdn.com/imgextra/i3/O1CN01ZUicfX1gk1sdEOYVU_!!6000000004179-2-tps-176-128.png",
+      "category_l1": "运维与监控",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/cloudcontrol",
+      "title": "云控制API_云API_云控_开发与运维",
+      "short_title": "",
+      "description": "云控制API（CloudControl API）是基于阿里云API的一款免费开发者工具，能够让开发者以面向对象的云API开发方式集成阿里云，通过免费的5个资源化API和一套SDK完成持续集成。",
+      "keywords": "云控制API,云API,云控,开发与运维,面向对象,api,阿里云sdk",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "应用集成",
+      "category_l2": "Serverless"
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/cloudshell",
+      "title": "云命令行 - 通过网页命令行管理阿里云资源",
+      "short_title": "云命令行",
+      "description": "云命令行是阿里云提供的网页版命令行工具，让您通过浏览器安全、便捷地管理云资源。它即开即用，内置丰富的云管理与系统工具，助您大幅提升云上运维与开发效率。",
+      "keywords": "了解云命令行,评估云命令行,云命令行产品介绍,云命令行产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "应用集成",
+      "category_l2": "Serverless"
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/cmn",
+      "title": "云网管 - 网络监控巡检 - 网络运维管理",
+      "short_title": "",
+      "description": "云网管是阿里云打造的智能网络运维管理平台，支持跨厂商设备统一纳管与自动化运维，提供全景可视化监控，助您实现高效、透明的网络管理，全面降低运维成本与复杂度。",
+      "keywords": "了解云网管产品,了解云网管功能,开通云网管服务,云网管产品介绍,云网管产品功能,云网管应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "开发工具",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/config",
+      "title": "配置审计 - 配置历史查询 - 合规管理",
+      "short_title": "",
+      "description": "配置审计是企业级的云上IT治理服务，可整合全局资源、记录配置历史，并持续自动化评估资源合规性，支持等保2.0预检，助您轻松构建高效、可持续的云上合规与治理体系。",
+      "keywords": "了解配置审计,评估配置审计优势,查看配置审计场景,配置审计产品介绍,配置审计产品功能,配置审计应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "应用架构",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/gemp",
+      "title": "运维事件中心 - 多监控系统集成与报警降噪",
+      "short_title": "",
+      "description": "运维事件中心是保障企业业务连续性的一站式运营管理平台，提供强大的报警降噪与故障闭环管理能力，助您缩短故障时长，全面提升运维效率与业务稳定性。",
+      "keywords": "了解运维事件中心,查询运维事件中心功能,运维事件中心产品介绍,运维事件中心产品功能,运维事件中心产品优势",
+      "image": "https://img.alicdn.com/imgextra/i2/O1CN01tNi0Yk23nRyGzF12i_!!6000000007300-2-tps-1024-1024.png",
+      "category_l1": "开发工具",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/governance",
+      "title": "云治理中心_LandingZone_企业上云_开发与运维",
+      "short_title": "云治理中心",
+      "description": "阿里云云治理中心是企业多账号环境集中治理和管理的平台。帮助企业根据最佳实践设置Landing Zone多账号环境，设定基线对企业云上环境进行持续治理和管理。",
+      "keywords": "云治理中心,Landing zone,企业上云,多账号,合规基线",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云资源监控",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/openapiexplorer",
+      "title": "OpenAPI Explorer - 在线API检索调试集成能力",
+      "short_title": "OpenAPI Explorer",
+      "description": "OpenAPI Explorer是阿里云官方API集成中心，提供一站式API探索、调试与集成能力。支持可视化调试API、自动生成多语言SDK代码，全面提升您的API集成与开发效率，加速业务创新。",
+      "keywords": "了解OpenAPI Explorer,调试阿里云API,生成SDK调用示例,OpenAPI Explorer功能,OpenAPI Explorer优势,OpenAPI Explorer应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "应用集成",
+      "category_l2": "Serverless"
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/prometheus",
+      "title": "可观测监控 Prometheus 版 - 云服务监控 - 应用组件监控 - 容器监控",
+      "short_title": "可观测监控 Prometheus 版",
+      "description": "可观测监控 Prometheus 版是兼容开源生态的云原生指标监控平台，支持对容器、云服务及业务应用进行全栈式、高性能的指标监控，助您显著降低运维成本，全面提升系统稳定性与运维效率。",
+      "keywords": "了解Prometheus版产品,查看Prometheus版场景,对比自建Prometheus,Prometheus版产品优势,Prometheus版产品功能,Prometheus版应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云消息队列",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/quotas",
+      "title": "配额中心_qouta_配额调整_开发与运维",
+      "short_title": "配额中心",
+      "description": "配额中心是阿里云提供的集中查看和管理用户云产品配额的服务。用户通过使用配额中心可以查询每个云产品的配额限制，也可以根据业务的需要在线调整用户的配额。",
+      "keywords": "配额中心,quota,资源配额,限流,开发与运维,阿里云配额,调整配额",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "运维与监控",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/developerservices/xtrace",
+      "title": "可观测链路 OpenTelemetry 版 - 分布式全链路追踪 - 全链路监控 - 容器与中间件",
+      "short_title": "可观测链路 OpenTelemetry 版",
+      "description": "可观测链路 OpenTelemetry 版提供基于开源标准的全链路追踪与应用监控服务，支持多语言应用快速接入，精准定位性能瓶颈与错慢调用根因，还原完整调用拓扑，全面提升您在分布式架构下的开发与诊断效率。",
+      "keywords": "了解可观测链路OTel版,评估可观测链路OTel版,可观测链路OTel版介绍,可观测链路OTel版优势,可观测链路OTel版功能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "日志管理",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/dide",
+      "title": "大数据开发治理平台DataWorks - 大数据ETL - 全链路数据开发治理平台 - 大数据计算",
+      "short_title": "一站式智能大数据开发治理平台 DataWorks全新发布 Agent，支持自动化数据开发、自主式数据治理与对话式数据分析",
+      "description": "大数据开发治理平台 DataWorks是阿里云权威的一站式智能数据平台，提供从数据集成、AI开发到资产治理的全链路服务，助您高效构建企业级数据中台，加速业务创新与价值释放。",
+      "keywords": "了解DataWorks产品,评估DataWorks优势,试用DataWorks产品,DataWorks产品介绍,DataWorks产品优势,DataWorks安全合规",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "数据库",
+      "category_l2": "数据计算与分析"
+    },
+    {
+      "url": "https://www.aliyun.com/product/directmail",
+      "title": "邮件推送 - 高性能邮件群发服务",
+      "short_title": "邮件推送",
+      "description": "阿里云邮件推送是款简单高效的电子邮件群发服务，历经双11考验，无需自建服务器即享高稳定、高到达率的投递体验，助您轻松开展邮件营销与事务通知，实现降本增效。",
+      "keywords": "了解邮件推送产品,评估邮件推送优势,邮件推送产品介绍,邮件推送产品功能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云通信",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/disk",
+      "title": "块存储EBS - 企业级ESSD云盘 - 云服务器存储 - 存储",
+      "short_title": "块存储 EBS",
+      "description": "块存储EBS是为云服务器ECS提供的高可靠、高性能块存储服务，支持极致性能、弹性扩展与数据安全加密，为企业核心应用提供稳定支撑，加速业务创新。",
+      "keywords": "了解块存储EBS,选型块存储EBS,查看EBS应用场景,块存储EBS产品介绍,块存储EBS产品优势,块存储EBS应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "应用安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/dms",
+      "title": "数据管理 DMS - Data+AI全生命周期数据管理",
+      "short_title": "Data+AI 数据管理服务 DMS助您高效、安全地挖掘数据价值，以数据驱动决策与创新",
+      "description": "阿里云数据管理DMS提供Data+AI全链路协同开发能力，支持智能分布式数据管理、跨云元数据治理及全生命周期安全合规。Gartner连续6年云数据库领导者，助力企业高效挖掘数据价值。",
+      "keywords": "数据管理 DMS,Data+AI全生命周期管理,智能分布式数据管理,数据安全合规,Gartner云数据库领导者",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "数据仓库",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/dns",
+      "title": "云解析DNS - 企业级域名解析服务与解决方案",
+      "short_title": "稳定、安全、快速、可扩展的云解析 DNS递归到权威全链路、云端一体全自研DNS解析服务",
+      "description": "云解析DNS是稳定、安全、快速的域名解析服务，支持公网、内网及混合云等全场景，提供智能诊断与全链路安全防护，保障业务高可用，全面提升运维效率。",
+      "keywords": "了解云解析DNS,评估云解析DNS,查看云解析DNS场景,云解析DNS产品介绍,云解析DNS产品优势,云解析DNS应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "",
+      "category_l2": "模型应用与工具"
+    },
+    {
+      "url": "https://www.aliyun.com/product/dragonwell",
+      "title": "Dragonwell - 优化的生产就绪型OpenJDK发行版",
+      "short_title": "Dragonwell",
+      "description": "Alibaba Dragonwell是免费的生产就绪型OpenJDK发行版，专为云环境深度优化，提供极致性能与企业级稳定性，助您全面提升Java应用的开发与运维效率。",
+      "keywords": "了解Dragonwell产品,快速入门Dragonwell,Dragonwell产品简介,Dragonwell入门与试用,Dragonwell常见问题",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "应用集成",
+      "category_l2": "Serverless"
+    },
+    {
+      "url": "https://www.aliyun.com/product/dts",
+      "title": "数据传输服务DTS - 数据库迁移与实时同步解决方案",
+      "short_title": "稳定安全可靠的数据传输服务 DTS集数据迁移、增量数据实时订阅及数据实时同步于一体",
+      "description": "数据传输服务DTS是稳定可靠的实时数据流服务，集数据迁移、同步与订阅于一体，支持跨地域容灾多活与AI数据准备，助您构建安全高可用的数据架构，加速业务创新。",
+      "keywords": "了解数据传输服务DTS,了解DTS产品优势,DTS产品介绍,DTS产品优势",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网站性能优化",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ebm",
+      "title": "弹性裸金属服务器 - 物理机级别的弹性计算",
+      "short_title": "",
+      "description": "弹性裸金属服务器是兼具物理机性能与云端弹性的高性能计算服务，独享物理资源实现安全隔离与无损性能，支持分钟级交付，助您轻松应对核心业务挑战，加速创新。",
+      "keywords": "了解裸金属服务器,查询裸金属服务器功能,购买裸金属服务器,裸金属服务器产品介绍,裸金属服务器产品优势,裸金属服务器产品功能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "智能客服",
+      "category_l2": "人工智能与机器学习"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs",
+      "title": "云服务器ECS - 高性能弹性计算服务 - 99.995%可用性保障",
+      "short_title": "安全可靠的云服务器 ECS让您随时获取更强劲、更灵活、更低成本的澎湃算力",
+      "description": "阿里云云服务器ECS提供高性能、弹性扩展的云计算服务，单实例可用性达99.975%，跨可用区实例可用性99.995%。搭载自研CIPU芯片，计算、网络、存储性能业界领先，支持全球29个地域部署。",
+      "keywords": "云服务器ECS,弹性计算服务,高性能云服务器,阿里云CIPU,云计算解决方案",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/alinux",
+      "title": "Alibaba Cloud Linux - Linux服务器操作系统",
+      "short_title": "Alibaba Cloud Linux",
+      "description": "Alibaba Cloud Linux是阿里云官方服务器操作系统，为云上应用提供稳定、安全、高性能的运行环境，专为云服务器ECS深度优化，支持内核热补丁与十年超长维护，助您降低运维成本，从容应对业务挑战。",
+      "keywords": "Alibaba Cloud Linux,认识Alibaba Cloud Linux,试用Alibaba Cloud Linux,了解Alinux产品优势,Alibaba Cloud Linux简介,Alinux产品特性,Alinux技术方案",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "数据迁移",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/appstreaming",
+      "title": "无影云应用 - 应用云化 - 云渲染 - 弹性计算",
+      "short_title": "无影云应用",
+      "description": "无影云应用是一站式应用流化平台，提供安全、高效的应用远程交付能力。支持将Windows等应用快速云化，实现免安装、跨终端即开即用，助您简化应用交付与运维，加速业务数字化转型。",
+      "keywords": "了解无影云应用,评估无影云应用,无影云应用产品介绍,无影云应用产品优势,无影云应用应用场景",
+      "image": "https://img.alicdn.com/imgextra/i4/O1CN01XVyswZ1VFNn61RIci_!!6000000002623-2-tps-1440-1440.png",
+      "category_l1": "高性能计算",
+      "category_l2": "Serverless"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/cloudbox",
+      "title": "阿里云云盒 - 在本地部署运行公共云产品",
+      "short_title": "阿里云云盒",
+      "description": "阿里云云盒是将公共云能力延伸至您本地数据中心的全托管解决方案。它确保数据本地合规，满足低时延需求，并享有一致云体验，助您构建安全敏捷的混合云架构，加速业务创新。",
+      "keywords": "了解阿里云云盒,了解云盒产品优势,查看云盒应用场景,阿里云云盒产品介绍,阿里云云盒产品优势,阿里云云盒应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN01TQDvXN1PsPphSom2a_!!6000000001896-2-tps-200-200.png",
+      "category_l1": "智能客服",
+      "category_l2": "人工智能与机器学习"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/ddh",
+      "title": "专有宿主机 - 独享物理资源，灵活部署ECS解决方案",
+      "short_title": "专有宿主机",
+      "description": "阿里云专有宿主机是为企业用户打造的物理资源独享计算服务，提供极致安全隔离、灵活资源部署与显著的成本优化能力，助您轻松满足合规要求，并全面提升云上业务的稳定性与效率。",
+      "keywords": "了解专有宿主机,购买专有宿主机,专有宿主机产品介绍,专有宿主机应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "智能客服",
+      "category_l2": "人工智能与机器学习"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/eci",
+      "title": "弹性容器实例 - 无需管理服务器的容器服务 - Serverless - 弹性计算",
+      "short_title": "",
+      "description": "阿里云弹性容器实例是一种无需管理服务器的Serverless容器计算服务，支持秒级弹性伸缩与按需付费，无缝兼容Kubernetes，助您聚焦业务创新，显著降低成本与运维复杂度。",
+      "keywords": "了解弹性容器实例,评估弹性容器实例,弹性容器实例产品介绍,弹性容器实例应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "智能客服",
+      "category_l2": "人工智能与机器学习"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/gpu",
+      "title": "GPU云服务器 - 深度优化AI推理算力 弹性扩展",
+      "short_title": "AI时代的GPU云服务器深度优化的GPU算力为模型推理、图形处理提供更强性能支持",
+      "description": "阿里云GPU云服务器提供深度优化的AI推理算力，支持弹性扩展与机密计算。适用于智能驾驶、大模型训练场景，全球28地域部署，通过等保2.0认证，保障数据安全 - 阿里云",
+      "keywords": "GPU云服务器,AI模型训练,弹性扩展,机密计算,大模型推理",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "",
+      "category_l2": "模型推理与调用"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/hosting",
+      "title": "云虚拟主机_虚拟主机_网站托管_企业应用",
+      "short_title": "",
+      "description": "阿里云弹性计算为客户提供快速、稳定且安全的云虚拟主机服务，具备99.999%数据可靠性、BGP8线接入、千兆共享带宽，免费快速备案等产品优势；中国虚拟主机服务开创者！",
+      "keywords": "虚拟主机,云虚拟主机,网站托管,主机托管,国外主机,万网虚机",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "智能客服",
+      "category_l2": "人工智能与机器学习"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/smc",
+      "title": "服务器迁移中心SMC_服务器迁移_上云迁移_弹性计算",
+      "short_title": "服务器迁移中心",
+      "description": "服务器迁移中心（Server Migration Center，简称SMC）是阿里云自主研发的迁移平台。使用SMC迁云工具和迁移服务，可将您的单台或多台迁移源迁移至阿里云。迁移源（或源服务器）概指您的待迁移IDC服务器、虚拟机、其他云平台的云主机或其他类型的服务器。",
+      "keywords": "服务器迁移中心SMC,服务器迁移,上云迁移,迁云工具,迁移服务,数据迁移",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云管理",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/tech-solution",
+      "title": "云服务器ECS - 高性能弹性计算服务 - 99.995%可用性保障",
+      "short_title": "技术解决方案",
+      "description": "阿里云云服务器ECS提供高性能、弹性扩展的云计算服务，单实例可用性达99.975%，跨可用区实例可用性99.995%。搭载自研CIPU芯片，计算、网络、存储性能业界领先，支持全球29个地域部署。",
+      "keywords": "云服务器ECS,弹性计算服务,高性能云服务器,阿里云CIPU,云计算解决方案",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "智能客服",
+      "category_l2": "人工智能与机器学习"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/wtc",
+      "title": "无影终端 - 云电脑 - 安全办公 - 弹性计算",
+      "short_title": "无影终端",
+      "description": "无影终端是专为无影云电脑打造的接入设备，提供高效的云上办公入口。提供盒子、一体机等多种硬件与软件客户端，并支持集中安全管控，助您轻松构建现代化的高效办公体系。",
+      "keywords": "了解无影终端产品,购买无影硬件终端,下载无影软件客户端,无影终端产品介绍,无影硬件终端类型,无影软件客户端列表",
+      "image": "https://img.alicdn.com/imgextra/i4/O1CN01XVyswZ1VFNn61RIci_!!6000000002623-2-tps-1440-1440.png",
+      "category_l1": "高性能计算",
+      "category_l2": "Serverless"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ecs/wuying",
+      "title": "无影 - 云电脑 - 云桌面 - 安全办公 - 弹性计算",
+      "short_title": "无影",
+      "description": "阿里云无影是新一代云电脑服务，提供安全高效的云上办公体验。支持数据云端存储与便捷的统一运维，助企业降本增效，加速数字化办公创新。",
+      "keywords": "了解无影产品,了解无影优势,了解无影解决方案,无影产品介绍,无影产品优势,无影行业解决方案",
+      "image": "https://img.alicdn.com/imgextra/i4/O1CN01XVyswZ1VFNn61RIci_!!6000000002623-2-tps-1440-1440.png",
+      "category_l1": "高性能计算",
+      "category_l2": "Serverless"
+    },
+    {
+      "url": "https://www.aliyun.com/product/edas",
+      "title": "企业级分布式应用服务EDAS - 企业级互联网架构 - PaaS平台 - 容器与中间件",
+      "short_title": "企业级分布式应用服务 EDAS",
+      "description": "企业级分布式应用服务EDAS是一站式应用PaaS平台，提供无侵入的微服务治理与应用全生命周期管理，助力企业平滑升级云原生架构，加速业务创新。",
+      "keywords": "了解EDAS产品,了解EDAS功能,了解EDAS应用场景,EDAS产品介绍,EDAS产品功能,EDAS应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/edse",
+      "title": "无影云电脑企业版 - 安全高效企业云电脑解决方案",
+      "short_title": "无影云电脑企业版",
+      "description": "阿里云无影云电脑企业版提供安全可靠、统一管理的云上电脑服务，支持快速部署、弹性资源调整与灵活访问。适用于办公、教育、协作等场景，具备GPU高性能、AI办公与全链路安全防御。",
+      "keywords": "无影云电脑企业版,企业云电脑解决方案,安全高效云电脑,GPU云电脑,AI办公云电脑,云电脑弹性资源",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "高性能计算",
+      "category_l2": "Serverless"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ehpc",
+      "title": "弹性高性能计算 E-HPC - 一站式高性能计算平台",
+      "short_title": "弹性高性能计算 E-HPC",
+      "description": "弹性高性能计算E-HPC是阿里云提供的一站式高性能计算平台，具备极致弹性伸缩与混合云调度能力，广泛服务于科研、工业制造及影视渲染等领域，助您加速创新，轻松应对海量计算挑战。",
+      "keywords": "了解E-HPC产品,了解E-HPC应用场景,了解E-HPC产品优势,E-HPC产品介绍,E-HPC应用场景,E-HPC产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云服务器",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/eip",
+      "title": "弹性公网IP - 灵活绑定高可用全球加速",
+      "short_title": "弹性公网IP简单易用，按需弹性为云上应用提供优质稳定、安全可靠的互联网访问能力",
+      "description": "弹性公网IP（EIP）是阿里云提供的独立公网IP资源，支持灵活绑定VPC/ECS/NAT/ENI/SLB，具备高可用、低成本及简单易用特性。提供全球动态加速、BYOIP上云及精品线路优化，适用于IDC迁移、跨境业务及游戏直播场景，助力企业高效稳定接入互联网 - 阿里云",
+      "keywords": "弹性公网IP,BYOIP上云,全球动态加速,高可用网络解决方案,Anycast任播技术",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "应用安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/emapreduce",
+      "title": "开源大数据平台 E-MapReduce - 云原生开源大数据平台 - 大数据处理分析服务",
+      "short_title": "开源大数据平台 E-MapReduce弹性稳定、存算分离，帮您快速构建AI时代开源大数据平台底座",
+      "description": "开源大数据平台 E-MapReduce是弹性稳定的云原生大数据平台，可分钟级构建、弹性伸缩与存算分离，全面兼容开源社区，助您构建高效经济的大数据平台，提升业务创新速度。",
+      "keywords": "了解E-MapReduce产品,评估E-MapReduce优势,E-MapReduce产品介绍,E-MapReduce产品优势",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网站性能优化",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/emas",
+      "title": "移动研发平台 EMAS - 一站式的应用研发管理",
+      "short_title": "移动研发平台 EMAS",
+      "description": "移动研发平台 EMAS 是一站式云原生应用研发平台，融合DevOps、测试、运维及运营能力，全面提升应用研发交付效率与质量，加速业务创新。",
+      "keywords": "了解EMAS产品,查询EMAS产品规格,查看EMAS产品功能,EMAS产品介绍,EMAS产品规格,EMAS产品功能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "媒体服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/emr/tech-solution",
+      "title": "开源大数据平台 E-MapReduce 应用场景和技术解决方案_云原生开源大数据平台",
+      "short_title": "技术解决方案",
+      "description": "阿里云开源大数据平台 E-MapReduce 技术解决方案，帮助您快速了解如何利用这款弹性伸缩、存算分离的企业级大数据平台服务来提升业务效率，降低成本。",
+      "keywords": "开源大数据平台 E-MapReduce,云原生开源大数据平台,技术解决方案,大数据分析,数据湖,交互式分析,数据预处理",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "数据库",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/entconsole",
+      "title": "资源管理 - 云资源集中管控",
+      "short_title": "安全、集中、高效管理云资源的服务资源管理丰富的场景化能力，提升云上资源管理的安全性和效率",
+      "description": "阿里云资源管理是一项企业级IT治理服务，提供安全、集中、高效的方式来统一管理云资源。其核心能力包括构建跨账号统一视图、按业务灵活分组资源以及安全地进行资源共享，助您全面提升云上管理效率与安全合规水平。",
+      "keywords": "了解资源管理,评估资源管理,资源管理产品介绍,资源管理产品优势",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "应用架构",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/esa",
+      "title": "边缘安全加速(ESA) - 全球加速与防护 - 游戏加速 - 网络与CDN",
+      "short_title": "边缘安全加速 ESA接入即安全，部署即全球，构建即智能，让代码与AI在边缘绽放",
+      "description": "边缘安全加速ESA是阿里云融合了内容分发加速与边缘安全防护的一体化产品，依托全球海量节点提升访问体验，并有效抵御DDoS、CC等各类网络攻击，全面保障您的在线业务稳定与安全，加速全球业务拓展。",
+      "keywords": "了解ESA产品,了解ESA优势,了解ESA定价,ESA产品介绍,ESA产品优势,ESA产品功能",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "混合云网络",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/esa/tech-solution",
+      "title": "边缘安全加速应用场景和技术解决方案_全球加速与防护",
+      "short_title": "技术解决方案",
+      "description": "阿里云边缘安全加速ESA技术解决方案，帮助您一站式完成边缘服务部署，同时获得边缘加速、边缘安全防护、边缘计算的能力，提升网站性能。ꔷ keywords：边缘安全加速,全球加速与防护,一键加速,一键接入,边缘安全加速服务,边缘计算解决方案,快速部署。",
+      "keywords": "边缘安全加速,全球加速与防护,一键加速,一键接入,边缘安全加速服务,边缘计算解决方案,快速部署",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "混合云网络",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ess",
+      "title": "弹性伸缩ESS - 构建高可用应用解决方案",
+      "short_title": "灵活智能、易配置的弹性伸缩快速构建高可用、成本可控、弹性伸缩的应用服务",
+      "description": "阿里云弹性伸缩是可根据业务需求与策略，自动调整计算资源的云服务。它能智能应对业务峰谷以优化成本，并自动替换不健康实例保障高可用，助您轻松构建稳定、经济且高度灵活的现代化应用。",
+      "keywords": "了解弹性伸缩,评估弹性伸缩产品,入门弹性伸缩,弹性伸缩产品概述,弹性伸缩产品优势,弹性伸缩应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "智能客服",
+      "category_l2": "人工智能与机器学习"
+    },
+    {
+      "url": "https://www.aliyun.com/product/fc",
+      "title": "函数计算FC - 全托管Serverless计算服务 - 弹性高可用",
+      "short_title": "事件驱动、免运维的 Serverless函数计算为您提供更敏捷、更弹性、更精益的计算服务",
+      "description": "阿里云函数计算FC是事件驱动的全托管Serverless计算服务，支持您免运维构建弹性高可用的AI应用与Web服务，并按实际用量付费，助您聚焦核心业务逻辑，加速应用现代化与业务创新。",
+      "keywords": "了解函数计算,查看函数计算场景,函数计算产品介绍,函数计算应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "",
+      "category_l2": "模型推理与调用"
+    },
+    {
+      "url": "https://www.aliyun.com/product/flink",
+      "title": "实时计算Flink版-全托管Serverless高性能",
+      "short_title": "企业级、高性能、全托管Serverless Flink云服务助您实现高性能实时数据分析与处理",
+      "description": "阿里云实时计算Flink版提供全托管Serverless服务，100%兼容Apache Flink，性能提升200%。支持流批一体处理，企业级自动调优与智能诊断，助力实时数据分析。IDC MarketScape中国实时湖仓市场领导者 - 阿里云",
+      "keywords": "实时计算Flink版,全托管Serverless,高性能流处理,企业级数据分析,Apache Flink兼容",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网站性能优化",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/flink/tech-solution",
+      "title": "实时计算Flink版-全托管Serverless高性能",
+      "short_title": "技术解决方案",
+      "description": "阿里云实时计算Flink版提供全托管Serverless服务，100%兼容Apache Flink，性能提升200%。支持流批一体处理，企业级自动调优与智能诊断，助力实时数据分析。IDC MarketScape中国实时湖仓市场领导者 - 阿里云",
+      "keywords": "实时计算Flink版,全托管Serverless,高性能流处理,企业级数据分析,Apache Flink兼容",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "数据库",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/flowbag",
+      "title": "共享流量包 - 共享抵扣多产品多地域公网流量",
+      "short_title": "共享流量包",
+      "description": "阿里云共享流量包是一款高性价比的通用流量套餐，支持为多地域的云服务器ECS、EIP等产品自动抵扣流量，助您显著降低流量成本，全面提升运维效率。",
+      "keywords": "了解共享流量包,购买共享流量包,查询流量包价格,共享流量包产品介绍,共享流量包产品优势,共享流量包应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "存储",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/govdingtalk",
+      "title": "专有钉钉",
+      "short_title": "专有钉钉",
+      "description": "专有钉钉，是高安全、强管控、灵活开放的面向大型组织专有独享的协同办公平台。 专有钉钉通过技术融合、业务融合、数据融合，实现跨层级、跨地域、跨系统、跨部门、跨业务的协同管理和服务，以满足客户特定场景所需为目标，最大化以“平台产品”特色能力助力客户本地业务的一体化协同和管理，高效及高速良性运行。",
+      "keywords": "专有钉钉,阿里云",
+      "image": "",
+      "category_l1": "云通信",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/h3a/ahas",
+      "title": "应用高可用服务AHAS_多活容灾MSHA_高可用演练_混沌工程CHAOS",
+      "short_title": "应用高可用服务 AHAS",
+      "description": "应用高可用服务AHAS是阿里云基于内部高可用架构最佳实践而打造的商业化产品，主要提供多活容灾MSHA、容灾演练CHAOS等能力，帮助用户全面提升业务稳定性。",
+      "keywords": "应用高可用服务,AHAS,多活容灾,同城双活,异地多活,单元化架构,高可用演练,混沌工程,MSHA,CHAOS",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/hbr",
+      "title": "云备份Cloud Backup - 阿里云统一灾备平台，高效安全的数据保护方案",
+      "short_title": "统一高效、安全可靠、简单易用的云备份服务让数据保护更轻松，让合规无忧，让业务永续",
+      "description": "阿里云云备份(Cloud Backup)提供ECS整机、数据库、文件系统等全方位备份容灾服务，支持源端重删压缩、AES-256加密，节约80%以上TCO。实现跨地域容灾、VMware无代理迁云等企业级数据保护需求。",
+      "keywords": "云备份,数据灾备,阿里云备份,ECS备份,跨地域容灾,VMware迁移,数据归档",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "应用安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/hcs",
+      "title": "云存储网关CSG - 无缝对接OSS的企业级存储解决方案",
+      "short_title": "CSG 云存储网关数据高效上云最佳选择",
+      "description": "阿里云存储网关CSG提供行业标准文件存储(NFS/CIFS)和块存储(iSCSI)服务，基于OSS实现海量扩展。支持本地数据中心和云端灵活部署，提供高性能智能缓存、跨平台多协议支持，帮助企业简化存储管理。",
+      "keywords": "云存储网关,CSG,OSS存储,企业存储解决方案,阿里云存储,文件存储,块存储",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "存储数据服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/hdm",
+      "title": "数据库自治服务DAS - 数据库优化 - DBA - SQL优化 - 数据库运维 - 数据库审计",
+      "short_title": "数据库自治服务 DAS",
+      "description": "数据库自治服务DAS是一款智能化的数据库运维云服务，提供7x24小时异常检测、安全审计与性能优化，助您消除管理复杂性，显著提升数据库的稳定性、安全性与运维效率。",
+      "keywords": "了解DAS产品,评估DAS服务,DAS产品介绍,DAS功能特性,DAS应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "数据仓库",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/hdr",
+      "title": "混合云容灾服务 HDR - 企业级应用混合云容灾",
+      "short_title": "混合云容灾服务 HDR",
+      "description": "混合云容灾服务HDR是企业级容灾方案，为应用提供分钟级恢复能力，支持本地与云上容灾，无需自建机房，实现低成本、高可靠的数据保护，全面保障您的数据安全与业务连续性。",
+      "keywords": "了解混合云容灾服务,查看HDR应用场景,混合云容灾服务介绍,混合云容灾服务优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "存储数据服务",
+      "category_l2": "数据迁移与工具"
+    },
+    {
+      "url": "https://www.aliyun.com/product/hgw",
+      "title": "混合云存储 - 高性能无缝上云解决方案",
+      "short_title": "",
+      "description": "阿里云混合云存储提供高性能存储阵列、CPFS文件存储及分布式存储服务，支持FC/iSCSI/NFS等多协议接入。通过云缓存、云分层技术实现本地与云端无缝协同，满足企业级数据库、HPC及AI场景的弹性存储需求。",
+      "keywords": "混合云存储,高性能存储方案,无缝上云服务,分布式存储,企业级云存储",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "存储数据服务",
+      "category_l2": "数据迁移与工具"
+    },
+    {
+      "url": "https://www.aliyun.com/product/hologres",
+      "title": "实时数仓 Hologres - 一体化实时湖仓平台高性能解决方案",
+      "short_title": "低成本、高性能、高可用的实时数仓 Hologres统一OLAP查询、即席分析、在线服务、向量计算等多个场景",
+      "description": "实时数仓Hologres是阿里云一体化实时湖仓平台，一份数据统一支持OLAP、即席分析与向量计算等场景，兼具世界领先性能与高性价比，助您简化数据架构，加速数据业务创新。",
+      "keywords": "了解Hologres产品,评估Hologres优势,查看Hologres案例,Hologres产品介绍,Hologres产品优势,Hologres客户案例",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网站性能优化",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/host-security",
+      "title": "主机安全 - 服务器安全 - 漏洞扫描 - 安全",
+      "short_title": "主机安全",
+      "description": "主机安全为您的多云及线下主机提供自动化安全运营闭环能力，实现威胁检测、防勒索、漏洞一键修复与等保合规检查，全面提升您服务器的安全防护等级与自动化运维效率。",
+      "keywords": "了解主机安全产品,查询主机安全定价,了解主机安全功能,主机安全产品介绍,主机安全产品定价,主机安全功能介绍",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网络与CDN",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/hsm",
+      "title": "加密服务 - 安全合规云加密解决方案",
+      "short_title": "加密服务",
+      "description": "阿里云加密服务是基于合规硬件的数据安全解决方案，提供高性能加解密与密钥全生命周期管理，满足金融、政务等行业的严苛合规要求，助您轻松应对数据安全挑战，保障核心业务安全无忧。",
+      "keywords": "了解加密服务,选择加密服务类型,评估加密服务场景,加密服务产品介绍,加密服务产品选型,加密服务应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/id-verification",
+      "title": "实人认证_身份认证_人脸识别_安全",
+      "short_title": "实人认证",
+      "description": "阿里云实人认证是为企业或个人身份提供相关信息核验服务的身份验证平台，采用活体检测、人脸识别、权威信息核验等技术，为客户提供安全、便捷的身份认证服务。",
+      "keywords": "实人认证,身份认证,人脸识别,安全,实名核验,刷脸认证,身份验证平台 ",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "身份安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/imarketing",
+      "title": "营销引擎 - AI营销应用工具 - AI营销数字人 - 企业服务与云通信",
+      "short_title": "以大模型为底座，适配业务场景的泛行业营销引擎 磐曦营销图文、数字人互动、智能对练为一体的即开即用AI应用工具集",
+      "description": "营销引擎是阿里云基于大模型打造的一站式AI营销工具，支持营销图文生成、数字人互动与智能对练等丰富能力，助您显著提升营销效率，加速业务创新。",
+      "keywords": "了解营销引擎产品,查看营销引擎功能,营销引擎产品介绍,营销引擎产品优势,营销引擎安全合规",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "媒体服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/imm",
+      "title": "智能媒体管理IMM - 数据智能检索分析 - 视频文档图片处理 - 存储",
+      "short_title": "智能媒体管理 IMM",
+      "description": "智能媒体管理 IMM 为云上文档与图片数据，提供一站式智能分析与管理服务。它具备强大的图片内容识别、人物聚类、文档格式转换与预览等核心能力，助您轻松实现海量媒体数据的高效管理与价值挖掘。",
+      "keywords": "了解IMM产品,了解IMM应用场景,IMM产品介绍,IMM产品功能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "基础存储服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/industryengine/ettraffic",
+      "title": "交通云控平台 - 构建智慧交通系统的核心能力",
+      "short_title": "",
+      "description": "交通云控平台是构建下一代智慧交通系统的核心技术底座，融合多源数据与智能算法，提供实时仿真与优化调度方案，助您加速交通业务创新，实现全域智慧化升级。",
+      "keywords": "了解交通云控平台,查询交通云控平台功能,交通云控平台产品介绍,交通云控平台功能介绍",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "AI应用",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/intelligentservice/beebot",
+      "title": "智能对话机器人 - 智能客服 - 客服机器人 - 人机对话",
+      "short_title": "智能对话机器人",
+      "description": "智能对话机器人是基于通义千问大模型的7*24小时智能客服解决方案。它能快速学习文档与网页知识，提供流畅拟人的对话体验，全面提升企业服务效率与客户满意度。",
+      "keywords": "了解智能对话机器人,查询智能对话机器人功能,查询智能对话机器人场景,智能对话机器人产品介绍,智能对话机器人产品功能,智能对话机器人应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN01dHViRA1skjpBJnfH3_!!6000000005805-2-tps-500-500.png",
+      "category_l1": "行业智能",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/intelligentservice/outboundbot",
+      "title": "智能外呼机器人 - 智能客服 - 电销机器人",
+      "short_title": "智能外呼机器人",
+      "description": "智能外呼机器人提供一站式智能外呼解决方案，支持自然语言与画布式配置，实现高度拟人化语音交互，助您大幅降低外呼成本，实现业务规模化增长。",
+      "keywords": "通义晓蜜,智能外呼,智能客服,语音机器人,外呼机器人,营销获客,通知回访",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "行业智能",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iot/dyiot",
+      "title": "物联网无线连接服务 - IoT流量管理平台 - 物联网卡 - 物联网",
+      "short_title": "物联网无线连接服务",
+      "description": "物联网无线连接服务是稳定可靠的一站式连接管理平台，支持三大运营商网络，提供多网高可用与定向安全上云服务，全面提升设备在线率与运维效率，保障业务连续性，加速业务创新。",
+      "keywords": "了解无线连接服务,查看无线连接方案,了解服务停售信息,无线连接服务简介,无线连接服务方案,无线连接服务停售",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "无影",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iot/iot_instc_public_cn",
+      "title": "物联网平台 - 设备接入 - 设备管理 - 监控运维 - 数据服务",
+      "short_title": "物联网平台",
+      "description": "物联网平台提供安全可靠、高性能的全托管服务，支持亿级设备在全球低成本接入，实现从连接到分析的全链路管理，助您轻松构建物联网应用，加速业务创新。",
+      "keywords": "了解物联网平台优势,了解物联网平台功能,了解物联网平台应用场景,物联网平台产品介绍,物联网平台产品优势,物联网平台应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "无影",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iot/iotid",
+      "title": "IoT 设备身份认证_可信上云_身份认证_数据安全_物联网",
+      "short_title": "",
+      "description": "阿里云 IoT设备身份认证提供身份认证、通道加密和业务数据加密等能力，实现物联网数据可信上云和可信上链。提供公共云、一体机、专有云、多云等部署模式。",
+      "keywords": "IoT 设备身份认证,物联网安全,iot 安全,设备身份,身份认证,数据安全",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "无影",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iot/iovcc",
+      "title": "自动驾驶云开发平台 - 自动驾驶云端开发工具体系",
+      "short_title": "",
+      "description": "自动驾驶云开发平台是阿里云为自动驾驶企业打造的专业开发工具体系，可加速数据闭环，并支持大规模云端仿真与场景验证，全面提升研发效率，加速自动驾驶技术商业化落地。",
+      "keywords": "了解自动驾驶云开发平台,评估自动驾驶云开发平台,自动驾驶云开发平台介绍,自动驾驶云开发平台优势,自动驾驶云开发平台功能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "AI应用",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iot/linkvisual",
+      "title": "物联网智能视频服务 Link Visual - 物联网视频设备上云智能化",
+      "short_title": "",
+      "description": "物联网智能视频服务Link Visual，提供全球化、安全可靠的软硬一体化物联网视频解决方案，支持海量设备便捷接入与AI智能应用，助您快速完成产品智能化升级，加速全球业务创新。",
+      "keywords": "了解Link Visual产品,了解Link Visual功能,Link Visual产品介绍,Link Visual应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "无影",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iot/livinglink",
+      "title": "生活物联网平台（飞燕平台） - 生活智能设备一站式智能化",
+      "short_title": "生活物联网平台（飞燕平台）",
+      "description": "生活物联网平台是面向消费级智能设备的一站式开发平台，提供从设备、云端到App的全链路方案，支持公版App免开发与全球化服务，助您大幅降低开发成本，快速实现产品智能化与商业成功。",
+      "keywords": "了解生活物联网平台,评估生活物联网平台,生活物联网平台介绍,生活物联网平台优势,生活物联网平台应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1c8x9ZFY7gK0jSZKzXXaikpXa-350-350.jpg",
+      "category_l1": "物联网云服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/iqs",
+      "title": "信息查询服务 - AI联网搜索 - 大模型应用 - 人工智能与机器学习",
+      "short_title": "信息查询服务让每个大模型都能轻松访问全网最新、最准确的信息",
+      "description": "阿里云信息查询服务，为大模型提供实时、精准的信息查询。聚合阿里生态高质量数据，经大模型深度优化，确保结果高度相关且纯净无广，助您快速构建更强大的AI应用。",
+      "keywords": "了解信息查询服务,了解信息查询服务优势,信息查询服务产品介绍,信息查询服务产品优势,信息查询服务安全合规",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "媒体服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/kafka",
+      "title": "云消息队列 Kafka 版 - 大数据消息中间件 - 日志收集和分析 - 容器与中间件",
+      "short_title": "云消息队列 Kafka 版",
+      "description": "云消息队列 Kafka 版是高吞吐、全托管的分布式消息队列服务，提供免运维与高弹性，无缝对接数据生态，助您从容应对大数据挑战，加速业务创新。",
+      "keywords": "了解云消息队列Kafka版,评估云消息队列Kafka版,Kafka版产品介绍,Kafka版应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "网站性能优化",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/kubernetes",
+      "title": "容器服务ACK - 企业级Kubernetes管理解决方案",
+      "short_title": "稳定、安全、易用的Kubernetes 集群托管服务简化容器化应用交付和管理，让您专注于业务创新",
+      "description": "阿里云容器服务ACK提供高性能可伸缩的容器应用管理能力，支持企业级Kubernetes容器化应用全生命周期管理。整合阿里云虚拟化、存储、网络和安全能力，助力企业高效运行云端容器化应用。",
+      "keywords": "容器服务ACK,Kubernetes管理,云原生应用,阿里云容器,企业级容器解决方案",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网站性能优化",
+      "category_l2": "数据分析与智能应用"
+    },
+    {
+      "url": "https://www.aliyun.com/product/kvcache",
+      "title": "Tair KVCache - 动态分级缓存 - LLM推理缓存 - 数据库",
+      "short_title": "AI 时代的KV缓存Tair KVCache分布式动态分级缓存，突破显存瓶颈，加速大模型推理",
+      "description": "Tair KVCache是为大模型推理加速的分布式缓存，能突破显存瓶颈、支持更长上下文，首Token时间缩短90%，助您大幅提升服务吞吐与资源效率。",
+      "keywords": "了解Tair KVCache,了解Tair KVCache优势,Tair KVCache产品介绍,Tair KVCache应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "关系型数据库",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/lingjun",
+      "title": "智能计算灵骏 - 人工智能场景大规模算力支撑",
+      "short_title": "智能计算灵骏极致扩展能力，驱动算力突破参数限制，支撑智能涌现",
+      "description": "智能计算灵骏是阿里云专为大规模AI模型打造的高性能计算服务，提供万卡并行的高扩展性与分钟级故障自愈的高稳定性，助您攻克万亿参数模型挑战，加速AI业务创新。",
+      "keywords": "了解智能计算灵骏,了解灵骏产品优势,查看灵骏客户案例,智能计算灵骏产品介绍,智能计算灵骏产品优势,智能计算灵骏客户案例",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "智能客服",
+      "category_l2": "人工智能与机器学习"
+    },
+    {
+      "url": "https://www.aliyun.com/product/lingma",
+      "title": "通义灵码 - 企业AI编码助手 - 编程智能体 - 开发工具",
+      "short_title": "智能编码助手通义灵码，懂研发更懂企业",
+      "description": "通义灵码是阿里云出品的智能编码助手，提供代码智能生成与研发智能问答能力，更能基于企业私域知识进行安全可靠的智能问答，助您提升研发团队效能，加速业务创新。",
+      "keywords": "了解通义灵码产品,查询通义灵码定价,通义灵码产品介绍,通义灵码定价方案",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "应用集成",
+      "category_l2": "API 与工具"
+    },
+    {
+      "url": "https://www.aliyun.com/product/linkwan",
+      "title": "物联网络管理平台Link WAN - LoRaWAN - 低功耗广域场景 - 物联网",
+      "short_title": "物联网络管理平台 Link WAN",
+      "description": "阿里云物联网络管理平台 Link WAN 提供一站式LoRaWAN网络管理服务，简化组网，轻松实现公里级低功耗设备连接与全局化管理，助您降低物联网部署成本，加速行业应用创新。",
+      "keywords": "了解Link WAN产品,评估Link WAN功能,Link WAN产品介绍,Link WAN产品功能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "无影",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/live",
+      "title": "视频直播 - 实时音视频 - 超高清直播 - 媒体服务",
+      "short_title": "超低延时、千万并发、超高清的视频直播快速构建全球覆盖、全链路高可靠的广电级直播服务",
+      "description": "阿里云视频直播是稳定可靠、高清流畅的广电级直播服务平台，支持毫秒级超低延时、千万级高并发和窄带高清™极致画质，助您快速构建全球化直播业务，打造极致沉浸的互动新体验。",
+      "keywords": "了解视频直播产品,查看视频直播优势,查看视频直播场景,视频直播产品介绍,视频直播产品优势,视频直播应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "大数据计算",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/lvwang",
+      "title": "内容安全_云盾_违规内容识别_安全",
+      "short_title": "内容安全",
+      "description": "阿里云内容安全基于深度学习技术，提供图片、视频、语音、文字、网页等多媒体的内容风险智能识别和审核服务，帮助用户发现色情、暴恐、政治敏感等风险内容，大幅度降低人工审核成本。",
+      "keywords": "内容安全,云盾,违规内容识别,安全,内容识别,智能识别,内容审核服务",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "身份安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/maxcompute",
+      "title": "云原生大数据计算服务MaxCompute - 企业级SaaS化智能云数仓 - 云数仓搭建 - 大数据计算",
+      "short_title": "云原生大数据计算服务 MaxCompute企业级SaaS化智能云数仓",
+      "description": "云原生大数据计算服务 MaxCompute是企业级SaaS化智能云数仓，以Serverless架构提供全托管、高性价比的EB级数据处理与AI一体化分析，助您高效挖掘数据价值，加速业务创新。",
+      "keywords": "了解MaxCompute,评估MaxCompute,购买MaxCompute,MaxCompute产品介绍,MaxCompute产品优势,MaxCompute安全合规",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "数据库",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/mgw",
+      "title": "闪电立方_数据传输服务_数据在线离线迁移_存储",
+      "short_title": "",
+      "description": "阿里云闪电立方能够为用户提供安全、高效、便捷的数据传输服务。有数据在线迁移和离线迁移(闪电立方)两种方式，可解决大规模数据传输效率、安全问题等难题。",
+      "keywords": "数据传输,数据迁移到阿里云,数据迁移,闪电传输,在线迁移,闪电立方,Lightning Transport Service,Lightning Cube,TB到PB数据上云,闪电立方价格,数据迁移方案",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "存储数据服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/milvus",
+      "title": "向量检索服务 Milvus 版 - 云原生全托管向量数据库",
+      "short_title": "向量检索服务 Milvus 版",
+      "description": "阿里云向量检索服务 Milvus 版 100%兼容开源，提供云原生全托管向量数据库，支持超大规模向量数据检索。具备高可用性、30%成本下降优势，集成AI生态与RAG系统解决方案。",
+      "keywords": "向量检索服务 Milvus 版,云原生向量数据库,全托管向量检索引擎,AI向量检索解决方案,RAG系统构建",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "数据库",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/miniappdev",
+      "title": "多端低代码开发平台魔笔 - AI低代码驱动的应用开发",
+      "short_title": "多端低代码开发平台魔笔",
+      "description": "多端低代码开发平台魔笔，是阿里云AI驱动的低代码应用开发平台，通过可视化拖拽与AI赋能，可快速构建并发布多端智能应用，显著降低开发门槛，助您加速业务创新与智能化升级。",
+      "keywords": "了解魔笔产品,评估魔笔适用性,购买魔笔产品,魔笔产品介绍,魔笔功能特性,魔笔应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "媒体服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/mns",
+      "title": "轻量消息队列（原MNS） - 高并发弹性消息服务",
+      "short_title": "轻量消息队列（原 MNS）",
+      "description": "阿里云轻量消息队列（原MNS）提供高并发、弹性扩展的消息服务，支持HTTP RESTful接口和多语言SDK，实现99.95%高可用性和无损发布能力，按量付费降低成本。适用于云产品间消息传输和分布式系统构建。",
+      "keywords": "轻量消息队列,MNS,阿里云消息队列,高并发消息服务,弹性消息队列,HTTP RESTful接口,分布式系统消息",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "应用架构",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/mongodb",
+      "title": "云数据库MongoDB版_兼容MongoDB托管数据库_文档型数据库_数据库",
+      "short_title": "云数据库 MongoDB 版",
+      "description": "阿里云云数据库MongoDB版是完全兼容MongoDB协议、高度兼容DynamoDB协议的在线文档型数据库服务。支持单节点、双节点、副本集和分片集群四种部署架构，能够满足不同的业务场景需要。",
+      "keywords": "云数据库MongoDB版,兼容MongoDB托管数据库,文档型数据库,数据库,MongoDB三节点,mongo",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "关系型数据库",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/mq4iot",
+      "title": "云消息队列 MQTT 版 - 移动物联网设备端云双向消息通信",
+      "short_title": "云消息队列 MQTT 版",
+      "description": "云消息队列 MQTT 版是为物联网与移动端设计的消息产品，提供稳定可靠的端云双向通信。支持千万级设备海量连接与百万级消息高并发，兼具毫秒级时延与多重安全保障，助您轻松构建大规模物联网应用，加速业务创新。",
+      "keywords": "了解云消息队列MQTT版,评估云消息队列MQTT版,云消息队列MQTT版介绍,云消息队列MQTT版优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "网络监控",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/mse",
+      "title": "微服务引擎MSE - Nacos企业版 - 注册配置中心 - 云原生网关",
+      "short_title": "提供主流微服务开源增强服务微服务引擎MSE注册配置中心、微服务治理、任务调度、云原生网关",
+      "description": "微服务引擎MSE是全托管的企业级微服务平台，全面兼容Nacos等开源组件，提供免运维、高可用和企业级安全防护能力，助您大幅降低微服务架构的运维成本，聚焦核心业务创新。",
+      "keywords": "服务治理,注册配置中心,nacos,mcp,xxljob",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网络监控",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/mts",
+      "title": "媒体处理MPS - 多媒体数据处理 - 音视频格式转化 - 视频服务",
+      "short_title": "",
+      "description": "阿里云媒体处理提供经济、弹性的多媒体数据处理服务，融合窄带高清转码与智能审核、内容理解等AI能力，助您显著降低视频成本，并深度挖掘内容商业价值。",
+      "keywords": "了解媒体处理产品,查看媒体处理功能,查看媒体处理应用场景,媒体处理产品介绍,媒体处理产品功能,媒体处理应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "视频服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/nas",
+      "title": "文件存储NAS_分布式文件系统_冷热数据分级存储_存储成本优化",
+      "short_title": "文件存储 NAS",
+      "description": "文件存储（Network Attached Storage，简称NAS），是阿里云对外提供的兼容POSXI接口的分布式文件存储，容量和处理能力的弹性扩展，按实际容量付费真正使您专注于核心业务。",
+      "keywords": "文件存储NAS,分布式文件系统,冷热数据分级存储,存储成本优化,云存储,NAS,安全存储",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "",
+      "category_l2": "模型推理与调用"
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/cdt",
+      "title": "云数据传输 - 云上网络流量统一计费分账",
+      "short_title": "云数据传输",
+      "description": "云数据传输是阿里云官方的网络带宽统一计费产品，提供灵活优惠的计费方式。其核心优势是支持公网流量阶梯计费（用量越大单价越低），并统一管理多款产品流量，助您实现精细化成本分摊，大幅降低云上网络总开销。",
+      "keywords": "了解云数据传输,查看CDT计费方式,云数据传输产品介绍,CDT产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "办公安全",
+      "category_l2": "云网络架构设计"
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/ens",
+      "title": "边缘节点服务ENS - 边缘计算 - 直播互动 - CDN",
+      "short_title": "边缘节点服务 ENS",
+      "description": "边缘节点服务ENS是一站式分布式边缘算力平台，为互动直播、在线教育等场景提供&lt;20ms超低时延，并显著降低计算与带宽成本，助您加速业务创新，为终端用户创造极致流畅体验。",
+      "keywords": "了解边缘节点服务,查看ENS产品功能,查看ENS应用场景,边缘节点服务介绍,ENS产品功能,ENS应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "操作系统",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/expressconnect",
+      "title": "高速通道 - 云下数据中心专线接入云上网络",
+      "short_title": "高速通道",
+      "description": "高速通道提供连接企业数据中心与云上网络的高速、稳定、安全的私网通信。轻松构建高质量混合云网络，实现云上云下数据高速互通，保障业务平滑迁移与数据安全。",
+      "keywords": "了解高速通道,评估高速通道,高速通道产品介绍,高速通道产品优势,高速通道应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "跨地域网络",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/ga",
+      "title": "全球加速GA - 高性能全球网络加速服务",
+      "short_title": "全球加速 GA",
+      "description": "全球加速GA是覆盖全球的互联网加速服务，依托阿里云优质网络，为游戏、应用与跨国办公提供高质量、高可用且安全的加速体验，助您提升全球用户体验，保障业务连续性。",
+      "keywords": "了解全球加速产品,查看全球加速场景,全球加速产品介绍,全球加速应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云上网络",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/nat",
+      "title": "NAT网关产品详情页",
+      "short_title": "NAT网关：云上全托管助力用户安全访问互联网；解决私有地址冲突",
+      "description": "NAT网关产品详情",
+      "keywords": "NAT网关,NAT,公网NAT,VPC NAT",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "存储",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/netana",
+      "title": "网络智能服务 NIS - 网络分析监控诊断修复仿真",
+      "short_title": "网络智能服务 NIS",
+      "description": "网络智能服务NIS是智能化的云上网络运维服务，提供一键诊断、全链路分析和实时流量洞察能力，可快速定位并修复网络故障，助您轻松驾驭复杂网络环境，全面提升运维效率与业务连续性。",
+      "keywords": "了解网络智能服务,网络智能服务产品介绍,网络智能服务产品功能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "存储",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/network",
+      "title": "云网络_企业级云网络产品_企业级方案概览",
+      "short_title": "欢迎使用阿里云网络",
+      "description": "阿里云云网络为企业提供了完善的云上网络、跨地域网络、混合云网络产品体系和可满足不同场景的网络解决方案。经过多年的自主研发，洛神云网络平台，具备了超大规模、超高性能、弹性开放能力，服务百万用户，连续多年支撑双11。",
+      "keywords": "云网络,混合云,负载均衡,vpc,网络安全",
+      "image": "https://img.alicdn.com/imgextra/i2/O1CN01bzB4E825d29xMEdaJ_!!6000000007548-2-tps-200-200.png",
+      "category_l1": "CDN",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/ntr",
+      "title": "转发路由器Transit Router - 企业级大规模网络互联",
+      "short_title": "云上组网核心-阿里云转发路由器TR连接海量VPC与云下网络，简化拓扑，灵活扩展",
+      "description": "阿里云转发路由器Transit Router支持连接千级VPC及跨地域网络，提供多路由表、云原生组播、带宽保障等核心功能。通过高可靠NFV平台实现全球互联，满足金融媒体行业组播上云需求，助力企业构建安全合规的混合云网络。",
+      "keywords": "转发路由器Transit Router,企业级网络互联解决方案,云原生组播技术应用,跨地域带宽管理,混合云网络架构",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网站搭建",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/privatelink",
+      "title": "私网连接 - 跨VPC私有网络服务访问",
+      "short_title": "精心打造的功能",
+      "description": "私网连接提供安全稳定的私网服务访问能力，可将服务流量锁定在阿里云内网，避免公网风险，同时极大简化跨VPC与跨账号的复杂网络配置，助您提升云上架构的安全与运维效率。",
+      "keywords": "了解私网连接,了解私网连接优势,了解私网连接场景,私网连接产品介绍,私网连接产品优势,私网连接使用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "存储",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/smartag",
+      "title": "智能接入网关SAG_SDWAN接入服务_移动办公_网络",
+      "short_title": "智能接入网关",
+      "description": "智能接入网关（Smart Access Gateway，简称SAG）是阿里云提供的一站式快速上云接入产品，企业可通过智能接入网关SDWAN技术实现Internet就近加密上云，适用于中小数据中心、分支互联、移动办公、应用加速及混合云等场景。阿里云SAG产品配置高度自动化，即插即用，网络拓扑变化自适应快速收敛，自动探测最优链路，故障时主动实时切换，高质量、高安全、高效率的帮助用户解决网络接入最后一公里难题。",
+      "keywords": "智能接入网关SAG,SDWAN接入服务,移动办公,网络,分支互联,混合云组网",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "跨地域网络",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/uis",
+      "title": "云连接器 - 海量物联网卡一站式定向上云连接",
+      "short_title": "云连接器",
+      "description": "阿里云云连接器是专为物联网打造的一站式上云连接服务，提供安全可靠的专用网络，支持海量设备即插即用与连接带宽的弹性伸缩，助您轻松构建稳定高效的物联网业务，加速价值实现。",
+      "keywords": "了解云连接器,评估云连接器,云连接器产品介绍,云连接器产品优势,云连接器应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "跨地域网络",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/network/vpn",
+      "title": "VPN网关 - IPsec/SSL加密混合云连接",
+      "short_title": "阿里云VPN网关：简单易用、低成本部署轻松实现本地网络、终端与云端的安全互联",
+      "description": "阿里云VPN网关基于IPsec/SSL协议，提供安全可靠的加密通道连接本地数据中心与云上VPC。支持分支互联、移动办公场景，具备高可用架构及成本优势，助力企业快速构建混合云网络 - 阿里云",
+      "keywords": "VPN网关,IPsec加密连接,混合云网络搭建,安全远程访问,SSL VPN解决方案",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "跨地域网络",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ons",
+      "title": "云消息队列 ApsaraMQ - 消息事件流统一处理平台",
+      "short_title": "云消息队列 ApsaraMQ",
+      "description": "云消息队列 ApsaraMQ是企业级全场景数据通道，具备高弹性、低成本与高稳定特性，全面兼容主流开源协议，助您降低构建成本，加速业务创新。",
+      "keywords": "了解ApsaraMQ产品,进行ApsaraMQ选型,ApsaraMQ产品介绍,ApsaraMQ产品家族,ApsaraMQ产品选型",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "安全",
+      "category_l2": "微服务工具与平台"
+    },
+    {
+      "url": "https://www.aliyun.com/product/oos",
+      "title": "系统运维管理 OOS - 统一自动化运维编排管理",
+      "short_title": "基于运维操作即代码构建的系统运维管理 OOS提供高效、免费、安全合规的云上 CloudOps 运维最佳实践",
+      "description": "阿里云系统运维管理OOS是免费、安全的全托管自动化运维平台，支持运维即代码、可视化批量执行与跨云跨账号的统一管理，助您大幅降低运维成本，提升自动化运维效率与安全合规水平。",
+      "keywords": "了解系统运维管理OOS,评估OOS产品优势,OOS产品介绍,OOS产品优势",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "开发工具",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/openlake",
+      "title": "阿里云OpenLake解决方案-大数据AI搜索一体化",
+      "short_title": "OpenLake数据湖开放 · 统一 · 智能",
+      "description": "构建大数据、搜索与AI一体化的多模态智能体数据解决方案，打造Agentic Data的新一代湖仓架构",
+      "keywords": "Agentic AI,湖仓,数据湖,Agent,Lakehouse",
+      "image": "https://img.alicdn.com/imgextra/i4/O1CN01pFlTB51GYscRG6EFq_!!6000000000635-55-tps-320-320.svg",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/opensearch",
+      "title": "智能开放搜索 OpenSearch - 一站式智能搜索业务开发平台",
+      "short_title": "智能开放搜索 OpenSearch",
+      "description": "智能开放搜索 OpenSearch 是一站式AI驱动的智能搜索业务开发平台，融合RAG、向量检索与行业算法，支持对话式、多模态等智能搜索，助您快速构建企业级搜索服务，全面提升用户体验与业务转化。",
+      "keywords": "了解OpenSearch产品,评估OpenSearch能力,OpenSearch产品介绍,OpenSearch产品版本,OpenSearch应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "自然语言处理",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/oss",
+      "title": "对象存储 OSS - 海量数据存储分析处理底座",
+      "short_title": "稳定、安全、高性价比、性能领先的对象存储服务存储任意类型数据，打造 AI 时代的数据底座",
+      "description": "对象存储OSS提供稳定、安全、高性价比的云存储服务，支持海量数据存储，为AI与数据湖应用构建坚实数据底座，助您加速业务创新。",
+      "keywords": "了解对象存储OSS,查看OSS应用场景,对象存储OSS产品介绍,对象存储OSS产品优势",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/oss/tech-solution",
+      "title": "对象存储应用场景和技术解决方案_云存储服务",
+      "short_title": "技术解决方案",
+      "description": "阿里云对象存储 OSS 技术解决方案，帮助您快速了解如何快速、高效地在实际场景中部署和使用 OSS，提升业务效率，降低成本，使您更专注于核心业务创新。",
+      "keywords": "对象存储,云存储服务,技术解决方案,降本增效,数据湖构建,数据存储与分发,数据迁移",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "容器",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ots",
+      "title": "表格存储 Tablestore - 海量结构化数据存储检索与分析",
+      "short_title": "表格存储 Tablestore",
+      "description": "表格存储 Tablestore 是面向海量结构化数据的 Serverless 表存储服务，具备多元索引与场景化模型，支持毫秒级查询检索，助您降低数据存储与运维成本，提升开发与分析效率。",
+      "keywords": "了解表格存储产品,评估表格存储适用性,查询表格存储计费,表格存储产品介绍,表格存储应用场景,表格存储产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "容器",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/pai/tech-solution",
+      "title": "人工智能平台PAI - 企业级AI开发平台 - 支持Qwen3一键部署",
+      "short_title": "技术解决方案",
+      "description": "阿里云人工智能平台PAI提供全链路AI开发服务，支持Qwen3全系列模型一键部署，覆盖模型训练、推理优化全生命周期。内置140+优化算法，提供高性能TorchAcc训练框架和BladeLLM推理优化，助力企业快速构建AI应用。",
+      "keywords": "人工智能平台PAI,AI开发平台,Qwen3模型部署,机器学习平台,阿里云AI,模型训练,推理优化",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "政企业务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/pls",
+      "title": "号码隐私保护_虚拟运营商_O2O服务_云通信",
+      "short_title": "号码隐私保护",
+      "description": "阿里云号码隐私保护是一款基于运营商通信能力的软件产品，为用户在不插入SIM的情况下，增加手机号码作为隐私号码，隐藏真实号码。阿里通信拥有三网多平台容灾能力，号码覆盖180+地市，具有行业优势。",
+      "keywords": "号码隐私保护,虚拟运营商,O2O服务,云通信,AXB,阿里小号,隐藏真实号码",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "企业云服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/polardb",
+      "title": "云原生数据库 PolarDB - 生态兼容的集中式分布式云原生数据库",
+      "short_title": "秒级弹性、高性价比、稳定可靠的云原生数据库 PolarDBSuper MySQL和PostgreSQL，支持集中式和分布式",
+      "description": "云原生数据库PolarDB提供稳定可靠、高性价比的数据库服务，全面兼容MySQL与PostgreSQL，兼具极致性能与Serverless弹性，助您轻松应对海量数据挑战，加速业务创新。",
+      "keywords": "云原生数据库,PolarDB,MySQL兼容,PostgreSQL兼容,Serverless数据库,高可用数据库,阿里云数据库",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "短视频与直播",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/polardb/mysql",
+      "title": "云原生数据库 PolarDB MySQL 版 - 关系型数据库 - MySQL上云",
+      "short_title": "云原生数据库 PolarDB MySQL 版",
+      "description": "云原生数据库 PolarDB MySQL 版是阿里云自研的云数据库，提供极致性能与成本效益。具备HTAP一体化与Serverless极致弹性能力，助力企业轻松应对业务挑战，实现数据驱动的业务创新。",
+      "keywords": "了解PolarDB MySQL版,选型PolarDB MySQL版,试用PolarDB MySQL版,PolarDB MySQL版产品介绍,PolarDB MySQL版产品优势,PolarDB MySQL版应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网站性能优化",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/polardb/tech-solution",
+      "title": "云原生数据库 PolarDB - 生态兼容的集中式分布式云原生数据库",
+      "short_title": "技术解决方案",
+      "description": "云原生数据库PolarDB提供稳定可靠、高性价比的数据库服务，全面兼容MySQL与PostgreSQL，兼具极致性能与Serverless弹性，助您轻松应对海量数据挑战，加速业务创新。",
+      "keywords": "云原生数据库,PolarDB,MySQL兼容,PostgreSQL兼容,Serverless数据库,高可用数据库,阿里云数据库",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "中间件",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/pts",
+      "title": "性能测试 PTS - 百万并发压测工具，100%兼容JMeter",
+      "short_title": "性能测试 PTS",
+      "description": "性能测试PTS是提供百万并发、千万TPS级别压测能力的性能测试服务，全面兼容JMeter，支持流量录制与零编码场景编排，助您精准评估系统容量，保障业务核心稳定性。",
+      "keywords": "了解性能测试PTS,评估性能测试PTS,性能测试PTS介绍,性能测试PTS功能,性能测试PTS优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云消息队列",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/pvtz",
+      "title": "云解析 PrivateZone - 云上云下企业内网域名解析管理",
+      "short_title": "稳定、安全、快速、可扩展的内网域名解析云端一体、全链路可视化、灵活自主可控的内网域名解析服务",
+      "description": "阿里云云解析PrivateZone提供企业内网DNS解析服务，支持智能调度、缓存加速及混合云互联。内置权威解析、图形化配置，保障99.99%高可用性，实现多云与IDC统一管理。",
+      "keywords": "了解内网域名解析,查看内网解析场景,内网域名解析产品介绍,内网域名解析应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "存储",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/quick-audience",
+      "title": "智能用户增长Quick Audience - 全渠道消费者智能运营平台",
+      "short_title": "新一代 数据+AI 的智能营销增长平台帮助企业实现一站式的全渠道消费者智能运营",
+      "description": "智能用户增长Quick Audience是阿里云推出的新一代数据+AI智能营销增长平台，提供全渠道消费者分析、智能内容管理和自动化触达运营解决方案。支持数据驱动、智能圈人、全渠道连接和增长飞轮四大核心能力，帮助企业提升营销效果和GMV。",
+      "keywords": "智能用户增长,Quick Audience,全渠道营销,消费者运营,CDP,MA,阿里云营销解决方案",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "数据库",
+      "category_l2": "数据开发与管理"
+    },
+    {
+      "url": "https://www.aliyun.com/product/quick-bi",
+      "title": "智能商业分析 Quick BI - 大模型驱动的数据分析系统构建",
+      "short_title": "让人人拥有超级数据分析师 Quick BIAI 时代的先进分析Agent ，助力企业增长更精准",
+      "description": "智能商业分析Quick BI是一款大模型驱动的一站式数据分析平台，支持通过自然语言交互，实现海量数据秒级查询与智能报告生成，赋能人人成为数据分析师，驱动业务精准增长。",
+      "keywords": "了解Quick BI产品,了解Quick BI优势,Quick BI产品介绍,Quick BI产品优势,Quick BI应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "数据库",
+      "category_l2": "数据开发与管理"
+    },
+    {
+      "url": "https://www.aliyun.com/product/quick-tracking",
+      "title": "全域采集与增长分析Quick Tracking - 企业级数字化营销解决方案",
+      "short_title": "全域采集与增长分析企业级流量统计分析产品，构筑企业数字化营销增长第一公里",
+      "description": "Quick Tracking全域采集与增长分析产品，提供APP、小程序、H5等多端数据采集能力，支持智能埋点、隐私合规管理及客群分析洞察，助力企业实现数字化营销增长。安全合规的高性价比解决方案 - 阿里云",
+      "keywords": "全域数据采集,数字化营销分析,Quick Tracking,智能埋点,隐私合规管理,阿里云增长分析",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "数据库",
+      "category_l2": "数据开发与管理"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ram",
+      "title": "访问控制 RAM - 集中管理身份权限实现精细访问控制",
+      "short_title": "集中化管理身份与权限的访问控制 RAM灵活精细化配置最小权限，构建资源访问边界，保障云上资源安全",
+      "description": "访问控制RAM是阿里云核心的身份与权限管理服务，提供基于最小权限原则的精细化授权与企业身份集成能力，全面保障您的云上资产安全与合规，提升身份管理效率。",
+      "keywords": "了解访问控制RAM,学习RAM应用场景,评估RAM产品优势,访问控制RAM产品介绍,访问控制RAM应用场景,访问控制RAM产品优势",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "云资源监控",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/rds",
+      "title": "云数据库 RDS - 关系型数据库全套解决方案",
+      "short_title": "高性价比、稳定安全可靠的云数据库 RDS即开即用、“自动驾驶”，助您免除数据库运维烦恼",
+      "description": "云数据库 RDS 是稳定可靠、即开即用的关系型数据库服务，提供高性价比、多重安全防护与自动化运维能力，助您轻松应对业务挑战，专注核心业务创新。",
+      "keywords": "了解云数据库RDS,购买云数据库RDS,云数据库RDS产品介绍,云数据库RDS产品优势",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "中间件",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/rds/mysql",
+      "title": "云数据库 RDS MySQL 版 - 可弹性伸缩的托管MySQL数据库",
+      "short_title": "云数据库 RDS MySQL 版",
+      "description": "云数据库 RDS MySQL 版是稳定可靠、可弹性伸缩的在线数据库服务，历经阿里双十一严苛考验。提供自动驾驶般智能运维与Serverless极致弹性，助您大幅降低运维成本，聚焦业务创新。",
+      "keywords": "了解RDS MySQL版,选购RDS MySQL版,RDS MySQL产品介绍,RDS MySQL产品定价,RDS MySQL解决方案",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/rds/tech-solution",
+      "title": "云数据库 RDS 应用场景和技术解决方案_关系型数据库",
+      "short_title": "技术解决方案",
+      "description": "阿里云云数据库 RDS 提供成熟的上云解决方案，具备高可用、弹性稳定、高性价比等优势，助力企业IT架构平滑上云，降本增效。",
+      "keywords": "云数据库 RDS,关系型数据库,数据库解决方案,RDS解决方案,数据库上云解决方案,数据库最佳实践,RDS 最佳实践",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "中间件",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/resource-management/tech-solution",
+      "title": "资源管理应用场景和技术解决方案_企业级服务系统",
+      "short_title": "技术解决方案",
+      "description": "阿里云资源管理 (Resource Management）服务技术解决方案，帮助您快速了解如何利用资源目录等相关产品集中管理企业多账号身份权限，轻松解决统一分配和回收员工权限、账号切换登录等复杂的管理问题。",
+      "keywords": "资源管理,企业级服务系统,集中管理多账号,账号切换登录,便捷运维,多账号权限配置,分级管理",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "运维与监控",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/rocketmq",
+      "title": "云消息队列 RocketMQ 版 - 低延迟高并发分布式消息平台",
+      "short_title": "云原生消息引擎云消息队列 RocketMQ 版企业级 AI 应用与微服务应用的异步通信基石",
+      "description": "云消息队列 RocketMQ 版是高并发、高可靠的分布式消息平台，历经双十一洪峰考验，实现应用解耦与流量削峰，助您构建稳定且具弹性的高可用业务架构。",
+      "keywords": "了解RocketMQ版产品,对比RocketMQ版与自建,查看RocketMQ版应用场景,RocketMQ版产品介绍,RocketMQ版产品优势,RocketMQ版产品功能",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "安全",
+      "category_l2": "微服务工具与平台"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ros",
+      "title": "资源编排 - 自动化编排部署云上基础设施",
+      "short_title": "基于IaC理念的资源编排 ROS高效、灵活地自动化部署数百种云上资源",
+      "description": "资源编排 (ROS) 是一款自动化云资源部署服务，支持通过模板与可视化方式编排资源，并提供免费Terraform托管，全面提升部署与运维效率，加速业务交付。",
+      "keywords": "了解资源编排ROS,评估资源编排ROS,资源编排ROS产品介绍,资源编排ROS产品优势",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "应用集成",
+      "category_l2": "Serverless"
+    },
+    {
+      "url": "https://www.aliyun.com/product/ros/tech-solution",
+      "title": "资源编排 ROS应用场景和技术解决方案_自动化部署",
+      "short_title": "技术解决方案",
+      "description": "阿里云资源编排 ROS 基于众多客户上云的成功案例萃取了最优化的企业上云指南，ROS 把这些最优的企业上云实践以模板的形式呈现给您。您可基于模板轻松完成复杂场景的部署和架构优化。",
+      "keywords": "资源编排 ROS,自动化部署,架构优化,一键部署,节省成本,提升效率,最佳实践",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "应用集成",
+      "category_l2": "Serverless"
+    },
+    {
+      "url": "https://www.aliyun.com/product/sas",
+      "title": "云安全中心 - 一体化云原生应用保护",
+      "short_title": "云安全中心集预防、检测、响应、治理与可见性于一体的智能云原生应用保护平台（CNAPP）",
+      "description": "阿里云云安全中心提供实时威胁检测与防护服务，支持漏洞扫描修复、防勒索病毒、容器安全及等保合规。具备百万级主机管理能力与380+威胁检测模型，实现自动化安全运营闭环。",
+      "keywords": "了解云安全中心,查询云安全中心功能,查询云安全中心场景,云安全中心产品介绍,云安全中心功能特性,云安全中心应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网络与CDN",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/sca",
+      "title": "智能对话分析 - 智能客服 - 语音质检 - 人工智能语音系统 - 对话舆情分析",
+      "short_title": "智能对话分析",
+      "description": "智能对话分析是一款智能分析服务，可从海量语音与文本对话中深度挖掘风险与商机。依托先进AI模型实现高精度智能质检，结合预置模板，开箱即用，助您全面提升服务质量与运营效率。",
+      "keywords": "了解智能对话分析,开通智能对话分析,体验智能对话分析,智能对话分析产品介绍,智能对话分析产品功能,智能对话分析应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "行业智能",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/captcha",
+      "title": "验证码Captcha - 交互验证 - 人机识别 - 云安全",
+      "short_title": "验证码 Captcha",
+      "description": "验证码Captcha是阿里云新一代智能验证服务，旨在精准区分机器行为与真实用户。它提供无痕、滑动等多样化交互形态，兼顾极致安全与流畅的用户体验，助您有效抵御恶意攻击，为核心业务安全保驾护航。",
+      "keywords": "了解验证码产品,评估验证码产品,验证码产品介绍,验证码产品功能,验证码产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "身份安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/csas",
+      "title": "办公安全平台SASE - 办公安全一体化管控 - 零信任",
+      "short_title": "办公安全平台SASE",
+      "description": "办公安全平台SASE是阿里云一站式办公安全管控平台，融合零信任访问、数据防泄漏与统一管控能力，助您轻松构建新一代办公安全体系，提升运维效率。",
+      "keywords": "了解办公安全平台,查询SASE平台功能,办公安全平台介绍,SASE平台产品特性,SASE平台产品优势",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "网络与CDN",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/ddos",
+      "title": "DDoS攻击防护缓解业务中断-DDoS防护",
+      "short_title": "",
+      "description": "阿里云DDoS防护服务基于全球防护网络与AI智能防护体系，提供Tbps级防护能力，支持全协议攻击防御，保障企业业务连续性与数据安全，适用于跨境电商、金融、电商等行业场景。",
+      "keywords": "了解DDoS防护产品,查看DDoS防护功能,评估DDoS防护规格,DDoS防护产品介绍,DDoS防护产品优势,DDoS防护应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "网络与CDN",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/idaas",
+      "title": "应用身份服务 (IDaaS) - 人员机器身份权限统一管理",
+      "short_title": "深度融合云产品的应用身份服务IDaaS提供统一身份认证与管理的集中化、安全化服务",
+      "description": "阿里云应用身份服务(IDaaS)提供EIAM、CIAM和M2M三大核心服务，解决企业内部、客户及机器间的身份认证与访问管理难题。支持单点登录、访问控制、应用市场等功能，实现云原生安全架构与零信任访问。",
+      "keywords": "了解IDaaS产品,评估IDaaS产品,IDaaS产品介绍,IDaaS产品优势,IDaaS应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "数据安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/kms",
+      "title": "密钥管理服务 - 高安全密钥管理 - 国密合规加密",
+      "short_title": "高可用、高安全的全托管式密钥管理服务KMS自动化轮转、一键审计，助您提升数据安全与运营效率",
+      "description": "密钥管理服务是安全合规、全托管的密钥管理与数据加密服务，提供密钥全生命周期管理与凭据托管，并与众多云产品无缝集成，全面提升您的数据安全水位与运维效率。",
+      "keywords": "了解密钥管理服务,查询KMS应用场景,评估KMS安全性,密钥管理服务产品介绍,密钥管理服务应用场景,密钥管理服务安全合规",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "云安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/pt",
+      "title": "渗透测试服务_攻防演练_安全隐患排查_安全",
+      "short_title": "渗透测试服务",
+      "description": "阿里云渗透测试（Penetration Test）是一种黑盒安全测试方法，安全专家通过模拟真实黑客的技术手段对目标进行漏洞检测，突破系统的安全防护手段，深入评估漏洞可能造成的实际影响。帮助企业挖掘出正常业务流程中的隐藏的安全缺陷和漏洞，并提出修复建议。",
+      "keywords": "渗透测试,攻防演练,安全隐患挖掘,安全,安全测试,漏洞扫描,安全漏洞挖掘",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "业务安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/saf",
+      "title": "风险识别 - 实时欺诈检测与全链路风控",
+      "short_title": "风险识别",
+      "description": "风险识别是一套实时分析、精准识别、全场景覆盖的业务风险管理产品，帮助企业一站式管理注册、营销、交易等关键业务中的欺诈风险，为您的业务增长保驾护航。",
+      "keywords": "了解风险识别产品,查看风险识别场景,评估风险识别功能,风险识别产品介绍,风险识别应用场景,风险识别功能概览",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "身份安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/sddp",
+      "title": "数据安全中心 - 全域数据资产安全识别管控",
+      "short_title": "数据安全中心",
+      "description": "阿里云数据安全中心是一款一站式数据安全解决方案，提供敏感数据自动识别分级、泄露风险智能检测与响应、数据加密脱敏等核心能力，助您轻松满足数据安全合规要求，为业务发展构筑坚实的数据安全防线。",
+      "keywords": "了解数据安全中心,数据安全中心产品介绍,数据安全中心功能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "云安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/security/xianzhi/jiagu",
+      "title": "安全评估加固服务 - 云上资产全面的风险评估加固",
+      "short_title": "安全评估加固服务",
+      "description": "安全评估加固服务是阿里云权威的安全专家服务，提供从风险评估到漏洞修复、基线加固的定制化方案，全面提升您云上业务的安全水位，保障其持续稳定与合规。",
+      "keywords": "了解安全评估加固服务,安全评估加固服务介绍,安全评估加固服务内容,安全评估加固服务流程",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "业务安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/selectdb",
+      "title": "云数据库SelectDB - Apache Doris - 实时数仓 - 数据分析",
+      "short_title": "云数据库 SelectDB 版",
+      "description": "云数据库 SelectDB 版是新一代云原生实时数据仓库，其存算分离架构可大幅降低成本，并提供亚秒级实时查询与多维分析能力，助您轻松洞察海量数据，驱动业务创新增长。",
+      "keywords": "了解SelectDB版,评估SelectDB版,查看SelectDB版定价,SelectDB版产品介绍,SelectDB版应用场景,SelectDB版产品定价",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "关系型数据库",
+      "category_l2": "NoSQL数据库"
+    },
+    {
+      "url": "https://www.aliyun.com/product/slb",
+      "title": "负载均衡 SLB - 云上多层流量分发调度",
+      "short_title": "负载均衡SLB即开即用，自动弹性故障秒级切换，智能调度海量应用请求",
+      "description": "阿里云负载均衡SLB是对云上流量进行按需分发的高可用服务，具备超高性能与自动弹性伸缩能力，可消除单点故障，助您从容应对业务流量挑战，全面提升应用系统的可用性与稳定性。",
+      "keywords": "了解负载均衡SLB,选择SLB产品类型,了解SLB应用场景,负载均衡SLB产品介绍,负载均衡SLB产品选型,负载均衡SLB应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网站搭建",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/sls",
+      "title": "日志服务SLS - 一站式数据应用平台 - 高性价比与安全可靠",
+      "short_title": "高性价比、安全可靠的一站式数据应用平台日志服务 SLS丰富的场景化应用能力，为稳定性与安全性保驾护航",
+      "description": "阿里云日志服务SLS提供一站式数据采集、存储与应用服务，支持统一采集、极致性能、高性价比与安全稳定。满足运维、安全等场景需求，提供99.99% SLA保障，TCO低于自建50%。",
+      "keywords": "日志服务SLS, 数据采集, 日志分析, 阿里云日志, 数据存储, 安全合规, 运维监控",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "应用架构",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/sls/tech-solution",
+      "title": "日志服务SLS - 一站式数据应用平台 - 高性价比与安全可靠",
+      "short_title": "技术解决方案",
+      "description": "阿里云日志服务SLS提供一站式数据采集、存储与应用服务，支持统一采集、极致性能、高性价比与安全稳定。满足运维、安全等场景需求，提供99.99% SLA保障，TCO低于自建50%。",
+      "keywords": "日志服务SLS, 数据采集, 日志分析, 阿里云日志, 数据存储, 安全合规, 运维监控",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "基础存储服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/sms",
+      "title": "短信服务 - 高到达率验证码与通知短信解决方案",
+      "short_title": "短信服务",
+      "description": "阿里云短信服务支持全球验证码、通知、营销短信发送。覆盖200+国家和地区，国内到达率高达 99%。新用户免费试用200条。支持API/控制台群发，10 分钟快速接入。",
+      "keywords": "短信服务,验证码短信,通知短信,国际短信,短信API,高到达率,群发短信,短信防盗刷",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/sos",
+      "title": "安全管家服务 - 云上全栈监控与一键响应服务",
+      "short_title": "安全管家服务",
+      "description": "阿里云安全管家服务提供360°全栈风险监控、一键托管响应和成本优化，结合专家安全实践，帮助客户快速构建云上安全运营体系，保障业务安全。支持风险发现、分析、处置及培训赋能。",
+      "keywords": "安全管家服务,云上安全监控,一键响应托管,安全运营体系,风险处置,阿里云安全",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "业务安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/ssecp",
+      "title": "智能科教内容生成平台 - 高效个性化教育解决方案",
+      "short_title": "智能科教内容生成平台",
+      "description": "探索基于AI的智能科教内容生成平台，专为教育出版单位、在线教育公司等设计，提供从内容制作到个性化学习全链路支持。拥有智能批改、语音评测等功能，显著提升教学效果与学生参与度。",
+      "keywords": "智能科教,教育解决方案,AI教育,个性化学习,智能批改,语音评测,口语评测,在线教育,教育出版,学习硬件,英语培训",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "AI应用",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/storage/dbfs",
+      "title": "数据库文件存储 DBFS - 针对数据库场景的共享文件存储",
+      "short_title": "",
+      "description": "阿里云数据库文件存储DBFS基于共享存储架构，支持数据库定制和共享读写的线性扩展能力，提供低成本、高性能、高可用的存储服务，助力客户数据库业务无缝迁移上云。",
+      "keywords": "了解DBFS产品优势,了解DBFS产品功能,了解DBFS应用场景,DBFS产品介绍,DBFS产品优势,DBFS应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "容器",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/storage/nas_cpfs",
+      "title": "文件存储 CPFS - 高性能计算文件存储",
+      "short_title": "文件存储 CPFS",
+      "description": "文件存储CPFS是阿里云完全托管的高性能并行文件系统，专为AIGC、自动驾驶等场景设计，提供极致吞吐与亚毫秒级延迟，并与对象存储OSS无缝融合，助您高效处理海量数据，在加速创新的同时优化存储成本。",
+      "keywords": "了解CPFS产品,评估CPFS性能,查看CPFS应用场景,CPFS产品介绍,CPFS产品优势,CPFS应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "容器",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/storage/pds",
+      "title": "网盘与相册服务 - 企业级文件数据管理",
+      "short_title": "网盘与相册服务",
+      "description": "网盘与相册服务是阿里云提供的一站式数据管理开放平台，提供开箱即用的企业级文件集中管理、高效协同与安全管控能力，构筑安全可靠的数据协作基石，全面提升企业团队的协同效率。",
+      "keywords": "了解网盘与相册服务,网盘与相册服务产品介绍,网盘与相册服务应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "基础存储服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/storage/scu",
+      "title": "存储容量单位包SCU - 存储产品抵扣包 - 企业存储资源池 - 存储",
+      "short_title": "",
+      "description": "存储容量单位包 (SCU) 是阿里云推出的预付费存储资源包，兼具高性价比与灵活性。它支持统一抵扣多种云存储费用，大幅降低成本并简化管理，助您优化云上开销，提升整体运维效率。",
+      "keywords": "了解SCU产品,评估SCU适用性,购买SCU,SCU产品介绍,SCU产品优势,SCU应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "容器",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/swas",
+      "title": "轻量应用服务器_web服务器_个人建站_弹性计算",
+      "short_title": "轻量应用服务器",
+      "description": "轻量应用服务器 （Simple Application Server）是可快速搭建且易于管理的轻量级云服务器。精选定制应用镜像，提供基于单台服务器的应用部署，安全管理，运维监控等服务，一站式提升您的服务器使用体验和效率。",
+      "keywords": "轻量应用服务器,web服务器,个人建站,弹性计算,云端学习,网站服务器价格",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/tair",
+      "title": "云数据库 Tair - 兼容Redis高性能低延迟",
+      "short_title": "高性能的云数据库 Tair（兼容 Redis®*）Redis 开源版和 Tair 企业版，提供亚毫秒级的稳定时延",
+      "description": "云数据库 Tair - 全托管兼容Redis协议，提供亚毫秒级稳定时延及99.99% SLA。支持多架构弹性扩展，存储成本降低30%-70%，连续6年入选Gartner云数据库领导者象限 - 阿里云",
+      "keywords": "云数据库 Tair,Redis兼容数据库,高性能缓存,低延迟KV存储,降本增效",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "关系型数据库",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/tair/tech-solution",
+      "title": "云数据库 Tair - 兼容Redis高性能低延迟",
+      "short_title": "技术解决方案",
+      "description": "云数据库 Tair - 全托管兼容Redis协议，提供亚毫秒级稳定时延及99.99% SLA。支持多架构弹性扩展，存储成本降低30%-70%，连续6年入选Gartner云数据库领导者象限 - 阿里云",
+      "keywords": "云数据库 Tair,Redis兼容数据库,高性能缓存,低延迟KV存储,降本增效",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "关系型数据库",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/tongyi",
+      "title": "通义大模型_AI大模型_一站式大模型推理和部署服务",
+      "short_title": "通义大模型，万亿参数大模型重磅升级",
+      "description": "通义大模型是阿里云打造的高性能、低成本的AI基础设施，依托其深厚的训练数据与优化技术，支持全模态高效精准的模型服务调用和AI应用快速搭建，还能实现模型的高效训练。它以卓越的文本生成和理解能力，服务于广泛的领域，为用户提供性价比极高的智能解决方案，重新定义了AI应用的开发与部署标准。",
+      "keywords": "通义大模型,通义千问大模型,千问大模型,大模型,qwen,qwen3,通义",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/vms",
+      "title": "语音服务 - 语音通知 - 语音验证码 - 云通信",
+      "short_title": "语音服务",
+      "description": "阿里云语音服务是一站式语音通信云服务，提供稳定可靠的语音通知、验证码与智能机器人能力。凭借高可用、高并发与便捷接入的优势，全面提升客户触达效率与业务自动化水平。",
+      "keywords": "了解语音服务,了解语音服务定价,开通语音服务,语音服务产品介绍,语音服务产品功能,语音服务产品定价",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "企业云服务",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/vod",
+      "title": "视频点播VOD - 一站式音视频解决方案",
+      "short_title": "全场景一站式的视频点播让卓越视听体验，触手可及",
+      "description": "阿里云视频点播VOD提供集视频采集、编辑、上传、转码、审核、分发加速于一体的一站式服务。支持全场景转码、全球化分发、智能剪辑及多平台SDK集成，适用于视频网站、短视频、在线教育等场景。",
+      "keywords": "视频点播,VOD解决方案,音视频转码,视频分发,播放器SDK,短视频服务,在线教育视频,阿里云视频",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "应用架构",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/vpc",
+      "title": "专有网络 VPC - 构建逻辑隔离云上数据中心",
+      "short_title": "专有网络 VPC",
+      "description": "专有网络VPC，为您在阿里云上构建一个逻辑隔离、企业独享的私有网络环境。支持自定义IP与路由策略，轻松连接本地数据中心构建混合云，全面提升您云上网络的部署灵活性与管理效率。",
+      "keywords": "了解专有网络VPC,评估专有网络VPC,VPC产品介绍,VPC产品优势,VPC应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/vulnerability-management",
+      "title": "漏洞管理 - 自动化扫描与一键修复系统漏洞",
+      "short_title": "漏洞管理",
+      "description": "阿里云漏洞管理服务支持对Linux软件漏洞、Windows系统漏洞、Web-CMS漏洞、应用漏洞和应急漏洞进行自动化扫描。提供CVE系统漏洞一键修复功能，无需手动操作，提升安全防护效率。阿里云专业安全解决方案。",
+      "keywords": "漏洞管理,漏洞扫描,一键修复,CVE漏洞,自动化安全,阿里云安全",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "网络与CDN",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/waf",
+      "title": "Web应用防火墙WAF - 专业网站安全防护与等保合规",
+      "short_title": "Web应用防火墙 WAF专业、稳定的WAAP一体化应用安全防护方案",
+      "description": "阿里云Web应用防火墙 WAF，提供专业、稳定的一站式应用安全防护，可精准抵御Web攻击、恶意爬虫与API风险，并支持混合云等多场景部署，为您的核心业务与数据安全保驾护航。",
+      "keywords": "了解WAF产品,查看WAF应用场景,WAF产品简介,WAF产品优势,WAF应用场景",
+      "image": "https://img.alicdn.com/imgextra/i1/O1CN012QgtoH1c1Mu70xD3w_!!6000000003540-2-tps-640-640.png",
+      "category_l1": "应用架构",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/wuying/gws/personal_edition",
+      "title": "无影云电脑个人版_无影云桌面_云桌面办公_弹性计算",
+      "short_title": "无影云电脑个人版",
+      "description": "阿里云无影云电脑个人版是一种简单易用、安全高效的云上电脑，通过阿里云弹性计算云产品打造云上桌面服务，无影云桌面适用于个人和家庭，支持在多种终端设备上灵活使用。",
+      "keywords": "无影云电脑个人版,无影云桌面,云桌面办公,弹性计算,个人云电脑,云上桌面服务,桌面云电脑",
+      "image": "https://img.alicdn.com/imgextra/i4/O1CN01XVyswZ1VFNn61RIci_!!6000000002623-2-tps-1440-1440.png",
+      "category_l1": "高性能计算",
+      "category_l2": "Serverless"
+    },
+    {
+      "url": "https://www.aliyun.com/product/xianzhi/mlpse",
+      "title": "等保咨询服务 - 一站式等级保护合规解决方案",
+      "short_title": "等保咨询服务",
+      "description": "阿里云等保咨询服务是一站式合规解决方案，提供从定级、备案到整改测评的全流程专业指导，助您高效通过等保，轻松应对合规挑战，聚焦核心业务。",
+      "keywords": "了解等保咨询服务,购买等保咨询服务,等保咨询服务介绍,等保咨询服务优势,等保咨询服务功能",
+      "image": "https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png",
+      "category_l1": "业务安全",
+      "category_l2": ""
+    },
+    {
+      "url": "https://www.aliyun.com/product/yunxiao",
+      "title": "云效 - 企业级一站式DevOps研发协同平台",
+      "short_title": "",
+      "description": "云效是阿里云企业级一站式研发协同平台，提供从需求到发布的完整DevOps工具链与数据洞察，助力企业实现研发与组织双敏捷，提升交付效能。",
+      "keywords": "了解云效产品,了解云效优势,了解云效应用场景,云效产品介绍,云效产品优势,云效产品矩阵",
+      "image": "https://img.alicdn.com/tfs/TB1ENFGvFP7gK0jSZFjXXc5aXXa-350-350.png",
+      "category_l1": "应用集成",
+      "category_l2": "API 与工具"
+    },
+    {
+      "url": "https://www.aliyun.com/product/yunxiao/appstack",
+      "title": "云效应用交付平台AppStack - 云原生应用交付平台 - 应用持续交付 - 开发与运维",
+      "short_title": "云效应用交付平台 AppStack",
+      "description": "云效应用交付平台AppStack是一站式云原生应用交付平台，提供应用全生命周期管理与自动化持续交付能力，助您提升交付质量与效率，加速企业DevOps转型。",
+      "keywords": "了解云效AppStack,评估云效AppStack,云效AppStack产品介绍,云效AppStack功能特性,云效AppStack应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1ENFGvFP7gK0jSZFjXXc5aXXa-350-350.png",
+      "category_l1": "应用集成",
+      "category_l2": "API 与工具"
+    },
+    {
+      "url": "https://www.aliyun.com/product/yunxiao/codeup",
+      "title": "云效代码管理 Codeup_代码托管_企业级代码管理平台",
+      "short_title": "",
+      "description": "云效代码管理 Codeup，10万企业都在用的代码管理平台，提供代码托管、代码评审、代码扫描、质量检测、持续集成等功能，全方位保护企业代码资产，帮助企业实现安全、稳定、高效的研发管理。",
+      "keywords": "云效,代码托管,代码管理,代码评审,代码安全,codeup,项目协作",
+      "image": "https://img.alicdn.com/tfs/TB1ENFGvFP7gK0jSZFjXXc5aXXa-350-350.png",
+      "category_l1": "应用集成",
+      "category_l2": "API 与工具"
+    },
+    {
+      "url": "https://www.aliyun.com/product/yunxiao/flow",
+      "title": "云效持续集成流水线 Flow - 持续集成持续交付流水线",
+      "short_title": "",
+      "description": "阿里云云效持续集成流水线提供自动化研发交付解决方案，支持高可用架构与深度阿里云集成。具备蓝绿发布、分批部署等策略，通过ISO 27001认证，保障企业级DevOps效率与安全。",
+      "keywords": "了解云效Flow产品,了解云效Flow功能,了解云效Flow优势,云效Flow产品介绍,云效Flow产品优势,云效Flow应用场景",
+      "image": "https://img.alicdn.com/tfs/TB1ENFGvFP7gK0jSZFjXXc5aXXa-350-350.png",
+      "category_l1": "应用集成",
+      "category_l2": "API 与工具"
+    },
+    {
+      "url": "https://www.aliyun.com/product/yunxiao/packages",
+      "title": "云效制品仓库 Packages - 多种类型制品托管管理",
+      "short_title": "",
+      "description": "云效制品仓库 Packages 是企业级制品管理服务，支持多类型制品与精细化权限管控，无缝集成CI/CD，全面保障企业研发资产安全与交付效率。",
+      "keywords": "了解云效制品仓库,评估云效制品仓库,查询云效制品仓库规格,云效制品仓库介绍,云效制品仓库优势,云效制品仓库定价",
+      "image": "https://img.alicdn.com/tfs/TB1ENFGvFP7gK0jSZFjXXc5aXXa-350-350.png",
+      "category_l1": "应用集成",
+      "category_l2": "API 与工具"
+    },
+    {
+      "url": "https://www.aliyun.com/product/yunxiao/project",
+      "title": "云效项目协作 Projex - 企业级研发项目全流程协作管理",
+      "short_title": "",
+      "description": "云效项目协作Projex是新一代企业级项目协作工具，提供项目、需求、迭代与缺陷管理，支持多种研发模式与自动化工作流，助力企业实现组织敏捷与高效研发。",
+      "keywords": "了解云效项目协作Projex,评估云效项目协作Projex,Projex产品介绍,Projex产品优势,Projex产品功能",
+      "image": "https://img.alicdn.com/tfs/TB1ENFGvFP7gK0jSZFjXXc5aXXa-350-350.png",
+      "category_l1": "应用集成",
+      "category_l2": "API 与工具"
+    }
+  ]
+}
