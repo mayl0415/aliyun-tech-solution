@@ -1,64 +1,72 @@
-# Aliyun Tech Solution Crawler & Agent
+# 云厂商产品与解决方案知识库
 
-这是一个用于自动爬取阿里云官网技术解决方案（Tech Solutions）并将其转化为 Markdown 格式的工具库，同时也包含与阿里云 SDK 集成的示例代码。
+从阿里云、腾讯云、华为云三大云厂商爬取的产品介绍与技术解决方案，共 **1519 篇** Markdown 文档，按云厂商和类别组织。
 
-## 🚀 功能特性
+## 数据总览
 
-- **自动爬虫**：从阿里云开发者中心 API 获取最新的技术解决方案列表。
-- **HTML 转 Markdown**：自动抓取解决方案详情页，清理无关导航和样式，转换为干净的 Markdown 文档。
-- **元数据管理**：自动生成 `metadata.json` 和 `solution_list.json` 以便后续处理。
-- **内容保存**：抓取的内容存储在 `arch-solutions/raw` 目录下。
-- **阿里云 SDK 集成**：包含使用阿里云 Python SDK 进行资源查询（如 ECS 实例类型）的示例。
-- **语义化集成**：预装了 LangChain 和 Ollama 等 AI 工具，方便后续进行 RAG（检索增强生成）或 Agent 开发。
+| 云厂商 | 产品 | 解决方案 | 合计 |
+|--------|------|----------|------|
+| 阿里云 | 259 | 179 | 438 |
+| 腾讯云 | 352 | 178 | 530 |
+| 华为云 | 239 | 312 | 551 |
+| **合计** | **850** | **669** | **1519** |
 
-## 📂 项目结构
+## 目录结构
 
-```text
-.
-├── aliyun/
-│   └── crawler.py         # 解决方案爬虫主脚本
-├── arch-solutions/        # 爬取的输出目录
-│   ├── raw/               # 转换后的 Markdown 文件
-│   ├── metadata.json      # 抓取的任务元数据
-│   └── solution_list.json # 原始解决方案列表
-├── aliyun.py              # 阿里云 SDK 调用示例
-├── main.py                # 项目入口入口
-├── pyproject.toml         # 项目配置与依赖管理
-└── README.md
+```
+aliyun-product/products_v2/{类别}/         # 阿里云产品 (259篇, 60个类别)
+arch-solutions/organized/{类别}/{子类别}/   # 阿里云解决方案 (179篇, 7个类别)
+tencent-product/products/{类别}/           # 腾讯云产品 (352篇, 20个类别)
+tencent-product/solutions/{L1类别}/        # 腾讯云解决方案 (178篇, 3个类别)
+huaweicould-product/products/{类别}/       # 华为云产品 (239篇, 27个类别)
+huaweicould-solutions/solutions/           # 华为云解决方案 (312篇)
 ```
 
-## 🛠️ 快速开始
+## 内容覆盖
 
-### 1. 安装依赖
-本项目使用 `uv` 进行包管理（推荐），也可以使用 `pip`:
+**产品类别**涵盖：计算、存储、数据库、网络、安全、AI/机器学习、大数据、容器、中间件、开发运维、物联网、视频服务、CDN 等。
+
+**解决方案**覆盖行业：AI、金融、制造、汽车、零售、教育、医疗、政府、互联网、智慧园区等。
+
+## Markdown 格式
+
+每篇文档包含 YAML frontmatter 元数据和正文内容：
+
+```markdown
+---
+title: "产品/方案名称"
+url: https://cloud.xxx.com/product/xxx
+category: "分类"
+crawled_at: 2026-02-09T12:00:00
+---
+
+# 标题
+
+产品介绍、功能特性、架构图等...
+```
+
+## 用途
+
+- RAG（检索增强生成）知识库
+- 云产品对比分析
+- 行业解决方案调研
+- 云厂商产品图谱构建
+
+## 技术栈
+
+- Python 3.12 + uv
+- 网页爬取：requests、beautifulsoup4、markdownify、trafilatura
+- 浏览器自动化：agent-browser（处理需要 JS 渲染的页面）
+- AI/LLM：langchain、langchain-ollama
+
+## 快速开始
 
 ```bash
-# 使用 uv
-uv sync
-
-# 使用 pip
-pip install -r requirements.txt
+uv sync  # 安装依赖
 ```
 
-### 2. 爬取阿里云解决方案
-运行爬虫脚本，它会自动抓取所有技术解决方案并保存到 `arch-solutions` 目录：
+爬虫脚本位于各模块目录下，详见 [CLAUDE.md](CLAUDE.md) 中的工具与爬虫章节。
 
-```bash
-python aliyun/crawler.py
-```
+## License
 
-### 3. 使用阿里云 SDK
-在使用 `aliyun.py` 前，请确保已设置环境变量：
-
-```bash
-export ALIBABA_CLOUD_ACCESS_KEY_ID="您的AccessKeyID"
-export ALIBABA_CLOUD_ACCESS_KEY_SECRET="您的AccessKeySecret"
-
-python aliyun.py
-```
-
-## 🔐 安全说明
-项目代码中**严禁硬编码**任何阿里云 AccessKey 和 Secret。所有密钥应通过环境变量或安全的配置文件读取。`.gitignore` 已经配置了常见的敏感文件过滤。
-
-## 📜 开源协议
-MIT License
+MIT
