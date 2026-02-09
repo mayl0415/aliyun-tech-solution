@@ -1,0 +1,432 @@
+{
+  "summary": {
+    "total_files": 352,
+    "total_unique_images": 1890,
+    "cross_file_duplicate_images": 151,
+    "files_with_internal_duplicates": 0
+  },
+  "cross_file_duplicates": {
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/6a41d5ec-7e68-46b1-aaac-61783594d095.png": {
+      "count": 4,
+      "files": [
+        "大数据/数字孪生简报.md",
+        "视频服务/云渲染.md",
+        "行业应用/互动白板.md",
+        "行业应用/数智医疗影像平台.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/6b4d42a6-dd75-4f38-a7c8-a1e0379eeb4c.png": {
+      "count": 4,
+      "files": [
+        "大数据/数字孪生简报.md",
+        "物联网/物联网设备洞察.md",
+        "办公协同/腾讯云商付.md",
+        "服务与营销/营销智能推荐.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/tcloud_dtc/static/tc_portal_icon/b9b6aa1c-418f-4197-9d4c-7685670a5073.png": {
+      "count": 4,
+      "files": [
+        "大数据/腾讯云数据仓库 TCHouse-X.md",
+        "计算/高性能计算平台.md",
+        "容器与中间件/Prometheus 监控服务.md",
+        "CDN与边缘/DDoS 防护.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/tcloud_dtc/static/tc_portal_icon/c196ef87-cc5c-4361-a4ab-2884828ea399.png": {
+      "count": 4,
+      "files": [
+        "大数据/弹性 MapReduce.md",
+        "推荐/TDSQL-C MySQL 版.md",
+        "推荐/内容分发网络 CDN.md",
+        "视频服务/音视频终端 SDK(腾讯云视立方).md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/53dbb69c-f12b-4eef-a8af-cd91b03b93c8.png": {
+      "count": 4,
+      "files": [
+        "大数据/数字孪生可视化专业版RayData Plus.md",
+        "安全/流量反欺诈.md",
+        "办公协同/腾讯云安灯.md",
+        "行业应用/数学作业批改.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/807fe8be-90e1-4b36-b02b-5fcaefcded07.png": {
+      "count": 4,
+      "files": [
+        "物联网/物联网设备洞察.md",
+        "网络/智能高性能网络.md",
+        "计算/容器服务.md",
+        "行业应用/数学作业批改.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/tcloud_dtc/static/tc_portal_icon/488957cf-f31c-44cf-b2c9-fefe84e01288.png": {
+      "count": 4,
+      "files": [
+        "开发与运维/软件成分分析.md",
+        "安全/Web 应用防火墙.md",
+        "人工智能与机器学习/文字识别.md",
+        "行业应用/数学作业批改.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/tcloud_dtc/static/tc_portal_icon/7a29b9e6-83a1-4aac-81a2-0908451148d0.png": {
+      "count": 4,
+      "files": [
+        "开发与运维/腾讯云助手.md",
+        "安全/安全专家服务.md",
+        "安全/密钥管理系统.md",
+        "容器与中间件/云监控.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/03aeb22c-0014-42a9-9764-a79c79b080d1.png": {
+      "count": 4,
+      "files": [
+        "开发与运维/云资源自动化 for Crossplane.md",
+        "开发与运维/云原生构建.md",
+        "安全/Web 应用防火墙.md",
+        "推荐/域名注册.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/90dfdab1-25dc-497e-a186-1f8c2f0091c4.png": {
+      "count": 4,
+      "files": [
+        "开发与运维/云原生构建.md",
+        "推荐/Cloud Mate.md",
+        "推荐/腾讯云数据库AI服务.md",
+        "服务与营销/客服大模型机器人.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/e0849049-ebd8-46c0-86ca-abf84afb6800.png": {
+      "count": 4,
+      "files": [
+        "安全/小程序安全防护.md",
+        "人工智能与机器学习/联网搜索API.md",
+        "云通信与企业服务/跨链服务平台.md",
+        "视频服务/云渲染.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/108cb1b4-5ef6-4e51-b130-cc03cfefcb70.png": {
+      "count": 4,
+      "files": [
+        "安全/小程序安全防护.md",
+        "安全/iOA 零信任安全管理系统.md",
+        "数据库/云数据库 KeeWiDB.md",
+        "云通信与企业服务/跨链服务平台.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/5fe22d1e-feb5-43e6-b529-3e2b1c2fdcb9.png": {
+      "count": 4,
+      "files": [
+        "安全/iOA 零信任安全管理系统.md",
+        "行业应用/数学作业批改.md",
+        "行业应用/英文作文批改.md",
+        "服务与营销/电子行业-腾采通.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/e0d8ea49-5476-483e-8a5a-94b6630619e9.png": {
+      "count": 4,
+      "files": [
+        "计算/容器服务.md",
+        "数据库/轻量数据库.md",
+        "办公协同/腾讯云商付.md",
+        "服务与营销/金融行业-QTrade.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/tHi-pVFmBMVc0yBKwzJsQ.svg": {
+      "count": 4,
+      "files": [
+        "容器与中间件/注册配置治理.md",
+        "容器与中间件/应用管理.md",
+        "推荐/云手机.md",
+        "视频服务/实时音视频.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/b58cc874-4321-43b6-a6b7-21aef1a08f0d.png": {
+      "count": 4,
+      "files": [
+        "推荐/事件中心.md",
+        "人工智能与机器学习/腾讯混元生图.md",
+        "人工智能与机器学习/腾讯混元生3D.md",
+        "人工智能与机器学习/腾讯混元生视频.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/f35ea39e-88bc-4184-bbeb-ab0cdff4ec0d.png": {
+      "count": 4,
+      "files": [
+        "推荐/云手机.md",
+        "人工智能与机器学习/腾讯混元生图.md",
+        "视频服务/实时互动-教育版.md",
+        "视频服务/实时互动-物联版.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/f99007f1-a45c-48a2-91de-556f72cf00f0.png": {
+      "count": 4,
+      "files": [
+        "人工智能与机器学习/腾讯混元生图.md",
+        "行业应用/互动白板.md",
+        "行业应用/家医助手.md",
+        "服务与营销/数字会展.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/b81c8e72-40c2-4ef2-94c5-a6b9274353f0.png": {
+      "count": 4,
+      "files": [
+        "人工智能与机器学习/腾讯混元生图.md",
+        "人工智能与机器学习/腾讯混元生3D.md",
+        "人工智能与机器学习/图像理解.md",
+        "服务与营销/客服智能质检.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/f5cf1b4d-72b9-491e-aedc-818cd806bc10.png": {
+      "count": 4,
+      "files": [
+        "人工智能与机器学习/文本内容安全.md",
+        "人工智能与机器学习/视频内容安全.md",
+        "人工智能与机器学习/音频内容安全.md",
+        "人工智能与机器学习/图片内容安全.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/8bd27a53-cfed-41f7-b920-f6c6825fab3a.png": {
+      "count": 4,
+      "files": [
+        "办公协同/腾讯云安灯.md",
+        "行业应用/家医助手.md",
+        "行业应用/数智医疗影像平台.md",
+        "服务与营销/在线坐席.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/44cc6259-c6ea-47cc-a6b5-6f2ce50219e5.png": {
+      "count": 3,
+      "files": [
+        "大数据/多模态智能数据湖 TCLake.md",
+        "人工智能与机器学习/腾讯混元生3D.md",
+        "视频服务/腾讯特效 SDK.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/7fad7ba1-c554-421a-9298-4f69df0fed01.png": {
+      "count": 3,
+      "files": [
+        "大数据/多模态智能数据湖 TCLake.md",
+        "推荐/事件中心.md",
+        "人工智能与机器学习/图像理解.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/3056b6dc-06f1-408c-959e-063547ce46be.png": {
+      "count": 3,
+      "files": [
+        "大数据/多模态智能数据湖 TCLake.md",
+        "推荐/腾讯混元生文.md",
+        "行业应用/腾讯健康组学平台.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/90e15680-4dbd-4065-b620-553e498bc8b2.png": {
+      "count": 3,
+      "files": [
+        "大数据/多模态智能数据湖 TCLake.md",
+        "视频服务/云联络中心.md",
+        "行业应用/NGES 医生互动管理套件.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/9225b489-2ab2-48dc-8957-7f9472b84c1a.png": {
+      "count": 3,
+      "files": [
+        "大数据/Elasticsearch Service.md",
+        "行业应用/数智医疗影像平台.md",
+        "服务与营销/客服大模型机器人.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/002c5399-7cb6-40bd-b77d-91fe18673b67.png": {
+      "count": 3,
+      "files": [
+        "大数据/Elasticsearch Service.md",
+        "开发与运维/腾讯云微搭低代码.md",
+        "行业应用/互动白板.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/tcloud_dtc/static/tc_portal_icon/53dbb69c-f12b-4eef-a8af-cd91b03b93c8.png": {
+      "count": 3,
+      "files": [
+        "大数据/弹性 MapReduce.md",
+        "安全/NDR网络威胁检测系统.md",
+        "行业应用/企业金融服务平台.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/6e7afdb4-0c02-4607-aa76-9a63aad5bf7d.png": {
+      "count": 3,
+      "files": [
+        "大数据/数字孪生可视化专业版RayData Plus.md",
+        "开发与运维/基础设施即代码.md",
+        "开发与运维/资源中心.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/a879a5a0-390d-4def-9d40-fabe15de43d7.png": {
+      "count": 3,
+      "files": [
+        "大数据/数据开发治理平台 WeData.md",
+        "安全/威胁情报云查与本地引擎.md",
+        "推荐/Cloud Mate.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/a6ec20bb-9dc4-4718-b694-05fe642023bc.png": {
+      "count": 3,
+      "files": [
+        "大数据/数据开发治理平台 WeData.md",
+        "推荐/大模型web应用防火墙.md",
+        "服务与营销/营销自动化.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/ec94ff9b-3825-4f33-a190-bae680b78b9f.png": {
+      "count": 3,
+      "files": [
+        "物联网/物联网设备洞察.md",
+        "数据库/向量数据库.md",
+        "服务与营销/金融行业-QTrade.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/fb969ba0-d9db-4e6f-8b47-7420462d3388.png": {
+      "count": 3,
+      "files": [
+        "网络/智能高性能网络.md",
+        "推荐/终端性能监控PRO.md",
+        "数据库/云数据库 KeeWiDB.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/8973c8c8-b3a2-4337-98e5-2f94927a415f.png": {
+      "count": 3,
+      "files": [
+        "开发与运维/TRTC云助手.md",
+        "办公协同/腾讯电子签.md",
+        "行业应用/医疗内容平台.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/tcloud_dtc/static/tc_portal_icon/e0d8ea49-5476-483e-8a5a-94b6630619e9.png": {
+      "count": 3,
+      "files": [
+        "开发与运维/集团账号管理.md",
+        "开发与运维/多云管理.md",
+        "存储/文件存储.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/dacf791b-e131-4397-b676-653e42e8cf17.png": {
+      "count": 3,
+      "files": [
+        "开发与运维/云资源自动化 for Terraform.md",
+        "存储/智算存储 NitroFS.md",
+        "推荐/Cloud Mate.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/fda0213b-8f1a-4e65-9996-0e066fa8b5ea.png": {
+      "count": 3,
+      "files": [
+        "开发与运维/云资源自动化 for Terraform.md",
+        "开发与运维/云原生构建.md",
+        "办公协同/腾讯云企业网盘.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/cb96bd94-8569-4a7a-bcb0-c607d2c36246.png": {
+      "count": 3,
+      "files": [
+        "开发与运维/Cloud Studio（云端 IDE）.md",
+        "开发与运维/云资源自动化 for Crossplane.md",
+        "行业应用/智聆口语评测.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/b81fa282-2a2e-456a-ab21-a3e91ec901b6.png": {
+      "count": 3,
+      "files": [
+        "开发与运维/Cloud Studio（云端 IDE）.md",
+        "安全/小程序安全防护.md",
+        "容器与中间件/腾讯云可观测平台.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/tcloud_dtc/static/tc_portal_icon/6e7afdb4-0c02-4607-aa76-9a63aad5bf7d.png": {
+      "count": 3,
+      "files": [
+        "开发与运维/云压测.md",
+        "容器与中间件/Prometheus 监控服务.md",
+        "云通信与企业服务/短信.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/d5eccf4e-504f-4993-8fc6-60e8de0cc257.png": {
+      "count": 3,
+      "files": [
+        "开发与运维/智能顾问.md",
+        "存储/智能视图计算平台.md",
+        "视频服务/实时互动-教育版.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/tcloud_dtc/static/tc_portal_icon/cb96bd94-8569-4a7a-bcb0-c607d2c36246.png": {
+      "count": 3,
+      "files": [
+        "开发与运维/云 API.md",
+        "安全/游戏反作弊 ACE.md",
+        "人工智能与机器学习/人脸识别.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/8a22f9d2-c254-4e68-89a0-30f799db0dc8.png": {
+      "count": 3,
+      "files": [
+        "安全/暴露面管理服务.md",
+        "存储/云迁移.md",
+        "行业应用/AI 临床助手.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/tcloud_dtc/static/portal_advantage_new/8044b68a-dfcd-4221-b01d-d374b98ebf4e.png": {
+      "count": 3,
+      "files": [
+        "安全/渗透测试服务.md",
+        "安全/iOA 零信任安全管理系统.md",
+        "安全/密钥管理系统.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/tcloud_dtc/static/tc_portal_icon/487b5977-554d-40a5-835b-5077fae90141.png": {
+      "count": 3,
+      "files": [
+        "安全/容器安全服务.md",
+        "推荐/TDSQL-C MySQL 版.md",
+        "数据库/云原生数据库 TDSQL-C.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/5cca1d2e-3eff-446b-8900-a998d1feab71.png": {
+      "count": 3,
+      "files": [
+        "安全/流量反欺诈.md",
+        "行业应用/智慧零售增长平台 Lite 版.md",
+        "服务与营销/融合分析.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/6b0b62ad-2a9a-4a00-a536-e67223017d34.png": {
+      "count": 3,
+      "files": [
+        "安全/iOA 零信任安全管理系统.md",
+        "视频服务/直播 SDK.md",
+        "视频服务/音视频通话 SDK.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/5c19c5ab-76d2-4f19-986a-7cc7eff414d5.png": {
+      "count": 3,
+      "files": [
+        "安全/威胁情报云查与本地引擎.md",
+        "数据库/云数据库 KeeWiDB.md",
+        "办公协同/腾讯云商付.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/b9b6aa1c-418f-4197-9d4c-7685670a5073.png": {
+      "count": 3,
+      "files": [
+        "存储/智能视图计算平台.md",
+        "数据库/向量数据库.md",
+        "视频服务/媒体传输加速.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/37aea2b4-ec78-44ca-a9b1-18e9ba55d9e0.png": {
+      "count": 3,
+      "files": [
+        "存储/智算存储 NitroFS.md",
+        "推荐/Cloud Mate.md",
+        "数据库/向量数据库.md"
+      ]
+    }
+  },
+  "in_file_duplicates": {}
+}

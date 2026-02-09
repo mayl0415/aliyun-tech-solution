@@ -1,0 +1,3515 @@
+{
+  "products": [
+    {
+      "title": "云服务器",
+      "slug": "cvm",
+      "url": "https://cloud.tencent.com/product/cvm",
+      "desc": "安全稳定，高弹性的计算服务",
+      "description": "稳定、安全、弹性、高性能的云端计算服务，实时满足您的多样性业务需求",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "热门产品"
+    },
+    {
+      "title": "轻量应用服务器",
+      "slug": "lighthouse",
+      "url": "https://cloud.tencent.com/product/lighthouse",
+      "desc": "开箱即用，轻量应用场景首选",
+      "description": "简单易用的云服务器，助您快速构建并管理轻量级应用",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "热门产品"
+    },
+    {
+      "title": "TDSQL-C MySQL 版",
+      "slug": "cynosdb",
+      "url": "https://cloud.tencent.com/product/cynosdb",
+      "desc": "完全兼容MySQL的云原生数据库",
+      "description": "高性能高可用云原生数据库",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "热门产品"
+    },
+    {
+      "title": "域名注册",
+      "slug": "domain",
+      "url": "https://cloud.tencent.com/product/domain",
+      "desc": "专业域名服务，安全、省心、可信赖",
+      "description": "提供域名注册、域名查询、域名购买到移动解析一站式满足超百万用户的整体需求",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "热门产品"
+    },
+    {
+      "title": "ICP备案",
+      "slug": "ba",
+      "url": "https://cloud.tencent.com/product/ba",
+      "desc": "备案备多久，云服务免费用多久",
+      "description": "快速初审、免费幕布、备案补偿的网站备案办理服务，支持 7*24 小时咨询",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "热门产品"
+    },
+    {
+      "title": "对象存储",
+      "slug": "cos",
+      "url": "https://cloud.tencent.com/product/cos",
+      "desc": "安全稳定、便捷易用、低成本的海量云端存储服务",
+      "description": "安全稳定、海量、便捷、低延迟、低成本的云端存储服务",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "热门产品"
+    },
+    {
+      "title": "内容分发网络 CDN",
+      "slug": "cdn",
+      "url": "https://cloud.tencent.com/product/cdn",
+      "desc": "快速、稳定、智能、可靠的内容加速服务",
+      "description": "快速、稳定、智能、可靠的内容加速服务，支持图片、音视频等多元内容分发",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "热门产品"
+    },
+    {
+      "title": "通用文字识别",
+      "slug": "generalocr",
+      "url": "https://cloud.tencent.com/product/generalocr",
+      "desc": "多场景整图文字的高精度检测和识别服务",
+      "description": "印刷体、手写体等多场景、多语种的高精度整图文字检测和识别服务",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "热门产品"
+    },
+    {
+      "title": "腾讯云代码助手",
+      "slug": "acc",
+      "url": "https://cloud.tencent.com/product/acc",
+      "desc": "AI加持下的全新开发体验",
+      "description": "借助 AI 在代码方面的行业模型能力，通过和编辑器的紧密联动，来提升开发者日常的开发效率，支持对话交流、代码翻译、代码修复等一系列场景。",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "热门产品"
+    },
+    {
+      "title": "即时通信 IM",
+      "slug": "im",
+      "url": "https://cloud.tencent.com/product/im",
+      "desc": "承载支撑亿级 QQ 用户的通信服务",
+      "description": "企业数字化转型的通信助手，让通信触达全球，智联万物",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "热门产品"
+    },
+    {
+      "title": "标准直播",
+      "slug": "lvb",
+      "url": "https://cloud.tencent.com/product/lvb",
+      "desc": "专业稳定快速的直播接入和分发服务",
+      "description": "提供专业、稳定的直播接入和分发服务",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "热门产品"
+    },
+    {
+      "title": "云点播",
+      "slug": "vod",
+      "url": "https://cloud.tencent.com/product/vod",
+      "desc": "一站式媒体转码分发平台",
+      "description": "提供端到端的一站式 VpaaS 音视频点播解决方案",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "热门产品"
+    },
+    {
+      "title": "云开发 CloudBase",
+      "slug": "tcb",
+      "url": "https://cloud.tencent.com/product/tcb",
+      "desc": "为移动应用开发提供后端云服务",
+      "description": "为移动应用开发提供一站式后端云服务，降低开发门槛，提高开发效率",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "热门产品"
+    },
+    {
+      "title": "云手机",
+      "slug": "cvp",
+      "url": "https://cloud.tencent.com/product/cvp",
+      "desc": "安全、稳定、流畅的云手机",
+      "description": "云手机（Cloud Virtual Phone，CVP）安全、稳定、流畅的云手机，提供一站式云手机解决方案。",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "最新产品"
+    },
+    {
+      "title": "腾讯云数据库AI服务",
+      "slug": "tdai",
+      "url": "https://cloud.tencent.com/product/tdai",
+      "desc": "腾讯云数据库 AI 服务（TencentDB AI Service）是一款企业级数据库智能治理分析服务。",
+      "description": "以 AI 深度赋能数据库治理效能提升，推动 AI 充分释放数据价值为核心目标，依托自研数据库垂类模型，全域上下文和工具集等基础设施，构建系列数据库开发运维智能体。",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "最新产品"
+    },
+    {
+      "title": "Agent 沙箱服务",
+      "slug": "agentsandbox",
+      "url": "https://cloud.tencent.com/product/agentsandbox",
+      "desc": "Agent 沙箱服务是企业级智能体执行环境基础设施，为业务 Agent 提供安全隔离、多环境托管、可观测调试的沙箱能力，帮助企业在 AI Agent 落地时解决环境依赖、安全合规、资源调度等工程化问题。",
+      "description": "Agent 沙箱服务是企业级智能体执行环境基础设施，为业务 Agent 提供安全隔离、多环境托管、可观测调试的沙箱能力，帮助企业在 AI Agent 落地时解决环境依赖、安全合规、资源调度等工程化问题。",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "最新产品"
+    },
+    {
+      "title": "TDSQL Boundless",
+      "slug": "tdsqlb",
+      "url": "https://cloud.tencent.com/product/tdsqlb",
+      "desc": "TDSQL Boundless 基于腾讯云自研的数据库引擎，高度兼容 MySQL。",
+      "description": "TDSQL Boundless 是腾讯新一代分布式数据库产品，基于腾讯云自研的数据库引擎，高度兼容 MySQL。它集极致成本优化、透明弹性伸缩与金融级高可用于一体，让用户无需为业务增长、规模扩张及随之而来的高昂成本与复杂度操心。",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "最新产品"
+    },
+    {
+      "title": "终端性能监控PRO",
+      "slug": "rumpro",
+      "url": "https://cloud.tencent.com/product/rumpro",
+      "desc": "终端性能监控PRO",
+      "description": "终端性能监控 Pro​​ 是一站式客户端应用质量监控与管理平台，专注于为您的客户端应用（Android、iOS、鸿蒙、Windows、Flutter 等）提供全面的崩溃分析、性能监控、异常告警能力",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "最新产品"
+    },
+    {
+      "title": "事件中心",
+      "slug": "evt",
+      "url": "https://cloud.tencent.com/product/evt",
+      "desc": "事件中心可以通过对用户的自然语言的意图识别，快速帮助用户建立对不同事件发生的感知后触发对应的流程，可以自动化管理腾讯云的云资源及用户的日常生活。",
+      "description": "事件中心（Event Center），通过策略配置、定时监控、智能生成、自动化响应执行，帮助企业高效处理云资源日常审批分配以及快速感知异常事件并精准串联执行一系列云产品策略，可快速提升云资源管理效率，降低业务变更风险，保障业务连续性与云上架构稳定性。",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "最新产品"
+    },
+    {
+      "title": "腾讯混元生文",
+      "slug": "hytg",
+      "url": "https://cloud.tencent.com/product/hytg",
+      "desc": "腾讯混元生文是基于腾讯自研混元大模型的文本生成与理解服务，提供高质量的文本创作、逻辑推理和多轮对话能力。",
+      "description": "腾讯混元生文，是一款提供文本生成与理解能力的API技术服务。该服务基于腾讯混元大模型等一系列领先的自然语言AI技术，支持高质量的文本内容生成、深度逻辑推理和多轮对话交互。既能帮助专业创作者降低内容制作成本、快速激发创作灵感，又能提升智能客服、办公协作等场景的交互效率。可广泛应用于内容创作、办公协作、教育培训、社交娱乐等多个领域。",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "最新产品"
+    },
+    {
+      "title": "大模型web应用防火墙",
+      "slug": "llmwaf",
+      "url": "https://cloud.tencent.com/product/llmwaf",
+      "desc": "大模型Web应用防火墙",
+      "description": "腾讯云 WAF 针对大模型应用场景推出的安全防护产品，主要提供算力滥用防护、提示词攻击拦截、涉敏信息防护及敏感个人信息识别。",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "最新产品"
+    },
+    {
+      "title": "PAG 动效",
+      "slug": "pag",
+      "url": "https://cloud.tencent.com/product/pag",
+      "desc": "PAG 动效工作流解决方案",
+      "description": "PAG 动效工作流解决方案。能够一键将设计师在 AE 中制作的动效内容导出成素材文件，并快速上线应用于几乎所有的主流平台。",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "最新产品"
+    },
+    {
+      "title": "小程序加速",
+      "slug": "mpa",
+      "url": "https://cloud.tencent.com/product/mpa",
+      "desc": "小程序加速MPA",
+      "description": "小程序加速是基于微信原生安全防护能力，面向广大开发者和企业的微信小程序、H5页面及 APP 等多端业务提供一站式安全加速服务。",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "最新产品"
+    },
+    {
+      "title": "Cloud Mate",
+      "slug": "cloudmate",
+      "url": "https://cloud.tencent.com/product/cloudmate",
+      "desc": "一款基于大语言模型技术的智能运维 AI Agent，通过分析业务系统的指标、日志、Trace 和变更记录等监控数据，实现对系统异常问题的智能诊断与根因定位，并能提供针对性问题修复建议。",
+      "description": "一款基于大语言模型技术的智能运维 AI Agent，通过分析业务系统的指标、日志、Trace 和变更记录等监控数据，实现对系统异常问题的智能诊断与根因定位，并能提供针对性问题修复建议。",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "最新产品"
+    },
+    {
+      "title": "联网图像搜索",
+      "slug": "wimgs",
+      "url": "https://cloud.tencent.com/product/wimgs",
+      "desc": "联网图像搜索基于网络图片库提供智能联网图像搜索服务。用户输入文本描述，模型通过计算文本向量与图像向量的相似度，精准匹配并返回相关图片URL等信息。",
+      "description": "随着设计、教育等行业的快速发展，尤其是在线学习、数字化设计和创意内容的普及，图像搜索的需求不断增加。同时，大模型的快速发展推动了AI搜索向多模态方向的演进，进一步加速了对精准图像搜索技术的需求。\\n文搜图API产品通过提供精准的图像搜索服务，可以满足各类行业的关键词搜图需求。主要竞争产品包括国内外的大型搜索引擎平台，如谷歌、Bing、百度等，一些AI大模型研发和应用公司随着规模增长，也可能自建图片搜索从而参与竞争。",
+      "tag": "",
+      "category_l1": "推荐",
+      "category_l2": "最新产品"
+    },
+    {
+      "title": "裸金属云服务器",
+      "slug": "cbm",
+      "url": "https://cloud.tencent.com/product/cbm",
+      "desc": "独享高性能物理服务器租赁服务",
+      "description": "按需购买、按量付费的物理服务器租赁服务，为您提供云端专用、安全隔离的高性能物理集群",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "计算"
+    },
+    {
+      "title": "GPU 云服务器",
+      "slug": "gpu",
+      "url": "https://cloud.tencent.com/product/gpu",
+      "desc": "极致并行计算能力，专业计算加速服务",
+      "description": "拥有高速计算与图形处理能力的云服务器 ",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "计算"
+    },
+    {
+      "title": "FPGA 云服务器",
+      "slug": "fpga",
+      "url": "https://cloud.tencent.com/product/fpga",
+      "desc": "硬件加速计算服务",
+      "description": "硬件加速计算服务",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "计算"
+    },
+    {
+      "title": "专用宿主机",
+      "slug": "cdh",
+      "url": "https://cloud.tencent.com/product/cdh",
+      "desc": "独享云主机资源",
+      "description": "资源独享、物理隔离的云端计算服务，满足您资源独享、安全、合规的需求",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "计算"
+    },
+    {
+      "title": "弹性伸缩",
+      "slug": "as",
+      "url": "https://cloud.tencent.com/product/as",
+      "desc": "高效的低成本计算资源管理策略",
+      "description": "自动化、具备计划性、高效且高容错性的低成本计算资源管理策略",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "计算"
+    },
+    {
+      "title": "自动化助手",
+      "slug": "tat",
+      "url": "https://cloud.tencent.com/product/tat",
+      "desc": "高效安全的云服务器原生运维部署工具",
+      "description": "高效安全的云服务器原生运维部署工具，助您管理业务应用，轻松完成运维部署任务。",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "计算"
+    },
+    {
+      "title": "高性能计算集群",
+      "slug": "hcc",
+      "url": "https://cloud.tencent.com/product/hcc",
+      "desc": "云端独享、安全隔离的云上超算集群",
+      "description": "高性能计算集群（High-Performance Computing Cluster）以裸金属云服务器为节点，通过 RDMA互联，提供高带宽和极低延迟的网络服务，大幅提升网络性能。",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "高性能计算"
+    },
+    {
+      "title": "高性能计算平台",
+      "slug": "thpc",
+      "url": "https://cloud.tencent.com/product/thpc",
+      "desc": "弹性的高性能计算资源管理服务",
+      "description": "弹性灵活、性能卓越、自助化的计算资源管理服务，实现弹性使用云上高性能计算资源的需求。",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "高性能计算"
+    },
+    {
+      "title": "高性能应用服务",
+      "slug": "hai",
+      "url": "https://cloud.tencent.com/product/hai",
+      "desc": "面向AI、科学计算，开箱即用的GPU云计算服务",
+      "description": "高性能应用服务(Hyper Application Inventor，HAI)是一款面向 AI 、科学计算 的GPU 应用服务产品，提供即插即用的澎湃算力与常见环境。助力中小企业及开发者快速部署LLM",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "高性能计算"
+    },
+    {
+      "title": "批量计算",
+      "slug": "batch",
+      "url": "https://cloud.tencent.com/product/batch",
+      "desc": "智能调度任意规模并行批处理作业",
+      "description": "智能调动资源以处理任意规模作业的低成本分布式计算平台",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "高性能计算"
+    },
+    {
+      "title": "本地专用集群",
+      "slug": "cdc",
+      "url": "https://cloud.tencent.com/product/cdc",
+      "desc": "可部署到本地的公有云基础设施",
+      "description": "就近部署的整机柜解决方案，提供和云上一致的软件服务体验，满足低延时本地计算和存储的业务需求。",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "分布式云"
+    },
+    {
+      "title": "专属可用区",
+      "slug": "cdz",
+      "url": "https://cloud.tencent.com/product/cdz",
+      "desc": "客户指定部署机房，定制资源独享",
+      "description": "客户指定部署机房，定制资源独享",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "分布式云"
+    },
+    {
+      "title": "边缘可用区",
+      "slug": "edgezone",
+      "url": "https://cloud.tencent.com/product/edgezone",
+      "desc": "低延时、广覆盖、少成本的边缘云计算服务",
+      "description": "边缘可用区适用于解决计算、存储和服务可用性问题，基本消除延迟问题，在更靠近客户的位置提供与中心节点一致的体验。助力业务下沉，更低延时、更广覆盖、更少成本。",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "分布式云"
+    },
+    {
+      "title": "云托付物理服务器",
+      "slug": "chc",
+      "url": "https://cloud.tencent.com/product/chc",
+      "desc": "客户自有服务器上云，资源独享，全量云能力",
+      "description": "托付至云上的自有物理服务器，快速获取云上服务器能力",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "分布式云"
+    },
+    {
+      "title": "容器服务",
+      "slug": "tke",
+      "url": "https://cloud.tencent.com/product/tke",
+      "desc": "高可扩展和高性能容器管理服务",
+      "description": "稳定、安全、高效、灵活扩展、简单易用的 Kubernetes 容器管理平台",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "容器"
+    },
+    {
+      "title": "Serverless 容器服务",
+      "slug": "tkeserverless",
+      "url": "https://cloud.tencent.com/product/tkeserverless",
+      "desc": "安全稳定的无服务器 Kubernetes 服务",
+      "description": "安全、稳定、弹性、经济的无服务器 Kubernetes 服务",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "容器"
+    },
+    {
+      "title": "容器镜像服务",
+      "slug": "tcr",
+      "url": "https://cloud.tencent.com/product/tcr",
+      "desc": "安全独享，高性能的容器镜像托管服务",
+      "description": "独享、安全、高性能的容器镜像托管分发服务，实现容器业务全球快速部署",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "容器"
+    },
+    {
+      "title": "TencentOS Server",
+      "slug": "ts",
+      "url": "https://cloud.tencent.com/product/ts",
+      "desc": "安全、稳定、高性能的操作系统",
+      "description": "腾讯云推出的Linux发行版，为云上运行的应用程序提供稳定、安全和高性能的执行环境。它可以运行在腾讯云CVM全规格实上，包括黑石2.0服务器。",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "操作系统与工具"
+    },
+    {
+      "title": "计算加速套件 TACO Kit",
+      "slug": "taco",
+      "url": "https://cloud.tencent.com/product/taco",
+      "desc": "开箱即用的异构计算加速软件服务",
+      "description": "计算加速套件TACO是一种异构计算加速软件服务，具备领先的GPU共享技术和业界唯一的GPU在离线混部能力。",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "操作系统与工具"
+    },
+    {
+      "title": "腾讯云遨驰终端",
+      "slug": "orcaterm",
+      "url": "https://cloud.tencent.com/product/orcaterm",
+      "desc": "腾讯遨驰云原生操作系统中CVM、Lighthouse、裸金属等产品的统一网页终端",
+      "description": "腾讯遨驰云原生操作系统中CVM、Lighthouse、裸金属等产品的统一网页终端",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "操作系统与工具"
+    },
+    {
+      "title": "云函数",
+      "slug": "scf",
+      "url": "https://cloud.tencent.com/product/scf",
+      "desc": "无服务器的计算服务",
+      "description": "安全稳定、管理简化、易用且高效的低成本无服务器函数计算平台",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "Serverless"
+    },
+    {
+      "title": "Serverless 应用中心",
+      "slug": "sls",
+      "url": "https://cloud.tencent.com/product/sls",
+      "desc": "一站式 Serverless 应用开发服务",
+      "description": "联动云上资源，弹性扩缩，按需付费，极速部署 Serverless 应用的开发平台",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "Serverless"
+    },
+    {
+      "title": "Serverless HTTP 服务",
+      "slug": "slshttp",
+      "url": "https://cloud.tencent.com/product/slshttp",
+      "desc": "“0”配置，高可用，弹性扩展的 HTTP API 服务",
+      "description": "“0”配置，高可用，弹性扩缩且安全可靠的 HTTP API 服务，降低使用门槛，快速满足业务需求",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "Serverless"
+    },
+    {
+      "title": "Serverless  SSR",
+      "slug": "ssr",
+      "url": "https://cloud.tencent.com/product/ssr",
+      "desc": "服务端渲染 (SSR) 框架",
+      "description": "低延时、SEO 友好、可极速部署的服务端渲染 (SSR) 框架",
+      "tag": "",
+      "category_l1": "计算",
+      "category_l2": "Serverless"
+    },
+    {
+      "title": "消息队列 CKafka 版",
+      "slug": "ckafka",
+      "url": "https://cloud.tencent.com/product/ckafka",
+      "desc": "兼容 Kafka 的高性能可靠的消息系统",
+      "description": "分布式、高吞吐量、高可扩展性的消息服务，100%兼容开源 Apache Kafka 0.9 0.10",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "消息队列"
+    },
+    {
+      "title": "消息队列 RocketMQ 版",
+      "slug": "trocket",
+      "url": "https://cloud.tencent.com/product/trocket",
+      "desc": "兼容Apache RocketMQ的高性能消息队列",
+      "description": "兼容 Apache RocketMQ 的高并发、高可靠的分布式消息队列服务。",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "消息队列"
+    },
+    {
+      "title": "消息队列 RabbitMQ 版",
+      "slug": "trabbit",
+      "url": "https://cloud.tencent.com/product/trabbit",
+      "desc": "兼容开源RabbitMQ的高性能消息队列",
+      "description": "支持 AMQP 0-9-1 协议，完全兼容 RabbitMQ 开源生态的高性能消息队列服务。",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "消息队列"
+    },
+    {
+      "title": "消息队列 Pulsar 版",
+      "slug": "tpulsar",
+      "url": "https://cloud.tencent.com/product/tpulsar",
+      "desc": "Serverless 化云原生消息队列",
+      "description": "一款基于 Pulsar，云原生 Serverless 化，高性能、强一致的分布式消息队列",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "消息队列"
+    },
+    {
+      "title": "消息队列 MQTT 版",
+      "slug": "mqtt",
+      "url": "https://cloud.tencent.com/product/mqtt",
+      "desc": "TDMQ 提供的兼容开源社区标准的 MQTT 协议的消息队列产品",
+      "description": "一款面向车联网和物联网（IoT）设计的分布式高可用的消息队列服务，适用于车联网、工业互联网、IM 通信、智能家居等应用场景。",
+      "tag": "new",
+      "category_l1": "容器与中间件",
+      "category_l2": "消息队列"
+    },
+    {
+      "title": "消息队列 CMQ 版",
+      "slug": "tcmq",
+      "url": "https://cloud.tencent.com/product/tcmq",
+      "desc": "安全可靠、扩展性强的分布式消息队列",
+      "description": "原腾讯云CMQ，安全可靠、扩展性高且业务可用性强的高性能消息队列服务",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "消息队列"
+    },
+    {
+      "title": "服务网格",
+      "slug": "tcm",
+      "url": "https://cloud.tencent.com/product/tcm",
+      "desc": "云原生服务网络管控基础设施",
+      "description": "一致、可靠、无侵入的服务发现、流量管控和端到端可观测的应用通信网络",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "微服务工具与平台"
+    },
+    {
+      "title": "微服务平台 TSF",
+      "slug": "tsf",
+      "url": "https://cloud.tencent.com/product/tsf",
+      "desc": "可靠、全面、易用的微服务治理平台",
+      "description": "稳定、高性能的微服务技术中台，满足您对应用管理、微服务治理、配置管理、应用运维等多样性业务需求",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "微服务工具与平台"
+    },
+    {
+      "title": "应用管理",
+      "slug": "msas",
+      "url": "https://cloud.tencent.com/product/msas",
+      "desc": "微服务应用管理",
+      "description": "支持应用托管、应用部署、弹性伸缩等，提供微服务应用全生命周期管理能力。",
+      "tag": "new",
+      "category_l1": "容器与中间件",
+      "category_l2": "微服务工具与平台"
+    },
+    {
+      "title": "注册配置治理",
+      "slug": "srag",
+      "url": "https://cloud.tencent.com/product/srag",
+      "desc": "注册配置治理中心",
+      "description": "提供注册中心、配置中心、治理中心，实现服务注册、服务配置、服务治理能力",
+      "tag": "new",
+      "category_l1": "容器与中间件",
+      "category_l2": "微服务工具与平台"
+    },
+    {
+      "title": "腾讯云可观测平台",
+      "slug": "tcop",
+      "url": "https://cloud.tencent.com/product/tcop",
+      "desc": "全链路、全场景的统一监控平台",
+      "description": "实时、全面、详尽的一站式云产品指标监控告警平台",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "云原生可观测"
+    },
+    {
+      "title": "云监控",
+      "slug": "tcpm",
+      "url": "https://cloud.tencent.com/product/tcpm",
+      "desc": "支持对云产品资源实时监控，异常告警的服务",
+      "description": "支持对腾讯云产品资源可视化监控、异常告警和监控数据拉取等功能。",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "云原生可观测"
+    },
+    {
+      "title": "应用性能监控",
+      "slug": "apm",
+      "url": "https://cloud.tencent.com/product/apm",
+      "desc": "易扩展、开源兼容、高性价比的 APM 服务",
+      "description": "包含指标、链路、日志的一站式应用性能监控服务，开源协议平滑接入，有效加速故障排查，定位架构瓶颈",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "云原生可观测"
+    },
+    {
+      "title": "前端性能监控",
+      "slug": "rum",
+      "url": "https://cloud.tencent.com/product/rum",
+      "desc": "Web 和小程序等前端真实体验监控服务",
+      "description": "Web和小程序的前端真实体验监控服务，基于腾讯内部多年实践，一行代码、无侵接入，实现页面性能和前端质量的实时可观测",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "云原生可观测"
+    },
+    {
+      "title": "云拨测",
+      "slug": "cat",
+      "url": "https://cloud.tencent.com/product/cat",
+      "desc": "全球数千节点，主动探测网站可用性",
+      "description": "零代码、覆盖海内外全地域、模拟真实用户最后一公里的可用性探测服务",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "云原生可观测"
+    },
+    {
+      "title": "Prometheus 监控服务",
+      "slug": "tmp",
+      "url": "https://cloud.tencent.com/product/tmp",
+      "desc": "集成容器服务，高可用的托管 Prometheus 服务",
+      "description": "与容器服务高度集成，高可用、全托管、免搭建的高效运维平台，减少开发和运维成本",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "云原生可观测"
+    },
+    {
+      "title": "Grafana 服务",
+      "slug": "tcmg",
+      "url": "https://cloud.tencent.com/product/tcmg",
+      "desc": "集成腾讯云数据、安全的托管 Grafana 服务",
+      "description": "多种数据源、丰富图表、一体化大盘的托管可视化服务，安全、免运维 ，快速集成腾讯云数据",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "云原生可观测"
+    },
+    {
+      "title": "事件总线",
+      "slug": "eb",
+      "url": "https://cloud.tencent.com/product/eb",
+      "desc": "安全高效的事件管理平台",
+      "description": "安全，稳定，高效的无服务器事件管理平台，帮助您轻松实现无服务器事件驱动架构。",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "云原生可观测"
+    },
+    {
+      "title": "日志服务",
+      "slug": "cls",
+      "url": "https://cloud.tencent.com/product/cls",
+      "desc": "一站式日志数据解决方案",
+      "description": "稳定、可靠、便捷、易用的一站式日志服务平台，轻松管理海量日志数据，助力企业数字化升级",
+      "tag": "",
+      "category_l1": "容器与中间件",
+      "category_l2": "云原生可观测"
+    },
+    {
+      "title": "轻量对象存储（Lighthouse版）",
+      "slug": "lighthousecos",
+      "url": "https://cloud.tencent.com/product/lighthousecos",
+      "desc": "轻量易用、稳定可靠的数据存储服务",
+      "description": "简单易用、稳定可靠、支持海量存储的轻量级数据存储服务。",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "基础存储服务"
+    },
+    {
+      "title": "云硬盘",
+      "slug": "cbs",
+      "url": "https://cloud.tencent.com/product/cbs",
+      "desc": "持久性数据块存储设备",
+      "description": "稳定可靠、低延迟、可扩展的持久性块存储设备，可作为 CVM 的独立硬盘使用",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "基础存储服务"
+    },
+    {
+      "title": "文件存储",
+      "slug": "cfs",
+      "url": "https://cloud.tencent.com/product/cfs",
+      "desc": "可共享的文件存储服务",
+      "description": "安全可靠、集成化、容量可扩展的低成本共享文件存储服务",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "基础存储服务"
+    },
+    {
+      "title": "归档存储",
+      "slug": "cas",
+      "url": "https://cloud.tencent.com/product/cas",
+      "desc": "离线归档存储服务",
+      "description": "低成本、高可靠且易于管理的离线存储，帮助您实现数据备份和容灾",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "基础存储服务"
+    },
+    {
+      "title": "云 HDFS",
+      "slug": "chdfs",
+      "url": "https://cloud.tencent.com/product/chdfs",
+      "desc": "标准 HDFS 访问协议、强一致性的存储服务",
+      "description": "提供标准 HDFS 访问协议和分层命名空间的高性能分布式文件系统",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "基础存储服务"
+    },
+    {
+      "title": "数据加速器 GooseFS",
+      "slug": "goosefs",
+      "url": "https://cloud.tencent.com/product/goosefs",
+      "desc": "高可靠、高可用、弹性的数据湖加速服务器",
+      "description": "高可靠、高可用、弹性的数据湖加速服务，满足数据分析、机器学习等业务的加速需求",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "基础存储服务"
+    },
+    {
+      "title": "智算存储 NitroFS",
+      "slug": "nitrofs",
+      "url": "https://cloud.tencent.com/product/nitrofs",
+      "desc": "智算存储 NitroFS 是为大模型场景设计的高性能存储",
+      "description": "智算存储 NitroFS 是为大模型训练、推理等场景提供的高性能存储，支持POSIX、KV等多种接口。",
+      "tag": "new",
+      "category_l1": "存储",
+      "category_l2": "基础存储服务"
+    },
+    {
+      "title": "数据万象",
+      "slug": "ci",
+      "url": "https://cloud.tencent.com/product/ci",
+      "desc": "提供图片、音视频、文档等多媒体数据的云端处理服务",
+      "description": "丰富、稳定、高效的云端数据处理服务，满足您的图片处理、音视频转码、文档预览等多种需求",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "存储数据服务"
+    },
+    {
+      "title": "图片处理",
+      "slug": "ip",
+      "url": "https://cloud.tencent.com/product/ip",
+      "desc": "功能丰富、低成本、低时延的云端图片处理服务",
+      "description": "功能丰富、低成本、低时延的云端图片处理服务，满足您图片业务场景的多种需求。",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "存储数据服务"
+    },
+    {
+      "title": "多媒体处理",
+      "slug": "mmp",
+      "url": "https://cloud.tencent.com/product/mmp",
+      "desc": "基于对象存储COS提供多媒体处理增值服务",
+      "description": "数据万象基于对象存储COS提供多媒体处理增值服务，集成音视频转码、极速高清、精彩集锦、超分辨率、数字水印等能力，满足传媒、文旅、电商等各行业多媒体处理需求。",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "存储数据服务"
+    },
+    {
+      "title": "文档服务",
+      "slug": "ds",
+      "url": "https://cloud.tencent.com/product/ds",
+      "desc": "功能丰富、低成本、高可靠的文档服务",
+      "description": "功能丰富、低成本、高可靠的文档服务",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "存储数据服务"
+    },
+    {
+      "title": "图片审核",
+      "slug": "imga",
+      "url": "https://cloud.tencent.com/product/imga",
+      "desc": "图片内容安全智能识别服务",
+      "description": "图片内容安全智能审核服务，帮助用户有效识别违禁内容",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "存储数据服务"
+    },
+    {
+      "title": "文本审核",
+      "slug": "tas",
+      "url": "https://cloud.tencent.com/product/tas",
+      "desc": "文本内容安全智能识别服务",
+      "description": "文本审核（Text Auditing Service，TAS）基于腾讯云天御业务安全防护为用户提供文本内容安全智能识别服务。",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "存储数据服务"
+    },
+    {
+      "title": "视频审核",
+      "slug": "mas",
+      "url": "https://cloud.tencent.com/product/mas",
+      "desc": "视频内容安全智能识别服务",
+      "description": "视频审核（Media Auditing Service，MAS）基于腾讯云天御业务安全防护为用户提供视频内容安全智能识别服务。",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "存储数据服务"
+    },
+    {
+      "title": "音频审核",
+      "slug": "aas",
+      "url": "https://cloud.tencent.com/product/aas",
+      "desc": "音频内容安全智能识别服务",
+      "description": "音频审核（Audio Auditing Service，AAS）基于腾讯云天御业务安全防护为用户提供音频内容安全智能识别服务。",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "存储数据服务"
+    },
+    {
+      "title": "文档审核",
+      "slug": "das",
+      "url": "https://cloud.tencent.com/product/das",
+      "desc": "文档内容安全智能识别服务",
+      "description": "文档审核（Document Auditing Service，DAS）基于文档预览、图文审核技术，为用户提供文档内容安全智能识别服务。",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "存储数据服务"
+    },
+    {
+      "title": "内容识别",
+      "slug": "crg",
+      "url": "https://cloud.tencent.com/product/crg",
+      "desc": "提供图片内容识别和理解能力",
+      "description": "集成腾讯云 AI 的强大功能，为客户提供图片内容识别和理解能力",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "存储数据服务"
+    },
+    {
+      "title": "智能媒资托管",
+      "slug": "smh",
+      "url": "https://cloud.tencent.com/product/smh",
+      "desc": "网盘、相册等媒资存储处理解决方案",
+      "description": "图片类应用一站式解决方案，提供完整的图片存储、管理、加工、搜索能力",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "存储数据服务"
+    },
+    {
+      "title": "云数据迁移",
+      "slug": "cdm",
+      "url": "https://cloud.tencent.com/product/cdm",
+      "desc": "TB/PB 级数据迁移上云",
+      "description": "TB/PB 级数据迁移上云",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "数据迁移"
+    },
+    {
+      "title": "云迁移",
+      "slug": "cmg",
+      "url": "https://cloud.tencent.com/product/cmg",
+      "desc": "帮助用户轻松迁移",
+      "description": "整合多种迁移工具和方案，协助用户方便快捷地实施迁移工作",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "数据迁移"
+    },
+    {
+      "title": "存储网关",
+      "slug": "csg",
+      "url": "https://cloud.tencent.com/product/csg",
+      "desc": "混合云存储服务",
+      "description": "简单易用、安全稳定、经济高效的海量混合云存储 ",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "混合云存储"
+    },
+    {
+      "title": "存储一体机",
+      "slug": "tstor",
+      "url": "https://cloud.tencent.com/product/tstor",
+      "desc": "与腾讯云互通的云下部署存储产品",
+      "description": "安全稳定、便捷易用、与腾讯云互通的云下部署存储产品",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "混合云存储"
+    },
+    {
+      "title": "备份一体机",
+      "slug": "tstorb2000",
+      "url": "https://cloud.tencent.com/product/tstorb2000",
+      "desc": "融合备份和存储于一体",
+      "description": "融合备份和存储能力于一体的企业级数据保护产品",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "混合云存储"
+    },
+    {
+      "title": "智能视图计算平台",
+      "slug": "iss",
+      "url": "https://cloud.tencent.com/product/iss",
+      "desc": "监控设备一站式存储分析解决方案",
+      "description": "面向监控设备提供一站式存储分析解决方案，提供完整的内容存储、多模态分析、处理等能力。",
+      "tag": "",
+      "category_l1": "存储",
+      "category_l2": "智能存储"
+    },
+    {
+      "title": "云原生数据库 TDSQL-C",
+      "slug": "tdsqlc",
+      "url": "https://cloud.tencent.com/product/tdsqlc",
+      "desc": "完全兼容 MySQL 和 PG 自研数据库",
+      "description": "云原生数据库 TDSQL-C（Cloud Native Database TDSQL-C）。TDSQL-C 是数据库产品中心自研的新一代高性能高可用的云原生数据库。",
+      "tag": "hot",
+      "category_l1": "数据库",
+      "category_l2": "关系型数据库 TDSQL"
+    },
+    {
+      "title": "分布式数据库 TDSQL",
+      "slug": "tddbms",
+      "url": "https://cloud.tencent.com/product/tddbms",
+      "desc": "安全稳定的金融级分布式数据库",
+      "description": "稳定、安全、高性能的分布式数据库服务，兼容 MySQL、PostgreSQL。",
+      "tag": "hot",
+      "category_l1": "数据库",
+      "category_l2": "关系型数据库 TDSQL"
+    },
+    {
+      "title": "轻量数据库",
+      "slug": "lighthousedb",
+      "url": "https://cloud.tencent.com/product/lighthousedb",
+      "desc": "完全兼容 MySQL 的轻量数据库",
+      "description": "轻量级业务应用，具备高性能且简单易用",
+      "tag": "new",
+      "category_l1": "数据库",
+      "category_l2": "关系型数据库 TDSQL"
+    },
+    {
+      "title": "云数据库 MySQL",
+      "slug": "cdb",
+      "url": "https://cloud.tencent.com/product/cdb",
+      "desc": "高性能、可靠、安全的全托管云数据库",
+      "description": "一种高性能、高可靠、可灵活伸缩的数据库托管服务",
+      "tag": "hot",
+      "category_l1": "数据库",
+      "category_l2": "关系型数据库"
+    },
+    {
+      "title": "云数据库 SQL Server",
+      "slug": "sqlserver",
+      "url": "https://cloud.tencent.com/product/sqlserver",
+      "desc": "正版授权 SQL Server 云数据库",
+      "description": "安全可靠、易于使用、性能优秀、具有正版 SQL Server 许可授权的云数据库",
+      "tag": "",
+      "category_l1": "数据库",
+      "category_l2": "关系型数据库"
+    },
+    {
+      "title": "云数据库 PostgreSQL",
+      "slug": "postgres",
+      "url": "https://cloud.tencent.com/product/postgres",
+      "desc": "支持空间地理信息处理的开源数据库",
+      "description": "强大的计算性能、空间地理信息处理能力，面向企业复杂 SQL 处理的 OLTP 场景",
+      "tag": "hot",
+      "category_l1": "数据库",
+      "category_l2": "关系型数据库"
+    },
+    {
+      "title": "云数据库 Redis®",
+      "slug": "crs",
+      "url": "https://cloud.tencent.com/product/crs",
+      "desc": "高性能、低延迟、可伸缩的 Redis 数据库",
+      "description": "兼容 Redis 协议、高性能、大容量、可靠的弹性缓存和存储服务",
+      "tag": "hot",
+      "category_l1": "数据库",
+      "category_l2": "NoSQL 数据库"
+    },
+    {
+      "title": "云数据库 MongoDB",
+      "slug": "mongodb",
+      "url": "https://cloud.tencent.com/product/mongodb",
+      "desc": "高性能、分布式的 MongoDB 数据库",
+      "description": "强大的计算性能、空间地理信息处理能力，面向企业复杂 SQL 处理的 OLTP 场景",
+      "tag": "hot",
+      "category_l1": "数据库",
+      "category_l2": "NoSQL 数据库"
+    },
+    {
+      "title": "云数据库 Memcached",
+      "slug": "cmem",
+      "url": "https://cloud.tencent.com/product/cmem",
+      "desc": "高性能、高可靠的 Memcahed 数据库",
+      "description": "兼容 Memcached 协议、高性能、高可靠、易用的弹性缓存和存储服务",
+      "tag": "",
+      "category_l1": "数据库",
+      "category_l2": "NoSQL 数据库"
+    },
+    {
+      "title": "时序数据库 CTSDB",
+      "slug": "ctsdb",
+      "url": "https://cloud.tencent.com/product/ctsdb",
+      "desc": "支持超高并发写入的时序数据库服务",
+      "description": "高性能、分布式、安全、稳定的云端时序数据库",
+      "tag": "",
+      "category_l1": "数据库",
+      "category_l2": "NoSQL 数据库"
+    },
+    {
+      "title": "云数据库 KeeWiDB",
+      "slug": "keewidb",
+      "url": "https://cloud.tencent.com/product/keewidb",
+      "desc": "兼容Redis协议、高性能分布式KV数据库",
+      "description": "腾讯云基于Intel 傲腾™持久内存自研的新一代100%兼容 Redis 协议、高性能、高可靠、大容量的分布式KV数据库",
+      "tag": "",
+      "category_l1": "数据库",
+      "category_l2": "NoSQL 数据库"
+    },
+    {
+      "title": "向量数据库",
+      "slug": "vdb",
+      "url": "https://cloud.tencent.com/product/vdb",
+      "desc": "高性能、高可用，支持千亿级向量数据",
+      "description": "千亿级数据规模，分布式可扩展架构，助力大模型、AI领域创新",
+      "tag": "hot",
+      "category_l1": "数据库",
+      "category_l2": "NoSQL 数据库"
+    },
+    {
+      "title": "数据库一体机 TData",
+      "slug": "tdata",
+      "url": "https://cloud.tencent.com/product/tdata",
+      "desc": "面向 OLTP、OLAP 及混合场景的数据库",
+      "description": "融合高性能计算、热插拔闪存、Infiniband 网络的数据库解决方案",
+      "tag": "",
+      "category_l1": "数据库",
+      "category_l2": "数据库软硬一体"
+    },
+    {
+      "title": "云数据库独享集群",
+      "slug": "dbdc",
+      "url": "https://cloud.tencent.com/product/dbdc",
+      "desc": "独享资源、安全灵活的云上数据库服务",
+      "description": "独享资源、安全合规、灵活配置、高可用的云上数据库服务，实时满足您多样性业务需求",
+      "tag": "",
+      "category_l1": "数据库",
+      "category_l2": "数据库软硬一体"
+    },
+    {
+      "title": "数据传输服务",
+      "slug": "dts",
+      "url": "https://cloud.tencent.com/product/dts",
+      "desc": "数据无缝传输和迁移，无宕机时间",
+      "description": "支持多类型数据库迁移，已有 20000 个数据库在不停机情况下完成了迁移",
+      "tag": "",
+      "category_l1": "数据库",
+      "category_l2": "数据库 SaaS 服务"
+    },
+    {
+      "title": "数据库专家服务",
+      "slug": "dbexpert",
+      "url": "https://cloud.tencent.com/product/dbexpert",
+      "desc": "专业、高效的数据库服务",
+      "description": "专业、高效的数据库服务，为您提供腾讯顶级的数据库服务",
+      "tag": "",
+      "category_l1": "数据库",
+      "category_l2": "数据库 SaaS 服务"
+    },
+    {
+      "title": "数据库智能管家 DBbrain",
+      "slug": "dbbrain",
+      "url": "https://cloud.tencent.com/product/dbbrain",
+      "desc": "数据库性能优化、管理和安全防护云服务",
+      "description": "实时、智能、多终端，支持云上云下的数据库性能优化、管理和安全防护云服务",
+      "tag": "",
+      "category_l1": "数据库",
+      "category_l2": "数据库 SaaS 服务"
+    },
+    {
+      "title": "数据库备份服务",
+      "slug": "dbs",
+      "url": "https://cloud.tencent.com/product/dbs",
+      "desc": "企业级的云端数据库备份服务",
+      "description": "云端数据库备份服务，为您提供完整的数据库备份和数据库恢复解决方案",
+      "tag": "",
+      "category_l1": "数据库",
+      "category_l2": "数据库 SaaS 服务"
+    },
+    {
+      "title": "数据库管理",
+      "slug": "dmc",
+      "url": "https://cloud.tencent.com/product/dmc",
+      "desc": "高效、可高的数据库管理平台",
+      "description": "数据库管理是一个高效，安全，可靠的数据库一站式管理平台，为用户提供库表级操作、实时监控、实例会话管理、SQL 窗口、数据管理为一体的数",
+      "tag": "",
+      "category_l1": "数据库",
+      "category_l2": "数据库 SaaS 服务"
+    },
+    {
+      "title": "数据库分布式云中心",
+      "slug": "ddcc",
+      "url": "https://cloud.tencent.com/product/ddcc",
+      "desc": "云数据库本地化部署及多云合一统一管理",
+      "description": "云数据库本地化部署及多云合一统一管理，提供云原生化的数据库服务。",
+      "tag": "",
+      "category_l1": "数据库",
+      "category_l2": "数据库分布式云"
+    },
+    {
+      "title": "负载均衡",
+      "slug": "clb",
+      "url": "https://cloud.tencent.com/product/clb",
+      "desc": "对多台服务器进行流量分发",
+      "description": "安全稳定、低成本投入并且可弹性扩展的实用型流量分配服务",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "云上网络"
+    },
+    {
+      "title": "私有网络",
+      "slug": "vpc",
+      "url": "https://cloud.tencent.com/product/vpc",
+      "desc": "独立隔离的网络空间",
+      "description": "稳定、灵活、安全的云上私有网络空间，为您提供全方位的网络解决方案",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "云上网络"
+    },
+    {
+      "title": "NAT 网关",
+      "slug": "nat",
+      "url": "https://cloud.tencent.com/product/nat",
+      "desc": "支持 SNAT 的大带宽、高可用网关",
+      "description": "高性能的公网流量出入口，满足您海量的公网访问需求",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "云上网络"
+    },
+    {
+      "title": "网络流日志",
+      "slug": "fl",
+      "url": "https://cloud.tencent.com/product/fl",
+      "desc": "全时、全流、非侵入的流量采集服务",
+      "description": "全时、全流、非侵入的流量采集服务，让您的网络更稳定、安全、智能",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "云上网络"
+    },
+    {
+      "title": "Anycast 公网加速",
+      "slug": "aia",
+      "url": "https://cloud.tencent.com/product/aia",
+      "desc": "优化访问、简化部署的 IP Anycast 服务",
+      "description": "覆盖全球的动态加速网络，使公网访问更稳定、可靠、低时延",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "云上网络"
+    },
+    {
+      "title": "共享带宽包",
+      "slug": "bwp",
+      "url": "https://cloud.tencent.com/product/bwp",
+      "desc": "多IP聚合的计费模式、降低公网费用",
+      "description": "多 IP 聚合的计费模式，大幅降低公网费用",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "云上网络"
+    },
+    {
+      "title": "共享流量包",
+      "slug": "tp",
+      "url": "https://cloud.tencent.com/product/tp",
+      "desc": "易管理、低成本的预付费 Internet 流量资源",
+      "description": "易于管理、更低成本的预付费 Internet 流量资源，满足您的的计费需求",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "云上网络"
+    },
+    {
+      "title": "弹性公网 IPv6",
+      "slug": "eipv6",
+      "url": "https://cloud.tencent.com/product/eipv6",
+      "desc": "低成本、安全的弹性 IPv6 公网服务",
+      "description": "快速、灵活、低成本、安全的弹性 IPv6 公网服务，满足您的 IPv6 通信需求",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "云上网络"
+    },
+    {
+      "title": "弹性公网 IP",
+      "slug": "eip",
+      "url": "https://cloud.tencent.com/product/eip",
+      "desc": "稳定、独立的公网 IP 资源",
+      "description": "稳定、独立的公网 IP 资源，可灵活管理，满足您的网络通信需求",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "云上网络"
+    },
+    {
+      "title": "私有连接",
+      "slug": "pls",
+      "url": "https://cloud.tencent.com/product/pls",
+      "desc": "安全稳定、配置灵活的跨 VPC 访问服务",
+      "description": "私有连接Private Link可以帮助您将VPC安全私密地连接到部署到其他VPC的服务。私有连接而无需通过互联网，更加安全和更低的成本；同时私有连接具有配置灵活的特点。",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "云上网络"
+    },
+    {
+      "title": "智能高性能网络",
+      "slug": "ihn",
+      "url": "https://cloud.tencent.com/product/ihn",
+      "desc": "IHN提供极致高性能的AI网络产品。",
+      "description": "IHN智能高性能网络基于腾讯成熟的AI网络技术和运营运维体系，打造极致性能、一站式运营、软硬一体的AI网络产品。",
+      "tag": "new",
+      "category_l1": "网络",
+      "category_l2": "云上网络"
+    },
+    {
+      "title": "专线接入",
+      "slug": "dc",
+      "url": "https://cloud.tencent.com/product/dc",
+      "desc": "专用网络链路接入服务",
+      "description": "快速、安全、稳定、低时延的光纤通信专用网络",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "混合云网络"
+    },
+    {
+      "title": "云联网",
+      "slug": "ccn",
+      "url": "https://cloud.tencent.com/product/ccn",
+      "desc": "轻松实现云上云下多点互通",
+      "description": "极速、稳定、经济的全网互联服务，助力您轻松实现云上、云下多点互通",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "混合云网络"
+    },
+    {
+      "title": "VPN 连接",
+      "slug": "vpn",
+      "url": "https://cloud.tencent.com/product/vpn",
+      "desc": "轻松构建 IPsec VPN 服务",
+      "description": "基于 Internet 的隧道加密传输服务，轻松建立腾讯云与企业数据中心安全通道",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "混合云网络"
+    },
+    {
+      "title": "对等连接",
+      "slug": "pc",
+      "url": "https://cloud.tencent.com/product/pc",
+      "desc": "多地数据同步服务",
+      "description": "稳定、经济的云上网络互联服务，满足您在腾讯云上业务资源连通需求",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "混合云网络"
+    },
+    {
+      "title": "SD-WAN 接入服务",
+      "slug": "sas",
+      "url": "https://cloud.tencent.com/product/sas",
+      "desc": "智能、稳定、安全的 SD-WAN 接入服务",
+      "description": "智能、稳定、安全的 SD-WAN 接入服务，满足您多节点一站式全互联需求",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "混合云网络"
+    },
+    {
+      "title": "全球应用加速",
+      "slug": "gaap",
+      "url": "https://cloud.tencent.com/product/gaap",
+      "desc": "应用加速服务",
+      "description": "快速接入稳定的高速网络通道，解决全球用户访问业务时出现卡顿或者延迟过高的问题",
+      "tag": "",
+      "category_l1": "网络",
+      "category_l2": "混合云网络"
+    },
+    {
+      "title": "边缘安全加速平台 EO",
+      "slug": "teo",
+      "url": "https://cloud.tencent.com/product/teo",
+      "desc": "4/7 层网络安全加速服务",
+      "description": "面向海外市场提供边缘一体化服务，聚焦流媒体与游戏、电商与零售、金融服务、科技企业与内容资讯等行业，提供 4/7 层安全防护及分发加速服务。",
+      "tag": "",
+      "category_l1": "CDN与边缘",
+      "category_l2": "CDN与边缘平台"
+    },
+    {
+      "title": "全站加速网络",
+      "slug": "ecdn",
+      "url": "https://cloud.tencent.com/product/ecdn",
+      "desc": "动静态混合资源加速服务平台",
+      "description": "极速、稳定的动静态混合资源加速服务平台，一站式全能加速",
+      "tag": "",
+      "category_l1": "CDN与边缘",
+      "category_l2": "CDN与边缘平台"
+    },
+    {
+      "title": "DDoS 防护",
+      "slug": "ddos",
+      "url": "https://cloud.tencent.com/product/ddos",
+      "desc": "全面、高效、专业的 DDoS 防护能力",
+      "description": "拥有可信赖的 DDoS 防护体系，可为不同行业提供多种安全解决方案",
+      "tag": "",
+      "category_l1": "CDN与边缘",
+      "category_l2": "CDN与边缘平台"
+    },
+    {
+      "title": "多网聚合加速",
+      "slug": "mna",
+      "url": "https://cloud.tencent.com/product/mna",
+      "desc": "在4G/5G网络下，提供网络加速服务",
+      "description": "在4G/5G网络下，提供低时延、抖动少、带宽保障的移动网络加速服务。",
+      "tag": "",
+      "category_l1": "CDN与边缘",
+      "category_l2": "CDN与边缘平台"
+    },
+    {
+      "title": "边缘计算机器",
+      "slug": "ecm",
+      "url": "https://cloud.tencent.com/product/ecm",
+      "desc": "靠近用户、分布式、低时延的弹性计算资源",
+      "description": "靠近用户、低时延的弹性分布式计算资源。助力优化业务体验和整体成本",
+      "tag": "",
+      "category_l1": "CDN与边缘",
+      "category_l2": "边缘计算"
+    },
+    {
+      "title": "实时音视频",
+      "slug": "trtc",
+      "url": "https://cloud.tencent.com/product/trtc",
+      "desc": "低延时互动直播及高品质音视频通话服务",
+      "description": "1分钟跑通 Demo，30分钟构建互动直播、语音通话、视频通话",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "实时互动"
+    },
+    {
+      "title": "云联络中心",
+      "slug": "ccc",
+      "url": "https://cloud.tencent.com/product/ccc",
+      "desc": "全渠道全媒体智能联络中心解决方案",
+      "description": "互动式控制流交互体验，覆盖全系终端及全国话务落地",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "实时互动"
+    },
+    {
+      "title": "语音消息",
+      "slug": "vms",
+      "url": "https://cloud.tencent.com/product/vms",
+      "desc": "简单易用、快速接入的语音短信服务",
+      "description": "简单易用、快速接入的语音短信服务",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "实时互动"
+    },
+    {
+      "title": "实时互动-教育版",
+      "slug": "lcic",
+      "url": "https://cloud.tencent.com/product/lcic",
+      "desc": "0行代码，15分钟上线全平台互动课堂",
+      "description": " 低代码开发，0行代码，15分钟快速上线全平台自有品牌互动课堂",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "实时互动"
+    },
+    {
+      "title": "实时互动-工业能源版",
+      "slug": "trro",
+      "url": "https://cloud.tencent.com/product/trro",
+      "desc": "提供远程操控低时延交互服务",
+      "description": "面向自动驾驶车辆远程介入、高危/恶劣环境作业、云代驾等远程操控等场景，提供远程实时操控所需的实时音视频传输、状态交互和控制同步等能力，方便用户快速搭建远程操控应用并进行相关设备的管理。",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "实时互动"
+    },
+    {
+      "title": "实时互动-物联版",
+      "slug": "iot-explorer",
+      "url": "https://cloud.tencent.com/product/iot-explorer",
+      "desc": "企业用户和硬件开发商的高效物联PaaS服务",
+      "description": "高效的物联视频一站式PAAS服务，助力硬件开发商快速视频物联开发，企业用户视频监控快速上云",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "实时互动"
+    },
+    {
+      "title": "游戏多媒体引擎",
+      "slug": "gme",
+      "url": "https://cloud.tencent.com/product/gme",
+      "desc": "一站式游戏语音解决方案",
+      "description": "一站式游戏语音解决方案，助力游戏社交化",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "实时互动"
+    },
+    {
+      "title": "云直播",
+      "slug": "css",
+      "url": "https://cloud.tencent.com/product/css",
+      "desc": "极速、稳定、专业的云端直播处理服务",
+      "description": "高并发、低延迟、易接入、安全可靠的音视频直播服务",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频服务"
+    },
+    {
+      "title": "慢直播",
+      "slug": "lcb",
+      "url": "https://cloud.tencent.com/product/lcb",
+      "desc": "大规模音视频并发上行的定制方案",
+      "description": "大规模音视频并发上行的定制方案",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频服务"
+    },
+    {
+      "title": "快直播",
+      "slug": "leb",
+      "url": "https://cloud.tencent.com/product/leb",
+      "desc": "毫秒级超低延迟，简单易用的直播方案",
+      "description": "毫秒级超低延迟，简单易用的直播方案",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频服务"
+    },
+    {
+      "title": "云导播台",
+      "slug": "lvc",
+      "url": "https://cloud.tencent.com/product/lvc",
+      "desc": "安全稳定，功能强大的流媒体云端导播系统",
+      "description": "云导播台（Live Video Caster，LVC）依托腾讯云强大的视频直播能力，在云端实现直播流的切换，多画面的混流播出等。",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频服务"
+    },
+    {
+      "title": "智能媒资 AIGC",
+      "slug": "voda",
+      "url": "https://cloud.tencent.com/product/voda",
+      "desc": "云点播智能媒资 AIGC，实现媒资智能解析、高效检索，提供文生图 / 视频等创作工具，赋能多场景内容生产与价值挖掘。",
+      "description": "云点播智能媒资 AIGC，实现媒资智能解析、高效检索，提供文生图 / 视频等创作工具，赋能多场景内容生产与价值挖掘。",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频服务"
+    },
+    {
+      "title": "腾讯云智绘",
+      "slug": "taidc",
+      "url": "https://cloud.tencent.com/product/taidc",
+      "desc": "秒速生产海量创意素材",
+      "description": "秒速海量的智能化创意设计服务，助力企业降本增效",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频服务"
+    },
+    {
+      "title": "音视频终端 SDK(腾讯云视立方)",
+      "slug": "rtcube",
+      "url": "https://cloud.tencent.com/product/rtcube",
+      "desc": "音视频通讯终端产品，多平台高稳定服务",
+      "description": "音视频通讯终端一体化产品，提供移动端、PC、Web等多平台直播点播及通讯能力",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频终端"
+    },
+    {
+      "title": "音视频通话 SDK",
+      "slug": "calling",
+      "url": "https://cloud.tencent.com/product/calling",
+      "desc": "音视频通话专属SDK，快速接入集成方案",
+      "description": "专属 SDK 和含 UI 快速接入方案，快速集成开发包，轻松实现音视频互动聊天和各类社交聊天高级功能",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频终端"
+    },
+    {
+      "title": "直播 SDK",
+      "slug": "mlvb",
+      "url": "https://cloud.tencent.com/product/mlvb",
+      "desc": "快速集成的移动端直播 SDK 解决方案",
+      "description": "移动端直播推流、拉流的快速集成方案，让手机也能马上直播",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频终端"
+    },
+    {
+      "title": "短视频 SDK",
+      "slug": "ugsv",
+      "url": "https://cloud.tencent.com/product/ugsv",
+      "desc": "移动端短视频内容业务快速制作工具",
+      "description": "基于快速上传、转码、存储等强大云端能力，令开发者可以轻松制作出基于移动端的短视频内容业务",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频终端"
+    },
+    {
+      "title": "腾讯特效 SDK",
+      "slug": "x-magic",
+      "url": "https://cloud.tencent.com/product/x-magic",
+      "desc": "美颜、滤镜、贴纸等高级视频处理方案",
+      "description": "基于优图精准的人像识别算法和天天P图丰富的实时特效处理，让拍摄变得更美更有趣",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频终端"
+    },
+    {
+      "title": "播放器 SDK",
+      "slug": "player",
+      "url": "https://cloud.tencent.com/product/player",
+      "desc": "智能、高清的跨平台视频播放服务",
+      "description": "高清、稳定、智能、卓越的跨平台多媒体播放器，无缝融合视频业务，提供端到端的视频播放服务",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频终端"
+    },
+    {
+      "title": "虚拟形象 SDK",
+      "slug": "avatar",
+      "url": "https://cloud.tencent.com/product/avatar",
+      "desc": "提供实时 3D 虚拟形象系统和具有 AI 识别驱动能力的跨平台 SDK",
+      "description": "基于优图实验室的 AI 能力和渲染引擎，为虚拟形象实时互动场景提供丰富的产品能力。",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频终端"
+    },
+    {
+      "title": "多人音视频房间 SDK",
+      "slug": "roomkit",
+      "url": "https://cloud.tencent.com/product/roomkit",
+      "desc": "用于在线会议等场景的含UI低代码组件",
+      "description": "多人音视频房间 SDK 是音视频终端 SDK（腾讯云视立方）的子产品之一，基于企业培训、在线课堂、在线会议等多人音视频会话场景定制。",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "视频终端"
+    },
+    {
+      "title": "媒体处理",
+      "slug": "mps",
+      "url": "https://cloud.tencent.com/product/mps",
+      "desc": "智能、全面的云端转码和音视频处理服务",
+      "description": "针对海量多媒体数据，为您提供智能、强悍、全面的云端转码和音视频处理服务",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "媒体处理"
+    },
+    {
+      "title": "媒体处理企业版",
+      "slug": "mpse",
+      "url": "https://cloud.tencent.com/product/mpse",
+      "desc": "支持企业级媒体处理，助力企业降本增效",
+      "description": "媒体处理企业版（Media Processing Service for Enterprises，MPSE ）基于腾讯多年音视频领域的深耕 ，为您提供直播流、离线文件媒体处理、媒体AI等平台等能力。",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "媒体处理"
+    },
+    {
+      "title": "极速高清",
+      "slug": "tsc",
+      "url": "https://cloud.tencent.com/product/tsc",
+      "desc": "同等画质可省30%带宽以上的流媒体服务",
+      "description": "智能场景识别与动态编码匹配，为您提供节省30%带宽且保持高清效果的流媒体服务",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "媒体处理"
+    },
+    {
+      "title": "媒体 AI",
+      "slug": "mais",
+      "url": "https://cloud.tencent.com/product/mais",
+      "desc": "高效可信赖的视频智能编辑服务",
+      "description": "为视频内容生产客户提供智能集锦和拆条、视频分类、视频标签以及智能摘要等服务",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "媒体处理"
+    },
+    {
+      "title": "媒体传输加速",
+      "slug": "mts",
+      "url": "https://cloud.tencent.com/product/mts",
+      "desc": "业内最优的低延迟媒体传输加速解决方案",
+      "description": "业内最优的低延迟媒体传输加速解决方案",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "媒体处理"
+    },
+    {
+      "title": "云渲染",
+      "slug": "crtr",
+      "url": "https://cloud.tencent.com/product/crtr",
+      "desc": "云端运行应用或桌面系统",
+      "description": "在服务器端运行游戏、应用甚至桌面，并将渲染完成的画面及声音以实时音视频流的方式通过网络实时传输给用户",
+      "tag": "new",
+      "category_l1": "视频服务",
+      "category_l2": "媒体处理"
+    },
+    {
+      "title": "应用云渲染",
+      "slug": "car",
+      "url": "https://cloud.tencent.com/product/car",
+      "desc": "云端应用实时渲染服务",
+      "description": "云应用（Cloud Application Rendering，CAR），基于云端GPU服务器实时渲染能力，并通过腾讯云多年积累的音视频能力，配合轻量稳定、接入便捷的全端SDK，为云应用开发者提供一站",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "媒体处理"
+    },
+    {
+      "title": "云游戏",
+      "slug": "gs",
+      "url": "https://cloud.tencent.com/product/gs",
+      "desc": "一站式端游 + 手游云游戏平台",
+      "description": "低延时、高画质、易接入的云游戏PaaS产品，帮助您快速上线云游戏服务",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "媒体处理"
+    },
+    {
+      "title": "云桌面",
+      "slug": "cvd",
+      "url": "https://cloud.tencent.com/product/cvd",
+      "desc": "安全、稳定、灵活的云上虚拟桌面服务",
+      "description": "安全、稳定、灵活的云上虚拟桌面服务，快速便捷帮助您构建业务安全访问入口",
+      "tag": "",
+      "category_l1": "视频服务",
+      "category_l2": "媒体处理"
+    },
+    {
+      "title": "云防火墙",
+      "slug": "cfw",
+      "url": "https://cloud.tencent.com/product/cfw",
+      "desc": "企业上云的第一道安全防线",
+      "description": "统一管控云端访问控制、安全隔离与业务可视，降低您的运维成本",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "云安全"
+    },
+    {
+      "title": "Web 应用防火墙",
+      "slug": "waf",
+      "url": "https://cloud.tencent.com/product/waf",
+      "desc": "提供一站式的网站服务智能安全防护平台",
+      "description": "基于 AI 的一站式 Web 业务运营风险防护方案",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "云安全"
+    },
+    {
+      "title": "小程序安全防护",
+      "slug": "mpsp",
+      "url": "https://cloud.tencent.com/product/mpsp",
+      "desc": "一站式小程序安全防护解决方案",
+      "description": "小程序安全加速（Mini Program Acceleration and Security）打通微信网关接入链路，提供原生的高可用加速服务、防DDoS、防DNS劫持、防爬防刷等原生安全防护能力，且支持实现Web端、小程序端、APP端的统一安全管理，全方位保障业务安全、高效、稳定运行。",
+      "tag": "new",
+      "category_l1": "安全",
+      "category_l2": "云安全"
+    },
+    {
+      "title": "API安全",
+      "slug": "apism",
+      "url": "https://cloud.tencent.com/product/apism",
+      "desc": "构建全面、智能、精准的API全生命周期安全防御体系",
+      "description": "API安全（API Security and Management）聚焦API防御体系打造，支持资产全自动发现、敏感数据防泄露、API限流、异常事件管控闭环、实时流量分析报表等功能，联动腾讯Web应用防火墙、腾讯安全威胁情报、腾讯天御业务安全等能力，帮助企业全面识别API风险，针对性收敛API暴露面，构建全面、智能、精准的API全生命周期安全防御体系。",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "云安全"
+    },
+    {
+      "title": "BOT流量管理",
+      "slug": "btm",
+      "url": "https://cloud.tencent.com/product/btm",
+      "desc": "构建智能BOT流量管理体系",
+      "description": "BOT流量管理（Bot Traffic Management）通过客户端风险识别（前端对抗）、防护规则集与领先的BOT-AI智能识别引擎三重拦截能力，打造了新一代的客户端风险识别体系和多维度实时分析相结合的BOT流量管理体系，准确应对恶意机器人程序爬取带来的资源消耗、信息泄露及无效营销问题，同时也保障友好机器人程序的正常运行。",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "云安全"
+    },
+    {
+      "title": "小程序安全检测",
+      "slug": "mpss",
+      "url": "https://cloud.tencent.com/product/mpss",
+      "desc": "小程序安全检测（Mini Program Security Scan，MPSS）为用户提供小程序全生命周期的一站式安全解决方案，主要包括小程序安全诊断、加固和小程序安全扫描的功能，并提供公有云和私有化服务。",
+      "description": "提供小程序安全加固、小程序安全扫描安全服务，已广泛应用于金融、互联网、政务等多个行业，稳定、有效，使个人和企业的小程序开发建设更加安全便捷。",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "云安全"
+    },
+    {
+      "title": "大模型安全网关",
+      "slug": "llmsgw",
+      "url": "https://cloud.tencent.com/product/llmsgw",
+      "desc": "作为企业 AI 应用落地的安全中枢，连接智能体、模型与服务，实现统一治理与高效协同，并通过多层次防护机制解决AI规模化应用中的关键风险。",
+      "description": "API安全治理是一款针对API全生命周期的安全治理解决方案。能够帮助客户对API资产进行梳理，发现API漏洞和风险，识别和阻断API的攻击，防止重要数据资产的泄漏。",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "云安全"
+    },
+    {
+      "title": "主机安全",
+      "slug": "cwp",
+      "url": "https://cloud.tencent.com/product/cwp",
+      "desc": "提供黑客入侵检测和漏洞风险预警服务",
+      "description": "提供黑客入侵检测和漏洞监测等安全防护服务",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "云安全"
+    },
+    {
+      "title": "容器安全服务",
+      "slug": "tcss",
+      "url": "https://cloud.tencent.com/product/tcss",
+      "desc": "精准地对容器的镜像，合规，运行时进行防御和检测",
+      "description": "T-Sec容器安全服务(CSS)具备对容器的镜像，合规，运行时进行防御和检测，保障容器从构建到分发到运行的安全性",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "云安全"
+    },
+    {
+      "title": "云安全中心",
+      "slug": "soc",
+      "url": "https://cloud.tencent.com/product/soc",
+      "desc": "腾讯云原生安全管理平台",
+      "description": "基于客户云端安全数据和腾讯安全大数据，提供业务的风险可视化、安全威胁预警",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "云安全"
+    },
+    {
+      "title": "NDR网络威胁检测系统",
+      "slug": "ndr",
+      "url": "https://cloud.tencent.com/product/ndr",
+      "desc": "识别网络攻击及威胁、拦截恶意IP/URL访问的解决方案",
+      "description": "通过镜像方式采集企业网络边界流量，有效识别安全威胁，快速存储流量日志",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "云安全"
+    },
+    {
+      "title": "网络入侵防护系统",
+      "slug": "nips",
+      "url": "https://cloud.tencent.com/product/nips",
+      "desc": "提供双向流量检测，全局 IP 封禁",
+      "description": "通过旁路部署，提供双向流量逐包检测和IP封禁功能，解决平台监管和治理问题",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "云安全"
+    },
+    {
+      "title": "威胁情报云查与本地引擎",
+      "slug": "tae",
+      "url": "https://cloud.tencent.com/product/tae",
+      "desc": "提供高质量的威胁情报信息查询服务",
+      "description": "高质量威胁情报信息查询服务，提升网络安全解决方案的检测能力",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "安全运营"
+    },
+    {
+      "title": "数据安全治理中心",
+      "slug": "dsgc",
+      "url": "https://cloud.tencent.com/product/dsgc",
+      "desc": "基于 AI 的云上数据安全平台",
+      "description": "依托 AI 算法以及云上数据系统的深度对接，帮助企业发现并解决数据安全风险",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "数据安全"
+    },
+    {
+      "title": "数据安全审计",
+      "slug": "cds",
+      "url": "https://cloud.tencent.com/product/cds",
+      "desc": "高性能人工智能数据安全审计",
+      "description": "高性能人工智能数据安全审计，实时掌握您的数据安全风险趋势",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "数据安全"
+    },
+    {
+      "title": "运维安全中心（堡垒机）",
+      "slug": "bh",
+      "url": "https://cloud.tencent.com/product/bh",
+      "desc": "云上资源安全运维网关",
+      "description": "云上资源安全运维网关，构筑云上数据堡垒",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "数据安全"
+    },
+    {
+      "title": "密钥管理系统",
+      "slug": "kms",
+      "url": "https://cloud.tencent.com/product/kms",
+      "desc": "专业保护数据及密钥安全的密钥服务",
+      "description": "专业保护数据及密钥安全的密钥服务",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "数据安全"
+    },
+    {
+      "title": "SSL 证书",
+      "slug": "ssl",
+      "url": "https://cloud.tencent.com/product/ssl",
+      "desc": "一站式数字证书管理服务",
+      "description": "数字证书一站式管理，快速接入 HTTPS 安全",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "数据安全"
+    },
+    {
+      "title": "代码签名证书",
+      "slug": "csc",
+      "url": "https://cloud.tencent.com/product/csc",
+      "desc": "安全可靠的代码签名证书服务",
+      "description": "安全可靠的代码签名证书服务，为软件使用者和企业建立信任和安全体系",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "数据安全"
+    },
+    {
+      "title": "验证码",
+      "slug": "captcha",
+      "url": "https://cloud.tencent.com/product/captcha",
+      "desc": "稳定、安全、灵活、美观的验证码服务",
+      "description": "稳定、安全、灵活、美观的验证码服务，满足您的对自动机防护的需求",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "业务安全"
+    },
+    {
+      "title": "身份访问控制",
+      "slug": "ciam",
+      "url": "https://cloud.tencent.com/product/ciam",
+      "desc": "优化账号管理，识别风险用户",
+      "description": "为用户提供便捷且安全的注册、登录访问体验，防止恶意用户注册与登录，提升业务平台的用户留存，建设统一的用户账号数据和用户同意管理（Consent Management）。",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "业务安全"
+    },
+    {
+      "title": "风险识别 RCE",
+      "slug": "rce",
+      "url": "https://cloud.tencent.com/product/rce",
+      "desc": "快速、便捷、及时的活动防刷服务",
+      "description": "快速、便捷、及时的活动防刷服务，有效识别出“羊毛党”，保障企业利益",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "业务安全"
+    },
+    {
+      "title": "设备安全",
+      "slug": "tds",
+      "url": "https://cloud.tencent.com/product/tds",
+      "desc": "以设备ID、实时风险模型、信誉库，识别设备风险",
+      "description": "设备安全产品结合腾讯多年的黑产对抗经验，基于可信设备ID，通过设备，账号，环境，行为，场景等多纬度信息的分析，有效识别业务方在业务过程中的欺诈风险，降低企业经济损失。",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "业务安全"
+    },
+    {
+      "title": "流量反欺诈",
+      "slug": "taf",
+      "url": "https://cloud.tencent.com/product/taf",
+      "desc": "快速、稳定、准确的流量欺诈识别服务",
+      "description": "快速、稳定、准确的流量欺诈识别服务，节省企业的流量购买费用",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "业务安全"
+    },
+    {
+      "title": "游戏反作弊 ACE",
+      "slug": "ace",
+      "url": "https://cloud.tencent.com/product/ace",
+      "desc": "腾讯游戏自用的专业游戏安全解决方案",
+      "description": "24 小时安全保障、全方位多维度防护，可轻松快速接入，无后台开发成本",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "业务安全"
+    },
+    {
+      "title": "安全专家服务",
+      "slug": "expert-service",
+      "url": "https://cloud.tencent.com/product/expert-service",
+      "desc": "腾讯安全专家提供专业技术支持服务",
+      "description": "腾讯云专家服务为企业提供安全咨询、渗透测试、应急响应、等保合规、PCI-DSS 合规等服务",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "安全服务"
+    },
+    {
+      "title": "安全托管服务",
+      "slug": "mss",
+      "url": "https://cloud.tencent.com/product/mss",
+      "desc": "实现安全运营的高效、便捷和轻松管理",
+      "description": "利用自动化技术提供云风险监控和响应分析等安全运营服务",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "安全服务"
+    },
+    {
+      "title": "渗透测试服务",
+      "slug": "tpts",
+      "url": "https://cloud.tencent.com/product/tpts",
+      "desc": "黑盒安全测试服务",
+      "description": "针对WEB、APP、微信小程序的黑盒安全测试服务，有效提升应用安全性。",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "安全服务"
+    },
+    {
+      "title": "应急响应服务",
+      "slug": "cirs",
+      "url": "https://cloud.tencent.com/product/cirs",
+      "desc": "网络安全事件的响应与处理",
+      "description": "网络安全事件响应与处理，保障云上资产安全性。",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "安全服务"
+    },
+    {
+      "title": "安全服务平台",
+      "slug": "sps",
+      "url": "https://cloud.tencent.com/product/sps",
+      "desc": "安全运营方案、安全攻防研究、漏洞咨询及治理、情报分析监控、安全防御能力验证、安全合规检查",
+      "description": "安全运营方案、安全攻防研究、漏洞咨询及治理、情报分析监控、安全防御能力验证、安全合规检查",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "安全服务"
+    },
+    {
+      "title": "暴露面管理服务",
+      "slug": "ctem",
+      "url": "https://cloud.tencent.com/product/ctem",
+      "desc": "风险发现识别，漏洞验证，风险管理",
+      "description": "暴露管理服务（CTEM） 通过持续不断评估企业数字和物理资产的可访问性、暴露性和可利用性，帮助组织主动管理内部和外部威胁的影响。",
+      "tag": "new",
+      "category_l1": "安全",
+      "category_l2": "安全服务"
+    },
+    {
+      "title": "iOA 零信任安全管理系统",
+      "slug": "ioa",
+      "url": "https://cloud.tencent.com/product/ioa",
+      "desc": "三级“零信任安全”体系，守卫网络边界",
+      "description": "智能搭建身份安全 、终端安全和链路安全三级“零信任安全”体系，精准控制网络边界访问行为",
+      "tag": "",
+      "category_l1": "安全",
+      "category_l2": "零信任"
+    },
+    {
+      "title": "弹性 MapReduce",
+      "slug": "emr",
+      "url": "https://cloud.tencent.com/product/emr",
+      "desc": "安全、灵活的云端托管 Hadoop 服务",
+      "description": "可靠、安全、灵活的云端托管Hadoop服务",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据分析"
+    },
+    {
+      "title": "Elasticsearch Service",
+      "slug": "es",
+      "url": "https://cloud.tencent.com/product/es",
+      "desc": "开箱即用的云端 Elasticsearch 服务",
+      "description": "弹性伸缩、安全可靠的 Elasticsearch 服务，助力海量数据搜索与分析",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据分析"
+    },
+    {
+      "title": "腾讯云数据仓库 TCHouse-C",
+      "slug": "tchousec",
+      "url": "https://cloud.tencent.com/product/tchousec",
+      "desc": "方便易用的云端托管 ClickHouse 服务",
+      "description": "方便易用的云端托管 ClickHouse 服务，满足海量数据在线查询分析需求",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据分析"
+    },
+    {
+      "title": "腾讯云数据仓库 TCHouse-D",
+      "slug": "tchoused",
+      "url": "https://cloud.tencent.com/product/tchoused",
+      "desc": "弹性易扩展，开箱即用的云端托管 Doris 服务",
+      "description": "弹性易扩展，开箱即用的云端托管 Doris 服务，满足海量数据实时和离线的快速分析需求。",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据分析"
+    },
+    {
+      "title": "腾讯云数据仓库 TCHouse-P",
+      "slug": "tchousep",
+      "url": "https://cloud.tencent.com/product/tchousep",
+      "desc": "便捷、经济高效的云端数据仓库服务",
+      "description": "简单、快速、经济高效的云端数据仓库服务，满足您 PB 级海量数据分析的需求",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据分析"
+    },
+    {
+      "title": "腾讯云数据仓库 TCHouse-X",
+      "slug": "tchouse",
+      "url": "https://cloud.tencent.com/product/tchouse",
+      "desc": "开箱即用，安全可靠的云数据仓库",
+      "description": "高可用、高效自助、开箱即用的云数据仓库（Cloud Data Warehouse），全方位覆盖数据高效分析场景需求",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据分析"
+    },
+    {
+      "title": "流计算 Oceanus",
+      "slug": "oceanus",
+      "url": "https://cloud.tencent.com/product/oceanus",
+      "desc": "大数据产品生态体系的实时化分析利器",
+      "description": "云端的流式数据汇聚、计算服务，满足您实时处理数据的需求",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据分析"
+    },
+    {
+      "title": "数据湖计算 DLC",
+      "slug": "dlc",
+      "url": "https://cloud.tencent.com/product/dlc",
+      "desc": "数据湖分析服务",
+      "description": "敏捷高效的数据湖分析服务，简单快速的开始云端数据联合分析。",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据分析"
+    },
+    {
+      "title": "多模态智能数据湖 TCLake",
+      "slug": "tclake",
+      "url": "https://cloud.tencent.com/product/tclake",
+      "desc": "面向 Data+AI 推出的开放、智能、融合的数据湖基础设施，提供涵盖结构化、非结构化、AI模型的多模态数据统一管理，上层无缝对接腾讯云及主流Data+AI生态引擎，助力企业高效构建AI时代统一、低成本数据湖架构。",
+      "description": "统一 Catalog 服务（ TC-Catalog ）是腾讯云面向 Data+AI 的新一代多态统一元数据管理平台，提供覆盖结构化数据+非结构化数据和 AI 模型的统一元数据管理、权限管理等功能。TC-Catalog 支持对接多种大数据和 AI 引擎，从而快速基于一份湖存储数据打造 Data+AI 一体化应用。",
+      "tag": "new",
+      "category_l1": "大数据",
+      "category_l2": "数据分析"
+    },
+    {
+      "title": "腾讯云数据分析智能体",
+      "slug": "dataagent",
+      "url": "https://cloud.tencent.com/product/dataagent",
+      "desc": "数据驱动的智能决策",
+      "description": "TCDataAgent定位在为企业提供一个全托管的数据分析服务，用于整合、检索和处理结构化和非结构化数据，帮助用户更直观的理解数据，并从中提取有价值的建议，从而支持更快速、更准确的决策。",
+      "tag": "new",
+      "category_l1": "大数据",
+      "category_l2": "数据分析"
+    },
+    {
+      "title": "大数据处理套件 TBDS",
+      "slug": "tbds",
+      "url": "https://cloud.tencent.com/product/tbds",
+      "desc": "安全、易用的一站式大数据存算分析平台",
+      "description": "安全、可靠、易用的一站式、高性能、企业级大数据存储计算分析平台",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据开发与治理"
+    },
+    {
+      "title": "数据开发治理平台 WeData",
+      "slug": "wedata",
+      "url": "https://cloud.tencent.com/product/wedata",
+      "desc": "云端的一站式数据协作开发平台",
+      "description": "该产品提供包含数据集成、可视化数据开发与数据治理在内的全链路数据开发能力，帮助数据工程师高效构建企业级数据中台架构，以实现企业的数据驱动业务增长。",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据开发与治理"
+    },
+    {
+      "title": "数据集成",
+      "slug": "datainlong",
+      "url": "https://cloud.tencent.com/product/datainlong",
+      "desc": "轻量化、可视化、开放化的数据集成工具",
+      "description": "通过快速连接和融合云上或云下自建的各种数据源，提供操作轻量化、过程可视化、能力开放化的数据集成工具",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据开发与治理"
+    },
+    {
+      "title": "腾讯云 BI",
+      "slug": "bi",
+      "url": "https://cloud.tencent.com/product/bi",
+      "desc": "新一代敏捷型 BI SAAS 服务",
+      "description": "高效、强大、迅捷的新一代敏捷自助型 BI 服务平台，助力挖掘数据潜在价值",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据应用与可视化"
+    },
+    {
+      "title": "大数据可视交互系统",
+      "slug": "raydata",
+      "url": "https://cloud.tencent.com/product/raydata",
+      "desc": "实时、高效、稳定的数据可视化服务",
+      "description": "实时交互、高效稳定、绚丽震撼的数据可视化解决方案",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据应用与可视化"
+    },
+    {
+      "title": "数字孪生可视化网页版RayData Web",
+      "slug": "web",
+      "url": "https://cloud.tencent.com/product/web",
+      "desc": "企业级可视化网页端编辑工具",
+      "description": "企业级可视化网页端编辑工具，通过图形化、低代码流程，轻松构建商业级项目。",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据应用与可视化"
+    },
+    {
+      "title": "数字孪生可视化专业版RayData Plus",
+      "slug": "plus",
+      "url": "https://cloud.tencent.com/product/plus",
+      "desc": "工业级3D可视化编辑工具",
+      "description": "工业级3D可视化编辑工具，通过图形化、低代码的工作流程轻松构建可视化项目",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据应用与可视化"
+    },
+    {
+      "title": "数字孪生简报",
+      "slug": "banber1",
+      "url": "https://cloud.tencent.com/product/banber1",
+      "desc": "一款数据简报制作神器，轻松上手，使用便捷，效果出众",
+      "description": "一款集数据分析、报表制作、协同办公于一体的简报制作工具，灵活应对各类业务需求。",
+      "tag": "",
+      "category_l1": "大数据",
+      "category_l2": "数据应用与可视化"
+    },
+    {
+      "title": "人脸识别",
+      "slug": "facerecognition",
+      "url": "https://cloud.tencent.com/product/facerecognition",
+      "desc": "精准实时稳定的人脸识别服务",
+      "description": "精准实时的人脸检测、分析、识别与百万级人脸搜索服务，满足您的多样性业务需求",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 基础产品"
+    },
+    {
+      "title": "文字识别",
+      "slug": "ocr",
+      "url": "https://cloud.tencent.com/product/ocr",
+      "desc": "精准、快速、多场景的图像文字识别服务",
+      "description": "支持印刷体、手写体及定制化场景的图片文字识别服务，有效提升信息录入效率",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 基础产品"
+    },
+    {
+      "title": "图像理解",
+      "slug": "imageunderstanding",
+      "url": "https://cloud.tencent.com/product/imageunderstanding",
+      "desc": "图像识别、搜索能力",
+      "description": "基于腾讯云领先的AI技术提供一系列图像理解的能力，包括图像识别、图像搜索、图像标签",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 基础产品"
+    },
+    {
+      "title": "视频理解",
+      "slug": "ivld",
+      "url": "https://cloud.tencent.com/product/ivld",
+      "desc": "多模态 AI 能力，全维度识别视频标签",
+      "description": "视频音视图文多模态理解，精准输出图像、文本、人物、视频全维度标签",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 基础产品"
+    },
+    {
+      "title": "图像创作",
+      "slug": "imagecreation",
+      "url": "https://cloud.tencent.com/product/imagecreation",
+      "desc": "领先的图像生成、处理能力",
+      "description": "图像创作是基于腾讯云领先的AI技术，对图像进行生成或处理。能力覆盖图像处理、人像变换、人脸试妆、人脸融合、AI绘画等。",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 基础产品"
+    },
+    {
+      "title": "语音识别",
+      "slug": "asr",
+      "url": "https://cloud.tencent.com/product/asr",
+      "desc": "专业智能高效的语音处理服务",
+      "description": "全面开放腾讯语音识别技术，为开发者提供语音转文字服务的最佳体验",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 基础产品"
+    },
+    {
+      "title": "语音合成",
+      "slug": "tts",
+      "url": "https://cloud.tencent.com/product/tts",
+      "desc": "拟真高效的文本转语音服务",
+      "description": "高拟真度、灵活配置的语音合成产品，打通人机交互的闭环，让应用逼真发声",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 基础产品"
+    },
+    {
+      "title": "NLP技术",
+      "slug": "nlp",
+      "url": "https://cloud.tencent.com/product/nlp",
+      "desc": "全面综合、开箱即用的 NLP 能力",
+      "description": "开箱即用的 NLP 能力，满足各种文本智能需求",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 基础产品"
+    },
+    {
+      "title": "机器翻译",
+      "slug": "tmt",
+      "url": "https://cloud.tencent.com/product/tmt",
+      "desc": "支持十余种语言的高效准确翻译服务",
+      "description": "结合了神经机器翻译和统计机器翻译的优点，从大规模双语语料库自动学习翻译知识，实现从源语言文本到目标语言文本的自动翻译",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 基础产品"
+    },
+    {
+      "title": "联网搜索API",
+      "slug": "wsa",
+      "url": "https://cloud.tencent.com/product/wsa",
+      "desc": "高速实时，内容丰富的联网搜索服务",
+      "description": "高速、实时、资源丰富、多模态的联网搜索服务，助您即时获取全网最新动态",
+      "tag": "new",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 基础产品"
+    },
+    {
+      "title": "腾讯云 TI 平台",
+      "slug": "ti",
+      "url": "https://cloud.tencent.com/product/ti",
+      "desc": "一站式机器学习生态服务平台",
+      "description": "基于腾讯云强大计算能力的一站式机器学习生态服务平台，帮助用户方便地进行模型训练、评估和预测",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 平台产品"
+    },
+    {
+      "title": "腾讯觅影开放实验平台",
+      "slug": "taop",
+      "url": "https://cloud.tencent.com/product/taop",
+      "desc": "一站式医学人工智能开放创新服务平台",
+      "description": "一站式医学人工智能开放创新服务平台，涵盖数据管理、标注，算法训练、评测、应用全流程",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 平台产品"
+    },
+    {
+      "title": "人脸核身",
+      "slug": "faceid",
+      "url": "https://cloud.tencent.com/product/faceid",
+      "desc": "秒级确认身份真实性，有效降低业务风险",
+      "description": "领先、贴心、全面、安全的用户身份信息真实性核验服务，满足您多样的身份认证需求",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 应用产品"
+    },
+    {
+      "title": "腾讯云智能数智人",
+      "slug": "ivh",
+      "url": "https://cloud.tencent.com/product/ivh",
+      "desc": "快速定制虚拟形象，助力企业降本增效",
+      "description": "使用虚拟形象进行离线播报或实时交互，助力企业降低成本、打造差异化产品",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 应用产品"
+    },
+    {
+      "title": "腾讯同传",
+      "slug": "tsi",
+      "url": "https://cloud.tencent.com/product/tsi",
+      "desc": "中英文转写、互译，会议记录成稿服务",
+      "description": "基于语音识别、语义理解、机器翻译等人工智能技术，提供中英文转写、中英文互译、会议记录成稿、用户管理服务。",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 应用产品"
+    },
+    {
+      "title": "文本内容安全",
+      "slug": "tms",
+      "url": "https://cloud.tencent.com/product/tms",
+      "desc": "精准识别不适宜内容，节省用户运营成本",
+      "description": "精准识别令人反感、不安全或不适宜内容，节省用户运营成本",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 应用产品"
+    },
+    {
+      "title": "图片内容安全",
+      "slug": "ims",
+      "url": "https://cloud.tencent.com/product/ims",
+      "desc": "精准识别不适宜内容，节省用户运营成本",
+      "description": "精准识别令人反感、不安全或不适宜内容，节省用户运营成本",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 应用产品"
+    },
+    {
+      "title": "音频内容安全",
+      "slug": "ams",
+      "url": "https://cloud.tencent.com/product/ams",
+      "desc": "高效准确的音频内容安全服务",
+      "description": "精准识别令人反感、不安全或不适宜内容，节省用户运营成本",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 应用产品"
+    },
+    {
+      "title": "视频内容安全",
+      "slug": "vm",
+      "url": "https://cloud.tencent.com/product/vm",
+      "desc": "高效、准确的视频内容安服务",
+      "description": "检测涉黄、涉毒等违规视频，节省人工审核成本，提升审核效率",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "AI 应用产品"
+    },
+    {
+      "title": "腾讯混元大模型",
+      "slug": "tclm",
+      "url": "https://cloud.tencent.com/product/tclm",
+      "desc": "腾讯混元大模型（Tencent HY）是由腾讯公司全链路自研的通用与多模态大模型家族，覆盖文本、图像、视频、3D等模态，面向内容生产、知识问答、业务自动化等场景提供企业级服务。",
+      "description": "腾讯混元大模型（Tencent HY）是由腾讯公司全链路自研的通用与多模态大模型家族，覆盖文本、图像、视频、3D等模态，面向内容生产、知识问答、业务自动化等场景提供企业级服务。",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "腾讯大模型"
+    },
+    {
+      "title": "腾讯混元生视频",
+      "slug": "vclm",
+      "url": "https://cloud.tencent.com/product/vclm",
+      "desc": "腾讯混元生视频是一款基于腾讯云先进的AI技术开发的视频处理工具。",
+      "description": "识别图片中人体的完整轮廓，与背景进行分割，返回灰度图和前景人像图；可应用于照片合成等场景。",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "腾讯大模型"
+    },
+    {
+      "title": "腾讯混元生图",
+      "slug": "aiart",
+      "url": "https://cloud.tencent.com/product/aiart",
+      "desc": "腾讯混元生图基于输入的文本或图片智能生成与之相关的图片",
+      "description": "大模型图像创作引擎提供智能图像生成及编辑技术服务，输入一段描述文本或一张图片后，将智能生成与输入内容相关的图片，支持多样化的图片风格选择。",
+      "tag": "",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "腾讯大模型"
+    },
+    {
+      "title": "腾讯混元生3D",
+      "slug": "ai3d",
+      "url": "https://cloud.tencent.com/product/ai3d",
+      "desc": "腾讯混元生3D（Tencent HY 3D）​​ 基于腾讯自研生成式AI大模型，提供3D内容生成的API技术服务。",
+      "description": "API支持通过文本描述或上传2D图像自动创建高精度3D模型，可广泛应用于游戏开发、影视制作、产品设计等领域。混元3D API显著降低了专业级建模的技术门槛，提升了创作效率及设计灵活性，赋能多行业高效完",
+      "tag": "new",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "腾讯大模型"
+    },
+    {
+      "title": "腾讯云智能体开发平台",
+      "slug": "adp",
+      "url": "https://cloud.tencent.com/product/adp",
+      "desc": "腾讯云智能体开发平台（Tencent Cloud Agent Development Platform），是基于大模型的智能体构建平台。提供LLM+RAG、Workflow、Multi-agent等多种智能体开发框架，助力企业能够结合专属数据，更高效地搭建稳定、安全、符合业务需求的智能体。",
+      "description": "腾讯云智能体开发平台（Tencent Cloud Agent Development Platform），是基于大模型的智能体构建平台。提供LLM+RAG、Workflow、Multi-agent等多种智能体开发框架，助力企业能够结合专属数据，更高效地搭建稳定、安全、符合业务需求的智能体。",
+      "tag": "new",
+      "category_l1": "人工智能与机器学习",
+      "category_l2": "腾讯大模型"
+    },
+    {
+      "title": "云托管 CloudBase Run",
+      "slug": "tcbr",
+      "url": "https://cloud.tencent.com/product/tcbr",
+      "desc": "新一代云原生应用引擎（App Engine 2.0）",
+      "description": "由云开发提供的无服务器容器托管平台，可面向代码/镜像等多种方式使用，无需维护复杂的容器环境",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "低代码"
+    },
+    {
+      "title": "Web 应用托管",
+      "slug": "webify",
+      "url": "https://cloud.tencent.com/product/webify",
+      "desc": "极速开发、部署、上线您的 Web 应用",
+      "description": "一站式Web应用托管服务，稳定、安全、高性能，提供高效的开发部署工作流，支持多种类型的Web服务。",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "低代码"
+    },
+    {
+      "title": "腾讯云微搭低代码",
+      "slug": "weda",
+      "url": "https://cloud.tencent.com/product/weda",
+      "desc": "高效、安全、稳定的低代码应用搭建平台",
+      "description": "高效、安全、稳定的低代码应用搭建平台，满足企业数字化业务需求",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "低代码"
+    },
+    {
+      "title": "云压测",
+      "slug": "pts",
+      "url": "https://cloud.tencent.com/product/pts",
+      "desc": "便捷易用的云端性能测试工具",
+      "description": "便捷易用的云端性能测试工具，兼容Jmeter，无需预置压力机",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "监控与运维"
+    },
+    {
+      "title": "CODING DevOps",
+      "slug": "coding",
+      "url": "https://cloud.tencent.com/product/coding",
+      "desc": "一站式 DevOps，提升研发效能",
+      "description": "涵盖了软件开发从构想到交付的一切所需，敏捷开发与 DevOps 管理平台",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "开发者工具"
+    },
+    {
+      "title": "腾讯云代码分析",
+      "slug": "tcap",
+      "url": "https://cloud.tencent.com/product/tcap",
+      "desc": "云原生、分布式、高性能的代码分析平台",
+      "description": "云原生、分布式、高性能的代码综合分析平台，保障项目敏捷迭代下的代码质量",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "开发者工具"
+    },
+    {
+      "title": "Cloud Studio（云端 IDE）",
+      "slug": "cloudstudio",
+      "url": "https://cloud.tencent.com/product/cloudstudio",
+      "desc": "CodeBuddy 云端AI实训社区",
+      "description": "开箱即用的云上AI实训教室，具备使用低门槛、低成本的特点，深耕教育行业计算机与人工智能实训场景。",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "开发者工具"
+    },
+    {
+      "title": "云原生构建",
+      "slug": "cnb",
+      "url": "https://cloud.tencent.com/product/cnb",
+      "desc": "云原生构建（Cloud Native Build，CNB）是新一代开发者工具，为开发者提供代码托管、流水线、云上开发空间、制品管理等能力。",
+      "description": "云原生构建 基于 Docker 生态，对环境、缓存、插件进行抽象，通过声明式的语法，帮助开发者以更高效的方式构建软件。",
+      "tag": "new",
+      "category_l1": "开发与运维",
+      "category_l2": "开发者工具"
+    },
+    {
+      "title": "应用安全开发",
+      "slug": "asd",
+      "url": "https://cloud.tencent.com/product/asd",
+      "desc": "新一代 SAST！精准！高速！",
+      "description": "应用安全开发专注于解决软件安全开发流程中研发阶段的代码安全问题，通过扫描源代码，实现开发阶段的代码安全漏洞生命周期闭环管理，帮助企业和组织实现源代码安全的自动化检测、漏洞周期管理、安全质量分析",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "开发者工具"
+    },
+    {
+      "title": "软件成分分析",
+      "slug": "bsca",
+      "url": "https://cloud.tencent.com/product/bsca",
+      "desc": "全方位、高精度的自动化二进制 SCA",
+      "description": "全方位高精度的软件成分分析，帮助您有效检测已知漏洞与开源许可风险",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "开发者工具"
+    },
+    {
+      "title": "智能顾问",
+      "slug": "advisor",
+      "url": "https://cloud.tencent.com/product/advisor",
+      "desc": "一站式可视化卓越架构 AI 治理平台",
+      "description": "从安全、可靠、服务限制几个维度为您提供云资源优化建议",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "云顾问-混沌演练",
+      "slug": "cfg",
+      "url": "https://cloud.tencent.com/product/cfg",
+      "desc": "遵循混沌工程实验原理的故障演练平台",
+      "description": "遵循混沌工程实验原理的故障演练平台",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "腾讯云健康看板",
+      "slug": "tchd",
+      "url": "https://cloud.tencent.com/product/tchd",
+      "desc": "实时，准确的健康看板",
+      "description": "TCHD 是一个腾讯云服务的健康看板，能够及时的展示腾讯云服务在各个可用区的可用性状态，以及影响服务可用性的相关事件信息。",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "TRTC云助手",
+      "slug": "trtccopilot",
+      "url": "https://cloud.tencent.com/product/trtccopilot",
+      "desc": "TRTC客户全生命周期一站式智能助手",
+      "description": "TRTC客户全生命周期一站式智能助手",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "地域管理系统",
+      "slug": "region",
+      "url": "https://cloud.tencent.com/product/region",
+      "desc": "以接口的形式访问腾讯云地域资源",
+      "description": "以接口的形式访问腾讯云地域资源",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "多云管理",
+      "slug": "cmp",
+      "url": "https://cloud.tencent.com/product/cmp",
+      "desc": "多云管理",
+      "description": "多云管理持续探索企业的公有云应用场景，致力于帮助企业在使用多个公有云时提升账号、资源的管理效率，降低企业云成本",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "基础设施即代码",
+      "slug": "iac",
+      "url": "https://cloud.tencent.com/product/iac",
+      "desc": "提供一系列IaC的家族产品，用于安全高效地管理腾讯云资源",
+      "description": "提供一系列IaC的家族产品，用于安全高效地管理腾讯云资源",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "云资源自动化 for Terraform",
+      "slug": "iatf",
+      "url": "https://cloud.tencent.com/product/iatf",
+      "desc": "Devops工具，用于安全高效地管理腾讯云资源",
+      "description": "Devops工具，用于安全高效地管理腾讯云资源",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "云资源自动化 for Crossplane",
+      "slug": "iacp",
+      "url": "https://cloud.tencent.com/product/iacp",
+      "desc": "以 Kubernetes 方式管理云资源的多云管理产品",
+      "description": "基于业界流行多云管理开源工具 Crossplane 所开发，助力用户实施跨云平台的 DevOps 和多云部署等场景。",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "访问管理",
+      "slug": "cam",
+      "url": "https://cloud.tencent.com/product/cam",
+      "desc": "便捷、安全的权限分配和子用户管理服务",
+      "description": "便捷、安全的权限分配和子用户管理服务",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "账号安全服务",
+      "slug": "acss",
+      "url": "https://cloud.tencent.com/product/acss",
+      "desc": "提供账号安全保障服务",
+      "description": "腾讯云账号安全服务，为您提供账号下审计日志记录、日志数据分析、异常行为监控告警等能力，帮助提升账号安全性",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "操作审计",
+      "slug": "cloudaudit",
+      "url": "https://cloud.tencent.com/product/cloudaudit",
+      "desc": "支持记录和存储腾讯云账号下的操作记录",
+      "description": "支持记录和存储腾讯云账号下的操作记录，以便进行账号安全审计",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "配置审计",
+      "slug": "config",
+      "url": "https://cloud.tencent.com/product/config",
+      "desc": "云资源配置变更记录及合规审计服务",
+      "description": "腾讯云资源配置变更记录及合规审计服务，帮助您集中管控云资源配置情况",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "集团账号管理",
+      "slug": "organization",
+      "url": "https://cloud.tencent.com/product/organization",
+      "desc": "基于权限的腾讯云多账号管理服务",
+      "description": "支持您集中管理多个腾讯云账号和层级组织的服务",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "商业流程服务",
+      "slug": "bpaas",
+      "url": "https://cloud.tencent.com/product/bpaas",
+      "desc": "标准、规范、电子化的云资源流程管理",
+      "description": "标准、规范、电子化的云资源流程管理，满足您账号资源的审批需求",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "控制中心",
+      "slug": "control-center",
+      "url": "https://cloud.tencent.com/product/control-center",
+      "desc": "支持Landing Zone，管理企业云上账号环境",
+      "description": "控制中心",
+      "tag": "new",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "标签",
+      "slug": "tagresources",
+      "url": "https://cloud.tencent.com/product/tagresources",
+      "desc": "标签 - 云资源管理工具",
+      "description": "标签是腾讯云资源管理工具，致力于帮助企业在权限管控、费用分账、资源分类等场景下提升账号、资源的管理效率，降低企业用云成本。",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "资源中心",
+      "slug": "cloudrc",
+      "url": "https://cloud.tencent.com/product/cloudrc",
+      "desc": "一站式的资源发现、搜索和管理的服务平台。",
+      "description": "腾讯云资源中心为您提供一站式的资源发现、搜索和管理的服务。资源中心可持续记录您账号下分散在各地域的各种类型的云资源信息，并提供跨地域、跨类型的资源搜索服务，帮助您更轻松地运维和治理云上资源。",
+      "tag": "new",
+      "category_l1": "开发与运维",
+      "category_l2": "云资源管理"
+    },
+    {
+      "title": "设计协作平台",
+      "slug": "codesign",
+      "url": "https://cloud.tencent.com/product/codesign",
+      "desc": "一站式高效产品设计协作平台",
+      "description": "一站式高效产品设计协作平台，支持各类设计的预览、分享、管理及调用",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "设计协同管理工具"
+    },
+    {
+      "title": "腾讯云助手",
+      "slug": "tca",
+      "url": "https://cloud.tencent.com/product/tca",
+      "desc": "移动管理腾讯云账户、云资源",
+      "description": "腾讯云官方小程序，支持移动端管理腾讯云账户和云资源",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "API 与工具"
+    },
+    {
+      "title": "云 API",
+      "slug": "api",
+      "url": "https://cloud.tencent.com/product/api",
+      "desc": "以接口的形式访问腾讯云的各类资源",
+      "description": "腾讯云开放生态的基石，您可以以接口的形式访问腾讯云的各类资源",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "API 与工具"
+    },
+    {
+      "title": "腾讯云命令行工具",
+      "slug": "cli",
+      "url": "https://cloud.tencent.com/product/cli",
+      "desc": "快速轻松地调用云 API 管理您的云资源",
+      "description": "管理腾讯云资源的统一工具，帮助您更加方便快捷的使用腾讯云产品",
+      "tag": "",
+      "category_l1": "开发与运维",
+      "category_l2": "API 与工具"
+    },
+    {
+      "title": "短信",
+      "slug": "sms",
+      "url": "https://cloud.tencent.com/product/sms",
+      "desc": "快速稳定、简单易用、触达全球的短信服务",
+      "description": "快速稳定、简单易用、触达全球的短信服务，支持国内短信、语音短信与国际短信",
+      "tag": "",
+      "category_l1": "云通信与企业服务",
+      "category_l2": "云通信"
+    },
+    {
+      "title": "号码认证",
+      "slug": "nvs",
+      "url": "https://cloud.tencent.com/product/nvs",
+      "desc": "提供一键登录、本机校验两大功能",
+      "description": "提供一键登录、本机校验两大功能，实现一键免密注册、登录、校验。",
+      "tag": "",
+      "category_l1": "云通信与企业服务",
+      "category_l2": "云通信"
+    },
+    {
+      "title": "邮件推送",
+      "slug": "ses",
+      "url": "https://cloud.tencent.com/product/ses",
+      "desc": "简单快速，精准高效的邮件推送服务",
+      "description": "基于云端的平台化服务, 为企业提供安全稳定、简单快速、精准高效的营销、通知和事务邮件的推送服务",
+      "tag": "",
+      "category_l1": "云通信与企业服务",
+      "category_l2": "云通信"
+    },
+    {
+      "title": "云解析 DNS",
+      "slug": "dns",
+      "url": "https://cloud.tencent.com/product/dns",
+      "desc": "提供稳定、安全、快速的智能解析服务",
+      "description": "向全网域名提供稳定、安全、快速的智能解析服务",
+      "tag": "",
+      "category_l1": "云通信与企业服务",
+      "category_l2": "域名管理"
+    },
+    {
+      "title": "智能全局流量管理",
+      "slug": "igtm",
+      "url": "https://cloud.tencent.com/product/igtm",
+      "desc": "基于DNS解析的高可用服务，为用户提供跨云跨地域流量调度能力、故障监控和容灾切换能力",
+      "description": "智能全局流量管理基于DNS技术实现应用服务的同城多活、故障隔离和异地容灾。为用户提供跨云跨地域流量调度能力",
+      "tag": "",
+      "category_l1": "云通信与企业服务",
+      "category_l2": "域名管理"
+    },
+    {
+      "title": "移动解析 HTTPDNS",
+      "slug": "httpdns",
+      "url": "https://cloud.tencent.com/product/httpdns",
+      "desc": "根治 APP DNS 异常、域名劫持、跨网异常",
+      "description": "根治移动APP的DNS解析异常、域名劫持、跨网访问的问题",
+      "tag": "",
+      "category_l1": "云通信与企业服务",
+      "category_l2": "域名管理"
+    },
+    {
+      "title": "私有域解析 Private DNS",
+      "slug": "privatedns",
+      "url": "https://cloud.tencent.com/product/privatedns",
+      "desc": "安全、稳定、高效的私有域名解析服务",
+      "description": "私有域解析是基于腾讯云私有网络 VPC 的私有域名解析及管理服务，为您提供安全、稳定、高效的内网智能解析服务。支持在私有网络中快速构建 DNS 系统，满足定制化解析需求。",
+      "tag": "",
+      "category_l1": "云通信与企业服务",
+      "category_l2": "域名管理"
+    },
+    {
+      "title": "检测工具",
+      "slug": "tools",
+      "url": "https://cloud.tencent.com/product/tools",
+      "desc": "自动诊断域名、证书状态，保障网站安全",
+      "description": "自动诊断域名、SSL证书状态，保障网站安全",
+      "tag": "",
+      "category_l1": "云通信与企业服务",
+      "category_l2": "域名管理"
+    },
+    {
+      "title": "腾讯云区块链服务平台 TBaaS",
+      "slug": "tbaas",
+      "url": "https://cloud.tencent.com/product/tbaas",
+      "desc": "低门槛，一站式接入的区块链服务",
+      "description": "高效、开放、安全、弹性的区块链服务，为企业降低区块链技术与应用门槛，打造可信的企业间价值通道",
+      "tag": "",
+      "category_l1": "云通信与企业服务",
+      "category_l2": "区块链"
+    },
+    {
+      "title": "分布式身份",
+      "slug": "tdid",
+      "url": "https://cloud.tencent.com/product/tdid",
+      "desc": "可信数字身份与数据交换基础服务",
+      "description": "为跨机构、跨地域的可信数字身份与数据交换提供基础服务",
+      "tag": "",
+      "category_l1": "云通信与企业服务",
+      "category_l2": "区块链"
+    },
+    {
+      "title": "跨链服务平台",
+      "slug": "bis",
+      "url": "https://cloud.tencent.com/product/bis",
+      "desc": "已适配长安链、Fabric、bcos主流区块链引擎",
+      "description": "帮助用户低成本搭建跨链系统，已并适配长安链、Fabric、bcos等多种主流区块链引擎。",
+      "tag": "",
+      "category_l1": "云通信与企业服务",
+      "category_l2": "区块链"
+    },
+    {
+      "title": "至信链",
+      "slug": "zxl",
+      "url": "https://cloud.tencent.com/product/zxl",
+      "desc": "具有司法公信力区块链证据保全平台",
+      "description": "1.可信存证：调用存证接口，将电子数据存入链上固化为电子证据，并出具电子证据存证证明书，提供具有公信力的电子证据保全服务。 2.可信取证：通过云端打开清洁的windows/android虚拟环境后，进入侵权页面或直播间，自动播放后对侵权行为进行录屏或是截屏，再将取得证据在区块链上保全固化。",
+      "tag": "",
+      "category_l1": "云通信与企业服务",
+      "category_l2": "区块链"
+    },
+    {
+      "title": "腾讯问卷",
+      "slug": "survey",
+      "url": "https://cloud.tencent.com/product/survey",
+      "desc": "个性专业安全的一站式调查研究服务平台",
+      "description": "一站式问卷调查服务平台，为您提供个性专业安全的企业级调查服务",
+      "tag": "",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "腾讯电子签",
+      "slug": "esign",
+      "url": "https://cloud.tencent.com/product/esign",
+      "desc": "安全，便捷的电子合同签约及证据保全服务",
+      "description": "腾讯电子签集成线上合同签署，人脸核身实名认证，区块链存证等能力，为客户提供安全，便捷的电子合同签约及证据保全服务。",
+      "tag": "",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "腾讯会议",
+      "slug": "tm",
+      "url": "https://cloud.tencent.com/product/tm",
+      "desc": "“云+端+AI”云视频会议解决方案",
+      "description": "多终端智能协作，提供覆盖全球100+国家及地区的云端会议解决方案。",
+      "tag": "",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "腾讯文档企业版",
+      "slug": "tdb",
+      "url": "https://cloud.tencent.com/product/tdb",
+      "desc": "腾讯文档让协作更高效，创作更轻松",
+      "description": "腾讯文档让协作更高效，创作更轻松",
+      "tag": "",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "TAPD 敏捷项目管理",
+      "slug": "tapd",
+      "url": "https://cloud.tencent.com/product/tapd",
+      "desc": "提供贯穿敏捷研发生命周期的一站式服务",
+      "description": "腾讯敏捷研发平台，贯穿敏捷研发完整生命周期",
+      "tag": "",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "腾讯乐享",
+      "slug": "lexiang",
+      "url": "https://cloud.tencent.com/product/lexiang",
+      "desc": "一站式企业社区",
+      "description": "一站式企业社区，可组件化使用 K 吧、知识库/文档、乐问、课堂、考试、活动、投票、论坛和祝福等应用。",
+      "tag": "",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "腾讯云企业网盘",
+      "slug": "tced",
+      "url": "https://cloud.tencent.com/product/tced",
+      "desc": "安全高效的企业协同办公平台",
+      "description": "企业级办公协同平台，提供文件管理、用户与权限管理、文档在线协作与共享、数据分发等服务，助力企业提升数据管理效率",
+      "tag": "",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "腾讯云安灯",
+      "slug": "tandon",
+      "url": "https://cloud.tencent.com/product/tandon",
+      "desc": "智能化ITSM平台，让管理更精益",
+      "description": "融合ITIL4先进理念，帮助企业构建服务管理 ITSM 体系，助力实现数字化转型升级。",
+      "tag": "",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "腾讯浏览服务",
+      "slug": "tbs",
+      "url": "https://cloud.tencent.com/product/tbs",
+      "desc": "稳定安全、高兼容性的本地文档浏览服务",
+      "description": "稳定、安全、高兼容性的本地文档浏览引擎，支持word、excel、ppt、pdf、txt及chm等各类文档格式",
+      "tag": "",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "腾讯微卡",
+      "slug": "wecard",
+      "url": "https://cloud.tencent.com/product/wecard",
+      "desc": "以电子卡连接门禁、消费等线上线下场景",
+      "description": "以电子卡连接门禁、消费、班车等各种场景，实现企业/校园等精细化人员管理。",
+      "tag": "",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "腾讯云商付",
+      "slug": "tccp",
+      "url": "https://cloud.tencent.com/product/tccp",
+      "desc": "提供商业级的收付产品解决方案，帮助企业搭建自己的收付平台",
+      "description": "连接企业与银行的收单分账服务，满足您的多样性业务需求",
+      "tag": "",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "腾讯云 CA",
+      "slug": "tcca",
+      "url": "https://cloud.tencent.com/product/tcca",
+      "desc": "可信赖的电子认证服务",
+      "description": "腾讯云CA为各行业信息化发展与数字化转型提供符合《中华人民共和国电子签名法》和《电子认证服务管理办法》等网络安全相关法律法规要求的第三方权威数字认证产品及服务，以灵活部署方式、多种证书类型灵活满足用户",
+      "tag": "",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "CA数字身份",
+      "slug": "tcdi",
+      "url": "https://cloud.tencent.com/product/tcdi",
+      "desc": "基于权威持牌电子认证服务机构提供的数字证书及丰富的实名核验方法，为企业及个人提供可信任的加密身份凭证",
+      "description": "为企业及个人提供加密可信加密的网络“身份证”",
+      "tag": "new",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "CA加密服务",
+      "slug": "caef",
+      "url": "https://cloud.tencent.com/product/caef",
+      "desc": "基于CA数字身份的的加密组件",
+      "description": "提供基于可信数字身份的文件加密、验签、存证、出证等应用原子能力",
+      "tag": "new",
+      "category_l1": "办公协同",
+      "category_l2": "办公协同"
+    },
+    {
+      "title": "腾讯轻联",
+      "slug": "ipaas",
+      "url": "https://cloud.tencent.com/product/ipaas",
+      "desc": "全面、开放的企业级云端集成平台",
+      "description": "全面、开放、安全、高可用的企业级云端集成平台，全方位满足企业任何应用、数据和设备的集成需求",
+      "tag": "",
+      "category_l1": "办公协同",
+      "category_l2": "连接器"
+    },
+    {
+      "title": "腾讯企点营销通",
+      "slug": "yxt",
+      "url": "https://cloud.tencent.com/product/yxt",
+      "desc": "助力企业搭建专属私域引擎",
+      "description": "助力企业搭建专属私域引擎",
+      "tag": "",
+      "category_l1": "微信生态",
+      "category_l2": "数字营销"
+    },
+    {
+      "title": "物联网开发平台",
+      "slug": "iotexplorer",
+      "url": "https://cloud.tencent.com/product/iotexplorer",
+      "desc": "高效便捷的物联网开发服务",
+      "description": "高效、便捷的物联网应用开发服务，支持您的物联网项目快速落地",
+      "tag": "",
+      "category_l1": "物联网",
+      "category_l2": "物联网"
+    },
+    {
+      "title": "物联网通信",
+      "slug": "iothub",
+      "url": "https://cloud.tencent.com/product/iothub",
+      "desc": "帮助开发者快速搭建物联网应用平台",
+      "description": "安全、稳定、高效的物联网通信连接平台，助力您快速实现设备-应用-云服务间数据通信",
+      "tag": "",
+      "category_l1": "物联网",
+      "category_l2": "物联网"
+    },
+    {
+      "title": "物联网设备洞察",
+      "slug": "iotinsight",
+      "url": "https://cloud.tencent.com/product/iotinsight",
+      "desc": "设备数据清洗、业务数据集成、存储分析能力",
+      "description": "为用户提供IoT设备数据清洗、业务数据集成、存储分析能力",
+      "tag": "",
+      "category_l1": "物联网",
+      "category_l2": "物联网"
+    },
+    {
+      "title": "腾讯物联网终端操作系统",
+      "slug": "tos-tiny",
+      "url": "https://cloud.tencent.com/product/tos-tiny",
+      "desc": "简洁、高效的物联网操作系统",
+      "description": "简洁、高效的物联网操作系统，有效降低设备规格和功耗需求，提升物联网应用开发效率",
+      "tag": "",
+      "category_l1": "物联网",
+      "category_l2": "物联网"
+    },
+    {
+      "title": "物联网智能视频服务(行业版)",
+      "slug": "iot-video-industry",
+      "url": "https://cloud.tencent.com/product/iot-video-industry",
+      "desc": "面向企业用户的一站式稳定可靠的物联视频PAAS服务",
+      "description": "稳定可靠的物联视频一站式PAAS服务，助力企业用户快速接入摄像头和视频网关，云上监控、录像和智能分析",
+      "tag": "",
+      "category_l1": "物联网",
+      "category_l2": "物联网"
+    },
+    {
+      "title": "物联网智能视频服务(消费版)",
+      "slug": "iot-video",
+      "url": "https://cloud.tencent.com/product/iot-video",
+      "desc": "物联网设备视频接入、存储、智能应用",
+      "description": "为物联网设备提供安全、可靠、高效的视频连接、存储、智能应用服务",
+      "tag": "",
+      "category_l1": "物联网",
+      "category_l2": "物联网"
+    },
+    {
+      "title": "智聆口语评测",
+      "slug": "soe-overview",
+      "url": "https://cloud.tencent.com/product/soe-overview",
+      "desc": "口语能力评测服务",
+      "description": "支持英文、中文的多维度多模式口语评测，全年龄覆盖",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "教育服务"
+    },
+    {
+      "title": "口语评测（基础版）",
+      "slug": "oeb",
+      "url": "https://cloud.tencent.com/product/oeb",
+      "desc": "专业的英语口语发音音素级评测",
+      "description": "支持单词、句子多维度语音评测，全年龄覆盖，让语言学习更有趣更高效。",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "教育服务"
+    },
+    {
+      "title": "口语评测（新版）",
+      "slug": "oen",
+      "url": "https://cloud.tencent.com/product/oen",
+      "desc": "专业的中文普通话发音评测",
+      "description": "支持中文字词、句子、段落多维度语音评测，全年龄覆盖，让语言学习更有趣更高效",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "教育服务"
+    },
+    {
+      "title": "数学作业批改",
+      "slug": "hcm",
+      "url": "https://cloud.tencent.com/product/hcm",
+      "desc": "拍照改作业，3秒搞定",
+      "description": "针对小学数学作业的批改，支持多种速算题型，让作业批改更简单高效",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "教育服务"
+    },
+    {
+      "title": "英文作文批改",
+      "slug": "ecc",
+      "url": "https://cloud.tencent.com/product/ecc",
+      "desc": "一键拍照，轻松批改英语作文",
+      "description": "覆盖英语学习全周期，提供高参考价值、高人评拟合度的智能批改服务",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "教育服务"
+    },
+    {
+      "title": "互动白板",
+      "slug": "tiw",
+      "url": "https://cloud.tencent.com/product/tiw",
+      "desc": "实时流畅、功能全面、多人在线互动白板服务",
+      "description": "腾讯云互动白板是一款多人在线实时互动协作的工具，提供互动涂鸦、轨迹实时同步、文档共享、文档转码、白板与音视频实同步录制、回放等功能，应用于在线教育、作业批改、协作办公、游戏娱乐、金融面签等场景。",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "教育服务"
+    },
+    {
+      "title": "商场客留大数据",
+      "slug": "mall",
+      "url": "https://cloud.tencent.com/product/mall",
+      "desc": "基于LBS大数据的商场大数据分析“天眼”",
+      "description": "基于LBS定位数据，集客流统计、洞察分析、精准营销于一体的商业地产大数据产品。",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "建筑服务"
+    },
+    {
+      "title": "微瓴同业开放平台",
+      "slug": "weilingwith",
+      "url": "https://cloud.tencent.com/product/weilingwith",
+      "desc": "建筑数字化“一站式工具箱”",
+      "description": "微瓴同业开放平台承袭微瓴的技术能力，为园区/楼宇提供智慧空间数字底座及物联操作系统。",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "建筑服务"
+    },
+    {
+      "title": "腾讯客户端性能分析",
+      "slug": "qapm",
+      "url": "https://cloud.tencent.com/product/qapm",
+      "desc": "App 性能测试与监控",
+      "description": "QAPM，唯快不破。助您高效率突破 App 的性能瓶颈，打造顺畅体验的产品口碑",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "移动服务"
+    },
+    {
+      "title": "云支付",
+      "slug": "cpay",
+      "url": "https://cloud.tencent.com/product/cpay",
+      "desc": "轻量化、可扩展的聚合支付产品",
+      "description": "轻量化、低成本、无门槛、可扩展、面向多渠道的聚合支付产品",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "金融服务"
+    },
+    {
+      "title": "金融专有云开发测试平台",
+      "slug": "fpcrdtp",
+      "url": "https://cloud.tencent.com/product/fpcrdtp",
+      "desc": "金融专有云产品的金融公有云环境版本",
+      "description": "灵活的云资源环境，助力客户快捷开发测试",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "金融服务"
+    },
+    {
+      "title": "企业金融服务平台",
+      "slug": "tefp",
+      "url": "https://cloud.tencent.com/product/tefp",
+      "desc": "中小企业融资信息服务平台",
+      "description": "服务企业融资服务需求，构建企业身份认证、企业信用画像的平台化能力支持。",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "金融服务"
+    },
+    {
+      "title": "文旅客情大数据",
+      "slug": "tourism",
+      "url": "https://cloud.tencent.com/product/tourism",
+      "desc": "基于LBS大数据的游客监控统计分析平台",
+      "description": "基于LBS定位数据，集客流统计、洞察、分析于一体的文旅大数据平台",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "文旅服务"
+    },
+    {
+      "title": "智能导诊",
+      "slug": "ig",
+      "url": "https://cloud.tencent.com/product/ig",
+      "desc": "分诊导诊、医务咨询等智能导医服务",
+      "description": "基于医学AI技术，智能理解患者语义，提供分诊导诊、医务咨询等智能导医服务",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "AI 就医助手",
+      "slug": "ama",
+      "url": "https://cloud.tencent.com/product/ama",
+      "desc": "患者就医的移动门诊咨询台",
+      "description": "通过与患者对话，提供智能分诊、就医流程引导、医学知识科普等多维就医信息",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "AI 临床助手",
+      "slug": "aca",
+      "url": "https://cloud.tencent.com/product/aca",
+      "desc": "智能临床助手，提升医疗效率",
+      "description": "医生的智能临床助手，帮助提升医疗服务效率",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "智能预问诊",
+      "slug": "ipc",
+      "url": "https://cloud.tencent.com/product/ipc",
+      "desc": "智能模拟医生问诊，提前收集患者病情",
+      "description": "基于医疗AI、自然语言处理技术、医学知识图谱等核心技术，智能理解患者主诉，模拟医生真实问诊思路进行智能追问，帮助医生提前了解患者病情，提高线上问诊效率。",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "家医助手",
+      "slug": "fda",
+      "url": "https://cloud.tencent.com/product/fda",
+      "desc": "基层医疗健康数字化管理工具",
+      "description": "提供家医签约、智能问答、医生AI工具等基层医疗健康管理数字化服务",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "医疗报告结构化",
+      "slug": "mrs",
+      "url": "https://cloud.tencent.com/product/mrs",
+      "desc": "高效专业的结构化提取服务",
+      "description": "检验报告、检查报告、出院报告、病理报告等各个医院报告结构化内容提取服务",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "精准预约",
+      "slug": "aipa",
+      "url": "https://cloud.tencent.com/product/aipa",
+      "desc": "智能、精准的医患匹配服务",
+      "description": "专注肿瘤医患精准匹配，减少优质医疗资源浪费，促进医疗资源合理分配。",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "医疗内容平台",
+      "slug": "tmmca",
+      "url": "https://cloud.tencent.com/product/tmmca",
+      "desc": "海量医学科普内容，三甲名医严格质控",
+      "description": "海量优质医学科普内容，公立三甲名医严格质控",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "NGES 医生互动管理套件",
+      "slug": "nges",
+      "url": "https://cloud.tencent.com/product/nges",
+      "desc": "为药械企业提供智能、高效的营销工具",
+      "description": "为药械企业提供智能、高效的营销工具",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "药械会议管理",
+      "slug": "ngesevents",
+      "url": "https://cloud.tencent.com/product/ngesevents",
+      "desc": "基于腾讯会议实现医生用户的广泛触达、沉淀，形成用户洞察",
+      "description": "药械会议管理（NGES Events）基于腾讯会议实现医生用户的广泛触达、沉淀，形成用户洞察。",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "药械客户管理",
+      "slug": "ngescrm",
+      "url": "https://cloud.tencent.com/product/ngescrm",
+      "desc": "药械客户管理支持药械企业传统的医生客户管理需求",
+      "description": "药械客户管理（NGES Customer Relationship Management, NGES CRM）支持药械企业传统的医生客户管理需求，帮助药企更加进准有效的进行学术传递。",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "多渠道营销",
+      "slug": "mcm",
+      "url": "https://cloud.tencent.com/product/mcm",
+      "desc": "帮助药械企业打造一站式的多渠道营销管理平台",
+      "description": "多渠道营销（Multi-Channel Marketing）是基于微信小程序的营销工具。",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "腾讯健康组学平台",
+      "slug": "omics",
+      "url": "https://cloud.tencent.com/product/omics",
+      "desc": "生命科学行业一键上云整体解决方案",
+      "description": "腾讯健康组学平台（Tencent HealthCare Omics Platform）为生命科学行业用户提供具备行业特征的一键上云整体解决方案。",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "数智医疗影像平台",
+      "slug": "medicalplatform",
+      "url": "https://cloud.tencent.com/product/medicalplatform",
+      "desc": "提供医疗影像存储应用整体解决方案",
+      "description": " 提供医疗影像存储应用整体解决方案",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "腾讯健康药箱",
+      "slug": "thed",
+      "url": "https://cloud.tencent.com/product/thed",
+      "desc": "提供人与药品精准连接的服务",
+      "description": "腾讯健康药箱是以患者为中心的一站式用药增值服务平台",
+      "tag": "new",
+      "category_l1": "行业应用",
+      "category_l2": "医疗服务"
+    },
+    {
+      "title": "材料研究平台",
+      "slug": "mrp",
+      "url": "https://cloud.tencent.com/product/mrp",
+      "desc": "高效便捷，一站式材料研究平台",
+      "description": "接入高性能计算，融合数据呈现、论文协作和项目管理功能，一站式材料研究平台。",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "科创服务"
+    },
+    {
+      "title": "传媒云原生移动开发平台",
+      "slug": "mcmp",
+      "url": "https://cloud.tencent.com/product/mcmp",
+      "desc": "建设高品质云原生移动客户端及运营平台",
+      "description": "融媒移动端建设全链路上云赋能，降低高品质移动端开发门槛。",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "传媒服务"
+    },
+    {
+      "title": "腾讯智慧零售四力增长平台",
+      "slug": "tsrffgp",
+      "url": "https://cloud.tencent.com/product/tsrffgp",
+      "desc": "私域增长服务及产品工具提效",
+      "description": "四力商家增长平台围绕智慧零售四力方法论为零售客户提供模块化私域咨询服务能力及相关产品，满足客户日常私域经营的需求，助力私域商家实现精细化运营",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "零售服务"
+    },
+    {
+      "title": "智慧零售增长平台 Lite 版",
+      "slug": "srgpl",
+      "url": "https://cloud.tencent.com/product/srgpl",
+      "desc": "建立私域增长路径和提升经营效率服务",
+      "description": "智慧零售增长平台Lite版为零售客户提供模块化私域咨询服务能力，满足商家日常私域经营的需求，助力实现精细化运营",
+      "tag": "",
+      "category_l1": "行业应用",
+      "category_l2": "零售服务"
+    },
+    {
+      "title": "在线坐席",
+      "slug": "ocs",
+      "url": "https://cloud.tencent.com/product/ocs",
+      "desc": "唯一覆盖QQ+微信+企微渠道的SaaS客服系统",
+      "description": "唯一覆盖QQ+微信+企微渠道的SaaS客服系统",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点客服"
+    },
+    {
+      "title": "文本机器人",
+      "slug": "cscbot",
+      "url": "https://cloud.tencent.com/product/cscbot",
+      "desc": "面向企业场景的 AI 服务，可应用于智能客服、服务咨询、业务办理等场景",
+      "description": "面向企业场景的 AI 服务，可应用于智能客服、服务咨询、业务办理等场景",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点客服"
+    },
+    {
+      "title": "客服智能质检",
+      "slug": "iqa",
+      "url": "https://cloud.tencent.com/product/iqa",
+      "desc": "对会话数据进行智能化分析和检测",
+      "description": "对会话数据进行智能化分析和检测",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点客服"
+    },
+    {
+      "title": "客服工单",
+      "slug": "cst",
+      "url": "https://cloud.tencent.com/product/cst",
+      "desc": "基于工作流引擎，处理多类型单据的SaaS服务产品",
+      "description": "基于工作流引擎，处理多类型单据的SaaS服务产品",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点客服"
+    },
+    {
+      "title": "客服大模型机器人",
+      "slug": "cslr",
+      "url": "https://cloud.tencent.com/product/cslr",
+      "desc": "深度集成DeepSeek的新一代智能客服",
+      "description": "客服大模型机器人，是基于腾讯云智能体开发平台打造的智能客服解决方案，聚焦企业服务场景，基于大模型强大的语义理解、上下文关联等能力，助力企业在售前售后服务场景为客户提供更高效、有温度的服务。",
+      "tag": "new",
+      "category_l1": "服务与营销",
+      "category_l2": "企点客服"
+    },
+    {
+      "title": "金融行业-QTrade",
+      "slug": "qtrade",
+      "url": "https://cloud.tencent.com/product/qtrade",
+      "desc": "金融行业，合规的通讯管理工具",
+      "description": "金融行业，合规的通讯管理工具",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点商通"
+    },
+    {
+      "title": "电子行业-腾采通",
+      "slug": "etcrm",
+      "url": "https://cloud.tencent.com/product/etcrm",
+      "desc": "电子行业，询报价、货客、分析管理",
+      "description": "腾采通是电子产品人工智能交易助手，利用行业大数据与AI技术，助力运营、拓客、商机匹配、下单交易。",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点商通"
+    },
+    {
+      "title": "客户数据平台",
+      "slug": "tqdcdp",
+      "url": "https://cloud.tencent.com/product/tqdcdp",
+      "desc": "客户数据资产管理与画像平台",
+      "description": "客户数据资产管理与画像平台",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点营销云"
+    },
+    {
+      "title": "营销自动化",
+      "slug": "tqdma",
+      "url": "https://cloud.tencent.com/product/tqdma",
+      "desc": "全生命周期客户旅程自动化营销平台",
+      "description": "全生命周期客户旅程自动化营销平台",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点营销云"
+    },
+    {
+      "title": "融合分析",
+      "slug": "tmcfa",
+      "url": "https://cloud.tencent.com/product/tmcfa",
+      "desc": "一站式用户行为数据采集与分析",
+      "description": "一站式用户行为数据采集与分析",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点营销云"
+    },
+    {
+      "title": "画像分析",
+      "slug": "tqdpa",
+      "url": "https://cloud.tencent.com/product/tqdpa",
+      "desc": "快捷洞察用户公域画像特征",
+      "description": "快捷洞察用户公域画像特征",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点营销云"
+    },
+    {
+      "title": "企微互动",
+      "slug": "tmcscrm",
+      "url": "https://cloud.tencent.com/product/tmcscrm",
+      "desc": "企微私域运营工具，助力客户服务和业绩增长",
+      "description": "企业客服及营销会话智能分析",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点营销云"
+    },
+    {
+      "title": "客户忠诚度管理",
+      "slug": "tqdlm",
+      "url": "https://cloud.tencent.com/product/tqdlm",
+      "desc": "会员忠诚度管理平台",
+      "description": "会员忠诚度管理平台",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点营销云"
+    },
+    {
+      "title": "营销智能推荐",
+      "slug": "tqdrem",
+      "url": "https://cloud.tencent.com/product/tqdrem",
+      "desc": "千人千面的个性化推荐服务平台",
+      "description": "千人千面的个性化推荐服务平台",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点营销云"
+    },
+    {
+      "title": "数字会展",
+      "slug": "tqdde",
+      "url": "https://cloud.tencent.com/product/tqdde",
+      "desc": "一站式数字会展平台",
+      "description": "一站式数字会展平台",
+      "tag": "",
+      "category_l1": "服务与营销",
+      "category_l2": "企点营销云"
+    }
+  ],
+  "count": 351
+}

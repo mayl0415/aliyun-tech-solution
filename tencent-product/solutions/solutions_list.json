@@ -1,0 +1,1607 @@
+{
+  "solutions": [
+    {
+      "title": "金融",
+      "slug": "finance",
+      "url": "https://cloud.tencent.com/solution/finance",
+      "desc": "为金融行业客户量身定制合规安全、低成本、高性能、高可用的云服务。运用领先技术助力客户科技升级，打造云上金融，智创未来。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "金融"
+    },
+    {
+      "title": "产业金融",
+      "slug": "industrial-finance",
+      "url": "https://cloud.tencent.com/solution/industrial-finance",
+      "desc": "聚焦数字化升级，为产业链核心企业及上下游企业、政府机构等打造产业金融服务平台，为金融机构提供全栈的金融科技能力。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "金融"
+    },
+    {
+      "title": "金融风控",
+      "slug": "frm",
+      "url": "https://cloud.tencent.com/solution/frm",
+      "desc": "贴近金融业务场景、抓住典型风险类型、遵从风险管理流程、提供核心风控系统， 努力为金融行业提供一站式的金融风控解决方案。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "金融"
+    },
+    {
+      "title": "至信链金融数据存证",
+      "slug": "zxlfinancial",
+      "url": "https://cloud.tencent.com/solution/zxlfinancial",
+      "desc": "至信链金融数据存证系统帮助金融机构在线上业务发生时，对关键证据(如合同及收付凭证)进行区块链存证，保障电子证据的真实性。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "金融"
+    },
+    {
+      "title": "专有云",
+      "slug": "privatecloud",
+      "url": "https://cloud.tencent.com/solution/privatecloud",
+      "desc": "基于腾讯强大技术能力和成熟产品体系推出的专有云解决方案，提供多版本满足不同的客户需求，为您构建专业安全稳定的云平台。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "金融"
+    },
+    {
+      "title": "医疗大健康",
+      "slug": "medical",
+      "url": "https://cloud.tencent.com/solution/medical",
+      "desc": "依托腾讯云优势，联合合作伙伴，连接政府、医疗服务机构、医药研发与流通、康养等，构建医疗大健康产业云生态，助力数字化升级。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "医疗"
+    },
+    {
+      "title": "医疗数据中台",
+      "slug": "medical-data-middle-platform",
+      "url": "https://cloud.tencent.com/solution/medical-data-middle-platform",
+      "desc": "依托腾讯大数据平台能力，构建数据中台体系架构，融合医学知识库、标准医学数据模型提供整套医疗行业数据中台及应用解决方案",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "医疗"
+    },
+    {
+      "title": "智慧医保",
+      "slug": "intelligent-healthcare",
+      "url": "https://cloud.tencent.com/solution/intelligent-healthcare",
+      "desc": "依托腾讯成熟的云平台建设经验，基于云基础设施为医保行业提供全套的云平台解决方案。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "医疗"
+    },
+    {
+      "title": "消费医疗经营增长",
+      "slug": "chg",
+      "url": "https://cloud.tencent.com/solution/chg",
+      "desc": "依托腾讯全链数字化能力，助力消费医疗机构精准营销、高效运营、科学管理，实现全方位转型增长。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "医疗"
+    },
+    {
+      "title": "智慧景区",
+      "slug": "scenic",
+      "url": "https://cloud.tencent.com/solution/scenic",
+      "desc": "结合腾讯大数据，AI 等能力为景区提供游客服务、商家管理、大数据分析等一体化智慧景区方案。协助景区安全运营管理，提升游客的服务体验。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "文旅"
+    },
+    {
+      "title": "智慧停车",
+      "slug": "smart-parking",
+      "url": "https://cloud.tencent.com/solution/smart-parking",
+      "desc": "为智慧停车行业提供一体化管理平台，覆盖路内、外停车管理，提供城市级智慧停车全流程服务。运用领先技术助力行业升级，打造云上停车新愿景。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "文旅"
+    },
+    {
+      "title": "生活互联",
+      "slug": "life-iot",
+      "url": "https://cloud.tencent.com/solution/life-iot",
+      "desc": "腾讯云智能+生活互联解决方案，依托腾讯公司20年的深厚技术积累和海量服务经验，为在线旅游（OTA）、酒店等生活互联行业提供场景化方案。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "文旅"
+    },
+    {
+      "title": "文旅行业",
+      "slug": "tourism",
+      "url": "https://cloud.tencent.com/solution/tourism",
+      "desc": "赋能文旅行业客户，提供文旅各领域专业的解决方案和标准产品，通过数字化技术推动文旅产业转型升级。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "文旅"
+    },
+    {
+      "title": "云会展",
+      "slug": "exhibition",
+      "url": "https://cloud.tencent.com/solution/exhibition",
+      "desc": "基于云计算等腾讯技术能力，提供线上助展、供采对接、智慧场馆、产业互联等服务，帮助会展行业实现增值，提升行业竞争力。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "文旅"
+    },
+    {
+      "title": "文旅营销和支付",
+      "slug": "cultural-travel",
+      "url": "https://cloud.tencent.com/solution/cultural-travel",
+      "desc": "解决文旅景区二次消费的难题，让好产品走出去，塑造线上线下一体化支付+营销模式，用工具改善经营，用运营带动增长",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "文旅"
+    },
+    {
+      "title": "汽车",
+      "slug": "auto",
+      "url": "https://cloud.tencent.com/solution/auto",
+      "desc": "依托腾讯云优势和汽车行业业务特性，提供车联网云、自动驾驶云、大数据、智慧出行等多种场景方案及服务，助力汽车行业的数字化升级和转型。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "汽车出行"
+    },
+    {
+      "title": "出行",
+      "slug": "smart_transportation",
+      "url": "https://cloud.tencent.com/solution/smart_transportation",
+      "desc": "依据出行行业客户业务特性，提供LBS位置服务、车联网、安全、大数据等多种典型场景方案及服务，助力出行行业客户快速发展。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "汽车出行"
+    },
+    {
+      "title": "汽车智能网联",
+      "slug": "tsp",
+      "url": "https://cloud.tencent.com/solution/tsp",
+      "desc": "依托于腾讯云分布式和海量数据技术优势，提供开源引擎的智能网联服务，致力于沉淀数据资产和提升客户使用体验。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "汽车出行"
+    },
+    {
+      "title": "人工智能教育",
+      "slug": "aie",
+      "url": "https://cloud.tencent.com/solution/aie",
+      "desc": "致力于为全学龄段用户打造开箱即用的人工智能学习平台及体系课程，让人工智能教育触手可及。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "教育"
+    },
+    {
+      "title": "青少年人工智能教育",
+      "slug": "tyai",
+      "url": "https://cloud.tencent.com/solution/tyai",
+      "desc": "构建面向全国中小学校师生，以人工智能课程教学为核心的解决方案，助力青少年人工智能教育的发展。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "教育"
+    },
+    {
+      "title": "高校人工智能教育",
+      "slug": "aieu",
+      "url": "https://cloud.tencent.com/solution/aieu",
+      "desc": "腾讯云依托在人工智能领域技术优势，为高校提供从平台到课程的一站式人才培养解决方案。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "教育"
+    },
+    {
+      "title": "智慧教育",
+      "slug": "intelligent-education",
+      "url": "https://cloud.tencent.com/solution/intelligent-education",
+      "desc": "依托腾讯大模型、AI、云计算等技术积累，面向基础教育、高等教育、教育企业提供全场景解决方案，助力教育智能化升级。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "教育"
+    },
+    {
+      "title": "在线课堂",
+      "slug": "oics",
+      "url": "https://cloud.tencent.com/solution/oics",
+      "desc": "基于腾讯多年的音视频技术积累，提供在线直播、点播、互动多场景相应 PaaS 及 SaaS 在线课堂方案，帮助客户快速搭建自己的在线课堂平台。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "教育"
+    },
+    {
+      "title": "未来学习空间",
+      "slug": "fls",
+      "url": "https://cloud.tencent.com/solution/fls",
+      "desc": "整合人工智能技术，促进线上线下结合以及人机协同改造，为教学双方提供更加智能化和高效的支持。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "教育"
+    },
+    {
+      "title": "校务管理",
+      "slug": "campus-management",
+      "url": "https://cloud.tencent.com/solution/campus-management",
+      "desc": "为教育机构提供多样化管理工具，包含合同签署、在线排课、教研培训、在线会议、学员管理、教务管理、家校服务等，助力企业提升运营管理效率。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "教育"
+    },
+    {
+      "title": "科研计算",
+      "slug": "scientific-computation",
+      "url": "https://cloud.tencent.com/solution/scientific-computation",
+      "desc": "依托腾讯强大的人工智能、云计算及连接能力，为学校和教育机构提供统一校务管理解决方案，提供家校互联、资源管理、办公协同等场景应用。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "教育"
+    },
+    {
+      "title": "智慧传媒",
+      "slug": "smart-media-platform",
+      "url": "https://cloud.tencent.com/solution/smart-media-platform",
+      "desc": "为客户构建面向智慧媒体业务的智能化、高安全、高扩展、可维护的智慧传媒平台，一站式解决用户在技术、运维、运营等层面面临的各种问题。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "传媒"
+    },
+    {
+      "title": "融媒数据中台",
+      "slug": "media-data-platform",
+      "url": "https://cloud.tencent.com/solution/media-data-platform",
+      "desc": "依托腾讯自身媒体业务数据中台技术优势与海量数据运营的经验，全面打造“融媒数据中台”解决方案，以数据驱动业务，助力媒体融合发展。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "传媒"
+    },
+    {
+      "title": "智能内容安全审核",
+      "slug": "intelligent-content-audit",
+      "url": "https://cloud.tencent.com/solution/intelligent-content-audit",
+      "desc": "智能内容安全审核解决方案协助传媒机构整合智能分析能力快速建立智能内容审核手段，覆盖“音、视、图、文”全场景，助力于融媒体平台、媒资系统、视频业务平台等业务系统内容审核智能化。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "传媒"
+    },
+    {
+      "title": "媒体 AI",
+      "slug": "ai-media-solution",
+      "url": "https://cloud.tencent.com/solution/ai-media-solution",
+      "desc": "依托腾讯AI技术及最佳实践，提供媒体全业务流程的应用服务，覆盖智能生产、多模态内容结构化、智能编解码、智能审核、平台管理等。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "传媒"
+    },
+    {
+      "title": "传媒运营中台",
+      "slug": "media-operations-center",
+      "url": "https://cloud.tencent.com/solution/media-operations-center",
+      "desc": "依托腾讯自身丰富的运营经验，助力传媒客户从数据、内容、活动、用户、营销、产品等多方向进行精细化运营转型，不断优化产品和服务，促进用户增长。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "传媒"
+    },
+    {
+      "title": "传媒AIGC智能体解决方案",
+      "slug": "media-aigc-agent",
+      "url": "https://cloud.tencent.com/solution/media-aigc-agent",
+      "desc": "基于腾讯混元大模型AI能力，提供传媒行业一站式AIGC智能体应用平台，面向传媒场景配套AI智能体与工作流构建、提示词优化、数据集构建与大模型精调服务。全面接入腾讯云大模型知识引擎、图像创作引擎、视频创作引擎，助力传媒行业全面释放AI新质生产力。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "传媒"
+    },
+    {
+      "title": "智能在线视频应用",
+      "slug": "sova",
+      "url": "https://cloud.tencent.com/solution/sova",
+      "desc": "依托腾讯在音视频领域的深耕，提供了音视频相关的顶尖应用服务。覆盖音视频增强，内容版权保护，内容分类管理和终端播放器等。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "传媒"
+    },
+    {
+      "title": "智慧高速",
+      "slug": "intelligent-expressway",
+      "url": "https://cloud.tencent.com/solution/intelligent-expressway",
+      "desc": "以道路全面数字化为基础，向下连接所有设备、设施和系统，向上提供开放开发平台，赋能行业生态及一线业务人员，围绕运营管理、运行维护、安全畅行、可持续发展等多个维度，为管理者提供便捷高效的精细化管理平台，为出行者提供安全、舒适的行车环境和伴随式服务体验，打造可扩展，可延伸、能生长，具备不断持续迭代升级能力的智慧高速。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "交通物流"
+    },
+    {
+      "title": "城市交通",
+      "slug": "smart-city-transportation",
+      "url": "https://cloud.tencent.com/solution/smart-city-transportation",
+      "desc": "腾讯在城市交通领域以数字道路建设为基础，聚焦城市交通治理和市⺠出⾏问题，整合云、图、AI、大数据等技术能力，发挥交通大数据、融合感知、数字孪生、交通仿真、C端触达等独特优势，以“精准感知、精确分析、精细管理、精心服务”为目标，围绕“交通管理、交通运输、智慧停车、TOD智慧生命体”等方向联合生态推出“以人为本”的交通行业全生命周期解决方案，助力打造畅通、安全、绿色的城市交通生命体。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "交通物流"
+    },
+    {
+      "title": "智能网联",
+      "slug": "intelligent-vehicle-road-cooperation",
+      "url": "https://cloud.tencent.com/solution/intelligent-vehicle-road-cooperation",
+      "desc": "腾讯智能网联基于腾讯数字道路产品体系致力于打造泛V2X等互联网特色车路协同平台体系，融合了动静态一体化的高精度网联一张图、实时孪生、车联网云、交通仿真及C端触达等自身核心优势能力支撑落地丰富的车联网应用场景。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "交通物流"
+    },
+    {
+      "title": "智慧轨交",
+      "slug": "smart-rail",
+      "url": "https://cloud.tencent.com/solution/smart-rail",
+      "desc": "助力轨交行业全面数字化转型，赋予城轨自主演进生命力；实现新技术按需演进、平滑演进、及时演进；满足新时代轨道交通线网发展要求。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "交通物流"
+    },
+    {
+      "title": "智慧民航",
+      "slug": "smart-civil-aviation",
+      "url": "https://cloud.tencent.com/solution/smart-civil-aviation",
+      "desc": "腾讯以新运营、新商业、新文创、新科技，积极参与四型机场建设和运营，打造可持续创新产业价值共生体。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "交通物流"
+    },
+    {
+      "title": "智慧港口",
+      "slug": "smart-port",
+      "url": "https://cloud.tencent.com/solution/smart-port",
+      "desc": "面向港口和航运企业，以数字底座为基石，以智慧行业应用为牵引，助力企业的智慧化和数字化转型，打造科技赋能的核心竞争力。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "交通物流"
+    },
+    {
+      "title": "智慧物流",
+      "slug": "intelligent-logistics",
+      "url": "https://cloud.tencent.com/solution/intelligent-logistics",
+      "desc": "针对物流行业仓储、运输等场景，提供物联、LBS、大数据、安全管理、人工智能等能力，助力物流行业快速发展。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "交通物流"
+    },
+    {
+      "title": "游戏",
+      "slug": "game",
+      "url": "https://cloud.tencent.com/solution/game",
+      "desc": "腾讯云依托丰富的游戏生态资源和能力，向游戏行业共享海量游戏研发和运营经验，致力于打造高质量、全方位生态的游戏云服务平台。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "游戏"
+    },
+    {
+      "title": "游戏语音互动",
+      "slug": "gvi",
+      "url": "https://cloud.tencent.com/solution/gvi",
+      "desc": "面向游戏开黑、频道聊天、国战指挥、线上棋牌桌游等各类游戏场景提供一站式语音互动解决方案，便捷接入的多端兼容插件生态助力游戏语音互动玩法升级。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "游戏"
+    },
+    {
+      "title": "游戏多媒体内容安全",
+      "slug": "gmms",
+      "url": "https://cloud.tencent.com/solution/gmms",
+      "desc": "提供识别出游戏音频等多媒体内容中各类敏感内容和违规场景的能力，适用各类游戏场景，营造绿色健康的网络环境，满足不同业务场景的游戏运营需求。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "游戏"
+    },
+    {
+      "title": "游戏研发管理",
+      "slug": "game-rd",
+      "url": "https://cloud.tencent.com/solution/game-rd",
+      "desc": "TAPD凝聚腾讯游戏十余年研发方法及敏捷实践精髓，为游戏团队在全产品生命周期中实现研发协作和管理",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "游戏"
+    },
+    {
+      "title": "电商",
+      "slug": "e-commerce",
+      "url": "https://cloud.tencent.com/solution/e-commerce",
+      "desc": "为各种规模的企业提供灵活、安全、稳定、低成本的方案，帮助电商企业从容面对业务高峰、安全压力等，在市场竞争中脱颖而出。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "互联网"
+    },
+    {
+      "title": "电商图像处理",
+      "slug": "e-commerce-image-process",
+      "url": "https://cloud.tencent.com/solution/e-commerce-image-process",
+      "desc": "为电商客户提供商品图像、用户头像等图片文件一站式管理方案。包含存储、编辑、转码、分发、压缩、审核、合成、识别、效果增强等处理能力。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "互联网"
+    },
+    {
+      "title": "互联网研发管理",
+      "slug": "internet-rd",
+      "url": "https://cloud.tencent.com/solution/internet-rd",
+      "desc": "在互联网行业的迭代规划、需求开发、缺陷跟踪等场景，提供需求管理、任务管理、缺陷管理、看板等功能，解决客户发版节奏快、多人并行开发、管线复杂等互联网研发管理问题，助力互联网团队实现研发流程标准化、高效有序协作和项目科学度量。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "互联网"
+    },
+    {
+      "title": "智能制造",
+      "slug": "i-mfg",
+      "url": "https://cloud.tencent.com/solution/i-mfg",
+      "desc": "发挥腾讯物联网、云计算、AI、大数据、协同等优势，优选生态，助力工业互联网平台、工业 AI+、区域工业互联网等快速落地。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "制造"
+    },
+    {
+      "title": "工企互联",
+      "slug": "industrial-interconnection",
+      "url": "https://cloud.tencent.com/solution/industrial-interconnection",
+      "desc": "工企互联致力为企业降本增效，利用腾讯技术，面向智能制造，助力企业上云能力，实现工业产业数字化转型。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "制造"
+    },
+    {
+      "title": "工企微信",
+      "slug": "industrial-wechat",
+      "url": "https://cloud.tencent.com/solution/industrial-wechat",
+      "desc": "工企微信针对工业场景应用需求，利用超前的信息技术、创新的管理模式及企业微信连接能力，打造一站式移动应用平台。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "制造"
+    },
+    {
+      "title": "工企 AI",
+      "slug": "industrial-ai",
+      "url": "https://cloud.tencent.com/solution/industrial-ai",
+      "desc": "以云平台与AI技术为依托，主抓良率分析、智能排产、设备预测性维护等赛道，打造一体化工业AI解决方案。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "制造"
+    },
+    {
+      "title": "工企营销",
+      "slug": "industrial-marketing",
+      "url": "https://cloud.tencent.com/solution/industrial-marketing",
+      "desc": "工企营销以数据为基础统一管理数据，提供包含数据管理、标签管理到营销触达的数据服务，打造私域环境的精细化营销方案。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "制造"
+    },
+    {
+      "title": "工业高性能计算",
+      "slug": "industrial-hpc",
+      "url": "https://cloud.tencent.com/solution/industrial-hpc",
+      "desc": "依托腾讯云基础实力，结合高性能计算调度平台的能力，为汽车，航空及化工等行业提供即取即用的高性能计算平台，为企业提质增效。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "制造"
+    },
+    {
+      "title": "腾讯云数字政务",
+      "slug": "government",
+      "url": "https://cloud.tencent.com/solution/government",
+      "desc": "依托腾讯云开放的技术与海量数据运营的经验，全面打造“互联网＋政务”解决方案，创新政府管理和服务模式，提升“放管服”实效。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "政务"
+    },
+    {
+      "title": "云专区",
+      "slug": "tcx",
+      "url": "https://cloud.tencent.com/solution/tcx",
+      "desc": "专为政务行业量身定制、符合国家政务安全合规，提供了国产化基础设施“底座”，助力客户能更好地构建专属“新基建”体系。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "政务"
+    },
+    {
+      "title": "政务协同",
+      "slug": "government-collaboration",
+      "url": "https://cloud.tencent.com/solution/government-collaboration",
+      "desc": "基于电子政务云SaaS化部署建设的集约化协同办公信息系统，利用政务微信的连接能力，打造统一通讯录，全面提升政府的协同办公效率。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "政务"
+    },
+    {
+      "title": "智慧人社",
+      "slug": "smart-human-society",
+      "url": "https://cloud.tencent.com/solution/smart-human-society",
+      "desc": "创新“互联网+人社管理”的模式，通过数据汇集、可视化监管分析等技术应用，促进人设服务升级转型，精准扶持就业需求。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "政务"
+    },
+    {
+      "title": "WeCity 未来城市",
+      "slug": "future-city",
+      "url": "https://cloud.tencent.com/solution/future-city",
+      "desc": "WeCity未来城市2.0 技术平台打造“1+1+6”模式，进一步打通了 G、B、C 三端应用，更好的服务群众、企业、政府三大群体。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "政务"
+    },
+    {
+      "title": "智慧司法",
+      "slug": "legal",
+      "url": "https://cloud.tencent.com/solution/legal",
+      "desc": "依托小程序实时音视频方案，摆脱地域限制、提升司法服务效率，安全便捷的实现法律咨询、诉前调解、远程庭审、律师会见等场景。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "政务"
+    },
+    {
+      "title": "手机行业",
+      "slug": "smartphone",
+      "url": "https://cloud.tencent.com/solution/smartphone",
+      "desc": "基于腾讯云覆盖全球、轻量稳定的云计算基础设施及涵盖互联网应用、loT、金融、游戏、电商融合方案能力，为手机行业客户提供全链路高性价比的解决方案。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "智能终端"
+    },
+    {
+      "title": "智能家电",
+      "slug": "home-appliance",
+      "url": "https://cloud.tencent.com/solution/home-appliance",
+      "desc": "助力家电企业全价值链数据资产的沉淀、分析和价值转化，助力研、产、供、销、服各环节的降本提效。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "智能终端"
+    },
+    {
+      "title": "智能穿戴",
+      "slug": "smart-wearables",
+      "url": "https://cloud.tencent.com/solution/smart-wearables",
+      "desc": "基于腾讯云在云计算、大数据、人工智能等领域的优势，助力可穿戴设备智能化，打造开放性的连接生态。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "智能终端"
+    },
+    {
+      "title": "网络摄像机",
+      "slug": "ipc",
+      "url": "https://cloud.tencent.com/solution/ipc",
+      "desc": "为网络摄像机（IPC）提供智能存储、多模态分析一体化的视频云解决方案，免运维且降低人力成本，保障用户使用体验。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "智能终端"
+    },
+    {
+      "title": "智能家居",
+      "slug": "smart-home",
+      "url": "https://cloud.tencent.com/solution/smart-home",
+      "desc": "为家用摄像头、家电、照明、门锁等家用设备提供互联互通、智能交互、深度学习和个性化服务等能力，打造智能化的家居场景。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "智能终端"
+    },
+    {
+      "title": "户外设备",
+      "slug": "outdoor-travel-equipment",
+      "url": "https://cloud.tencent.com/solution/outdoor-travel-equipment",
+      "desc": "为户外出行设备厂商提供高可靠的物联网连接服务及视频云监控平台能力，避免因断网产生的各种问题，提升用户体验。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "智能终端"
+    },
+    {
+      "title": "智慧建筑",
+      "slug": "digi-space",
+      "url": "https://cloud.tencent.com/solution/digi-space",
+      "desc": "工程项目、楼宇/园区、新型城市智慧化建设、管理、运营和建筑企业数字化转型。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "建筑与不动产"
+    },
+    {
+      "title": "数字营销",
+      "slug": "weclient",
+      "url": "https://cloud.tencent.com/solution/weclient",
+      "desc": "提升营销效率，最终实现业绩增长；构建客户中枢系统，提升用户运营服务能力。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "建筑与不动产"
+    },
+    {
+      "title": "建筑连接器",
+      "slug": "webldlink",
+      "url": "https://cloud.tencent.com/solution/webldlink",
+      "desc": "集成腾讯科技和生态优势能力，面向建筑行业开放数字协同、智能驱动和产业互联能力，助力企业数智化转型和产业链协同。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "建筑与不动产"
+    },
+    {
+      "title": "腾讯智眸 · 采编识审",
+      "slug": "x-insight",
+      "url": "https://cloud.tencent.com/solution/x-insight",
+      "desc": "基于领先的音视频 AI 技术，为广电新媒体、短视频、泛娱乐及在线视频场景提供视频智能封面、智能拆条、智能标签、智能识别等功能。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "音视频"
+    },
+    {
+      "title": "腾讯明眸 · 极速高清",
+      "slug": "video-ai-solution",
+      "url": "https://cloud.tencent.com/solution/video-ai-solution",
+      "desc": "基于腾讯领先的视频AI技术，配合腾讯云直播，点播等产品，为视频行业客户提供极速高清，智能识别，智能编辑，智能字幕等功能。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "音视频"
+    },
+    {
+      "title": "腾讯天籁 inside",
+      "slug": "tnsi",
+      "url": "https://cloud.tencent.com/solution/tnsi",
+      "desc": "腾讯天籁音频技术，应对大中型会议室远场双工通信挑战，提供“听得见，听得清，听得真“的会议室开会体验。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "音视频"
+    },
+    {
+      "title": "一站式在线联络平台",
+      "slug": "contactplatform",
+      "url": "https://cloud.tencent.com/solution/contactplatform",
+      "desc": "提供一站式在线联络平台解决方案，包括音视频通话、在线会话、电话等服务，可应用于在线问诊、远程心理咨询、在线教育等场景。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "音视频"
+    },
+    {
+      "title": "音视频产品定制",
+      "slug": "video",
+      "url": "https://cloud.tencent.com/solution/video",
+      "desc": "提供一站式视频解决方案，包括直播点播、实时视频通话、极速高清、短视频SDK等视频服务，广泛应用于在线视频、广电、电商直播、游戏直播、在线教育、类微视短视频等场景。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "音视频"
+    },
+    {
+      "title": "互动直播",
+      "slug": "ilvb",
+      "url": "https://cloud.tencent.com/solution/ilvb",
+      "desc": "全新的一站式“多路音视频互动”解决方案，主打直播连麦和多画面特效，通过移动直播 SDK 打造跨平台一对多、多对多的超清酷炫直播场景。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "音视频"
+    },
+    {
+      "title": "视频报警",
+      "slug": "video110",
+      "url": "https://cloud.tencent.com/solution/video110",
+      "desc": "腾讯云强大实时互动音视频能力结合微信小程序的优势，打造移动视频报警和线上民生警务一体化小程序警务平台。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "音视频"
+    },
+    {
+      "title": "直播录制",
+      "slug": "living-record",
+      "url": "https://cloud.tencent.com/solution/living-record",
+      "desc": "提供用户直播一键云端转录的功能，并支持对录制的文件进行处理、分发和播放，助力企业完成快捷、稳定的直播转录方案",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "音视频"
+    },
+    {
+      "title": "互动课堂",
+      "slug": "interactive-classroom",
+      "url": "https://cloud.tencent.com/solution/interactive-classroom",
+      "desc": "互动课堂解决方案，面向在线教育1 对 1 互动教学、在线互动小班课、互动直播大班课等多种教学场景。助力开发者打造功能丰富的互动课堂产品。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "音视频"
+    },
+    {
+      "title": "语聊社交",
+      "slug": "audio_chat",
+      "url": "https://cloud.tencent.com/solution/audio_chat",
+      "desc": "提供一站式“语音实时互动”解决方案，覆盖语聊房、在线KTV、实时合唱、语音沙龙、1v1亲密聊、派对狼人杀等多种场景，随时嗨聊",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "音视频"
+    },
+    {
+      "title": "智能赛事直播",
+      "slug": "ai-live-match",
+      "url": "https://cloud.tencent.com/solution/ai-live-match",
+      "desc": "腾讯云智能赛事直播解决方案为大型体育赛事、电子竞技赛事、中小赛事直播等提供更加智能化的赛事直播解决方案。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "音视频"
+    },
+    {
+      "title": "实时超高清（8K/144FPS）",
+      "slug": "real-time-ultrahd",
+      "url": "https://cloud.tencent.com/solution/real-time-ultrahd",
+      "desc": "基于自研极速高清转码、超高清源流跨域传输和全球资源节点，为用户提供实时超高清全链路解决方案。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "音视频"
+    },
+    {
+      "title": "新零售数字化经销",
+      "slug": "new-retail",
+      "url": "https://cloud.tencent.com/solution/new-retail",
+      "desc": "解决方案在零售行业的bC一体化、B2B供应链等场景，提供超级收银台、智能分账、经营模板库等功能，解决多业态支付与分账复杂、跨平台经营数据不通等问题，助力新零售企业数字化经销转型。",
+      "description": "",
+      "category_l1": "行业解决方案",
+      "category_l2": "零售"
+    },
+    {
+      "title": "腾讯专有云企业版",
+      "slug": "tce",
+      "url": "https://cloud.tencent.com/solution/tce",
+      "desc": "腾讯专有云企业版（Tencent Cloud Enterprise）是基于腾讯云成熟产品体系的企业级专有云平台，为企业提供自主可控、弹性伸缩的全栈服务能力。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "专有云"
+    },
+    {
+      "title": "腾讯专有云 PaaS 平台",
+      "slug": "tcs",
+      "url": "https://cloud.tencent.com/solution/tcs",
+      "desc": "TCS(Tencent Cloud-native Suite),是腾讯云推出的云原生敏捷PaaS平台。具备高性能、高可用特点，帮助企业快速的构建、发布、运行和运维应用，主力企业实现IT系统的数字化转型。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "专有云"
+    },
+    {
+      "title": "移动解析",
+      "slug": "httpdns",
+      "url": "https://cloud.tencent.com/solution/httpdns",
+      "desc": "解决移动互联网中的域名解析问题，根治域名劫持（DNS劫持），精准识别来源请求，令您的用户访问最准确的服务节点。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "企业应用"
+    },
+    {
+      "title": "正版内容直通车",
+      "slug": "authorized-content",
+      "url": "https://cloud.tencent.com/solution/authorized-content",
+      "desc": "正版内容直通车解决方案为客户提供海量正版授权的内容资源，覆盖音乐、图片等，可用于快速版权资源获取。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "企业应用"
+    },
+    {
+      "title": "腾讯云低代码解决方案",
+      "slug": "lowcode",
+      "url": "https://cloud.tencent.com/solution/lowcode",
+      "desc": "助力企业垂直上云的低代码数字化解决方案，整合腾讯云海量云服务和微信生态丰富的端能力，以及政务、工业、教育等行业级解决能力。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "企业应用"
+    },
+    {
+      "title": "IPv6 解决方案",
+      "slug": "ipv6",
+      "url": "https://cloud.tencent.com/solution/ipv6",
+      "desc": "腾讯云提供丰富、安全的 IPv6 解决方案，助力企业快速接入 IPv6 网络，改造基础设施，提升数字化运营能力，实现产业智慧升级。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "企业应用"
+    },
+    {
+      "title": "企业云",
+      "slug": "enterprise-cloud",
+      "url": "https://cloud.tencent.com/solution/enterprise-cloud",
+      "desc": "提供安全的防护体系，内网级混合云架构，一站式大数据方案，智能的运维管理，腾讯云助力传统行业升级再造。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "企业应用"
+    },
+    {
+      "title": "一物一码",
+      "slug": "qrcode-in-commodity",
+      "url": "https://cloud.tencent.com/solution/qrcode-in-commodity",
+      "desc": "为企业提供基于一物一码场景下的整体营销、服务的供应链溯源、商品防伪、防窜货、营销活动、营销风控、大数据用户画像等服务。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "企业应用"
+    },
+    {
+      "title": "企业级网盘",
+      "slug": "tdrive",
+      "url": "https://cloud.tencent.com/solution/tdrive",
+      "desc": "提供一站式云端数据存储管理平台，助力企业、高校、政府等各类客户提升数据管理效率，享受更智能的协同办公体验，更大化地挖掘数据的业务价值。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "企业应用"
+    },
+    {
+      "title": "企业共享服务中心",
+      "slug": "ssc",
+      "url": "https://cloud.tencent.com/solution/ssc",
+      "desc": "企业共享服务中心以腾讯内部最佳实践，为企业内部服务提供端到端的数智化解决方案。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "企业应用"
+    },
+    {
+      "title": "移动应用云",
+      "slug": "mobile",
+      "url": "https://cloud.tencent.com/solution/mobile",
+      "desc": "基于腾讯云丰富的云原生技术，面向全端场景，从设计到研发、部署到运营，全生命周期提供移动应用解决方案，帮助企业和开发者降低应用研发与管理成本，聚焦业务成功。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "企业应用"
+    },
+    {
+      "title": "腾讯位置服务",
+      "slug": "lbs",
+      "url": "https://cloud.tencent.com/solution/lbs",
+      "desc": "为各类应用提供地图展示、定位、导航、地点搜索等开放位置服务能力，为开发者赋能，提供解决方案，做行业客户数字化转型助手。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "企业应用"
+    },
+    {
+      "title": "数据库",
+      "slug": "database",
+      "url": "https://cloud.tencent.com/solution/database",
+      "desc": "性能卓越，弹性扩展，同时免运维，减少您的开发成本。并提供容灾、备份、恢复、监控、迁移等数据库运维全套解决方案。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "基础产品"
+    },
+    {
+      "title": "企业级互联网架构",
+      "slug": "micro-service-computation",
+      "url": "https://cloud.tencent.com/solution/micro-service-computation",
+      "desc": "企业级互联网架构是腾讯云提供的微服务组件化解决方案，包括服务发现、服务注册、服务治理、金丝雀发布、无损下线等能力，帮助企业低成本地实现系统微服务化，优化系统架构，实现业务的快速迭代。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "基础产品"
+    },
+    {
+      "title": "可信应用支撑",
+      "slug": "trusted-app-management",
+      "url": "https://cloud.tencent.com/solution/trusted-app-management",
+      "desc": "腾讯自主研发的一体化的信息化支撑框架，聚焦于用户身份、应用和服务、网络访问控制的融合统一，助力政府和大型企业推进数字化转型。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "基础产品"
+    },
+    {
+      "title": "集团账号管理",
+      "slug": "account-managerment",
+      "url": "https://cloud.tencent.com/solution/account-managerment",
+      "desc": "为集团提供统一管理账号、财务、资源、权限、日志等的能力，支撑客户更好的使用腾讯云，合理规划资源，管理预算。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "基础产品"
+    },
+    {
+      "title": "AI Coding 全栈开发",
+      "slug": "aicoding-fullstack",
+      "url": "https://cloud.tencent.com/solution/aicoding-fullstack",
+      "desc": "提供AI Coding 全栈开发解决方案，提供前后端开发，到服务部署、版本迭代和日志监控完整的服务设施，一次开发，多平台运行。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "基础产品"
+    },
+    {
+      "title": "高性能计算",
+      "slug": "hpc",
+      "url": "https://cloud.tencent.com/solution/hpc",
+      "desc": "腾讯云提供一站式高性能计算解决方案，帮助企业在云上快速构建高性能计算应用，加速企业的产品研究速度，助力企业腾飞。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "计算场景"
+    },
+    {
+      "title": "渲染",
+      "slug": "render",
+      "url": "https://cloud.tencent.com/solution/render",
+      "desc": "提供海量渲染计算、高性能存储、优质可靠的网络和安全等全方位、高性价比云服务，助力渲染用户实现轻资产运营，让创意脱颖而出。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "计算场景"
+    },
+    {
+      "title": "分布式云 AI 智算",
+      "slug": "dc-ai",
+      "url": "https://cloud.tencent.com/solution/dc-ai",
+      "desc": "通过与分布式云结合，将腾讯云全栈AI智算服务能力延伸至客户本地数据中心，为客户提供全托管、高可靠、合规安全的本地AI智算解决方案。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "计算场景"
+    },
+    {
+      "title": "日志数据",
+      "slug": "cloudlog",
+      "url": "https://cloud.tencent.com/solution/cloudlog",
+      "desc": "腾讯云日志数据解决方案提供采集、存储、检索、统计分析等服务，协助企业方便管理和使用日志数据，满足多种日志场景需求。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据处理"
+    },
+    {
+      "title": "云闪图片分发",
+      "slug": "image-delivery",
+      "url": "https://cloud.tencent.com/solution/image-delivery",
+      "desc": "传统 CDN 集成数据万象丰富的图片压缩方式，在保证视觉效果的基础上，大幅降低图片流量/带宽。在海量图片业务场景下，提升页面加载速率，实现极致节流。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据处理"
+    },
+    {
+      "title": "智能数据应用",
+      "slug": "smart-data-application",
+      "url": "https://cloud.tencent.com/solution/smart-data-application",
+      "desc": "以数字内容场景化应用为核心，提供具备行业属性及生产力的智能服务，覆盖内容生产、数据分析、广告投放、内容审核各环节，形成一体化智能内容应用方案。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据处理"
+    },
+    {
+      "title": "对象存储内容审核",
+      "slug": "cos-content-audit",
+      "url": "https://cloud.tencent.com/solution/cos-content-audit",
+      "desc": "针对存储于腾讯云对象存储 COS 中的图片、视频、语音、文字等多媒体文件，提供内容安全智能审核服务，帮助用户有效识别违禁内容，规避运营风险。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据处理"
+    },
+    {
+      "title": "对象存储数据处理",
+      "slug": "cos-data-processing",
+      "url": "https://cloud.tencent.com/solution/cos-data-processing",
+      "desc": "针对于存储于腾讯云对象存储COS中的数据内容进行处理加工，满足压缩、转码、编辑、分析等多种诉求，激活数据价值。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据处理"
+    },
+    {
+      "title": "多媒体数据处理",
+      "slug": "cosmedia",
+      "url": "https://cloud.tencent.com/solution/cosmedia",
+      "desc": "结合对象存储COS，向文旅、电商、传媒等行业提供极速高清、精彩集锦、超分辨率、数字水印等能力，串联适配各行业的多媒体数据处理流程。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据处理"
+    },
+    {
+      "title": "大数据",
+      "slug": "bigdata",
+      "url": "https://cloud.tencent.com/solution/bigdata",
+      "desc": "腾讯云数智方略包含大数据平台、智能推荐、数字营销、数据可视化等产品，为企业及开发者提供完整的大数据解决方案。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "大数据"
+    },
+    {
+      "title": "智慧会场",
+      "slug": "intelligent-meeting",
+      "url": "https://cloud.tencent.com/solution/intelligent-meeting",
+      "desc": "业界领先的语音识别率，轻松应对语音处理；开放生态，提供标准化接口，适应更多场景；技术成熟稳定，部署方式灵活。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "大数据"
+    },
+    {
+      "title": "数据采集标注服务",
+      "slug": "data-collect-and-label-service",
+      "url": "https://cloud.tencent.com/solution/data-collect-and-label-service",
+      "desc": "基于智能化采集标注工具和成熟的数据服务体系，提供专业的数据采集和标注服务，高效交付高质量目标数据，助力AI业务能力的快速提升。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "大数据"
+    },
+    {
+      "title": "数据湖分析",
+      "slug": "data-lake-analytics",
+      "url": "https://cloud.tencent.com/solution/data-lake-analytics",
+      "desc": "为数据湖提供多元化场景的分析能力和AI智能化能力，帮助客户快速构建云端数据湖分析架构，提升数据分析效率和降低成本。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "大数据"
+    },
+    {
+      "title": "实名实人认证解决方案",
+      "slug": "face-recognition",
+      "url": "https://cloud.tencent.com/solution/face-recognition",
+      "desc": "人脸核身方案指通过身份证OCR技术来识别用户身份证信息，通过专线获取用户真实照片，利用人脸比对技术秒级确认用户身份。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "人工智能"
+    },
+    {
+      "title": "人脸识别门禁考勤",
+      "slug": "face-access",
+      "url": "https://cloud.tencent.com/solution/face-access",
+      "desc": "基于1:N人脸识别、活体检测技术解决闸机门禁、楼宇访客、考勤签到等应用场景，为硬件厂商提供快速集成SaaS SDK/APP的一体化系统解决方案。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "人工智能"
+    },
+    {
+      "title": "AI 互动体验展",
+      "slug": "intelligent-interactive-experience-exhibition",
+      "url": "https://cloud.tencent.com/solution/intelligent-interactive-experience-exhibition",
+      "desc": "为展馆、会场、商场、游乐场、主题公园等线下场景提供人脸特效、人脸签到等AI互动服务。助力实景活动营销，开启智能实景互动新生态。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "人工智能"
+    },
+    {
+      "title": "AI 创意营销",
+      "slug": "ai-creativemarketing",
+      "url": "https://cloud.tencent.com/solution/ai-creativemarketing",
+      "desc": "为企业主、广告商打造一站式 AI 创意营销解决方案，提供可配置的咨询、设计、开发、运维、传播等全流程服务。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "人工智能"
+    },
+    {
+      "title": "AI生成内容识别",
+      "slug": "aigc-detector",
+      "url": "https://cloud.tencent.com/solution/aigc-detector",
+      "desc": "AI生成内容识别（也称AI鉴伪），利用人工智能技术对图片、文本、音频等多模态内容进行分析，判断其是否由AI工具生成或篡改伪造，旨在解决难以用肉眼辨别真伪的生成式内容问题。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "人工智能"
+    },
+    {
+      "title": "至信链可信存证",
+      "slug": "tb-assurance",
+      "url": "https://cloud.tencent.com/solution/tb-assurance",
+      "desc": "可信存证解决方案提供实人认证、CA 认证、电子合同可信存证等功能，支持多种格式存证，提供一站式服务存证、鉴证、取证服务。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "区块链"
+    },
+    {
+      "title": "可信数据共享",
+      "slug": "tb-trusteddatasharing",
+      "url": "https://cloud.tencent.com/solution/tb-trusteddatasharing",
+      "desc": "通过区块链技术连接数据使用方和提供方、建模服务方、监管方等，实现身份数据、数据目录与授权、密文数据交换和共享等链上操作。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "区块链"
+    },
+    {
+      "title": "数字身份标识",
+      "slug": "tb-digitalid",
+      "url": "https://cloud.tencent.com/solution/tb-digitalid",
+      "desc": "基于联盟链的实体身份标识技术解决方案，提供分布式实体身份标识及管理、可信数据交换协议，致力于促进跨部门、跨地域的身份认证和数据合作。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "区块链"
+    },
+    {
+      "title": "病历数据流转",
+      "slug": "tb-medicalrecorddataflow",
+      "url": "https://cloud.tencent.com/solution/tb-medicalrecorddataflow",
+      "desc": "利用区块链技术，结合医疗健康行业的特征和需求让医疗机构、个人和公司共同形成的联盟链，解决医疗健康信息化过程中的数据安全、共享等难点。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "区块链"
+    },
+    {
+      "title": "消费物联",
+      "slug": "consumption_iot",
+      "url": "https://cloud.tencent.com/solution/consumption_iot",
+      "desc": "腾讯云将人工智能与物联技术完美结合，将创新能力注入各类业务场景，旨在帮助您完美实现业务升级，让服务触动每一个用户。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "物联网"
+    },
+    {
+      "title": "智慧市政",
+      "slug": "smart_city",
+      "url": "https://cloud.tencent.com/solution/smart_city",
+      "desc": "利用传感器、LPWAN、物联网、云计算、人工智能等技术，整合城市运行数据，提升资源利用率、优化市政管理和服务、改善市民生活质量。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "物联网"
+    },
+    {
+      "title": "减碳消防",
+      "slug": "llink-carbon-reduced-fire-control",
+      "url": "https://cloud.tencent.com/solution/llink-carbon-reduced-fire-control",
+      "desc": "把握电气安全与能耗状况，提供电气安全预警、消防设备监测、能耗分析、智慧用电管理服务，实现节能低碳与提高用电安全的目标。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "物联网"
+    },
+    {
+      "title": "物联安全保障",
+      "slug": "llink-iot-insurtech",
+      "url": "https://cloud.tencent.com/solution/llink-iot-insurtech",
+      "desc": "基于物联网数据提供风险评估与动态风险控制能力，并引入保险保障，可降低相关场景风险发生率，同时帮助设备厂商实现数据变现。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "物联网"
+    },
+    {
+      "title": "智慧人居",
+      "slug": "smart-living",
+      "url": "https://cloud.tencent.com/solution/smart-living",
+      "desc": "依托腾讯连连物联网平台，以连连小程序作为全屋智能数字化入口，为地产文旅等行业企业提供绿色、智慧、健康、安全的人居空间服务。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "物联网"
+    },
+    {
+      "title": "数据安全",
+      "slug": "data_protection",
+      "url": "https://cloud.tencent.com/solution/data_protection",
+      "desc": "全生命周期的数据安全解决方案，帮助客户解决云上和云下各类数据安全问题，满足等保合规要求的同时，也能提升数据隐私保护能力。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "运维",
+      "slug": "operation",
+      "url": "https://cloud.tencent.com/solution/operation",
+      "desc": "基于 PaaS 的技术解决方案，提供完善的开发框架、调度引擎、公共组件等模块。可快速构建低成本、免运维的支撑工具和运营系统。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "高防云主机安全",
+      "slug": "security-host",
+      "url": "https://cloud.tencent.com/solution/security-host",
+      "desc": "高防云主机安全解决方案为企业提供可防御超大规模DDos和高密度CC攻击的能力，解决网络入侵、病毒勒索、挖矿程序、暴力破解、漏洞攻击等安全风险问题",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "等保合规安全",
+      "slug": "gradedprotection",
+      "url": "https://cloud.tencent.com/solution/gradedprotection",
+      "desc": "腾讯云依托合规资质、丰富产品矩阵和强大的专家团队，为客户提供等保合规安全解决方案，帮助企业理解、提升安全防护能力，快速满足等保合规要求。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "移动安全开发平台",
+      "slug": "tmsf",
+      "url": "https://cloud.tencent.com/solution/tmsf",
+      "desc": "覆盖研发、发布、运营全生命周期的移动开发平台，助力安全高效搭建高质量移动应用。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "账号安全与风控",
+      "slug": "account-risk-control",
+      "url": "https://cloud.tencent.com/solution/account-risk-control",
+      "desc": "政府/企业面临数字化转型，为政府/企业提供快速接入集中身份认证、单点登录、身份管理、资源管理、审计管理能力，向公民提供更便捷的服务。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "腾讯安心平台",
+      "slug": "reassurance-platform",
+      "url": "https://cloud.tencent.com/solution/reassurance-platform",
+      "desc": "结合优码及区块链等团队优势，为多行业多产品提供防伪溯源服务。全渠道监管数据上链，快速打通供应链信息孤岛，精准触达消费者。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "零信任安全",
+      "slug": "zero-trust",
+      "url": "https://cloud.tencent.com/solution/zero-trust",
+      "desc": "腾讯零信任安全解决方案源于自身多年的最佳实践，结合多因素身份认证，终端防护，动态访问控制，全面实现身份、终端、应用可信。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "游戏行业安全",
+      "slug": "game-security",
+      "url": "https://cloud.tencent.com/solution/game-security",
+      "desc": "依托腾讯20余年安全能力积淀，结合腾讯游戏实战防护经验，提供行业领先的游戏全栈安全解决方案，覆盖游戏基础加固、反外挂、黑产对抗、内容安全、身份认证等领域，全面护航游戏产业健康发展。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "互联网+政务服务安全",
+      "slug": "gov-and-internet-service-protection",
+      "url": "https://cloud.tencent.com/solution/gov-and-internet-service-protection",
+      "desc": "提供完整的智慧应用安全解决方案，根据云责任安全共担模型，方案关注部署在云上操作系统以上的智慧应用和数据全生命周期安全。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "数字政府安全管理平台",
+      "slug": "digital-gov-security-management-platform",
+      "url": "https://cloud.tencent.com/solution/digital-gov-security-management-platform",
+      "desc": "结合政府网络安全要求以“可扩展、可靠、经济、易用”为原则，实现安全可监控、可追溯，建立多层次、规范化的政务安全运营中心。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "互联网行业平台安全",
+      "slug": "security-for-internet-industry-platforms",
+      "url": "https://cloud.tencent.com/solution/security-for-internet-industry-platforms",
+      "desc": "互联网行业平台安全解决方案依托纵深防御、智能联动的方式保证整体平台的安全、稳定、可靠，为客户业务平稳运营保驾护航。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "新文创行业安全",
+      "slug": "cybersecurity-for-neo-culture-creativity",
+      "url": "https://cloud.tencent.com/solution/cybersecurity-for-neo-culture-creativity",
+      "desc": "新文创行业主要涵盖包括资讯类、直播类及社交类等以内容生产为主导的行业。该行业UGC内容聚集区，受监管部门重点关注，多以网站/APP/微信小程序的方式搭建运营，行业间竞争激烈，关注收益。腾讯云新文创解决方案围绕行业典型安全风险及业务场景需求为客户提供服务。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "天御内容安全",
+      "slug": "content-moderation",
+      "url": "https://cloud.tencent.com/solution/content-moderation",
+      "desc": "智能风控引擎检测违规内容，并结合专业人工审核团队二次确认审核结果，一站式高效准确解决审核问题，助力企业降本增效，规避业务运营风险。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "商用密码合规",
+      "slug": "guomi",
+      "url": "https://cloud.tencent.com/solution/guomi",
+      "desc": "提供商用密码产品及密码应用方案、密码合规咨询、密码测评等一站式解决方案，助力企业低成本、高效率地应对商用密码合规需求。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "数字客舱",
+      "slug": "digital-cabin",
+      "url": "https://cloud.tencent.com/solution/digital-cabin",
+      "desc": "基于WiFi技术，为飞行中的客舱乘客提供各类网络服务，包括影视、音乐、游戏、电商等。同时也通过网络技术提高空乘服务效率。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "政企国密",
+      "slug": "sm2",
+      "url": "https://cloud.tencent.com/solution/sm2",
+      "desc": "解决方案通过国密证书、国密浏览器及国密网关的全生态搭建，实现了数据在网络传输过程中的全面保护，保障了用户的数据安全。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "未成年人保护",
+      "slug": "scpm",
+      "url": "https://cloud.tencent.com/solution/scpm",
+      "desc": "未成年人解决方案可以对以未成年人为主体的内容进行拦截，并过滤未成年人不宜接受的内容，一方面切断不良信息向未成年人传播的途径，另一方面控制未成年人个人信息在网络平台上传播的风险，守护未成年人绿色健康的成长环境。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "XDR 一体化安全",
+      "slug": "xdr",
+      "url": "https://cloud.tencent.com/solution/xdr",
+      "desc": "XDR一体化安全方案可帮助企业针对公有云上所面临威胁做到整体防御、检测与响应，可有效提升威胁运营效率。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "区块链版权保护",
+      "slug": "bma",
+      "url": "https://cloud.tencent.com/solution/bma",
+      "desc": "通过人工智能大数据及区块链技术，提供版权保护解决方案，实现快速存证确权、监测维权，帮助权利人减少盗版侵权，增加版权收益。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "勒索病毒防治",
+      "slug": "ransomware-prevention",
+      "url": "https://cloud.tencent.com/solution/ransomware-prevention",
+      "desc": "基于腾讯云对象存储COS及企业网盘等产品，联动腾讯云安全能力，提供数据备份、病毒检测、数据锁定等防控方案，屏蔽勒索病毒带来的安全风险。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "安全"
+    },
+    {
+      "title": "数据备份",
+      "slug": "backup",
+      "url": "https://cloud.tencent.com/solution/backup",
+      "desc": "基于传统备份的经验，将腾讯云领先的存储技术、虚拟化技术和数据库技术融合其中，为客户打造安全、稳定、可靠的备份服务。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据存储"
+    },
+    {
+      "title": "混合云存储",
+      "slug": "hybrid_cloud_storage",
+      "url": "https://cloud.tencent.com/solution/hybrid_cloud_storage",
+      "desc": "腾讯混合云存储为企业客户提供私有云、公有云存储无缝结合的解决方案，实现高效、安全可靠、高可扩展、低成本的数据存储服务。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据存储"
+    },
+    {
+      "title": "大数据存储",
+      "slug": "bigdata-storage",
+      "url": "https://cloud.tencent.com/solution/bigdata-storage",
+      "desc": "针对海量大数据分析，通过对象存储 COS 和云 HDFS，实现计算与存储分离，发挥计算弹性伸缩能力，对存储冷热分层，降低大数据分析成本。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据存储"
+    },
+    {
+      "title": "医学影像存储",
+      "slug": "medical_image_storage",
+      "url": "https://cloud.tencent.com/solution/medical_image_storage",
+      "desc": "专为医学影像场景设计，满足多影像融合、高并发、海量数据、分层存储、长期归档的整体方案。实现云上存储、Web访问，降本增效。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据存储"
+    },
+    {
+      "title": "视频监控存储",
+      "slug": "video_surveillance_storage",
+      "url": "https://cloud.tencent.com/solution/video_surveillance_storage",
+      "desc": "专为视频监控场景设计，满足多码流、高并发、海量数据、分层存储的整体方案，让家庭/校区/社区/园区/城市更安全。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据存储"
+    },
+    {
+      "title": "数据湖",
+      "slug": "datalake_storage",
+      "url": "https://cloud.tencent.com/solution/datalake_storage",
+      "desc": "数据湖是一个集中式存储池，支持多种数据源，可对接各种计算分析和机器学习平台，实现数据处理与分析，打破数据孤岛，指导客户做出更好决策。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据存储"
+    },
+    {
+      "title": "存储数据迁移",
+      "slug": "cos_migration",
+      "url": "https://cloud.tencent.com/solution/cos_migration",
+      "desc": "针对对象存储服务的多种迁移场景，提供安全可靠，专业高效，方便客户将已有业务数据快速地迁移到腾讯云的解决方案。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据存储"
+    },
+    {
+      "title": "高性能对象存储",
+      "slug": "hpos",
+      "url": "https://cloud.tencent.com/solution/hpos",
+      "desc": "高性能对象存储解决方案整合了并行文件系统一体机和对象存储服务，为企业客户提供冷热分层的高性能存储服务。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "数据存储"
+    },
+    {
+      "title": "点云建模",
+      "slug": "pcm",
+      "url": "https://cloud.tencent.com/solution/pcm",
+      "desc": "对真实世界进行信息采集与分析，采用点云等高维媒体技术进行建模，为实现真实世界数字化提供应用解决方案。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "多媒体"
+    },
+    {
+      "title": "点云压缩",
+      "slug": "pointcloud-cmp",
+      "url": "https://cloud.tencent.com/solution/pointcloud-cmp",
+      "desc": "针对点云数据压缩场景，对点云数据的时空信息进行分析处理，大幅降低数据量，与储存成本，实现高质量且实时的点云数据编解码方案",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "多媒体"
+    },
+    {
+      "title": "VR 全景",
+      "slug": "vr-media",
+      "url": "https://cloud.tencent.com/solution/vr-media",
+      "desc": "基于腾讯多媒体实验室领先的沉浸式技术能力，结合分块传输与推荐视窗等多媒体算法，打造自然场景或虚拟场景下的全景观看体验。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "多媒体"
+    },
+    {
+      "title": "自由视角",
+      "slug": "freeview",
+      "url": "https://cloud.tencent.com/solution/freeview",
+      "desc": "通过自然场景或虚拟场景下的，稀疏化的视点采集，结合互动渲染与虚拟视角等多媒体算法，给您带来全新的沉浸式观看体验",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "多媒体"
+    },
+    {
+      "title": "智能音乐",
+      "slug": "tmm-imusic",
+      "url": "https://cloud.tencent.com/solution/tmm-imusic",
+      "desc": "智能音乐解决方案，利用智能音乐理解技术，帮助用户更加深入地理解、分析、创造音乐，探索更多音乐场景，挖掘音乐价值。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "多媒体"
+    },
+    {
+      "title": "多人互动云游戏",
+      "slug": "migs",
+      "url": "https://cloud.tencent.com/solution/migs",
+      "desc": "融合音视频和云游戏领先的技术能力，发掘最新互动玩法，赋能直播平台、云游戏平台、游戏开发等多种场景。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "云渲染"
+    },
+    {
+      "title": "游戏微端",
+      "slug": "game-microapp",
+      "url": "https://cloud.tencent.com/solution/game-microapp",
+      "desc": "依托行业领先的实时云渲染能力，帮助开发者一站快速搭建“游戏微端”，将包体体积降低至数M大小，有效降低获客成本。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "云渲染"
+    },
+    {
+      "title": "虚拟互动空间",
+      "slug": "vis",
+      "url": "https://cloud.tencent.com/solution/vis",
+      "desc": "基于丰富的内容生态及实时云渲染能力，帮助您快速获取专属于您的空间方案。只需3步即可上线3D线上营销、线上活动、新媒体、数字孪生等业务，用户无需下载即可在任意终端体验。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "云渲染"
+    },
+    {
+      "title": "设计云",
+      "slug": "design",
+      "url": "https://cloud.tencent.com/solution/design",
+      "desc": "汇聚多款腾讯设计/研发类相关产品，提供版权素材、用户研究、智能设计、设计协同、快速研发等能力，助力泛设计群体和企业客户满足不同场景下的设计需求。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "设计"
+    },
+    {
+      "title": "Serverless 多模态任务引擎",
+      "slug": "sdfe",
+      "url": "https://cloud.tencent.com/solution/sdfe",
+      "desc": "",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "Serverless"
+    },
+    {
+      "title": "自动驾驶",
+      "slug": "ad-dataplatform",
+      "url": "https://cloud.tencent.com/solution/ad-dataplatform",
+      "desc": "腾讯云存储数据平台，专为汽车辅助驾驶深度优化，提供覆盖采集、存储、加速、治理的一体化方案，实现海量数据高效处理与智能管理。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "Data Platform 数据平台"
+    },
+    {
+      "title": "AIGC",
+      "slug": "aigc-dataplatform",
+      "url": "https://cloud.tencent.com/solution/aigc-dataplatform",
+      "desc": "腾讯云数据平台，为AIGC提供覆盖采集、训练、推理、治理的全流程高效存储支持，从容应对多模态技术挑战。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "Data Platform 数据平台"
+    },
+    {
+      "title": "具身智能",
+      "slug": "eai-dataplatform",
+      "url": "https://cloud.tencent.com/solution/eai-dataplatform",
+      "desc": "腾讯云存储数据平台，为具身智能构建集海量存储、高效加速与智能治理于一体的解决方案，解决数据融合、资源闲置与成本难题，加速智能体进化。",
+      "description": "",
+      "category_l1": "通用解决方案",
+      "category_l2": "Data Platform 数据平台"
+    },
+    {
+      "title": "小程序·云开发",
+      "slug": "la",
+      "url": "https://cloud.tencent.com/solution/la",
+      "desc": "为开发者提供完整的云端支持，弱化后端和运维操作，使用平台原生 API 进行核心业务开发，实现快速上线和迭代。",
+      "description": "",
+      "category_l1": "微信解决方案",
+      "category_l2": "微信小程序"
+    },
+    {
+      "title": "小程序·云直播",
+      "slug": "tbl",
+      "url": "https://cloud.tencent.com/solution/tbl",
+      "desc": "融合腾讯云直播技术与微信生态优势，提供强大的云端直播能力及全平台打通的直播服务，助力用户快捷实现小程序直播。",
+      "description": "",
+      "category_l1": "微信解决方案",
+      "category_l2": "微信小程序"
+    },
+    {
+      "title": "小程序·即时通信 IM",
+      "slug": "immini",
+      "url": "https://cloud.tencent.com/solution/immini",
+      "desc": "专为小程序即时通信IM场景打造的低代码方案，全面整合该场景下所需的必备能力（包括图文沟通、音视频通话、服务评价、快捷回复等便捷效率工具），提供 UI 组件库，支持一天极速集成，助您降低开发成本的同时，以专业性赢得顾客青睐。",
+      "description": "",
+      "category_l1": "微信解决方案",
+      "category_l2": "微信小程序"
+    },
+    {
+      "title": "微信小程序音视频",
+      "slug": "wx-video",
+      "url": "https://cloud.tencent.com/solution/wx-video",
+      "desc": "无需音视频基础，帮助客户从零开始一天搭建拥有互动音视频能力的小程序，一站式音视频解决方案，助力企业新服务模式探索创新。",
+      "description": "",
+      "category_l1": "微信解决方案",
+      "category_l2": "微信小程序"
+    },
+    {
+      "title": "小程序金融版",
+      "slug": "finance-mini-program",
+      "url": "https://cloud.tencent.com/solution/finance-mini-program",
+      "desc": "小程序金融版解决方案安全连接微信150+的云调用开放能力，多重小程序金融防护机制加持，助力金融机构高效、安全地接入小程序。",
+      "description": "",
+      "category_l1": "微信解决方案",
+      "category_l2": "微信小程序"
+    },
+    {
+      "title": "小程序·短剧",
+      "slug": "mpsdp",
+      "url": "https://cloud.tencent.com/solution/mpsdp",
+      "desc": "提供短剧小程序和内容管理解决方案，实现内容分发与商业变现，灵活二次开发，防盗链能力避免黑产盗版、保护版权。",
+      "description": "",
+      "category_l1": "微信解决方案",
+      "category_l2": "微信小程序"
+    },
+    {
+      "title": "小程序·移动解析",
+      "slug": "mphttpdns",
+      "url": "https://cloud.tencent.com/solution/mphttpdns",
+      "desc": "专为微信小程序打造的加速、防劫持方案，可全面提升访问速度，实现请求精准调度，带来更安全、流畅的使用体验。无需开发，轻松部署。",
+      "description": "",
+      "category_l1": "微信解决方案",
+      "category_l2": "微信小程序"
+    },
+    {
+      "title": "小程序·小店",
+      "slug": "mpshop",
+      "url": "https://cloud.tencent.com/solution/mpshop",
+      "desc": "提供微信小店解决方案，实现商品推荐、分类、详情和跳转小店交易的能力，帮助小店场景经营、运营获客和固化回访。",
+      "description": "",
+      "category_l1": "微信解决方案",
+      "category_l2": "微信小程序"
+    },
+    {
+      "title": "微信云支付",
+      "slug": "qcloudpay",
+      "url": "https://cloud.tencent.com/solution/qcloudpay",
+      "desc": "联合微信支付和服务商协同解决商户端第三方支付的安全性和可靠性问题，助力服务商聚焦业务系统的建设和新业务的探索。",
+      "description": "",
+      "category_l1": "微信解决方案",
+      "category_l2": "微信支付"
+    },
+    {
+      "title": "微信生态上云方案",
+      "slug": "wechat",
+      "url": "https://cloud.tencent.com/solution/wechat",
+      "desc": "高性能高稳定的服务器、数据库、存储、缓存等服务，加上微信生态里的独有优势，是微信客户上云的不二之选。",
+      "description": "",
+      "category_l1": "微信解决方案",
+      "category_l2": "微信生态"
+    },
+    {
+      "title": "企微管家",
+      "slug": "eduserviceskits",
+      "url": "https://cloud.tencent.com/solution/eduserviceskits",
+      "desc": "腾讯云企微管家是一款基于企业微信的社群运营工具平台，为企业提供引流获客与用户运营的全链路群运营解决方案。",
+      "description": "",
+      "category_l1": "微信解决方案",
+      "category_l2": "微信生态"
+    }
+  ],
+  "count": 178
+}

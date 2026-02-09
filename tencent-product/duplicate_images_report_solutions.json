@@ -1,0 +1,1268 @@
+{
+  "summary": {
+    "total_files": 178,
+    "total_unique_images": 2329,
+    "cross_file_duplicate_images": 614,
+    "files_with_internal_duplicates": 98
+  },
+  "cross_file_duplicates": {
+    "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/vB22wKuYajoKRRcLSUaIJ.png": {
+      "count": 24,
+      "files": [
+        "通用解决方案/AIGC.md",
+        "通用解决方案/医学影像存储.md",
+        "通用解决方案/医学影像存储.md",
+        "通用解决方案/数据湖.md",
+        "通用解决方案/数据湖.md",
+        "通用解决方案/大数据.md",
+        "通用解决方案/大数据.md",
+        "通用解决方案/自由视角.md",
+        "通用解决方案/移动应用云.md",
+        "通用解决方案/具身智能.md",
+        "通用解决方案/数据湖分析.md",
+        "通用解决方案/IPv6 解决方案.md",
+        "通用解决方案/AI Coding 全栈开发.md",
+        "通用解决方案/商用密码合规.md",
+        "通用解决方案/自动驾驶.md",
+        "行业解决方案/校务管理.md",
+        "行业解决方案/智慧物流.md",
+        "行业解决方案/未来学习空间.md",
+        "行业解决方案/智慧教育.md",
+        "行业解决方案/智慧高速.md",
+        "行业解决方案/科研计算.md",
+        "行业解决方案/直播录制.md",
+        "行业解决方案/人工智能教育.md",
+        "行业解决方案/智能网联.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/m1dWmRQSTx18jh_-3tsWl.png": {
+      "count": 21,
+      "files": [
+        "通用解决方案/AIGC.md",
+        "通用解决方案/医学影像存储.md",
+        "通用解决方案/数据湖.md",
+        "通用解决方案/大数据.md",
+        "通用解决方案/自由视角.md",
+        "通用解决方案/移动应用云.md",
+        "通用解决方案/具身智能.md",
+        "通用解决方案/数据湖分析.md",
+        "通用解决方案/IPv6 解决方案.md",
+        "通用解决方案/AI Coding 全栈开发.md",
+        "通用解决方案/商用密码合规.md",
+        "通用解决方案/自动驾驶.md",
+        "行业解决方案/校务管理.md",
+        "行业解决方案/智慧物流.md",
+        "行业解决方案/未来学习空间.md",
+        "行业解决方案/智慧教育.md",
+        "行业解决方案/智慧高速.md",
+        "行业解决方案/科研计算.md",
+        "行业解决方案/直播录制.md",
+        "行业解决方案/人工智能教育.md",
+        "微信解决方案/小程序·移动解析.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/GifBAuVpxVIHcbt8C-ZBZ.png": {
+      "count": 19,
+      "files": [
+        "通用解决方案/AIGC.md",
+        "通用解决方案/企业级网盘.md",
+        "通用解决方案/医学影像存储.md",
+        "通用解决方案/数据湖.md",
+        "通用解决方案/大数据.md",
+        "通用解决方案/自由视角.md",
+        "通用解决方案/具身智能.md",
+        "通用解决方案/数据湖分析.md",
+        "通用解决方案/IPv6 解决方案.md",
+        "通用解决方案/商用密码合规.md",
+        "通用解决方案/自动驾驶.md",
+        "行业解决方案/校务管理.md",
+        "行业解决方案/智慧物流.md",
+        "行业解决方案/未来学习空间.md",
+        "行业解决方案/智慧教育.md",
+        "行业解决方案/智慧高速.md",
+        "行业解决方案/科研计算.md",
+        "行业解决方案/直播录制.md",
+        "行业解决方案/人工智能教育.md"
+      ]
+    },
+    "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/logo/智绘设计.png": {
+      "count": 8,
+      "files": [
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/tcloud_dtc/static/portal_advantage_new/55e821cc-fac8-4d84-8074-1f2d2af0357d.png": {
+      "count": 7,
+      "files": [
+        "通用解决方案/混合云存储.md",
+        "通用解决方案/对象存储内容审核.md",
+        "通用解决方案/对象存储内容审核.md",
+        "通用解决方案/腾讯位置服务.md",
+        "通用解决方案/高性能计算.md",
+        "通用解决方案/智慧会场.md",
+        "通用解决方案/对象存储数据处理.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/image/product/2016/32_32/blue.svg": {
+      "count": 7,
+      "files": [
+        "通用解决方案/日志数据.md",
+        "通用解决方案/高性能对象存储.md",
+        "通用解决方案/数据备份.md",
+        "通用解决方案/数据湖分析.md",
+        "行业解决方案/工业高性能计算.md",
+        "行业解决方案/电商图像处理.md",
+        "行业解决方案/网络摄像机.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/image/product/2169/32_32/blue.svg": {
+      "count": 6,
+      "files": [
+        "通用解决方案/物联安全保障.md",
+        "通用解决方案/消费物联.md",
+        "通用解决方案/智慧人居.md",
+        "通用解决方案/减碳消防.md",
+        "行业解决方案/出行.md",
+        "行业解决方案/智慧停车.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/f326e21d-2be3-449e-8344-0f5332a8f46b.png": {
+      "count": 6,
+      "files": [
+        "通用解决方案/账号安全与风控.md",
+        "通用解决方案/Serverless 多模态任务引擎.md",
+        "通用解决方案/移动应用云.md",
+        "通用解决方案/多人互动云游戏.md",
+        "行业解决方案/至信链金融数据存证.md",
+        "微信解决方案/小程序·短剧.md"
+      ]
+    },
+    "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/logo/CoDesign.png": {
+      "count": 6,
+      "files": [
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/ec16e78f98096252126764fbf515e979.svg": {
+      "count": 6,
+      "files": [
+        "通用解决方案/智慧人居.md",
+        "行业解决方案/智能家居.md",
+        "行业解决方案/智能穿戴.md",
+        "行业解决方案/手机行业.md",
+        "行业解决方案/网络摄像机.md",
+        "行业解决方案/智能家电.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/tcloud_dtc/static/portal_advantage_new/898a987e-ee41-4269-b710-744b735f495e.png": {
+      "count": 6,
+      "files": [
+        "通用解决方案/对象存储内容审核.md",
+        "通用解决方案/腾讯位置服务.md",
+        "通用解决方案/大数据存储.md",
+        "通用解决方案/高性能计算.md",
+        "通用解决方案/对象存储数据处理.md",
+        "行业解决方案/电商.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/image/product/2053/32_32/blue.svg": {
+      "count": 6,
+      "files": [
+        "行业解决方案/一站式在线联络平台.md",
+        "行业解决方案/互动直播.md",
+        "行业解决方案/互动课堂.md",
+        "行业解决方案/语聊社交.md",
+        "微信解决方案/微信小程序音视频.md",
+        "微信解决方案/小程序·云直播.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/image/product/2173/32_32/blue.svg": {
+      "count": 5,
+      "files": [
+        "通用解决方案/物联安全保障.md",
+        "通用解决方案/消费物联.md",
+        "通用解决方案/智慧人居.md",
+        "通用解决方案/减碳消防.md",
+        "行业解决方案/智慧建筑.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/image/product/2000/32_32/blue.svg": {
+      "count": 5,
+      "files": [
+        "通用解决方案/VR 全景.md",
+        "通用解决方案/数字客舱.md",
+        "通用解决方案/点云建模.md",
+        "行业解决方案/智慧传媒.md",
+        "行业解决方案/工业高性能计算.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/aa872c90046c268329b18a0251136f8b.png": {
+      "count": 5,
+      "files": [
+        "通用解决方案/运维.md",
+        "通用解决方案/运维.md",
+        "通用解决方案/运维.md",
+        "行业解决方案/金融.md",
+        "行业解决方案/金融.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/d1f85d5014617acd11473ea89a0f3926.svg": {
+      "count": 5,
+      "files": [
+        "行业解决方案/智能家居.md",
+        "行业解决方案/智能穿戴.md",
+        "行业解决方案/手机行业.md",
+        "行业解决方案/网络摄像机.md",
+        "行业解决方案/智能家电.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/image/product/2066/32_32/blue.svg": {
+      "count": 5,
+      "files": [
+        "行业解决方案/智能穿戴.md",
+        "行业解决方案/互动直播.md",
+        "行业解决方案/互动课堂.md",
+        "行业解决方案/语聊社交.md",
+        "微信解决方案/微信小程序音视频.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/ac57e898f6add0a59af4359aecb3b287.png": {
+      "count": 5,
+      "files": [
+        "行业解决方案/电商.md",
+        "行业解决方案/电商.md",
+        "微信解决方案/微信生态上云方案.md",
+        "微信解决方案/微信生态上云方案.md",
+        "微信解决方案/微信生态上云方案.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/oCjdEVARrvwq-93Sq3dJM.svg": {
+      "count": 4,
+      "files": [
+        "通用解决方案/AIGC.md",
+        "通用解决方案/数据湖.md",
+        "通用解决方案/具身智能.md",
+        "通用解决方案/自动驾驶.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/dbc30877-af39-41ac-9c6d-68575370971f.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/天御内容安全.md",
+        "通用解决方案/账号安全与风控.md",
+        "行业解决方案/至信链金融数据存证.md",
+        "行业解决方案/智能网联.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/ef28b8a708f9911f2b51bfcc1335e7e3.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/数据采集标注服务.md",
+        "通用解决方案/数据采集标注服务.md",
+        "通用解决方案/数据采集标注服务.md",
+        "通用解决方案/数据采集标注服务.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/09880d0fc4d78ac9efd788401ff62a34.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/数据采集标注服务.md",
+        "通用解决方案/数据采集标注服务.md",
+        "通用解决方案/数据采集标注服务.md",
+        "通用解决方案/数据采集标注服务.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/6bd57078ae4598acf44d5e5ba3100f2c.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/数据采集标注服务.md",
+        "通用解决方案/数据采集标注服务.md",
+        "通用解决方案/数据采集标注服务.md",
+        "通用解决方案/数据采集标注服务.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/22b2760f-bcbe-438a-adbe-fda406efa432.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/企业级网盘.md",
+        "通用解决方案/AI 互动体验展.md",
+        "行业解决方案/智慧民航.md",
+        "行业解决方案/智慧轨交.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/qaagxLeAKs31tIiylVbnH.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/设计云.md",
+        "通用解决方案/零信任安全.md",
+        "行业解决方案/未来学习空间.md",
+        "行业解决方案/腾讯智眸 · 采编识审.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/dRQLAYeIwxnKGH9t_fjLE.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/设计云.md",
+        "通用解决方案/零信任安全.md",
+        "通用解决方案/商用密码合规.md",
+        "行业解决方案/文旅营销和支付.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/F0E8XtBLzoJO_5QCtVFNA.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/设计云.md",
+        "通用解决方案/零信任安全.md",
+        "通用解决方案/自动驾驶.md",
+        "行业解决方案/未来学习空间.md"
+      ]
+    },
+    "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-行业模版.svg": {
+      "count": 4,
+      "files": [
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md"
+      ]
+    },
+    "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/logo/腾讯问卷.svg": {
+      "count": 4,
+      "files": [
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md"
+      ]
+    },
+    "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/logo/腾讯云微搭.svg": {
+      "count": 4,
+      "files": [
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md",
+        "通用解决方案/设计云.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/image/product/2060/32_32/blue.svg": {
+      "count": 4,
+      "files": [
+        "通用解决方案/VR 全景.md",
+        "通用解决方案/云闪图片分发.md",
+        "通用解决方案/点云建模.md",
+        "行业解决方案/电商图像处理.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/b58cc874-4321-43b6-a6b7-21aef1a08f0d.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/分布式云 AI 智算.md",
+        "通用解决方案/AI 创意营销.md",
+        "行业解决方案/消费医疗经营增长.md",
+        "行业解决方案/智慧民航.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/image/product/2051/32_32/blue.svg": {
+      "count": 4,
+      "files": [
+        "通用解决方案/云闪图片分发.md",
+        "通用解决方案/数据湖分析.md",
+        "行业解决方案/手机行业.md",
+        "行业解决方案/电商图像处理.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/image/product/2118/32_32/blue.svg": {
+      "count": 4,
+      "files": [
+        "通用解决方案/数字政府安全管理平台.md",
+        "通用解决方案/互联网+政务服务安全.md",
+        "通用解决方案/互联网行业平台安全.md",
+        "行业解决方案/智能家电.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/image/product/2087/32_32/blue.svg": {
+      "count": 4,
+      "files": [
+        "通用解决方案/数字政府安全管理平台.md",
+        "通用解决方案/互联网+政务服务安全.md",
+        "通用解决方案/互联网行业平台安全.md",
+        "行业解决方案/工企互联.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/image/product/2123/32_32/blue.svg": {
+      "count": 4,
+      "files": [
+        "通用解决方案/互联网+政务服务安全.md",
+        "通用解决方案/互联网行业平台安全.md",
+        "行业解决方案/智慧传媒.md",
+        "行业解决方案/出行.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/4d51996814c11ba9133ef4aaebe5fd98.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/移动解析.md",
+        "通用解决方案/移动解析.md",
+        "通用解决方案/移动解析.md",
+        "通用解决方案/移动解析.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/5f3110877963eb7fe31a3cf631e1158d.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/移动解析.md",
+        "通用解决方案/移动解析.md",
+        "通用解决方案/移动解析.md",
+        "通用解决方案/移动解析.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/5e14209cf06420ebae2c6810af53ca63.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/数据库.md",
+        "通用解决方案/数据库.md",
+        "通用解决方案/数据库.md",
+        "通用解决方案/数据库.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/994ca3c05b76b39254408039bf9ddacf.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/数据库.md",
+        "通用解决方案/数据库.md",
+        "通用解决方案/数据库.md",
+        "通用解决方案/数据库.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/7108fbd16d20f33238e876445ce0f081.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/数据库.md",
+        "通用解决方案/数据库.md",
+        "通用解决方案/数据库.md",
+        "通用解决方案/数据库.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/39505120-49d8-475a-b330-73fd8d767e87.png": {
+      "count": 4,
+      "files": [
+        "通用解决方案/AI 互动体验展.md",
+        "行业解决方案/城市交通.md",
+        "行业解决方案/智能网联.md",
+        "微信解决方案/小程序·小店.md"
+      ]
+    },
+    "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/3056b6dc-06f1-408c-959e-063547ce46be.png": {
+      "count": 4,
+      "files": [
+        "行业解决方案/消费医疗经营增长.md",
+        "行业解决方案/智慧医保.md",
+        "行业解决方案/直播录制.md",
+        "微信解决方案/小程序·短剧.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/281a7c711a0234c64e5f1833ac78c0bf.png": {
+      "count": 4,
+      "files": [
+        "行业解决方案/智慧景区.md",
+        "行业解决方案/智慧景区.md",
+        "行业解决方案/智慧景区.md",
+        "行业解决方案/智慧景区.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/beed7b4e2f600075b11525cc8e34d329.png": {
+      "count": 4,
+      "files": [
+        "行业解决方案/智慧传媒.md",
+        "行业解决方案/智慧传媒.md",
+        "行业解决方案/智慧传媒.md",
+        "行业解决方案/智慧传媒.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/82ecba1fb2eb9a4d974ba12c7716ebc1.png": {
+      "count": 4,
+      "files": [
+        "行业解决方案/智慧传媒.md",
+        "行业解决方案/智慧传媒.md",
+        "行业解决方案/智慧传媒.md",
+        "行业解决方案/智慧传媒.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/da35fb6f49df40f543ab31475fd3fdb2.png": {
+      "count": 4,
+      "files": [
+        "行业解决方案/工企互联.md",
+        "行业解决方案/工企互联.md",
+        "行业解决方案/工企互联.md",
+        "行业解决方案/工企互联.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/6258e4a1b72328bd45bd53462f226138.png": {
+      "count": 4,
+      "files": [
+        "行业解决方案/腾讯明眸 · 极速高清.md",
+        "行业解决方案/腾讯明眸 · 极速高清.md",
+        "行业解决方案/腾讯明眸 · 极速高清.md",
+        "行业解决方案/腾讯明眸 · 极速高清.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/a847952af573db79ebba570c51947d01.png": {
+      "count": 4,
+      "files": [
+        "行业解决方案/腾讯明眸 · 极速高清.md",
+        "行业解决方案/腾讯明眸 · 极速高清.md",
+        "行业解决方案/腾讯明眸 · 极速高清.md",
+        "行业解决方案/腾讯明眸 · 极速高清.md"
+      ]
+    },
+    "https://qcloudimg.tencent-cloud.cn/raw/5057a9a6e0507ec1d2ef3a8a7c363707.jpg": {
+      "count": 4,
+      "files": [
+        "行业解决方案/互动直播.md",
+        "行业解决方案/互动直播.md",
+        "行业解决方案/互动直播.md",
+        "行业解决方案/互动直播.md"
+      ]
+    }
+  },
+  "in_file_duplicates": {
+    "通用解决方案/腾讯云低代码解决方案.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/208d1df95a5092638144858fb6eed71b.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/b2f34628f4733d78e71b852befb90c4b.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/d62707cc6bdc42090383b43ec5230747.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/44ef691084f9ad542d3ff986e60e3f39.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/9333171e74c8694020e766eee99d9306.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/94d251834e96cffb95d139eb49c59ef7.png"
+    ],
+    "通用解决方案/物联安全保障.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/506ac38db3d12eac5bec1a8f6c557803.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/dd524c6f3e5c4ee6ff50f41acb0c2a18.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/4d3f7ebb10143e4f1bc24f688f50211b.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/b7871b73e93b9620366b55b8485f54f6.jpg"
+    ],
+    "通用解决方案/企业云.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/df3e95d97436746301f670b357e68516.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/e62a23ee3804a3c3689d261ded6bf418.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/472deb897dbe57daf6e51294c8594610.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/f0e719adb574c39986717414c8bdbcb7.png"
+    ],
+    "通用解决方案/虚拟互动空间.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/MUonz_E1tvKrqo2XC9eNB.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/YdfWByjP9Pf8aAWfNG1FF.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/j1Ys1vOdPSkfBkuvQGHV_.png"
+    ],
+    "通用解决方案/消费物联.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/af2749ccad5237ae186e86aeebcfa628.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/da03d3ff093b354ba50184364f76778d.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/f36cd43800b307c1cc91c4e503fb9527.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/00124bc2ac4db38e05df8b7847cd33c4.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/4c353c0fcd5f34a39a7f4180fb6f8313.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/a5b8e6492bd58f049935baaa69e73bdb.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/6f2048ac4aa1c5a497f5bd5438a3cb53.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/460ea82f98044a8eae5baeb78fab93e7.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/976d10ffae557a14fb814de62c40a368.jpg"
+    ],
+    "通用解决方案/数据采集标注服务.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/c189f1fb66704bb604e4df9f1cac090e.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/ef28b8a708f9911f2b51bfcc1335e7e3.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/09880d0fc4d78ac9efd788401ff62a34.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/489c0151428343a7966fc6898a2d4697.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/d0dbe7473cc7b16d718602501d926155.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/6bd57078ae4598acf44d5e5ba3100f2c.png"
+    ],
+    "通用解决方案/游戏微端.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/vZpONtl4zo5gP8xFOhnxJ.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/e8CNnZvx8lyoPED-DbPBv.jpg",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/VBMXY6c1Bp8wWzdbFmU3W.png"
+    ],
+    "通用解决方案/设计云.md": [
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-智能视频合成.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-交叉分析.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/logo/腾讯问卷.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-艺术创作.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-设计版本管理.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-云原生底层支持.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-舆情分析.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-智能剪辑.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-字体.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/logo/TDesign.png",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-自定义换肤.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-正版图库.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-跨终端投放.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-设计展示.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/logo/腾讯云微搭.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-代码托管.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-图标库.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-媒资管理.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-智能排版.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/logo/CoDesign.png",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/logo/智绘设计.png",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/logo/云创·多媒体引擎.png",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-问卷制作.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-一页多端.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-正版曲库.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-组件库.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-创意变现.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/logo/CODING.png",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-持续集成.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-原创作品.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-可视化拖拽搭建.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-设计标注.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-设计素材管理.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-团队协作.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-智能作图.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-调查资讯.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/logo/云创·多媒体创作引擎.png",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-智能配色.svg",
+      "https://cloud.tencent.com/solution/design/cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/solution/tcds/css/img/product/tcds-行业模版.svg"
+    ],
+    "通用解决方案/VR 全景.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/4b98f41ad9d9e048d13a4b80328f38b6.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/9e81d347d167204bfa9b8b981376d4ea.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/41d3fb5be1a2def1ca57cfad3cb2402f.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/713356f93326968a8b9c69c852868709.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/e67da6a2d4c86b049adf266fdb9758c8.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/7961345414ccb285913c446fe2f9d8c5.png"
+    ],
+    "通用解决方案/集团账号管理.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/79ebf1f1627a60eafa945bcc208f029c.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/5c8df57f36f7f070ecd1251fbf76de9d.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/3b216b0defee64ff2e198821e53d1efa.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/dd112013f6471e7d30e1ab1d7e78775a.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/fbdafc7c60c91218b09e37bd1cf86e4c.svg"
+    ],
+    "通用解决方案/日志数据.md": [
+      "https://imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/solution/log-data/css/img/topu_01.svg",
+      "https://imgcache.qq.com/open_proj/proj_qcloud_v2/trunk/project/gateway/solution/log-data/css/img/topu_02.svg"
+    ],
+    "通用解决方案/高性能对象存储.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/d1843428784b85cb9056a5e27116ca53.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/d105c241751b12babbf61f1bfedcc892.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/80bcfd093da1d68a98b7c4141f39cdda.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/122f772ef9fa277904858abfff782f25.jpg"
+    ],
+    "通用解决方案/医学影像存储.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/vB22wKuYajoKRRcLSUaIJ.png"
+    ],
+    "通用解决方案/腾讯专有云 PaaS 平台.md": [
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/f152d43c-38e6-43a4-887f-5101a70c99b6.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/6d356011-0369-4da2-9cd7-80731420c436.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/6c2df265-d325-4e97-b4b2-d1b2d3c450c0.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/87255ef0-1978-42f8-90ea-4cca74206962.png"
+    ],
+    "通用解决方案/分布式云 AI 智算.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/qF4fmp68dh81VbWwOOObu.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/VL5PMUSTkh5gNz9RkZRLu.png"
+    ],
+    "通用解决方案/数据湖.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/vB22wKuYajoKRRcLSUaIJ.png"
+    ],
+    "通用解决方案/AI 创意营销.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/16038708cca757b2eb6ae3a396b1afce.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/37c5c09c1f1034865087a69bfb8bdffc.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/ac8a41da93ee3e83b30e3583a599d12b.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/21cce4e282215390c364dd60787c6204.png"
+    ],
+    "通用解决方案/数字客舱.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/2be5a015dec896be6ce2b6386fbcf829.png"
+    ],
+    "通用解决方案/大数据.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/vB22wKuYajoKRRcLSUaIJ.png"
+    ],
+    "通用解决方案/智慧人居.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/d116bbaafe65b1091629290dd9cade87.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/71dd8ce26f4eff6c0025bb5e0f505161.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/27bda6764069395f1ace184ce4cb9e03.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/5e5546b46c85d0363d2060769edff70a.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/02f565c9ffb27cc01613d810bfe6ca3f.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/490598b15411cdb7c201fadfb8abb921.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/5a0e738f255ecfd7dc402004408b2160.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/c368682dce67efa4c940161971e417ab.png"
+    ],
+    "通用解决方案/减碳消防.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/b56c9106f49a5f0172e3c094ed2bb006.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/5f348c380b02c6218140cd126ac12bb2.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/0dccd49fb37b63ff8349984580ca3d95.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/ed4475c1f36e6b8bcef515d057230b00.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/4696ce26c0c3dcab556d8c5c490bed1c.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/f08377f4f9ae8f4962ba41693e49fbe9.svg"
+    ],
+    "通用解决方案/对象存储内容审核.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/48e3bc103c253e90f94a47d78816b80f.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/Ic7KjoAFr_KlZjxflo6qI.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/46b72d11c825b1bd29c876f0e14ff8d5.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/5ffe03f503c841a8aa70de3d1e1d6111.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/e0df426b671e2133af28a903e4ff0f04.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/tcloud_dtc/static/portal_advantage_new/55e821cc-fac8-4d84-8074-1f2d2af0357d.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/1a01d0e682cbd9b7ffa1695f64c6e03f.png"
+    ],
+    "通用解决方案/新文创行业安全.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/10324a563c2dc12e97e0ca739238e7e5.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/68001aa2ba691cda2c3a4f4b64fb660d.png"
+    ],
+    "通用解决方案/移动应用云.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/yDX46kMknUPsMCE9r0ecC.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/BbLImVJ-YfTA8rEDtw2Z1.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/sqi7Ob4PRJ0-wbHsC4fO2.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/h5wWZV4dm3T6kZ-HFwNrP.webp"
+    ],
+    "通用解决方案/可信应用支撑.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/08218440673aaa64b6c43f2a187e7b48.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/d7162e98ec78db80476e071f815ea8f3.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/d712bdfbd56190597823d376854db00b.svg"
+    ],
+    "通用解决方案/智能音乐.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/63eedf78ac1db9fd302e140d76058f6e.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/c3db8c51cdaffdffe6fda287754e80c1.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/0ab37c5c1981d4ea6992789ab47eb9f6.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/4fefc3b14de66b14630f691484e8c697.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/2bccbb93004bab207b927b8adabbf27d.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/1b97609fedfc6d44954a9622e9e7aa27.jpg"
+    ],
+    "通用解决方案/正版内容直通车.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/45c214de7487c855cd8b90115220cd37.jpg"
+    ],
+    "通用解决方案/腾讯位置服务.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/sPYSJZXPaS2nwLI8NJOFO.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/CuBzyqJzPOGd7m5Gl8RGK.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/U2bZzmUb5lhdHSsRiMTcs.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/jKzCd-5XBm5iPbsXLtKI_.png"
+    ],
+    "通用解决方案/点云建模.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/79f5a158032fa72d93c135ad01cf70ad.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/5c1cd275dcc93d4b15cd26d0e3af7a21.png"
+    ],
+    "通用解决方案/游戏行业安全.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/6cedb79ce26d4eed3b818e72be446dcd.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/c7efc1910dbfb8f71020943acfef8f03.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/b2f0f65a5041b41816a8627c865ad731.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/f148f7c1bae7a31860c5f4e0881def1c.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/99569718744396d59b0c41ba2903ca17.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/90e9e56d314122b8021d9703d72143ba.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/919adf2c40f90554279dd0391e13b72f.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/6e678d12ef9684c800f14ce4be0906d5.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/eea59422a62c9ab0b0b121faac1f4a77.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/025eddb6629fff3ece46b179cd6c5cec.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/73eaf2dd08ef1491c6fe9384686c225c.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/2a0d120b5b79d5af339770e4c7e714c7.png"
+    ],
+    "通用解决方案/腾讯专有云企业版.md": [
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/c052f996-3353-4c3a-a5c6-529bbc7c5127.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/b5ea0f7f-792f-4d2d-96c3-a4157f3e97ac.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/8c6e37aa-3c54-4c52-bae8-93f38a08171d.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/e782c57e-63ff-4c99-ad66-c4755ae9aba1.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/e4c6bfba-6592-4f6e-86ba-276e88565443.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/7262d1fb-edfa-43a0-9f07-940517397ad9.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/46d15fbf-a1bd-4122-b082-c2c205d8491c.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/ffcff577-cc8f-423a-88cd-203e70ae02d0.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/4679675c-2b40-42b2-af60-18a083c8704e.png",
+      "https://dscache.tencent-cloud.cn/upload/uploader/行业领先的安全合规方案-12b6ba2594a5a846305d07af148c71f203a1a207.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/251a74b3-d5c4-4e1a-8c93-6a56450c7878.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/e7ac4cc7-0a27-4c59-bb57-a87c77982eb6.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/c52fc560-7195-4657-8e85-8f07c1d500e5.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/ce845a02-20d0-43f7-be81-3632d6ae50c0.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/54e07b48-c575-420c-be75-0091cb815a8d.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/2356c39f-a48a-4413-a865-89c78e0eac99.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/859e584d-bbb1-45b4-974e-7016c3fda791.png",
+      "https://dscache.tencent-cloud.cn/upload/uploader/专属智算-fe9928303383e06d8a316ba8e5fcff38cefd2b6b.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/f1beebd9-5013-4ff3-b1e3-d91f5659e9f7.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/1e7a1763-214e-45fa-9434-76ce85ad0b84.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/cfa2500e-3559-47ff-adee-5aa2c7ab2050.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/20a117b2-b7b5-4568-a913-26e6b1f92f7e.png"
+    ],
+    "通用解决方案/移动解析.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/4d51996814c11ba9133ef4aaebe5fd98.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/5f3110877963eb7fe31a3cf631e1158d.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/c43101fc170ab12d86a4b0506ac79bd3.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/a759b608413f09ac497795d4c7858a0a.png"
+    ],
+    "通用解决方案/高性能计算.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/OCVoF6NZfUoZcIts2lxBy.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/FmMG_9AcCw4KbjjWFnL2G.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/-AxzBNontl2bKf000fO6H.png"
+    ],
+    "通用解决方案/运维.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/aa872c90046c268329b18a0251136f8b.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/dfb114758fb3dee6b255507cae6e73b1.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/44981ff4b0cd4d73ea6219d5f527ebc2.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/8cff09145c5bcfb9600dfe072622d3c4.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/263925519846fed6a48e3c918c6fcfe0.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/73286ecdb8bb0a4de4c7e1bcf80bf5b9.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/867d574b45cec7eab9c364e807840353.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/e8207e63352d4cb12c92dd24e4fe4781.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/14d184fe56d78690286d66ef6f56148d.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/f8de42567cadbe74ab4ff41c2b6e78dc.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/5e5a389b106e70ad33c8ebab03e7376d.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/c13b93d1da5ed05d3f394be6ca5a342e.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/40b8b1cac8852709b08b8cc3706550e5.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/559da9ec3c96dcbaf086e87f688bacff.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/23a0ef86657386428d24258ef29a356e.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/8a38fecffcd781ebadedf06dcdbddf45.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/d542126c8f2823643ad5fba9fca2d04c.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/94113e3e1ed6e9f05cab6942b066c7d2.png"
+    ],
+    "通用解决方案/移动安全开发平台.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/6b07fd9acdec844434769ed1790a5908.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/20ed7358f8c64ccfcf6d31e686d9e368.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/2f09733dd3327523465a5eaa93e54f3d.jpg"
+    ],
+    "通用解决方案/AI Coding 全栈开发.md": [
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/portal_advantage_new/90e15680-4dbd-4065-b620-553e498bc8b2.png"
+    ],
+    "通用解决方案/数据库.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/994ca3c05b76b39254408039bf9ddacf.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/385635899f98058ffc4d2e8b166639b8.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/2a5cd2069793aa2a6e217edc3df0ac8a.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/6ef418073283a0feb5d5a25ed441b996.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/f21d2be0651573c3867d77091ba09b40.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/adddacc410d2e5b20d0e02718761d931.svg",
+      "https://qcloudimg.tencent-cloud.cn/image/product/2032/32_32/blue.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/201d35fdedbb68f506631b1c92e9122b.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/218dd94ae2b553d7a6be42789ad51fbe.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/7a96e5643311032a0cdd95bd73b5cfc6.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/26ce138a8917d79333989f1aa1f2f447.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/a464aee00f976a6cfe3fe25aa281c4a3.svg",
+      "https://qcloudimg.tencent-cloud.cn/image/product/2031/32_32/blue.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/eecf026ecc4bfdc23dcecd21ba5e1792.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/7108fbd16d20f33238e876445ce0f081.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/72cdda010593856777a0476d4729f167.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/5e14209cf06420ebae2c6810af53ca63.png",
+      "https://qcloudimg.tencent-cloud.cn/image/product/2392/32_32/blue.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/65a7e02883334121aae5b67639235cb8.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/4780860e082c3d8fe09921ccec541d6d.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/2679bc4e244b38486f7050085d97ef52.svg"
+    ],
+    "通用解决方案/实名实人认证解决方案.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/d792904d82633129cde6deaee2f6bb3b.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/8494516c871a6a7c87e05f9e37a95509.svg"
+    ],
+    "通用解决方案/点云压缩.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/18895af0bbe3215b862ab64391b839ec.png"
+    ],
+    "通用解决方案/智慧市政.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/b1a19b519a3b1e857211e11d034412b2.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/2d3092267be45adfe7039fa69fb29f9f.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/6b44148368af18e8ce0f19333897d13a.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/de4a709195271c42c4841c54b34a25b8.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/f98d347f63136ae7145333fd47d4fd56.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/a253005cc85e9862a1c4caf0fe9680c7.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/dd73c42a09668d43e3eedae82aea53a5.png"
+    ],
+    "通用解决方案/腾讯安心平台.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/JfvXTR9jA6pumLleaPfs8.svg",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/wn-dnFCx7D7K5pMnpFuwK.svg",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/nauMz0np2Ti4IB6CdXybh.svg",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/a-AqQ6SzxXX5x510DN9Rn.svg",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/xG0HGSB2Bo9t3cUZo1teN.svg",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/Qxq1Fn2VX7E9iA_EjC4xp.svg"
+    ],
+    "通用解决方案/区块链版权保护.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/abEabySK73O0gO1SmhW-7.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/5_cLQ_DqnpYQppqCBPAH2.png"
+    ],
+    "通用解决方案/互联网行业平台安全.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/002d313ccac2965ec319512fb5c69e83.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/6f3f0e0ad8a2e20b481bfd08dc269c26.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/a07144c2a79c406c1c9854d6f37363d2.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/6678fac1a83aaa3bde4ce8247141dbc9.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/69c9ca9a3de80befac8abd9ae946aba2.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/98d3a06a0e63e2dd9b576fd9b84b0758.png"
+    ],
+    "通用解决方案/AI 互动体验展.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/8212665e1b5e5cdd72f094e2b49b8811.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/80453fc6de2f5cbb5c25d6328f4f50ad.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/5e7030a54152633ddcdaaf134d0497cf.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/45376db0bfae0f212766280c439f62b8.png"
+    ],
+    "行业解决方案/消费医疗经营增长.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/eppR97PHtqN9mLRn6__Ks.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/XReLvm-vWrYX_6O7-sRWG.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/Ki3RIW6MN1N14a71Z6S4t.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/e9b1ANvsM32hZHlAlBgaj.png"
+    ],
+    "行业解决方案/智能家居.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/1c366876a3c1854c6385c9a2b0d82902.png"
+    ],
+    "行业解决方案/金融风控.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/16b3035c60831284f347d50cd9c1c0ba.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/b85e793c50dd116a6199266624df7bac.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/36571adeeed1a4fae02b822283b9c785.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/321cf7ea6d631d818680943505121d05.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/3e4093d034faff8692f26aa0777aed41.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/0514af718fe178ff500bc6e9fbe45610.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/2bfd3aa6cb497e13e62e912e3461dd78.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/3812fbaab5da684f9f15335c19c44155.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/4a35a9e6ac62231e2258c6a15e8104f4.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/827472e45afd075674006d1104352669.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/3470c52d299e6c0620a7ae3fe500e2ff.svg"
+    ],
+    "行业解决方案/工企营销.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/adaaf0a3effd14ea2584fc892017d026.png"
+    ],
+    "行业解决方案/云会展.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/9c5183f81b6cf42b534302a3cab0739b.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/dabba6f2b6acfd5f2559ac14a69b0a57.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/d9b48ac8b7c6103ea1b9c3da190cb41a.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/07a736ed4bc2e5b01ad836fc502c671c.jpg"
+    ],
+    "行业解决方案/智慧港口.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/e2pkRtqjcLY5Z8FA18EWx.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/7t3aTUmYFalcuV3ISw5pB.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/YGtheCBwQrDjXPTzK8JEt.png"
+    ],
+    "行业解决方案/汽车.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/1db9990647639b001929178fa3599605.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/4d86633ab0bd2c9c2b0c81795634c154.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/25077c2977fb2ebae356da32728afbfd.svg"
+    ],
+    "行业解决方案/智慧物流.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/5aKbDULi56dk64G20yBYh.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/NAtyz25_b3oWXybQEy1LW.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/GigqpllMZR9bcoaEci--x.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/nmqTEtck-Z8k9uXVw6EnX.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/Loo3PUQGvUnQAwabSf68P.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/Z0Fi289NDzRpHFOD-ALeb.png"
+    ],
+    "行业解决方案/智能制造.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/14082079bdcac8ddc627cd12619da5a9.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/c08e4893ba608fb5b5abffcd975c745e.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/3fa945cf5240d822d0380fd14d0225d9.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/16d267dc0c462a4f57ab3bb470e3b86e.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/953fbbdb1cd7600f2f4d61f0e544f2a2.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/d74fb7e7d09d4a6a3c41fb4af63046cb.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/08277b5d0257372210553defc0c909ba.png"
+    ],
+    "行业解决方案/城市交通.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/TNbIPg32ai1M4G9iHGr5q.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/0aoPksqbEUZ8SHYV9j0RR.png"
+    ],
+    "行业解决方案/智慧景区.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/8c9592dc374a5848ba8a6524274db790.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/3c6494442036d7208bcd2f7905b639e7.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/281a7c711a0234c64e5f1833ac78c0bf.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/ebd120bd134861008a20ec0a20903bcd.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/ec76cc653c0b39ad4aa7c063c266f694.png"
+    ],
+    "行业解决方案/手机行业.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/1202f4ae18b758c178d3dcb8b515ffee.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/e51a80eddb9cce7d1a261b4c99e5a4a8.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/c49901e89a77124988a58d47796b1d53.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/e830b798d48dad1afdbd4d9345b9c571.svg"
+    ],
+    "行业解决方案/智慧传媒.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/aff18e9cf1eb641152a1cc33d8900e6f.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/82ecba1fb2eb9a4d974ba12c7716ebc1.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/29d6a45484093ad7bdce39ce9ca718f9.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/beed7b4e2f600075b11525cc8e34d329.png"
+    ],
+    "行业解决方案/工企互联.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/e36248b55be54fc4b648f5e2950fa4fe.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/227d83d8e42239c9def612b6b109e93d.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/3032e681d9d6bde2f6ae5486ddb5c05f.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/a284427c9426da85022b24bce3cc2262.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/da35fb6f49df40f543ab31475fd3fdb2.png"
+    ],
+    "行业解决方案/游戏语音互动.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/64a82c89cfcca96999132af06f22b2e2.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/94c7377797fe7535aa13c4bf96352295.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/e7bb33fc744cb765b66585239446d267.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/f559f23539e28ce1f4f87970b9edf9df.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/c17822ea5777b69a4fb22f8870a27d5e.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/eb0ff67a18d2c4dc0f38ed1234910bd4.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/0a3cadf9d14cf28cc83dd6bf28315ba3.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/3ee8c3fe4da24add695869cfde3c79b8.jpg"
+    ],
+    "行业解决方案/一站式在线联络平台.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/e457e13b091dc313ecd7a85464af9bfd.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/95bf6508f386af95f5a5c62db5821d30.png"
+    ],
+    "行业解决方案/腾讯明眸 · 极速高清.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/a51bb33dc7c7b26c7f34498c8b1e8c0b.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/664b784accb29eaa19514a747419319e.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/b8822138ecac294d122be342c1129f4b.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/058d5c18ff7a725effacc15598d8b38a.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/c6e88f5757a8514e0018967cac35e985.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/63979e1d7c28c47f29c1157544d17d65.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/6258e4a1b72328bd45bd53462f226138.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/a847952af573db79ebba570c51947d01.png"
+    ],
+    "行业解决方案/工企 AI.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/64c63a2933e6014c0a67f8fcd38aac05.png"
+    ],
+    "行业解决方案/智能内容安全审核.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/19dad51cad04cd565c6026b4a7aa3f65.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/df44c52eab49ee10c058ec50deb65688.png"
+    ],
+    "行业解决方案/产业金融.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/1b568b6e6b6767f4651ac946919b60ff.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/e5d66acdbe434835e0f21c3a4f4d11b9.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/d5fd14a60474008ab3cdd9c2f1603c17.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/84f3e1d041dad4a7e7de7bb82f367e03.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/cee00bdb1b7f694ffb9fce42185373af.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/7859a6b249530d96bafd04d72d182177.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/6ba7982831a8ae650e4818cd1da93d21.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/13adfa038779eaf758c36dde6ce9c3b1.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/f9cc60aef58d8438e47d3ee5a6af19cf.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/36ae2f17817521fac61a50e186c8837d.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/022f96a3a4ad5bd5704e5bca642e55c1.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/4519110ac5abad32f4069c5ae9340715.svg"
+    ],
+    "行业解决方案/出行.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/6a6a9bffea8335390fd9301ffe61d86b.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/bbcc3c183e5504ee744e17b0a78352e3.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/0200fb2b46e48184a62877d95d0fa264.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/f4341b0a906eb3e079bccfe00892b2a3.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/0073abe15b0ee7a84467f80995d79ab0.svg"
+    ],
+    "行业解决方案/工业高性能计算.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/c63c5363b744931cf9897d842e1732f9.png"
+    ],
+    "行业解决方案/互动直播.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/77451f562350bd3453bd7ec97a85a508.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/198ee517beafec77584ceec262457505.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/5057a9a6e0507ec1d2ef3a8a7c363707.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/966ac186fa3bb295a7c18d21c00355df.jpg"
+    ],
+    "行业解决方案/游戏多媒体内容安全.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/5741d682635c8d5f023b62fef761295d.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/d1bbaa32d32df6972d8512e9af2ad2b3.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/1cd494e6052d5720a64d1ccf25afe19d.svg"
+    ],
+    "行业解决方案/电商.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/4e52c69e6f5974b4386ea649fbb422e0.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/839761f9413695619923cda3112784dd.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/2736a086e23e54390d9f68bbd22b55e1.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/cae31d725282c7abf5f3cfd1e643cb4b.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/ac57e898f6add0a59af4359aecb3b287.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/76d73e84b8d4365779d2f5d1eba4538e.png"
+    ],
+    "行业解决方案/腾讯智眸 · 采编识审.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/3a_gMAs9yeQFQjRjMyHl0.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/gQyyr3j6mLFqaKNi92gzy.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/Itc6aU4Bx5Ku4_rv-t1JA.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/YlTd4pQ_M6ct4UGCFmGeG.png"
+    ],
+    "行业解决方案/金融.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/3bd04f5db04fbcc21f1842fa1dd9abfc.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/aa872c90046c268329b18a0251136f8b.png",
+      "https://cloudcache.tencent-cloud.com/qcloud/ui/static/tc_portal_icon/91e61153-68c4-4ae4-8c08-272639b488ef.png",
+      "https://web.archive.org/web/20220202225719im_/https://qcloudimg.tencent-cloud.cn/raw/ef371a500bce5ed963bc471af67a2b57.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/1d5579aa182ed1fc100a08b9c4daa06e.png",
+      "https://web.archive.org/web/20220202225719im_/https://qcloudimg.tencent-cloud.cn/raw/263925519846fed6a48e3c918c6fcfe0.png",
+      "https://web.archive.org/web/20210520085845im_/https://qcloudimg.tencent-cloud.cn/raw/1547dd6ae4a85452424eb10ec5e55f67.png"
+    ],
+    "行业解决方案/智慧停车.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/3010950f857dd3a3943a6adc908f7719.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/a3fc270396dada950b8bfd96ce380477.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/9fe5ba32657ca8ee9c7af908e8c04a92.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/08265a773d07e2e9b5a2336ac7a1b624.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/de1eeec3dedafc6f5ed576609a1ce2b6.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/80e8ff065a02ef960d72510440ceeb2e.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/02d647fe59a71e3dfe1f1ac2e52ac205.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/fa16d9a0a3cf87c22d8cc84c4016e0b0.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/03b882d561c2edb71309897c37ced1a1.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/06c35c85db101f4cc93579c2c69a2221.jpg"
+    ],
+    "行业解决方案/生活互联.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/af1b2e48ba705ae3c72440e2f50fc082.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/0a11ca6cdd91dbc13bad84ff8d8ec877.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/1903c0f73ffa56f73d0890919754e7d8.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/41fbff8f453a9dd9bc6d59b0053f2024.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/a2569ad448e51baccaae9daf60e434ab.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/827631cf42996bd6b3c47ea15f46cf5c.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/5f0539bcd28cc9fc66f0c72952f6bf2b.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/c770ccdf3dbe40f43bdaa8c9656a8fe9.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/46fe630d2f364c27a53ce0c9f9d05580.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/4e9dd07c1c414607ee775adc7a407c06.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/fa78e5603f1f9739d0880a3cf1274379.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/2582c010b777e36a55140f6d19ee6e17.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/0226a93b2cb501b356280d0d923e2d05.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/d847c9f7088c7fa99f57f594ad26412e.svg"
+    ],
+    "行业解决方案/医疗大健康.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/0b83e1444a77ac3a14b42a8e8785bede.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/34bcfc936bc241a0f54ecdd5ea590b76.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/5dbb91aa8ef09cda58bdab9b6916d305.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/39ce9479ccdcc21d961f6afd48b1f3d7.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/ac7468f60b1eaeedf1dce294f2b4439b.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/db19bd6e1cf7e3d3e0b7913c308629d9.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/015067e9671a84a2b61e91a0cd2c8bd2.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/77f2a954b0f109c91557750ff9a62f35.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/4d532d7bce5b8b6f884fac89a2647a5e.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/3ecbd761973841491d3ae547735193ec.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/c10ed45d8ca9fd9550854a303267b64d.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/875d492f76f92458011da30054f5ce98.svg"
+    ],
+    "行业解决方案/音视频产品定制.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/52220675cc7e238174c7b89677832f8b.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/94f6ab074b3cb05070ac7152c03f744a.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/07c2ffd9de2a27919adbba98111c9db7.png"
+    ],
+    "行业解决方案/传媒运营中台.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/PVjxRbOVuMCDwvlxUhKNf.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/4mjAByeApTGgNgzGyodeX.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/EddzoiIDD2HyH9HXpGLmv.png"
+    ],
+    "行业解决方案/智慧民航.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/gJm1QqYXS9AmcKy_dhLhB.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/B6DU6NQQbDH6zn5e5tWJl.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/14bEU-Cf7lDWvkpKVQGpm.png"
+    ],
+    "行业解决方案/游戏.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/ba0c5f5df0264bfcfaebd63066adf839.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/8456c84eaeee2e3b0663fe836036a386.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/c795b8db188604df156843d37ac6485c.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/8791bfe4fc76c0cd8ca2b2353aa921e2.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/826cdc5fdeb0f8e4988141a8e1ab0adb.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/5c008253bc17069d96d3036cc30ef942.png"
+    ],
+    "行业解决方案/智慧建筑.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/80ec096508723be0b90b3322b44dfeec.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/9f809391ab42788bef3f37073d5f4f33.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/82c02015b230b3291306c52d983bb371.png"
+    ],
+    "行业解决方案/媒体 AI.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/25ac1366a2d9a13da9e9705de4937be2.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/7a1dab1a05f422e9da695a0d3de56e9f.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/f0a031eba5144e8035d9ea3fd0e3f90b.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/0f8e3c2eb2799aeee7968051270d4ab9.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/6c9008db270566977c2f5a0c664808f4.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/e84cf8e1f8337e3ce553e0e76699426f.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/2dc4d0f16aa3534902e6a42a6e597945.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/b94246e93e4a781a83748538200c4910.png"
+    ],
+    "行业解决方案/智慧高速.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/hYNtdWh4ScT3ZTmLFxJqH.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/a2c4QXQB52iT0b_LO0nuE.png"
+    ],
+    "行业解决方案/互动课堂.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/8481afd92a15b9d3987c34c0c7b7f08a.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/ace1403f5f35f895208dd4018a48d4fd.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/a85dd2c0d27f1d1b313948f2c104b18c.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/954340cfba14e604d21c1a3cf34d6466.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/bf1d2805ec73e778ce50a9c46f961b9f.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/9b4a4a87eeef398820b5fbdf73c0f926.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/e887e6bd09bdc090c280ee32db8c51da.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/27b9805c2530cca56c2b7054906c6401.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/53c73f7242449bca6ba122431f751e69.jpg"
+    ],
+    "行业解决方案/腾讯云数字政务.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/3f69e46b5e266ed4b830676177fdf9e1.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/9778393f3cdb33bceb93a02cb03e8797.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/8e5328cf3203ac99174a1bab783fbc08.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/ea3dbb9923dcb8a91f938a7cdae8eb52.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/9216eb61ff975759978f1983c3a6feac.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/c00679398ff64965682f93b3b2e1cf7c.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/3ece4d79662e5c40d77f85333120016c.png"
+    ],
+    "行业解决方案/网络摄像机.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/91f1a0587702a76cd55d1b6cf7590291.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/3bcb12c32dabd567ecd273ff02b73c7e.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/d8fa852414b0841322f5a900aa9dd278.jpg"
+    ],
+    "行业解决方案/户外设备.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/1ea44c62c2a8a5db73030eb03a881728.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/82f9ae1826414de4bcf093203f5dbbe2.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/a6be43036e7b3a376200721bd9bc3ef3.jpg"
+    ],
+    "行业解决方案/直播录制.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/GtQWU-WDIj9-3h0bY2ZgC.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/hP3i8hGQnipypoMBm0B99.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/883e235ab3a228045b93861ef97136bd.png"
+    ],
+    "行业解决方案/传媒AIGC智能体解决方案.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/H_FBU8JnhHJJzfgQhKxgk.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/TqIvVDG1tkurEkqekxQnh.png"
+    ],
+    "行业解决方案/智能家电.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/a76721f189770ddf672f157bc9210bbc.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/e44757a889b05a81a906c764389bfdd4.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/46a08ed89f25e561924ea84d104167d5.svg"
+    ],
+    "行业解决方案/语聊社交.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/e4fb31340b564592fce63551b48aa9f5.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/7c5cce9fabe8da915a16fbdf6c050dd5.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/87ff4268b84d40e9d8de9b9091f26d4f.jpg",
+      "https://qcloudimg.tencent-cloud.cn/raw/6a9380b37d29bf497d26a112479cb310.jpg"
+    ],
+    "行业解决方案/腾讯天籁 inside.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/EVrhCj0s9j_wPsCdlbx3c.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/RC6cQzBRXYcqTMK4TMA-B.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/fzMF-MX7ESBa5HxDRTiCV.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/8fRKQg-xMCG5ZnImArsim.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/UCIdEfZql7upqr76Anjlc.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/rEVZwPpWony86VkXBwn5C.png"
+    ],
+    "行业解决方案/智能网联.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/IeP8_VUlpll7wJk2DAeqg.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/E26GCOjUG5SQiFL0ZiQak.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/DsnRHEpBaraXsHr0phLIt.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/zWXNzC57w_gSIKAdl6oBK.png"
+    ],
+    "行业解决方案/智慧轨交.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/9CP5NWrfr2Y9hXXnXh-oo.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/0b4424Lock1ZYHkpMoeR_.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/LBYXWsZV8PY2oJ0aGVKs-.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/-s9BQV34UBnM-idnw7uN4.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/9SZRiUT5VOBtSnzzpD5Ow.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/DeWP2GFQCNh-_wb2F67Gx.png"
+    ],
+    "行业解决方案/在线课堂.md": [
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/d7Velrw5ionqrsSS2a4OJ.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/8RU5HyQ31IGAQx3Cecqm7.jpg",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/cUZZ4C0BAGV2NwuSm0HHo.jpg",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/PysTYifaiTVketLLyhHPk.png",
+      "https://qcloudimg.tencent-cloud.cn/trisys/assets/product/images/xj_WgRwIyWJ54wVD1LLTA.png"
+    ],
+    "行业解决方案/融媒数据中台.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/7a438e6efe0d2a81a5218301658eb86f.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/1d23e88ff7e6c0da135fb7e1a43bfd88.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/8569bc3974c11b4199a0d74ee1a8f00f.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/5c85c6b0ea6774c0be7727a31a47d8e2.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/27d7b6ce2a6f04d8f5474113db2d9e15.svg"
+    ],
+    "微信解决方案/微信云支付.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/479e913652ac20dcf4f274ebdbe39091.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/e570516544144b96e2999738954ea807.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/6f1e1602651d1210dd7f1e394e524431.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/a518f00c0a1f4b0b4509857db9992920.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/60dc0173d6a62003716328439e3a0d33.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/f8fa5f03cc530cbd9b7fcc379723ffa4.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/cbd30c886efd158bef06074b7e1c1aa9.svg"
+    ],
+    "微信解决方案/小程序金融版.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/652762acb47cc5db4013c9735bc608e5.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/e0e87d74f6cc20dc8adf0fb5801506cd.svg"
+    ],
+    "微信解决方案/小程序·云直播.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/cde018b2f8ee2680f1c2fcb3e92c7a46.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/f69a017a2569fd39cad5ffaf2c8c2580.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/c6403ae7c5ab5402eadd020d76f45c33.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/20542afa3caead8c25030a18a54822da.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/1712389ebd2c93a74868d009146b917c.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/10105e30f577f4dcea3871b63ce3782d.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/7663a0635547cb80541e28247f5f6a06.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/ed91be5c028abd14f1007ffa3cd18d6b.png"
+    ],
+    "微信解决方案/微信生态上云方案.md": [
+      "https://qcloudimg.tencent-cloud.cn/raw/66fa811a04eb5f5cce397edc97940354.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/ac57e898f6add0a59af4359aecb3b287.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/91a830e28672eb1341f33692ce55f68c.svg",
+      "https://qcloudimg.tencent-cloud.cn/raw/dabcb2b5b0053a05cbaf3fe87959838f.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/9cf378545a35b8faaddc28c29ce507b5.png",
+      "https://qcloudimg.tencent-cloud.cn/raw/f740eb4bf9894923eb70634e710748d4.svg"
+    ]
+  }
+}

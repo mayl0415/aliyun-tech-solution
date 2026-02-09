@@ -1,92 +1,147 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## 项目概述
 
-阿里云技术解决方案爬虫 - 从阿里云开发者中心爬取技术解决方案和产品详情，将 HTML 转换为 Markdown，并按类别组织内容。集成了 LangChain/Ollama 用于 RAG 和 Agent 开发。
+三大云厂商（阿里云、腾讯云、华为云）的产品介绍与技术解决方案知识库。已爬取 **1519 篇** Markdown 文档，按云厂商和类别组织，可用于 RAG、知识问答、行业分析等场景。
 
-**两个主要模块：**
-- `aliyun/` - 技术解决方案爬虫
-- `aliyun-product/` - 产品详情页爬虫
+## 数据总览
 
-## 常用命令
+| 云厂商 | 类型 | 数量 | 路径 |
+|--------|------|------|------|
+| 阿里云 | 产品 | 259 | `aliyun-product/products_v2/{类别}/` |
+| 阿里云 | 解决方案 | 179 | `arch-solutions/organized/{类别}/` |
+| 腾讯云 | 产品 | 352 | `tencent-product/products/{类别}/` |
+| 腾讯云 | 解决方案 | 178 | `tencent-product/solutions/{L1类别}/` |
+| 华为云 | 产品 | 239 | `huaweicould-product/products/{类别}/` |
+| 华为云 | 解决方案 | 312 | `huaweicould-solutions/solutions/` |
+| **合计** | | **1519** | |
+
+---
+
+## 阿里云
+
+### 产品（259 篇，60 个类别）
+
+路径：`aliyun-product/products_v2/{类别}/{产品名}.md`
+
+主要类别：其他(17)、数据库(15)、应用集成(13)、媒体服务(12)、关系型数据库(9)、智能客服(9)、网站性能优化(9)、网络与CDN(8)、应用架构(8)、AI应用(6)、企业云服务(6)、存储(6)、无影(6)、高性能计算(6) 等
+
+### 解决方案（179 篇，7 个类别）
+
+路径：`arch-solutions/organized/{类别}/{子类别}/{方案名}.md`
+
+| 类别 | 数量 |
+|------|------|
+| AI | 67 |
+| 互联网应用开发 | 43 |
+| 大数据 | 31 |
+| 安全 | 17 |
+| 可观测 | 8 |
+| 上云与迁云 | 7 |
+| 网络 | 6 |
+
+---
+
+## 腾讯云
+
+### 产品（352 篇，20 个类别）
+
+路径：`tencent-product/products/{类别}/{产品名}.md`
+
+| 类别 | 数量 | | 类别 | 数量 |
+|------|------|-|------|------|
+| 安全 | 32 | | 开发与运维 | 32 |
+| 行业应用 | 32 | | 视频服务 | 30 |
+| 推荐 | 25 | | 人工智能与机器学习 | 24 |
+| 存储 | 24 | | 计算 | 24 |
+| 数据库 | 20 | | 容器与中间件 | 19 |
+| 大数据 | 18 | | 网络 | 17 |
+| 办公协同 | 15 | | 服务与营销 | 15 |
+| 云通信与企业服务 | 12 | | 物联网 | 6 |
+| CDN与边缘 | 5 | | 微信生态 | 1 |
+| 测试 | 1 | | | |
+
+### 解决方案（178 篇，3 个 L1 类别）
+
+路径：`tencent-product/solutions/{L1类别}/{方案名}.md`
+
+| L1 类别 | 数量 |
+|---------|------|
+| 通用解决方案 | 86 |
+| 行业解决方案 | 81 |
+| 微信解决方案 | 11 |
+
+---
+
+## 华为云
+
+### 产品（239 篇，27 个类别）
+
+路径：`huaweicould-product/products/{类别}/{产品名}.md`
+
+| 类别 | 数量 | | 类别 | 数量 |
+|------|------|-|------|------|
+| 开发与运维 | 26 | | 人工智能 | 18 |
+| 管理与监管 | 18 | | 企业应用 | 15 |
+| 存储 | 15 | | 网络 | 13 |
+| 安全与合规 | 12 | | 大数据 | 12 |
+| 用户服务 | 12 | | 计算 | 11 |
+| 开天aPaaS | 10 | | 数据库 | 10 |
+| 其他 | 8 | | 视频 | 7 |
+| 应用中间件 | 7 | | 开发者工具 | 7 |
+| 容器 | 6 | | 解决方案 | 6 |
+| IoT物联网 | 5 | | CDN与智能边缘 | 4 |
+| 迁移 | 4 | | 区块链 | 3 |
+| 工业软件 | 3 | | 云生态 | 3 |
+| 云化转型 | 2 | | 专属云 | 1 |
+| 价格 | 1 | | | |
+
+### 解决方案（312 篇）
+
+路径：`huaweicould-solutions/solutions/{序号}-{标题}.md`
+
+文件按编号命名（如 `001-德勤AI场景化咨询.md`），覆盖行业：AI、汽车、金融、制造、政府、教育、医疗、零售、互联网、智慧园区等。
+
+元数据：`huaweicould-solutions/metadata.json`
+
+---
+
+## 工具与爬虫（参考）
+
+### 环境
 
 ```bash
-# 安装依赖（使用 uv 包管理器）
-uv sync
-
-# 运行主爬虫
-python aliyun/crawler.py
-
-# 后处理流程（按顺序执行）
-python aliyun/process_images.py    # 下载架构图
-python aliyun/rename_files.py      # 用标题重命名文件
-python aliyun/organize_files.py    # 按类别层级组织
-
-# 使用阿里云 SDK（需要配置凭证）
-export ALIBABA_CLOUD_ACCESS_KEY_ID="your_key"
-export ALIBABA_CLOUD_ACCESS_KEY_SECRET="your_secret"
+uv sync    # Python 3.12, uv 包管理
 ```
 
-## 架构说明
+### 爬虫脚本
 
-**爬取流程：**
-1. `crawler.py` - 从阿里云 API (`getMenuTree`) 获取解决方案列表，抓取详情页，转换为带 YAML frontmatter 的 Markdown
-2. `process_images.py` - 从爬取内容中提取并下载架构图
-3. `rename_files.py` - 用标题前缀重命名 Markdown 文件（如 `001-title.md`）
-4. `organize_files.py` - 根据 API 元数据将文件按类别层级分类
+| 模块 | 主脚本 | 说明 |
+|------|--------|------|
+| `aliyun/` | `crawler.py` | 解决方案爬虫（API: getMenuTree），含后处理脚本 |
+| `aliyun-product/` | `product_crawler_v2.py` | 产品爬虫（agent-browser） |
+| `tencent-product/` | `tencent_product_crawler.py` | 产品爬虫（agent-browser） |
+| `tencent-product/` | `tencent_solution_crawler.py` | 解决方案爬虫（agent-browser） |
+| `huaweicould-product/` | `crawler.py` | 产品爬虫（agent-browser） |
+| `huaweicould-solutions/` | `crawler.py` | 解决方案爬虫 |
 
-**数据流向：**
-- API 来源：`https://developer.aliyun.com/adc/api/skillBuilder/getMenuTree`
-- 原始输出：`arch-solutions/raw/`
-- 整理后输出：`arch-solutions/organized/{一级类别}/{二级类别}/`
-- 元数据：`arch-solutions/metadata.json`（记录所有已爬取的解决方案）
+### 通用工具
 
-**关键模式：**
-- 各脚本模块化，可独立运行
-- 请求间隔 2.5 秒限速
-- HTML 清洗：转换前移除导航、页头、页脚、脚本、广告
-- URL 规范化：在 Markdown 输出中将相对 URL 转为绝对 URL
+| 工具 | 说明 |
+|------|------|
+| `clean_duplicate_images.py` | 扫描清理 MD 中重复/模板图片（`--threshold N --clean`） |
+| `image_reviewer.py` | Web 图片审核工具（端口 8899），逐文件保留有价值的图片 |
 
-## 阿里云产品爬虫 (aliyun-product/)
+### 通用模式
 
-**爬取流程：**
-1. `product_crawler_v2.py` - 使用 agent-browser 爬取产品详情页，提取内容和图片
-2. `clean_duplicate_images.py` - 扫描并清理重复的模板图片
+- 所有爬虫支持 `--skip-crawled` 断点续爬
+- 请求限速 2.5 秒间隔
+- HTML → Markdown 转换时清洗导航/广告/脚本，相对 URL 转绝对 URL
+- 需要 JS 渲染的页面使用 agent-browser（`open` → `snapshot -i` → `click/fill`）
 
-**常用命令：**
-```bash
-# 爬取产品（跳过已爬取，限制100个）
-python aliyun-product/product_crawler_v2.py --skip-crawled --limit 100
+### 腾讯云 API
 
-# 清理重复图片（阈值5表示出现>=5次的图片视为模板图片）
-python aliyun-product/clean_duplicate_images.py --clean --threshold 5
-
-# 只查看重复报告
-python aliyun-product/clean_duplicate_images.py
 ```
-
-**数据输出：**
-- 产品 Markdown：`aliyun-product/products_v2/{类别}/`
-- 元数据：`aliyun-product/products_v2/crawl_metadata.json`
-- 重复图片报告：`aliyun-product/duplicate_images_report.json`
-
-## 技术栈
-
-- Python 3.12，使用 `uv` 管理
-- 网页爬取：requests、beautifulsoup4、markdownify
-- 浏览器自动化：agent-browser
-- 阿里云 SDK：aliyun-python-sdk-core、aliyun-python-sdk-ecs
-- AI/LLM：langchain、langchain-ollama
-
-
-## Browser Automation
-
-Use `agent-browser` for web automation. Run `agent-browser --help` for all commands.
-
-Core workflow:
-1. `agent-browser open <url>` - Navigate to page
-2. `agent-browser snapshot -i` - Get interactive elements with refs (@e1, @e2)
-3. `agent-browser click @e1` / `fill @e2 "text"` - Interact using refs
-4. Re-snapshot after page changes
+https://qcloudimg.tencent-cloud.cn/scripts/qccomponents/v2/full-nav-tree.json
+data[0]["tree"] → 产品目录    data[1]["tree"] → 解决方案目录
+```
